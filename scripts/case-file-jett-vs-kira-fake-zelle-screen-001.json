@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-jett-vs-kira-fake-zelle-screen-001",
+  "character": "detective_cash",
+  "topic": "Fake Zelle screenshot \u2014 confirming in app vs trusting screens (Jett vs Kira)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A photoshopped Zelle screen cost one rideshare driver four hundred dollars in cash for nothing. Case file 0054. Time of incident, late night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone screen showing a fake Zelle confirmation with a PHOTOSHOPPED red stamp, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jett and Kira each agree to sell a four hundred dollar concert ticket to a stranger who insists on paying through Zelle right at the meet up.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man jett with a paper concert ticket, right side woman kira with the same ticket, both meeting buyers at a venue, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Jett glances at the buyer's phone showing a green sent screen, hands over the ticket, and walks off feeling good about the sale.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jett at a venue glancing at a stranger's phone showing a green SENT screen, the ticket changing hands, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kira opens her own Zelle app first, refreshes until the funds actually appear in her balance, and only then hands over the ticket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman kira at the same venue opening her own Zelle app, the screen reading FUNDS RECEIVED, then handing over the ticket, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By the time Jett checks his own app the next morning, no Zelle payment ever arrived and the buyer's profile is deleted.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man jett on a couch refreshing his Zelle app at zero, comic banner reads NEVER ARRIVED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Kira's payment cleared in real time and her ticket sale was clean. Same buyer trick, two very different choices.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side jett with empty hands, right side kira with a phone showing a green RECEIVED status and a smile, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never trust the buyer's screen. Open your own app. Wait for the funds to clear. Screenshots are easy to fake. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a real Zelle confirmation labeled CLEARED, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

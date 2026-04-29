@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-grace-vs-caleb-debt-to-income-001",
+  "character": "doctor_dollar",
+  "topic": "Debt to income 50 vs 20 percent \u2014 long term prognosis (Grace vs Caleb)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A debt to income ratio of fifty percent denies you for almost every mortgage. I am Doctor Dollar and these two patients have very different vital signs. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled DEBT TO INCOME, a giant gauge showing fifty percent in red and twenty percent in green, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Grace and Caleb both bring home seventy thousand dollars a year. Grace owes thirty five thousand a year in debt payments. Caleb owes only fourteen thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side woman grace with a stack of debt statements, right side man caleb with a single small loan paper, both at the doctor's desk, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Grace has two car loans, three credit cards near the limit, and a personal loan she took out for a vacation last year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman grace at a desk surrounded by car payment papers, credit card statements, and a vacation receipt, vital signs gauge in red, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Caleb drives a paid off used car, keeps one credit card under ten percent, and has only a small federal student loan on auto pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man caleb at the same desk with a single small loan statement labeled STUDENT LOAN, autopay icon, calm vital signs gauge in green, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Both apply for a three hundred thousand dollar mortgage. Grace is denied for a debt to income ratio of fifty percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman grace at a loan officer's desk holding a denial letter, comic banner reads DENIED FIFTY PERCENT DTI, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Caleb is approved at six point one percent and his debt to income is twenty percent. Same income, very different prognosis.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side grace with a denial letter, right side caleb at a closing table with a paper labeled APPROVED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Lower your monthly debt before you apply for any new loan. The lender does not care what you make, they care what is left. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a green DTI gauge under twenty percent, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

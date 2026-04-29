@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-jonah-vs-mara-term-life-insurance-001",
+  "character": "doctor_dollar",
+  "topic": "Term life insurance at 30 vs trying to buy at 50 (Jonah vs Mara)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A twenty year term life policy at age thirty costs five times less than the same policy at age fifty. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a term life premium chart, comic burst banner reads FIVE TIMES MORE LATER, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jonah and Mara are both thirty years old, both have one young child, and both want a five hundred thousand dollar term life policy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man jonah at a desk with a baby photo, right side woman mara at the desk with the same baby photo, both healthy, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Jonah waits to buy a policy because life insurance feels like something for older people. He plans to get it in his fifties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jonah on a couch waving off an insurance brochure, calendar pages flipping toward age fifty, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Mara locks in a thirty dollar a month twenty year term policy at age thirty while she is still healthy and the rate is low.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mara at a kitchen table signing a small policy labeled TERM LIFE THIRTY DOLLARS A MONTH, a child photo on the wall, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By age fifty Jonah is diagnosed with high blood pressure and high cholesterol. The same policy now costs one hundred sixty five dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked older man jonah at a doctor's office reading a quote labeled ONE HUNDRED SIXTY FIVE, comic banner reads HEALTH ADDED COST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Mara's premium has been thirty dollars a month for two decades and her family has been protected the entire time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side jonah with a pricey new quote, right side mara with a paid up policy and a happy family photo, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Buy term life insurance the year you have anyone who depends on your income. Healthy and young is the cheapest you will ever be. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled TERM LIFE THIRTY, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

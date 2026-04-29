@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-jake-vs-ivy-settling-debt-in-writing-001",
+  "character": "judge_vera",
+  "topic": "Settling a debt in writing vs verbal deals (Jake vs Ivy)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A debt collector promised one buyer a sixty percent discount, then sold the debt to a new collector who demanded it all back. I am Judge Vera. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the courtroom bench holding up a contract stamped GET IT IN WRITING, comic burst banner reads SIXTY PERCENT BROKEN, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jake and Ivy each owe six thousand dollars to the same debt collector and both negotiate a settlement of two thousand four hundred dollars over the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults jake and ivy on phones at separate kitchen tables, a comic banner above each reads SIX THOUSAND TO TWO FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Jake trusts the friendly voice on the phone, mails a cashier check the same week, and never asks for a written settlement letter.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jake at a mailbox dropping in a cashier check envelope, a verbal handshake icon hovering above him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ivy demands a written settlement letter on company letterhead first, signs it, scans a copy, and only then mails the money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ivy at a kitchen table holding a printed letter labeled SETTLEMENT IN WRITING with a signature line, scanner beside her, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight months later the original collector sells Jake's account to a new agency claiming there is no record of any deal and demanding the full six thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man jake on the phone with a new collector, giant red comic banner reading FULL DEBT BACK looms behind him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Ivy mails her signed settlement letter to the new collector and the case is closed in ten days. Same debt, same negotiation, very different outcomes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side jake staring at a new collection notice for SIX THOUSAND, right side ivy filing a closed case folder labeled PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never send a debt collector a single dollar without a signed settlement letter in your hand. Verbal promises evaporate. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a settlement letter stamped SIGNED, comic banner reads WRITTEN ONLY, kids comic book illustration"
+    }
+  ]
+}

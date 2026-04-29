@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-tate-vs-sienna-cooking-at-home-001",
+  "character": "coach_vault",
+  "topic": "Cooking at home five nights vs eating out (Tate vs Sienna)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Eating out five nights a week costs three thousand six hundred dollars more a year than cooking at home. I am Coach Vault. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a frying pan in one hand and a takeout bag in the other, comic burst banner reads THREE THOUSAND SIX HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Tate and Sienna are both single, both work nine hours a day, and both think cooking is too much effort after work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man tate flopped on a couch with a delivery bag, right side woman sienna in a kitchen with groceries on the counter, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Tate orders delivery five nights a week. Each meal averages eighteen dollars after fees, tips, and surge pricing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man tate on a couch unpacking a delivery bag with a receipt labeled EIGHTEEN DOLLARS, comic banner reads FIVE NIGHTS A WEEK, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sienna does Sunday meal prep for sixty dollars in groceries that covers five dinners, two lunches, and three breakfasts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sienna at a kitchen counter with five meal prep containers and a grocery receipt labeled SIXTY DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twelve months later Tate has spent four thousand six hundred dollars on delivery dinners and gained ten pounds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man tate at a couch with takeout boxes piled up, comic banner reads FORTY SIX HUNDRED IN DELIVERY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Sienna spent one thousand dollars on home groceries for the same five dinners a week and put thirty six hundred dollars into her savings account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side tate with delivery boxes, right side sienna with a meal prep calendar and a savings app reading THIRTY SIX HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Sunday meal prep beats Friday night delivery every time. Cook once, eat all week, save thousands. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard with a meal prep schedule, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

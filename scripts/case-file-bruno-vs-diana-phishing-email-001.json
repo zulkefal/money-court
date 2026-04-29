@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-bruno-vs-diana-phishing-email-001",
+  "character": "detective_cash",
+  "topic": "Phishing email \u2014 verifying vs clicking (Bruno vs Diana)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Eight thousand dollars left a checking account in fifteen minutes after one wrong click. Case file 0043. Time of incident, six pm on a Friday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a dim noir office shining a desk lamp on a printed email with a red URGENT banner, magnifying glass in hand, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bruno and Diana each receive the same urgent email from what looks like their bank with a subject line warning of suspicious account activity.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man bruno on a phone reading the email, right side woman diana on a laptop reading the same email, both with worried faces, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Bruno taps the link, types in his username, password, and one time code, then watches eight thousand dollars wire out to an unknown account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bruno tapping a phone screen at a kitchen table, a comic burst banner reading EIGHT THOUSAND WIRED with arrows leaving the bank, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Diana ignores the email link, opens her banking app directly, and sees no real alert at all. She forwards the email to her bank's fraud line.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diana at a kitchen table opening her bank app from the home screen, a forwarding arrow pointing to an email labeled FRAUD AT BANK NAME, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By Monday morning Bruno is on the phone with the fraud department and his bank can only recover one thousand five hundred of the eight thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man bruno on the phone with a bank rep, comic banner reads SIX FIVE HUNDRED LOST, the wire trail leading off screen, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Diana never lost a cent and her bank flagged the phishing campaign for thousands of other customers because she reported it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side bruno staring at a near empty bank balance, right side diana on a laptop with a thank you note from her bank, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never click links in urgent emails. Always open the bank app yourself. Forward suspicious mail to fraud at the bank dot com. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding up a magnifying glass over a phishing email crossed out with a red comic burst, banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

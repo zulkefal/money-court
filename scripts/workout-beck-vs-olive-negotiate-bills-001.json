@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-beck-vs-olive-negotiate-bills-001",
+  "character": "coach_vault",
+  "topic": "Negotiating bills vs accepting them (Beck vs Olive)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Twenty minutes on the phone can knock six hundred dollars off your annual bills. I am Coach Vault and today two friends call their providers. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a phone in one hand and a calculator in the other, comic burst banner reads SIX HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Beck and Olive both pay one hundred forty dollars for internet and one hundred ten for a cell phone plan that has not changed in three years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man beck holding two bills, right side woman olive holding the same two bills, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Beck assumes the prices are fixed and pays whatever the bill says every single month without ever calling.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man beck on a couch tossing bills onto a table, comic banner reads JUST PAY IT, autopay icons spinning, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Olive calls each provider, says she is comparing plans with a competitor, and politely asks for the loyalty or retention department.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman olive at a kitchen table on a phone with a calm smile, a notepad reading RETENTION DEPARTMENT and competitor logos beside her, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twelve months later Beck has paid three thousand dollars on bills he never questioned and his autopay quietly raised both bills last winter.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man beck at a kitchen table with a credit card statement, comic banner reads THREE THOUSAND ON BILLS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Olive cut both bills by twenty five dollars a month each. She saved six hundred dollars in a year for one twenty minute phone call.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side beck staring at a heavy bill, right side olive at a phone with a new bill labeled FIFTY DOLLARS LESS PER MONTH, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Call every provider once a year. Ask for retention. Mention a competitor. They will not lower the bill unless you ask. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading CALL ONCE A YEAR, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

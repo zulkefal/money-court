@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-mike-vs-lisa-co-signing-a-loan-001",
+  "character": "judge_vera",
+  "topic": "Co-signing a loan vs paying cash (Mike vs Lisa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One signature can wreck your credit for seven years. I am Judge Vera and today two siblings asked the same favor with very different answers. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera standing behind a tall courtroom bench pointing her gavel forward, a giant comic burst banner reads SEVEN YEARS in bold letters, dramatic spotlight on the bench, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Mike and Lisa are both twenty eight years old. Each one gets a phone call from a younger sibling asking them to cosign a twelve thousand dollar auto loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man mike on the phone with worried expression, right side woman lisa on the phone with thoughtful expression, both in cozy living rooms, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Mike says yes without asking questions, signs the paperwork the next morning, and never reads the part about being equally responsible for the debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man mike at a car dealership desk signing a thick loan contract while a salesman smiles, papers labeled CO SIGNER stacked beside him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lisa says no but offers a two thousand dollar cash gift instead. She tells her brother to build credit with a secured card before borrowing twelve thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lisa handing a small envelope of cash to a younger brother in a kitchen, a small chalkboard behind them reading SECURED CARD FIRST, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight months later Mike's brother loses his job and stops paying. The loan defaults and the bank comes after Mike for the remaining nine thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man mike opening a bank letter at a kitchen table, a giant red comic banner reading NINE THOUSAND OWED looms over his shoulder, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Mike's credit score crashes one hundred and twenty points and the debt sits on his report for seven years. Lisa's credit is untouched and her brother is still grateful.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side mike staring at a falling credit score meter on his phone, right side lisa hugging her brother in front of a small running used car, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Cosigning means the debt is your debt the moment they miss a payment. If you cannot afford to pay it yourself, do not sign it. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel on the bench, holding up a checklist labeled CO SIGN RULES, comic burst banner reads COURT DISMISSED, kids comic book illustration"
+    }
+  ]
+}

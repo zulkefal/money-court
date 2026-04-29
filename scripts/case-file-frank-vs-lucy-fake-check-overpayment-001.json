@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-frank-vs-lucy-fake-check-overpayment-001",
+  "character": "detective_cash",
+  "topic": "Fake check overpayment \u2014 stopping the wire vs sending it (Frank vs Lucy)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A four thousand dollar fake check left one seller in the hole for three thousand five hundred dollars. Case file 0045. Time of incident, noon on a Wednesday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a paper check stamped FAKE, dollar bills floating away from a shocked face, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Frank and Lucy each list the same five hundred dollar piece of furniture online and both receive the same buyer offering to overpay by mistake.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man frank with a couch photo on a phone, right side woman lucy with the same couch photo, both with overpayment messages on screen, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Frank deposits a four thousand dollar cashier check from the buyer and wires the extra three thousand five hundred dollars to a fake mover the buyer recommends.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man frank at a bank ATM depositing a check, then at a wire desk sending three thousand five hundred dollars, comic banner reads FAST WIRE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lucy notices the overpayment trick, refuses the deal, and reports the scammer's profile to the marketplace within minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lucy at a kitchen table on a laptop closing the chat and pressing a button labeled REPORT, magnifying glass icon hovering, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight days later Frank's bank discovers the cashier check is forged. The four thousand is reversed but his three thousand five hundred dollar wire is gone forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man frank at a bank counter with a paper stamped CHECK BOUNCED, comic banner reads THREE FIVE HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lucy still has her couch and zero loss. The same scam played out twice with two very different endings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side frank holding an empty wallet beside an empty space where the couch was, right side lucy in her living room with the couch, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Cashier checks can take ten days to bounce. Never wire the difference back. If a buyer overpays, the deal is the trap. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a forged check stamped FAKE, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

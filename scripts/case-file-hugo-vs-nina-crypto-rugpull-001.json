@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-hugo-vs-nina-crypto-rugpull-001",
+  "character": "detective_cash",
+  "topic": "Crypto rugpull \u2014 researching vs ape buying (Hugo vs Nina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Fifty thousand dollars in crypto vanished in twenty four hours when the developers walked away. Case file 0044. Time of incident, midnight on launch day. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a dim noir office holding a magnifying glass over a phone screen with a crashing crypto chart, candle bars red, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hugo and Nina each see the same hyped meme coin trending on social media with promises of a one hundred times return in a single week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man hugo on a phone screen with a green meme coin chart, right side woman nina on the same phone, both with rocket icons, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Hugo apes in with twelve thousand dollars within minutes, never reads the contract, and never checks if the developers are anonymous.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugo at a laptop typing fast with sweat drops, comic banner above reads TWELVE THOUSAND IN, a rocket icon flying up, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Nina opens a free contract scanner, sees the developers can mint unlimited tokens and have anonymous wallets, and walks away from the buy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nina at a laptop with a contract scanner showing red warnings labeled UNLIMITED MINT, ANON DEVS, magnifying glass icon, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twenty four hours later the developers drain the liquidity pool. Hugo's twelve thousand dollar bag is now worth fourteen dollars total.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man hugo staring at his phone with a chart that crashed to zero, comic banner reads TWELVE THOUSAND TO FOURTEEN BUCKS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Nina kept her twelve thousand dollars in an index fund and earned a modest two hundred dollars while Hugo lost almost everything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side hugo with a destroyed crypto wallet, right side nina with a calm index fund chart trending up gently, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always read the smart contract. Anonymous developers equal anonymous theft. If a coin promises one hundred times in a week, it is a trap. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a contract paper stamped UNLIMITED MINT WARNING, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

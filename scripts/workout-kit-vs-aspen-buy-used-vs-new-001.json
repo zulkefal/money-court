@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-kit-vs-aspen-buy-used-vs-new-001",
+  "character": "coach_vault",
+  "topic": "Buying used vs new \u2014 depreciation drill (Kit vs Aspen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A new car loses thirty percent of its value the moment you drive it off the lot. I am Coach Vault and today these two car shoppers learn the lesson. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym pointing at a giant comic burst banner reading THIRTY PERCENT GONE, a model car beside him, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kit and Aspen both have eight thousand dollars saved and both need a reliable car for their forty mile daily commute.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man kit in a dealership lot looking at new cars, right side woman aspen at a private seller's driveway looking at a used sedan, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Kit puts eight thousand dollars down on a new thirty thousand dollar SUV and finances the rest at seven percent over six years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kit at a dealership signing papers under a new SUV, comic banner reads TWENTY TWO THOUSAND FINANCED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Aspen buys a four year old reliable sedan for nine thousand dollars cash plus a one thousand dollar trade in. Zero monthly payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman aspen handing cash to a private seller in a driveway, a small price tag reading NINE THOUSAND, no loan papers, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three years later Kit's SUV is worth fourteen thousand dollars but he still owes seventeen thousand. He is upside down on the loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man kit at a kitchen table with a loan statement reading SEVENTEEN THOUSAND OWED next to a car valuation reading FOURTEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Aspen's used sedan is worth six thousand and she owes nothing. She has saved eighteen thousand dollars in skipped car payments and invested it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side kit with a heavy loan statement, right side aspen with a brokerage app reading EIGHTEEN THOUSAND INVESTED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Buy three to five year old reliable cars in cash or short term loans. New cars are bad workouts for your wallet. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading USED RELIABLE SEDAN, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-jay-vs-robin-automate-savings-001",
+  "character": "coach_vault",
+  "topic": "Automating savings vs relying on willpower (Jay vs Robin)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "People who automate save three times more than people who rely on willpower. I am Coach Vault and these two athletes prove it. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two trophies, one labeled AUTO and one labeled WILLPOWER, comic burst banner reads THREE TIMES MORE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jay and Robin both want to save four hundred dollars a month from their paychecks for a future house down payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man jay in workout gear with a paycheck slip and a tiny house photo, right side woman robin with the same, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Jay plans to manually move four hundred dollars to savings on the last day of every month after he sees what is left in checking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jay at a laptop on payday checking a bank balance, comic banner reads MANUAL TRANSFER LATER, calendar circles around payday, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Robin sets up an automatic transfer for four hundred dollars one day after every payday. The money disappears into savings before she sees it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman robin at a phone screen tapping AUTO TRANSFER FOUR HUNDRED, a small calendar with two paydays a month and arrows to a savings vault, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two years later Jay actually transferred only nine hundred dollars total because something always came up in checking by month end.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man jay at a kitchen table looking at a savings balance reading NINE HUNDRED, comic banner reads WILLPOWER FAILED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Robin's automation moved nine thousand six hundred dollars into her down payment fund. Same goal, same paycheck, ten times the result.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side jay with thin savings, right side robin with a savings app reading NINE THOUSAND SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Automate every savings goal the day after payday. Willpower runs out. Direct deposit does not. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading AUTOMATE EVERYTHING, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

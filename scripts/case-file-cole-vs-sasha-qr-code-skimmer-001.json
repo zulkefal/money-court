@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-cole-vs-sasha-qr-code-skimmer-001",
+  "character": "detective_cash",
+  "topic": "QR code skimmer scam \u2014 typing the URL vs scanning blind (Cole vs Sasha)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake parking meter QR sticker stole one driver's full credit card details in twenty seconds. Case file 0053. Time of incident, lunch hour. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a parking meter with a fake QR sticker, red SCAM stamp on the sticker, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cole and Sasha both park downtown for lunch, see a parking meter with a QR code, and both pull out their phones to pay for parking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man cole at a parking meter with a phone scanning, right side woman sasha at the same meter with a phone in hand, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Cole scans the QR code, lands on a fake page that perfectly mimics the city site, and types in his full credit card number to pay five dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cole at a parking meter typing a credit card on a phone, a fake URL bar reading CITY DASH PARKING DOT TOP visible, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sasha types the city's real parking URL by hand into her browser, pays the five dollars on the official site, and never scans the sticker.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sasha at the same meter typing a real URL into a phone browser, a small green lock icon over the address bar, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By the next morning Cole's credit card has eleven hundred dollars in fraudulent online charges from three different countries.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man cole at a kitchen table reading a credit card statement with three red foreign charges, comic banner reads ELEVEN HUNDRED IN FRAUD, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Sasha disputed nothing, paid five dollars for parking, and lost zero hours of her life calling the bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side cole on the phone with bank fraud, right side sasha walking away from the parking meter with a coffee, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always type parking and government URLs by hand. Stickers can be peeled and replaced. The lock icon is your friend. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a phone browser with a green padlock and a typed URL, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

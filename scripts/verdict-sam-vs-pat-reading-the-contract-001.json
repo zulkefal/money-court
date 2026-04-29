@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-sam-vs-pat-reading-the-contract-001",
+  "character": "judge_vera",
+  "topic": "Reading a contract vs signing blind (Sam vs Pat)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One page of fine print hid six extra fees worth six hundred dollars. I am Judge Vera and today two used car buyers learned the cost of a quick signature. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant unrolled contract with six red dollar circles drawn on it, dramatic courtroom spotlight, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Sam and Pat both walk into the same dealership for the same three thousand dollar used sedan on the same Saturday afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults sam and pat standing in a busy used car lot looking at the same blue sedan with a price tag reading THREE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Sam glances at the first page, signs the rest without reading, and drives off feeling like he won the deal of the year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man sam at a salesman desk signing fast with one hand while waving keys in the other, salesman smirking behind the desk, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Pat reads every line out loud, spots a doc fee, a prep fee, a warranty bundle, and a paint protection charge, and asks for each one to be removed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pat sitting at the same desk with a finger on a contract line, red comic burst circles around hidden fees, salesman looking flustered, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Thirty days later the dealer mails Sam the final paperwork showing he actually paid three thousand eight hundred dollars instead of three thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man sam staring at a final invoice in his driveway, a giant comic burst banner reading EIGHT HUNDRED EXTRA looms above him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Pat drove off paying three thousand two hundred and saved six hundred dollars just by reading the page in front of her.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side sam holding a paper labeled THREE THOUSAND EIGHT HUNDRED, right side pat smiling with a paper labeled THREE THOUSAND TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Ten minutes of reading saves you hundreds of dollars. Never sign a contract until you have read every line, every fee, every total. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a contract with a giant red CHECK every line stamp, comic banner reads READ FIRST, kids comic book illustration"
+    }
+  ]
+}

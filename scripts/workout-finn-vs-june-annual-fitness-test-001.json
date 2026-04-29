@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-finn-vs-june-annual-fitness-test-001",
+  "character": "coach_vault",
+  "topic": "Annual financial fitness test vs autopilot (Finn vs June)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "People who run an annual money checkup save forty percent more over a decade. I am Coach Vault and today these two trainees take the test. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a clipboard labeled ANNUAL FITNESS TEST, comic burst banner reads FORTY PERCENT MORE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Finn and June both opened savings, retirement, and credit accounts five years ago and both have not reviewed any of them since.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man finn at a desk shrugging, right side woman june at a desk with a fresh notepad, both surrounded by old bank papers, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Finn never logs in to check fees, rates, or asset allocations. He assumes everything is still fine and his old setup is good enough.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man finn on a couch ignoring a stack of statements, comic banner reads SET AND FORGET, dust on the papers, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "June books one Saturday morning every January to log into every account, list balances, fees, and rates, and rebalance her retirement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman june at a kitchen table with a checklist labeled JANUARY MONEY DAY and laptops open to brokerage and bank tabs, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Five years later Finn discovers his savings is at zero point zero one percent and his retirement fund is in a fund with one point five percent fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man finn at a laptop staring at a fee disclosure, comic banner reads ONE POINT FIVE PERCENT FEES, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "June moved her savings to a four point five percent high yield account and switched to a low cost index fund. Same money, eighteen thousand more dollars over five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side finn with a thin balance, right side june with a brokerage chart showing EIGHTEEN THOUSAND MORE in five years, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Block one Saturday a year. Log into every account. Compare rates and fees. The annual money day is the cheapest workout you will ever do. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard labeled MONEY DAY JANUARY, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

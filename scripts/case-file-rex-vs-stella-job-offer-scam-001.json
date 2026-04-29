@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-rex-vs-stella-job-offer-scam-001",
+  "character": "detective_cash",
+  "topic": "Job offer scam \u2014 verifying vs paying upfront (Rex vs Stella)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake remote job demanded eight hundred dollars for equipment and disappeared the next day. Case file 0048. Time of incident, hiring day. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a printed job offer letter with a red FAKE stamp, dollar bills flying away, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Rex and Stella each get the same too good to be true remote work offer paying ninety thousand dollars with no interview required.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man rex on a laptop with a job offer email, right side woman stella on the same email, both with raised eyebrows, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Rex sends the recruiter eight hundred dollars in Zelle for the home office equipment they promise to ship, then never hears from them again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rex at a laptop sending Zelle for EIGHT HUNDRED DOLLARS, a comic burst above reads PAY FOR LAPTOP, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Stella searches the company name plus scam, finds three Reddit warnings, and ignores the offer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman stella at a laptop with a search bar reading COMPANY NAME SCAM showing red warning posts, magnifying glass icon over the screen, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three days later Rex has no laptop, no recruiter, and no job. The Zelle payment is irreversible and the email account is closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man rex staring at his laptop with a bounced email and a deleted recruiter contact, comic banner reads EIGHT HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Stella keeps applying through real company websites and signs a real job offer two weeks later with no upfront fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side rex with empty hands, right side stella at a laptop signing a real digital job offer, comic banner reads HIRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Real employers never ask new hires to pay for equipment. Search the company plus the word scam. If they push Zelle, walk away. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a job offer stamped LEGIT, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-trey-vs-quinn-debt-snowball-001",
+  "character": "coach_vault",
+  "topic": "Debt snowball workout vs minimum payments (Trey vs Quinn)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Two trainees with the same fifteen thousand dollar debt finished four years apart. I am Coach Vault and today the snowball beats the minimums. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two clipboards labeled SNOWBALL and MINIMUMS, comic burst banner reads FOUR YEARS APART, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Trey and Quinn each owe fifteen thousand dollars across four credit cards and each have an extra five hundred dollars a month to throw at debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man trey at a table with four credit card statements, right side woman quinn with the same four statements, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Trey pays the minimum on all four cards and uses the extra five hundred for new clothes and concerts because he feels stretched.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man trey on a couch swiping a card for concert tickets, comic banner reads MINIMUMS ONLY, four credit card statements stack with no progress, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Quinn pays the minimum on three, throws the entire extra five hundred at the smallest balance, then rolls each payment forward as she clears each card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman quinn at a kitchen table crossing off a small credit card balance, an arrow rolling the payment to the next card, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Five years later Trey still owes thirteen thousand dollars and is paying nineteen percent interest with no end in sight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man trey at a couch staring at a stack of statements still labeled THIRTEEN THOUSAND, comic banner reads STILL STUCK, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Quinn paid every card off in twenty seven months and then redirected the same five hundred per month into investing for retirement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side trey buried in card statements, right side quinn with all four cards stamped PAID and an investing app showing growth, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "List your debts smallest to largest. Pay minimums on all but the smallest. Hit the smallest with everything. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading SNOWBALL ORDER, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

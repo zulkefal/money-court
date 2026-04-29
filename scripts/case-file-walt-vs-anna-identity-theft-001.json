@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-walt-vs-anna-identity-theft-001",
+  "character": "detective_cash",
+  "topic": "Identity theft \u2014 freezing your credit vs ignoring the breach (Walt vs Anna)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A single data breach drained one victim for fifteen thousand dollars in new loans she never opened. Case file 0046. Time of incident, breach day. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a stack of stolen ID cards, a red banner reads DATA BREACH, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Walt and Anna both get notified that their social security number leaked in a major retailer breach last month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man walt holding a paper labeled BREACH NOTICE, right side woman anna holding the same notice, both at home mailboxes, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Walt assumes the free credit monitoring is enough, never freezes his credit, and skips the password change reminders.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man walt tossing a breach notice on a kitchen counter, a comic banner reading IT WONT HAPPEN TO ME above his head, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Anna places a free credit freeze at all three bureaus that same evening, sets up two factor authentication, and changes every password.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman anna at a laptop on three bureau websites placing freezes, a small lock icon stamped on each page, a comic banner reads CREDIT FROZEN, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six months later Walt finds two new auto loans and a credit card opened in his name totaling fifteen thousand dollars in fraudulent debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man walt opening a stack of credit notices, a giant red comic banner reading FIFTEEN THOUSAND IN FRAUD looms behind him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Every fraud attempt against Anna was rejected at the bureau because her file was frozen. She lost zero dollars and zero hours.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side walt buried in fraud notices, right side anna with a phone showing a freeze status labeled PROTECTED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Place a free credit freeze at all three bureaus today. Use a unique password and two factor authentication. Breaches will keep happening. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a credit report stamped FROZEN, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

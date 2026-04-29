@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-hank-vs-joy-payday-loan-fine-print-001",
+  "character": "judge_vera",
+  "topic": "Reading payday loan terms vs signing fast (Hank vs Joy)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A four hundred dollar payday loan can balloon into one thousand nine hundred dollars in six months. I am Judge Vera and today two borrowers needed cash fast. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a small loan paper stamped THREE HUNDRED NINETY ONE PERCENT APR, comic burst banner reads FOUR TO NINETEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hank and Joy both face a four hundred dollar car repair on a Friday and both walk into the same payday loan storefront after work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults hank and joy walking past a neon storefront sign reading FAST CASH PAYDAY LOANS, both holding a car repair bill labeled FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Hank signs the contract in two minutes, takes the cash, and never reads the page that lists the three hundred ninety one percent annual percentage rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hank at a counter signing a single page contract, a small printed line reading APR THREE HUNDRED NINETY ONE PERCENT highlighted in red, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Joy reads the contract, sees the rate, walks out, and instead asks her employer for a two week paycheck advance with zero interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman joy at her workplace human resources desk filling out a paycheck advance form, a friendly HR person handing her cash, comic banner reads ZERO INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six months later Hank has rolled the loan over four times, paid back nineteen hundred dollars, and still owes one hundred more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man hank at a payday loan counter, comic banner above him reads NINETEEN HUNDRED PAID, his wallet small and empty, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Joy paid back four hundred dollars over two paychecks and zero in fees. Same emergency, two very different prices.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side hank with a thin wallet, right side joy with a calendar marked PAID IN FULL after two paychecks, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Payday loans are three hundred ninety one percent APR by law. Ask your employer, your credit union, or a friend first. Walk away from the storefront. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a paper stamped APR WARNING, comic banner reads ASK ELSEWHERE FIRST, kids comic book illustration"
+    }
+  ]
+}

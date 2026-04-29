@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-theo-vs-selma-index-vs-whole-life-001",
+  "character": "doctor_dollar",
+  "topic": "Index funds vs whole life insurance (Theo vs Selma)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Whole life insurance disguised as investing can cost you four hundred thousand dollars over a lifetime. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with two charts, one labeled INDEX FUND and one labeled WHOLE LIFE, comic burst banner reads FOUR HUNDRED THOUSAND DIFFERENCE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Theo and Selma each can afford five hundred dollars a month for long term wealth building and both meet with financial product salespeople.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man theo at a desk with a glossy whole life brochure, right side woman selma at the desk with a low cost index fund printout, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Theo signs up for a five hundred dollar a month whole life policy after a polished agent calls it a guaranteed safe investment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man theo at a kitchen table signing a glossy WHOLE LIFE POLICY contract, an agent in a suit smiling beside him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Selma buys a thirty dollar a month term life policy and invests the remaining four hundred seventy dollars a month into a low cost index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman selma at a kitchen table with a small term life paper and a brokerage app set to AUTO INVEST FOUR SEVENTY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "After thirty years Theo's whole life policy has built a cash value of seventy thousand dollars after paying in one hundred eighty thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked older man theo holding a policy statement reading CASH VALUE SEVENTY THOUSAND, comic banner reads ONE EIGHTY PAID IN, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Selma has the same life coverage and her index fund is worth six hundred and ten thousand dollars. Same monthly cost, very different result.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side theo with a thin policy, right side older woman selma with a brokerage app reading SIX HUNDRED TEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Buy term life insurance and invest the rest in low cost index funds. Insurance and investing are two different jobs. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled BUY TERM INVEST THE REST, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

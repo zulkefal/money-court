@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-asher-vs-greta-three-month-emergency-fund-001",
+  "character": "doctor_dollar",
+  "topic": "Three-month emergency fund vs paycheck to paycheck (Asher vs Greta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A three month emergency fund cuts the chance of a debt spiral by eighty percent. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled THREE MONTHS, comic burst banner reads EIGHTY PERCENT FEWER DEBT SPIRALS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Asher and Greta each spend three thousand dollars a month on rent, food, and bills and each have a steady job paycheck to paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man asher at a desk with a budget reading THREE THOUSAND A MONTH, right side woman greta with the same budget, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Asher keeps zero dollars in savings. He puts every leftover dollar into hobbies and trusts that nothing will ever go wrong.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man asher on a couch with hobby gear and concert tickets, comic banner reads NOTHING WILL GO WRONG, empty piggy bank, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Greta builds a nine thousand dollar emergency fund over eighteen months by saving five hundred dollars a month into a high yield account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greta at a kitchen table with a savings app reading NINE THOUSAND, a small piggy bank with a checkmark, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Asher loses his job for two months. He puts rent and groceries on credit cards and ends the layoff with seven thousand dollars in new debt at twenty four percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man asher at a kitchen table with credit card statements piling up, comic banner reads SEVEN THOUSAND IN DEBT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Greta uses her emergency fund to cover those same two months, never touches a credit card, and rebuilds the fund within a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side asher buried in card debt, right side greta with a calmer face and an emergency fund app rebuilding, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Stack three months of bare bones expenses in a high yield savings account. It buys you time, and time is the rarest medicine. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a calendar showing three months of saved bills, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

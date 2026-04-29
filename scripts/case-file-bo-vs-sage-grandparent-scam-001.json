@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-bo-vs-sage-grandparent-scam-001",
+  "character": "detective_cash",
+  "topic": "Grandparent emergency phone scam \u2014 verifying vs panicking (Bo vs Sage)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A frantic phone call from a fake grandson convinced one grandparent to wire six thousand dollars in twenty minutes. Case file 0052. Time of incident, ten pm. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone receiver with a fake voice icon, dollar bills flying out, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bo and Sage each get a late night phone call from a young man crying that he is in jail and needs six thousand dollars in bail money tonight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side senior man bo on a landline at night, right side senior woman sage on a landline, both with worried frowns, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Bo recognizes the voice as his grandson, drives to a money transfer counter, and wires six thousand dollars to a stranger's name within twenty minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, senior man bo at a money transfer counter, a clerk processing a wire labeled SIX THOUSAND, comic banner reads PANIC SEND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sage hangs up, calls her real grandson directly on his cell phone, and learns he is asleep in his own bed with no jail story at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, senior woman sage at a kitchen phone calling her grandson, a phone screen showing her grandson safely asleep at home, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By morning Bo has lost six thousand dollars and the wire transfer cannot be reversed. The fake grandson story has been used on dozens of seniors.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked senior man bo at a kitchen table with a wire receipt, comic banner reads SIX THOUSAND GONE, news clipping about a scam ring, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Sage spent zero dollars and called the local sheriff to warn other seniors in the neighborhood about the same scam.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side bo with empty hands at the kitchen table, right side sage at a coffee shop chatting with friends and a sheriff, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always hang up and call the family member directly. Never wire money based on a phone call. Set a family code word. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a sticky note labeled FAMILY CODE WORD, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

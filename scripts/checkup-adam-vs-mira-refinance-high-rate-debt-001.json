@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-adam-vs-mira-refinance-high-rate-debt-001",
+  "character": "doctor_dollar",
+  "topic": "Refinancing high-rate debt vs ignoring it (Adam vs Mira)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Refinancing a fifteen thousand dollar credit card debt can save you five thousand dollars in interest. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled REFINANCE, comic burst banner reads FIVE THOUSAND IN SAVED INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Adam and Mira each carry fifteen thousand dollars in credit card debt at twenty four percent and each have a credit score above seven hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man adam with three credit card statements, right side woman mira with the same three statements, both at desks, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Adam keeps paying the high rate cards because he is too busy to research a personal loan or balance transfer offer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man adam on a couch tossing a stack of card statements aside, comic banner reads TOO BUSY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Mira applies for a credit union personal loan at nine percent, pays off all three credit cards in one shot, and now has a single fixed monthly payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mira at a kitchen table with a credit union loan paper labeled NINE PERCENT, three card statements stamped PAID OFF, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three years later Adam has paid eight thousand dollars in interest on the same fifteen thousand and still owes ten thousand on the cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man adam at a kitchen table with a card statement reading TEN THOUSAND OWED, comic banner reads EIGHT THOUSAND IN INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Mira paid off the entire fifteen thousand in three years and only paid three thousand dollars in interest. The refinance saved her five thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side adam still in card debt, right side mira with a clean balance sheet and a savings app reading FIVE THOUSAND SAVED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "If your credit score is above seven hundred, refinance any debt over ten percent. The phone call that lowers your rate is the cheapest visit you will ever make. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled CALL THE CREDIT UNION, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

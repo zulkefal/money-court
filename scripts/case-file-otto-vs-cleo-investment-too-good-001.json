@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-otto-vs-cleo-investment-too-good-001",
+  "character": "detective_cash",
+  "topic": "Too-good investment vs real diversified investing (Otto vs Cleo)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A guaranteed ten percent monthly return turned out to be a Ponzi scheme that took twenty five thousand dollars. Case file 0049. Time of incident, pitch day. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a glossy brochure stamped GUARANTEED TEN PERCENT, dollar bills crumbling, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Otto and Cleo each get pitched by a smooth talking acquaintance promising guaranteed ten percent monthly returns from a private fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man otto at a coffee shop with a salesman, right side woman cleo at the same coffee shop with the same salesman, brochure on the table, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Otto invests twenty five thousand dollars from his savings, gets two months of small deposits, and feels like a financial genius.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man otto at a laptop typing a transfer for TWENTY FIVE THOUSAND, a comic burst banner reads MONTHLY RETURNS GUARANTEED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Cleo asks for an SEC registration number, calls a real fee only financial advisor, and learns there is no such thing as a guaranteed ten percent monthly return.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cleo at a kitchen table with a phone calling a real advisor, a paper labeled SEC REGISTRATION CHECK with no result on it, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six months later Otto's smooth talking acquaintance is arrested. His twenty five thousand dollars vanished into a Ponzi scheme paying old investors with new money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man otto on a couch reading a news article about a Ponzi arrest, comic banner reads TWENTY FIVE THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cleo's same money sits in a low cost index fund earning a steady eight percent a year and is fully insured by the brokerage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side otto staring at a frozen account, right side cleo with a brokerage app showing a steady upward index fund chart, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Guaranteed returns are always a scam. Real investing is boring, regulated, and slow. Check SEC dot gov before sending a dime. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a brokerage statement stamped INSURED, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

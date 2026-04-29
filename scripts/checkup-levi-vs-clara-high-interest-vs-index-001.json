@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-levi-vs-clara-high-interest-vs-index-001",
+  "character": "doctor_dollar",
+  "topic": "High-interest debt vs the same money in an index fund (Levi vs Clara)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Investing while carrying twenty four percent credit card debt is like exercising on a broken leg. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled DEBT VS INDEX, comic burst banner reads CREDIT CARDS BURN FAST, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Levi and Clara each have ten thousand dollars in credit card debt at twenty four percent and ten thousand dollars in cash to deploy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man levi at a desk with credit card statements and ten thousand cash, right side woman clara at the desk with the same, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Levi puts the ten thousand into an index fund hoping for ten percent returns and pays only the minimum on his credit cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man levi at a laptop investing TEN THOUSAND in an index fund, comic banner reads MINIMUM PAYMENT ONLY, credit card statements glowing red, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Clara pays off the ten thousand dollar credit card balance in one shot and only after that starts dollar cost averaging into her index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman clara at a kitchen table writing a check labeled PAY OFF CARDS, then setting up an auto invest of two hundred a week, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "After three years Levi's index fund is up roughly three thousand dollars but his credit card debt grew to twelve thousand. He is down a thousand dollars overall.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man levi at a desk with a chart showing index fund up three thousand and a card balance reading TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Clara is debt free and has invested seven thousand dollars over the same three years. Her net wealth grew by ten thousand dollars instead of shrinking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side levi with mixed numbers, right side clara with a clean credit card statement and a brokerage app reading TEN THOUSAND UP, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always pay off any debt over eight percent before investing. The market cannot beat a guaranteed twenty four percent loss. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled PAY OFF FIRST, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

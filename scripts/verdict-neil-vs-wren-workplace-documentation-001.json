@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-neil-vs-wren-workplace-documentation-001",
+  "character": "judge_vera",
+  "topic": "Documenting workplace harassment vs verbal complaints (Neil vs Wren)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One employee won a thirty five thousand dollar settlement just because she had screenshots. I am Judge Vera and today two coworkers chose what to save. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a phone showing screenshots, comic burst banner reads THIRTY FIVE THOUSAND SETTLEMENT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Neil and Wren both work at the same company under the same manager and both face the same string of inappropriate emails and meetings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults neil and wren in a shared office cubicle setting with the same boss visible behind a glass wall, mirror image, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Neil complains verbally to human resources, trusts the system, and keeps no copies of any of the messages on his work laptop.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man neil in a human resources office with a tearful face, an HR rep nodding politely, a notepad with no notes, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Wren saves every email to a personal account, dates each incident, screenshots inappropriate chats, and stores everything in a private cloud folder.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wren at a coffee shop laptop logging incidents into a personal email folder labeled EVIDENCE LOG, screenshots stacked beside her, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three months later both file lawsuits. Neil's case is dismissed because the company wiped his work laptop and there are no records of his complaints.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man neil at a courtroom table with empty hands, a wiped laptop screen showing NO DATA, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Wren's lawsuit ends in a thirty five thousand dollar settlement and a written apology because her timeline and screenshots proved every single claim.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side neil walking out of court empty handed, right side wren holding a settlement check labeled THIRTY FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Document everything in writing. Save copies on a personal account. Verbal complaints disappear. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a phone with a labeled folder reading EVIDENCE LOG, comic banner reads SAVE EVERYTHING, kids comic book illustration"
+    }
+  ]
+}

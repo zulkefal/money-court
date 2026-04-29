@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-brad-vs-tess-emergency-fund-1000-001",
+  "character": "coach_vault",
+  "topic": "Building a 1000 dollar emergency fund (Brad vs Tess)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Seventy eight percent of Americans cannot cover a one thousand dollar emergency. I am Coach Vault and these two trainees are about to do it the easy way and the hard way. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a bright gym blowing a whistle, holding a clipboard, comic burst banner reads ONE THOUSAND DOLLAR EMERGENCY FUND, dumbbells in the background, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Brad and Tess are both twenty four years old, both make three thousand dollars a month, and both have exactly zero dollars saved.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man brad in workout gear with a wallet showing zero, right side woman tess in workout gear with the same wallet, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Brad keeps spending every paycheck. He swears he will start saving once he gets a raise next year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man brad on a couch with takeout boxes and shopping bags, a comic banner above reads SAVE LATER, calendar pages flipping, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Tess sets up a thirty dollar weekly auto transfer to a high yield savings account every Friday morning, no excuses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tess at a phone screen tapping AUTO TRANSFER THIRTY DOLLARS, a small piggy bank with a green up arrow, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight months later Brad's car battery dies, he puts a two hundred dollar repair on a credit card, and starts paying twenty nine percent interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man brad at an auto repair counter swiping a credit card, comic banner reads TWENTY NINE PERCENT INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Tess saves one thousand and forty dollars without missing a single transfer. She pays a future repair in cash and her savings keep growing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side brad with a credit card statement, right side tess with a savings app showing ONE THOUSAND FORTY in green, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Thirty dollars a week beats willpower every time. Automate the transfer the day your paycheck lands. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle on a gym floor, holding a clipboard reading AUTOMATE TODAY, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

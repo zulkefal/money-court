@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-drew-vs-cara-save-twenty-percent-001",
+  "character": "coach_vault",
+  "topic": "Saving 20 percent vs spending every dollar (Drew vs Cara)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Save twenty percent of every paycheck and you can retire ten years earlier. I am Coach Vault and today these two new hires take very different routes. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding up a giant pie chart with a twenty percent slice highlighted in green, comic burst banner reads TWENTY PERCENT RULE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Drew and Cara both land their first jobs at age twenty two earning four thousand dollars a month after taxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man drew in workout gear with a paycheck slip, right side woman cara in workout gear with an identical paycheck, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Drew lives on every single dollar of his paycheck and tells himself he will save once he makes more money in a few years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man drew on a treadmill exhausted with shopping bags piling up beside him, a comic banner reads SPEND IT ALL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Cara automates eight hundred dollars per paycheck into a brokerage account before she ever sees the money in checking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cara at a phone screen tapping AUTO INVEST EIGHT HUNDRED, a brokerage app showing a steady upward chart, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Five years later Drew's salary doubled but he still saves nothing. His lifestyle grew with every raise.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man drew on a couch surrounded by big purchases, comic banner reads ZERO SAVED FIVE YEARS, calendar with five ticked years, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cara has saved sixty thousand dollars in five years even before any market gains. She is on track to retire at fifty one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side drew on the treadmill still going, right side cara with a brokerage app showing SIXTY THOUSAND and a finish line, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Pay yourself first. Twenty percent off the top before any spending. The number on your check matters less than the number you save. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading PAY YOURSELF FIRST, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

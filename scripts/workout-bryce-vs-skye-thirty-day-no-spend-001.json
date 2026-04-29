@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-bryce-vs-skye-thirty-day-no-spend-001",
+  "character": "coach_vault",
+  "topic": "30-day no-spend challenge vs business as usual (Bryce vs Skye)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A thirty day no spend challenge can put one thousand two hundred dollars back in your pocket. I am Coach Vault and today two friends try it. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a clipboard with a thirty day calendar grid, comic burst banner reads NO SPEND CHALLENGE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bryce and Skye both spend about three hundred dollars a week on takeout, online shopping, and impulse buys outside of bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man bryce on a couch with delivery bags, right side woman skye with the same delivery bags, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Bryce laughs at the no spend challenge, keeps ordering takeout, and shops every weekend on his favorite app.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bryce on a couch swiping a phone with a CART icon glowing, comic banner reads BUSINESS AS USUAL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Skye writes a list of approved spending categories on her fridge, deletes shopping apps, and freezes her credit card in a block of ice.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman skye in a kitchen with a freezer block of ice with a credit card frozen inside, a fridge list labeled APPROVED SPENDING, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Thirty days later Bryce checks his bank statement and realizes he spent twelve hundred dollars on small things and is back to broke.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man bryce at a kitchen table with a printed bank statement, comic banner reads TWELVE HUNDRED VAPORIZED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Skye finishes the month with eleven hundred dollars saved, transfers it straight into her emergency fund, and feels in control again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side bryce with empty hands, right side skye holding a phone with a savings app reading ELEVEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Try one thirty day no spend month a year. The savings buy you a real emergency fund. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading NO SPEND THIRTY DAYS, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

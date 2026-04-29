@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-felix-vs-dora-dca-vs-market-timing-001",
+  "character": "doctor_dollar",
+  "topic": "Dollar cost averaging vs market timing (Felix vs Dora)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Trying to time the market loses to dollar cost averaging eighty percent of the time. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with two stock charts, one calm labeled DCA and one jagged labeled TIMING, comic burst banner reads EIGHTY PERCENT WIN RATE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Felix and Dora each have one thousand dollars a month they can invest into the same total market index fund for the next ten years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man felix at a laptop with stock charts, right side woman dora at a laptop with a steady auto invest icon, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Felix tries to time every dip, sells every spike, and lets cash sit on the sidelines waiting for the perfect moment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man felix at a desk with multiple stock charts, comic banner reads WAITING FOR THE BOTTOM, cash piling on the sidelines, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dora sets a fixed one thousand dollar auto invest on the first of every month and never looks at a single chart in between.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dora at a phone screen tapping AUTO INVEST FIRST OF MONTH, a small chart slowly trending up in the background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ten years later Felix missed three of the best market days while waiting for crashes. His portfolio is worth one hundred twenty thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man felix at a desk with a chart showing missed peaks, comic banner reads ONE HUNDRED TWENTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Dora's automated investing turned the same one hundred twenty thousand dollars contributed into one hundred ninety five thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side felix with a smaller balance, right side dora with a brokerage app reading ONE NINETY FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Set automatic monthly investments and ignore the headlines. Time in the market beats timing the market. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled AUTO INVEST MONTHLY, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

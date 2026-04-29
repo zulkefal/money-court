@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-oscar-vs-petra-minimum-vs-full-balance-001",
+  "character": "doctor_dollar",
+  "topic": "Paying minimum vs full credit card balance (Oscar vs Petra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Paying only the minimum on a five thousand dollar card stretches the bill out to twenty seven years. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a credit card statement marked MINIMUM PAYMENT, comic burst banner reads TWENTY SEVEN YEARS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Oscar and Petra each charged five thousand dollars on a credit card with twenty four percent interest after a home repair.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man oscar with a card statement reading FIVE THOUSAND, right side woman petra with the same statement, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Oscar pays only the minimum payment of one hundred dollars each month, telling himself it is fine because it does not feel painful.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man oscar on a couch swiping a card while a statement reading MINIMUM ONE HUNDRED appears, comic banner reads PAINLESS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Petra cuts her grocery and entertainment spending and pays the full five thousand dollar balance off in eight months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra at a kitchen table writing aggressive payments labeled FIVE HUNDRED A MONTH, a small grocery list cut down, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twenty seven years later Oscar will have paid the bank over fifteen thousand dollars in interest on his original five thousand dollar charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked older man oscar at a kitchen table holding a final statement, comic banner reads FIFTEEN THOUSAND IN INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Petra paid less than four hundred dollars in total interest and had a clean card eight months later. Same charge, very different prognosis.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side oscar with a long timeline of payments, right side petra with a clean card statement and a smile, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always pay the full statement balance on credit cards. Minimum payments are how the bank gets rich. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled PAY IN FULL, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

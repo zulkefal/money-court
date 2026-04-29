@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-carl-vs-beth-filing-taxes-on-time-001",
+  "character": "judge_vera",
+  "topic": "Filing taxes on time vs ignoring the IRS (Carl vs Beth)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The IRS adds twenty five percent in penalties just for not filing on time. I am Judge Vera and today two freelancers walked very different roads. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant comic burst banner reading TWENTY FIVE PERCENT PENALTY, courtroom spotlight, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Carl and Beth are both freelancers who owe four thousand dollars in taxes for the year and both miss the April fifteenth deadline by accident.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults carl and beth at separate desks both staring at tax forms labeled FOUR THOUSAND OWED, calendar on the wall reads APRIL FIFTEEN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Carl panics, hides every IRS letter in a drawer, and tells himself he will deal with it next year when he has the money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man carl shoving a stack of IRS envelopes into a drawer, a giant comic burst banner reading IGNORE looms above him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Beth files her return three weeks late, includes a payment plan request, and sends the IRS one hundred and fifty dollars per month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beth at a kitchen table mailing a tax return envelope, a small notebook open to a payment plan with monthly checkmarks, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eighteen months later Carl gets a final notice with five thousand five hundred dollars owed in tax, penalties, and interest, plus a wage garnishment warning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man carl opening a final IRS notice at his front door, giant red comic banner reading FIVE THOUSAND FIVE HUNDRED looms above him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Beth has paid off the four thousand owed plus a small amount of interest. Her credit and her paycheck are both safe.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side carl looking at a wage garnishment letter, right side beth marking a calendar PAID IN FULL with a smile, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "File on time even if you cannot pay. The IRS will work with you on a plan, but only if you respond. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a tax form stamped FILED ON TIME, comic banner reads ALWAYS FILE, kids comic book illustration"
+    }
+  ]
+}

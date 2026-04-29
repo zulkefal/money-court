@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-dan-vs-zoe-credit-card-debt-001",
+  "character": "judge_vera",
+  "topic": "Ignoring credit card debt letters vs responding to them (Dan vs Zoe)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "I'm Judge Vera, and today's case is one I see every single day — two people, same debt, completely different outcomes. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, standing confidently behind a courtroom bench pointing her gavel forward, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dan and Zoe are both thirty years old, both owe eight thousand dollars on maxed-out credit cards, and both just received their first debt collection letter.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults dan and zoe standing side by side each holding an identical official debt collection envelope, neutral expressions, simple apartment background, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Dan tosses the letter in the trash, ignores three more, and never responds — he thinks if he hides long enough the debt will just disappear.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dan casually tossing an official envelope into an overflowing trash can, a pile of unopened letters on the floor behind him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Zoe opens every letter, calls the debt collector, and negotiates the eight thousand down to four thousand five hundred with a written payment agreement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman zoe sitting at a kitchen table on the phone with a notepad writing down numbers, a signed agreement document in front of her, calm focused expression, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two years later Dan gets served a court summons — the collector sued him and a judge ordered his wages garnished at twenty five percent every paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man dan receiving a court summons from a process server at his front door, giant gavel shadow looming over him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Zoe paid off her negotiated balance in eighteen months, saved thirty five hundred dollars, and her credit score jumped one hundred and forty points.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side woman zoe celebrating holding a zero balance letter with a rising credit score meter, right side dan sitting in a courtroom looking defeated next to a lawyer, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never ignore a debt letter — silence gives collectors the right to sue you. Respond, negotiate, and get everything in writing. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, banging gavel with one hand and holding up a negotiation checklist with the other, kids comic book illustration"
+    }
+  ]
+}

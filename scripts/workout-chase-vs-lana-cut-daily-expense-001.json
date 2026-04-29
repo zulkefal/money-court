@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-chase-vs-lana-cut-daily-expense-001",
+  "character": "coach_vault",
+  "topic": "Cutting one daily coffee vs keeping every habit (Chase vs Lana)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One daily coffee equals one thousand eight hundred dollars a year. I am Coach Vault and today two coworkers see what one habit costs. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a coffee cup with a price tag reading FIVE DOLLARS, comic burst banner reads EIGHTEEN HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Chase and Lana both work at the same office and both buy a five dollar coffee on the way to work every single weekday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man chase walking out of a coffee shop with a cup, right side woman lana doing the same on the same street, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Chase keeps his daily coffee habit, says it is harmless, and never tracks the total cost over the year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chase at his desk with a coffee cup, comic banner reads HARMLESS HABIT, a calendar marked with coffee cups every day, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lana switches to a home brewer for two hundred dollars and brings coffee in a thermos. She redirects the savings into investing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lana in a kitchen with a small coffee brewer and a thermos, an arrow pointing to an investing app on a phone, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twelve months later Chase has spent one thousand eight hundred dollars on coffee and has nothing to show for it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man chase at a desk surrounded by paper coffee cups, comic banner reads EIGHTEEN HUNDRED IN CUPS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lana spent two hundred dollars on a brewer and one hundred on beans, then invested fifteen hundred. With market growth she ends the year up over sixteen hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side chase with empty cups, right side lana with a brewer at home and an investing app reading SIXTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "One small daily expense times twenty years equals a real fortune. Pick the cheapest one and kill it. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading KILL ONE DAILY EXPENSE, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

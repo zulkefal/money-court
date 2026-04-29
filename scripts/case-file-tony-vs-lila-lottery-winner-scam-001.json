@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-tony-vs-lila-lottery-winner-scam-001",
+  "character": "detective_cash",
+  "topic": "Lottery winner scam \u2014 never paying to claim (Tony vs Lila)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake lottery winner letter demanded twenty five hundred dollars in fees and paid out nothing. Case file 0055. Time of incident, opening the mail. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a glossy fake lottery letter stamped CONGRATULATIONS WINNER, dollar bills crumbling, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Tony and Lila each open the same glossy letter telling them they have won eight hundred thousand dollars in a foreign lottery they never entered.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man tony at a mailbox with a glossy letter, right side woman lila with the same letter, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Tony wires twenty five hundred dollars in processing fees as the letter instructs, expecting his winnings to arrive within a week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man tony at a money transfer counter wiring TWENTY FIVE HUNDRED DOLLARS to claim a lottery, comic banner reads PROCESSING FEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lila tosses the letter in the recycling bin, knowing real lotteries do not need entrants to pay fees and do not contact winners by mail out of the blue.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lila at home dropping the letter into a recycling bin, a small note on the wall reading NEVER PAY TO CLAIM, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight weeks later Tony has lost twenty five hundred dollars in wire fees and the next letter demands eight thousand more for tax clearance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man tony at a mailbox holding a second letter labeled MORE FEES, comic banner reads TWO FIVE HUNDRED LOST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lila lost zero dollars and reported the letter to the postal inspection service so they could investigate the scam ring.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side tony with empty hands, right side lila at a laptop on the postal inspection website filing a report, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "If you have to pay to collect a prize, it is not a prize. Real lotteries deduct taxes from winnings, not the other way around. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a fake lottery letter crossed out, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

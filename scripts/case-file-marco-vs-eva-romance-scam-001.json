@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-marco-vs-eva-romance-scam-001",
+  "character": "detective_cash",
+  "topic": "Romance scam \u2014 verifying vs falling for it (Marco vs Eva)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Twenty thousand dollars vanishes the moment a stranger online says I love you. Case file 0042. Time of incident, eight pm on a Tuesday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a dim noir office holding a magnifying glass over a phone screen with a heart icon and a dollar sign, desk lamp casting long shadows, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marco and Eva each match online with a charming overseas stranger who calls them every night for two months without ever video calling.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man marco on a couch on the phone smiling, right side woman eva in a kitchen on the phone smiling, both with heart bubbles above, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Marco believes the love story, sends ten thousand dollars in gift cards for an emergency surgery, and then twenty thousand more for a fake plane ticket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marco at a checkout counter buying stacks of gift cards, a comic banner above reads EMERGENCY SURGERY, register total reading TEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Eva refuses to send a single dollar without a video call. She runs his profile photo through a free reverse image search and finds it on a model's website.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eva at a laptop with a reverse image search showing the same photo on a stock model website, a magnifying glass icon hovering, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six weeks later Marco's overseas love disappears entirely. The bank cannot recover any gift card money and the FBI files a case file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man marco at his kitchen table with a phone showing a blocked contact, comic banner reads NEVER REAL, FBI badge in the corner, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Eva blocks the scammer, reports the profile to the dating app, and never loses a cent. Same script, two very different endings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side marco with an empty wallet, right side eva at her laptop with a button labeled REPORT AND BLOCK, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Reverse image search every photo. Refuse a video call equals a refused dollar. Gift card requests are always a scam. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding up a magnifying glass over an evidence board labeled REVERSE IMAGE SEARCH, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

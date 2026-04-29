@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-reese-vs-holly-marketplace-overpayment-001",
+  "character": "detective_cash",
+  "topic": "Marketplace buyer overpayment trap (Reese vs Holly)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A marketplace buyer sent fake money screenshots and made off with a one thousand dollar phone. Case file 0051. Time of incident, parking lot. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone screen showing a fake Zelle confirmation with red FAKE stamp, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Reese and Holly each list the same one thousand dollar used phone on Marketplace and both arrange to meet a buyer in a busy parking lot.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man reese with a phone in hand at a coffee shop lot, right side woman holly with the same phone at the same lot, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Reese hands over the phone after a buyer shows him a Zelle pending screenshot. The screenshot is fake and the money never arrives.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reese in a parking lot handing a boxed phone to a stranger, the stranger holding a phone screen labeled PENDING with a red FAKE stamp, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Holly refuses to release the phone until the money is fully cleared in her bank app, not just a screenshot. The buyer leaves without it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman holly in a parking lot holding a boxed phone close, looking at her real bank app on a phone, comic banner reads MUST CLEAR FIRST, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By dinner time Reese realizes the money never arrived. The buyer is unreachable and Marketplace cannot recover the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man reese at a kitchen table refreshing his bank app showing zero new deposits, comic banner reads PHONE GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Holly relisted and sold the phone two days later to a real buyer. Her bank app showed the funds clear before she handed anything over.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side reese with empty hands, right side holly handing a boxed phone to a verified buyer with a green CLEARED notice, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Pending screenshots are not money. Wait until your bank app shows funds available before you hand over anything. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a bank app screen labeled CLEARED, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

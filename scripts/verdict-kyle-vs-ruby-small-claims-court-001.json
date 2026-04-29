@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-kyle-vs-ruby-small-claims-court-001",
+  "character": "judge_vera",
+  "topic": "Small claims court vs giving up (Kyle vs Ruby)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Small claims court costs eighty dollars to file and can win you back five thousand dollars. I am Judge Vera and today two homeowners chose differently. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a small claims court filing form stamped EIGHTY DOLLARS, comic burst banner reads FIVE THOUSAND BACK, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kyle and Ruby both hire the same handyman to renovate a kitchen, both pay a five thousand dollar deposit, and both wake up to find he has vanished.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults kyle and ruby standing in matching empty kitchens, identical receipts in hand reading FIVE THOUSAND DEPOSIT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Kyle posts angry one star reviews online, vents to his neighbors, and decides the money is gone forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kyle on a couch typing on a laptop with angry face, comic burst above the laptop reading ONE STAR REVIEW, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ruby files a small claims case for eighty dollars, brings the signed contract, payment receipt, and photos of the unfinished kitchen as evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ruby in a courtroom holding a folder labeled CONTRACT and a stack of photos, calmly explaining to a judge, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ninety days later Kyle still has nothing to show for his money and his negative reviews disappeared when the handyman closed his page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man kyle staring at his laptop showing a deleted business profile, comic banner reads STILL OUT FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Ruby won a five thousand dollar judgment, garnished the handyman's bank account, and got her deposit back in full.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side kyle holding a blank refund line, right side ruby holding a check stamped FIVE THOUSAND RECOVERED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Small claims court is cheap, fast, and self service. Bring your contract, your receipts, and your photos. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a small claims filing checklist, comic banner reads FILE THE CASE, kids comic book illustration"
+    }
+  ]
+}

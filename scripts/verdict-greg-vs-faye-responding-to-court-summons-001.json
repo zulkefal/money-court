@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-greg-vs-faye-responding-to-court-summons-001",
+  "character": "judge_vera",
+  "topic": "Responding to a summons vs missing the hearing (Greg vs Faye)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A two thousand dollar default judgment grew into fourteen thousand in three years. I am Judge Vera and today two debtors faced the same envelope. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a court summons in one hand and her gavel in the other, comic burst banner reads TWO TO FOURTEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Greg and Faye each receive a court summons from a debt collector for an old credit card debt of two thousand dollars from seven years ago.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults greg and faye at their front doors each accepting an official looking envelope from a process server, both stamped SUMMONS, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Greg tosses the summons in a drawer because he believes the debt is too old to enforce. He never shows up to the hearing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man greg shoving a folded summons into a kitchen drawer, a calendar on the wall with the hearing date crossed out and ignored, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Faye calls a free legal aid clinic, learns the debt is past the statute of limitations, and shows up to court with the dates printed out.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman faye in a small legal aid office with a friendly attorney, a printed timeline labeled STATUTE OF LIMITATIONS spread on the desk, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three years later Greg's two thousand turned into fourteen thousand with default judgment, interest, fees, and twenty five percent of every paycheck garnished.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man greg opening a paycheck stub showing a giant red GARNISHED 25 PERCENT line, comic banner reads FOURTEEN THOUSAND OWED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Faye's case was dismissed in a single hearing because the debt was too old to sue on. She paid zero dollars and lost zero hours of pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side greg with a thin paycheck, right side faye walking out of a courthouse holding a paper stamped DISMISSED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always respond to a summons. Free legal aid exists in every state. Silence becomes a default judgment. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a paper labeled RESPOND IN WRITING, comic banner reads NEVER IGNORE A SUMMONS, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-aaron-vs-naomi-roth-ira-25-vs-45-001",
+  "character": "doctor_dollar",
+  "topic": "Roth IRA at 25 vs starting at 45 (Aaron vs Naomi)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Twenty extra years of compound growth turned six thousand a year into one million dollars. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a giant compound growth chart, comic burst banner reads TWENTY YEARS EQUALS A MILLION, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Aaron and Naomi each plan to retire at sixty five and each can afford to put six thousand dollars a year into a Roth IRA.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man aaron at the doctor's desk with a retirement plan, right side woman naomi at the desk with the same plan, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Aaron waits until age forty five to open his Roth IRA. He thinks he is too young to bother with retirement at twenty five.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man aaron at twenty five on a couch waving off a retirement brochure, calendar pages flipping forward to age forty five, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Naomi opens her Roth IRA at age twenty five, sets a one hundred fifteen dollar weekly auto contribution, and forgets it for forty years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman naomi at a laptop at age twenty five clicking AUTO INVEST, a target date fund chart labeled ROTH IRA, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By sixty five Aaron contributed one hundred twenty thousand dollars but his Roth is only worth two hundred eighty thousand because he started so late.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked older man aaron at a kitchen table with a balance reading TWO HUNDRED EIGHTY THOUSAND, comic banner reads LATE START, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Naomi contributed two hundred forty thousand and her Roth is worth one million two hundred thousand dollars because compounding had forty years to work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side aaron with a smaller balance, right side older woman naomi with a brokerage app reading ONE POINT TWO MILLION, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Open the Roth at twenty five even with twenty dollars a week. Time in the market beats timing the market. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled START EARLY, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

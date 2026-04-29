@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-saul-vs-pam-tech-support-popup-001",
+  "character": "detective_cash",
+  "topic": "Tech support pop-up scam \u2014 closing the tab vs calling (Saul vs Pam)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A pop up promising to clean a virus drained two thousand dollars from a senior's checking account. Case file 0050. Time of incident, six pm. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a laptop screen with a flashing red VIRUS ALERT pop up window, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Saul and Pam are both seventy two years old. Both visit a news site and both see the same flashing pop up warning of a virus on their computer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side senior man saul at a desktop, right side senior woman pam at a laptop, both screens showing the same red warning pop up, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Saul calls the toll free number on the pop up, gives a stranger remote access, and watches two thousand dollars wire out of his checking account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked senior man saul on a phone with a fake tech rep, comic banner above reads REMOTE ACCESS, money symbols leaving the screen, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Pam closes the browser tab, restarts her computer, and the warning never returns. She tells her grandson about it that evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, senior woman pam at a kitchen table closing a laptop lid with a smile, a small note labeled CLOSE THE TAB on the fridge behind her, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By bedtime Saul has lost two thousand dollars and a stranger has copies of his banking passwords because he typed them while remote sharing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked senior man saul at a kitchen table staring at a near empty bank statement, comic banner reads TWO THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Pam never lost a cent. Her grandson helped her install a free pop up blocker so it would not happen again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side saul on the phone with the bank, right side pam and a grandson installing a pop up blocker on a laptop, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Real tech support never calls or pops up to warn you. Close the tab. Restart the computer. Never give anyone remote access. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a closed pop up window crossed out with a red comic burst, banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

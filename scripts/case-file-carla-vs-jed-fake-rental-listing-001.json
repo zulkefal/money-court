@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-carla-vs-jed-fake-rental-listing-001",
+  "character": "detective_cash",
+  "topic": "Fake rental listing \u2014 viewing in person vs wiring blind (Carla vs Jed)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake rental listing took two thousand dollars in deposits before anyone realized the apartment did not exist. Case file 0056. Time of incident, move in week. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a glossy fake rental listing photo with a red FAKE LISTING stamp, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Carla and Jed each find the same gorgeous one bedroom apartment online priced four hundred dollars below the market in a great neighborhood.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side woman carla at a laptop with the listing photo, right side man jed at the same listing, both with hopeful faces, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Carla wires a two thousand dollar deposit and first month rent without seeing the apartment because the so called owner is overseas.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman carla at a laptop sending a wire labeled TWO THOUSAND DEPOSIT, comic banner reads NEVER SAW IT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jed insists on visiting the apartment in person, drives over, and discovers the real tenants who have been living there for six years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jed at the apartment door talking to a confused real tenant, a small banner reads REAL TENANT, key icon crossed out, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By move in day Carla learns the listing was fake. Her two thousand dollars is gone forever and the so called owner is unreachable.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman carla outside an apartment building with moving boxes, comic banner reads TWO THOUSAND GONE, no key in hand, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Jed kept renting his current place and avoided a wire scam that has hit dozens of renters in the same city this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side carla with no apartment, right side jed in his current cozy apartment with coffee, comic banner reads SAVED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never wire a deposit on a rental you have not toured. Verify the owner with the county records office. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a county records page labeled VERIFIED OWNER, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

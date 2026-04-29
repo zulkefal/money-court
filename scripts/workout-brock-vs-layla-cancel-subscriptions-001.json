@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-brock-vs-layla-cancel-subscriptions-001",
+  "character": "coach_vault",
+  "topic": "Canceling unused subscriptions vs autopilot (Brock vs Layla)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The average person pays for two hundred and twenty dollars a month in subscriptions and uses about half of them. I am Coach Vault. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a giant phone screen with a long list of subscription icons, comic burst banner reads TWO HUNDRED TWENTY A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Brock and Layla both have a streaming bundle, two music apps, three fitness apps, a meditation app, and four random app trials they forgot.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man brock at a phone screen full of subscription icons, right side woman layla at the same phone, both wide eyed, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Brock leaves all subscriptions on autopay because he might use them again someday and does not want to lose his old logins.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man brock on a couch shrugging at a phone with a long subscription list, comic banner reads MIGHT USE LATER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Layla audits her bank statement, finds eleven subscriptions, cancels seven she has not opened in three months, and downgrades two more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman layla at a kitchen table with a printed bank statement, a red pen circling and crossing off seven subscription line items, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twelve months later Brock has paid two thousand six hundred and forty dollars in subscription fees and uses only four of them regularly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man brock staring at a credit card statement, comic banner reads TWO THOUSAND SIX HUNDRED FORTY GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Layla cut her subscription bill from two hundred twenty to fifty five dollars a month and put one hundred sixty five back in her budget.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side brock with a heavy bill, right side layla with a phone showing FIFTY FIVE A MONTH and a savings increase, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Audit subscriptions every six months. Cancel anything you have not used in ninety days. They are silent budget killers. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard with a CANCEL list, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

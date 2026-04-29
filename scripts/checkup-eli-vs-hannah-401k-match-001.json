@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-eli-vs-hannah-401k-match-001",
+  "character": "doctor_dollar",
+  "topic": "Maxing the 401k match vs leaving it on the table (Eli vs Hannah)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Skipping a four percent employer match is leaving twenty thousand dollars on the table over five years. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled FREE MONEY MATCH, comic burst banner reads TWENTY THOUSAND ON THE TABLE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Eli and Hannah both work for the same company that matches four percent into the 401k and both make seventy five thousand dollars a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man eli at the doctor's desk with a benefits packet, right side woman hannah at the desk with the same packet, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Eli skipped the 401k enrollment form because he wanted every dollar in his paycheck right now and felt overwhelmed by the choices.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man eli on a couch tossing a benefits packet aside, comic banner reads SKIPPED THE FORM, an empty 401k icon, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hannah signed up the first day, contributed four percent, captured the full employer match, and chose a low cost target date fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hannah at a kitchen table signing a 401k form, a small icon labeled MATCH FOUR PERCENT highlighted in green, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Five years later Eli still has zero in his 401k. He missed twenty thousand dollars in employer money and any growth on top.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man eli staring at an empty 401k balance on a phone, comic banner reads ZERO MATCH ZERO GROWTH, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Hannah's 401k has forty thousand dollars and growing. Half came from her, half came from her employer and the market.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side eli with empty hands, right side hannah with a brokerage app reading FORTY THOUSAND with a target date fund label, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Always capture the full employer match before any other investing. It is a one hundred percent return on day one. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a four percent match arrow pointing up, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

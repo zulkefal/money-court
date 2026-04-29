@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-ezra-vs-wendy-review-insurance-yearly-001",
+  "character": "doctor_dollar",
+  "topic": "Reviewing insurance yearly vs autopilot (Ezra vs Wendy)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Reviewing your insurance once a year saves the average household six hundred dollars. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled INSURANCE REVIEW, comic burst banner reads SIX HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ezra and Wendy each pay for auto, home, and umbrella insurance and each have not looked at their policies in five full years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man ezra with three insurance papers, right side woman wendy with the same three papers, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Ezra leaves all three on autopay and assumes the rates are the same as they always were and the coverage still fits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ezra on a couch tossing insurance bills onto a side table, comic banner reads SAME OLD RATES, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Wendy schedules one hour every July to compare quotes from three insurers and to make sure her coverage limits still match her current life.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wendy at a kitchen table with three quote sheets labeled QUOTE A QUOTE B QUOTE C, a calendar marked JULY REVIEW, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ezra discovers he has been paying for renters insurance on a home he bought three years ago and his auto coverage is only state minimum.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man ezra holding three policy papers with red error stamps, comic banner reads WRONG COVERAGE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Wendy's review knocked four hundred dollars off her auto bill and added an umbrella policy that covers her at one million dollars for ten dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side ezra with bad coverage, right side wendy with three updated policies labeled OPTIMIZED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Set a yearly insurance day. Compare three quotes. Match coverage to your real life. The wrong policy is worse than no policy. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled YEARLY REVIEW, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

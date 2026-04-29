@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-vince-vs-maya-irs-impersonation-001",
+  "character": "detective_cash",
+  "topic": "IRS impersonation call \u2014 hanging up vs paying (Vince vs Maya)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The IRS will never ask for gift cards, but one caller still walked off with three thousand dollars in Apple cards. Case file 0047. Time of incident, noon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a phone receiver with a red caller ID labeled FAKE IRS, magnifying glass over an Apple card stack, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vince and Maya each get the same call from a man claiming to be an IRS agent demanding three thousand dollars or police arrive in one hour.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man vince on a landline with a worried face, right side woman maya on a cell phone with a calm face, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Vince panics, drives to a store, buys three thousand dollars in Apple gift cards, and reads the codes back to the caller over the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vince at a register buying stacks of Apple gift cards, comic banner reads THREE THOUSAND IN CARDS, sweat drops on his face, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Maya laughs, hangs up, and calls the real IRS number from the back of her last tax return to confirm there is no balance due.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman maya at a kitchen table calling the official IRS number printed on a tax form, a magnifying glass over the printed line, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two hours later Vince realizes he has been scammed. The cards are drained and the caller's number is disconnected.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man vince staring at empty gift card receipts on a kitchen table, comic banner reads ALL DRAINED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Maya never lost a cent and reported the call to the Treasury fraud line so other people would be warned.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side vince surrounded by empty gift card wrappers, right side maya at a laptop on the Treasury website filling a report, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The IRS sends letters first, never calls demanding gift cards, and never threatens immediate arrest. Hang up and call them yourself. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash with a magnifying glass over a printed IRS letter stamped LEGITIMATE, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

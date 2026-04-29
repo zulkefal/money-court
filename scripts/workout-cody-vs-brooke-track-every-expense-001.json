@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-cody-vs-brooke-track-every-expense-001",
+  "character": "coach_vault",
+  "topic": "Tracking expenses vs eyeballing it (Cody vs Brooke)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "People who track expenses cut twenty three percent of their spending in the first month. I am Coach Vault and today two trainees check the score. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a giant scoreboard labeled SPENDING SCORE, comic burst banner reads TWENTY THREE PERCENT CUT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cody and Brooke both bring home four thousand dollars a month and both have no idea where their money goes by the end of each month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man cody at a table shrugging at empty bank app, right side woman brooke at the same table, both with question marks, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Cody eyeballs his spending. He swears he eats out about three times a week and shops only when he really needs something.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cody on a couch waving a hand at a phone screen, comic banner reads I THINK I SPEND ABOUT, question marks floating around, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Brooke logs every single expense for a month in a free budget app and reviews her categories every Sunday morning over coffee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman brooke at a kitchen table with a phone budget app open, weekly review notes labeled SUNDAY REVIEW pinned to the fridge, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Cody is shocked to learn his bank cleared eight hundred dollars in restaurants and four hundred in random delivery fees that month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man cody at a kitchen table reading a bank statement, comic banner reads TWELVE HUNDRED IN FOOD, his eyes wide, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Brooke's tracking exposed three hundred dollars in subscriptions and two hundred in impulse buys. She cut both and saved five hundred dollars in month one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side cody with a giant restaurant bill, right side brooke with a savings app showing FIVE HUNDRED IN ONE MONTH, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Track every expense for thirty days. The score makes the changes obvious. You cannot fix what you do not measure. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading TRACK EVERY DOLLAR, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}
