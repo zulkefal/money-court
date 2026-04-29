@@ -29,7 +29,7 @@ from pipeline.logger import get_logger
 
 logger = get_logger("assembler")
 
-CAPTION_FONTSIZE = 80
+CAPTION_FONTSIZE = 60
 # Caption Y as a fraction of frame height (~24% from bottom). Works for both
 # 9:16 (h=1920 -> 460px from bottom, above mobile UI overlap) and 16:9
 # (h=1080 -> 259px from bottom, comfortably below the action).

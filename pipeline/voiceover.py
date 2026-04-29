@@ -63,7 +63,7 @@ async def _generate_async(
 ) -> None:
     mp3_dest.parent.mkdir(parents=True, exist_ok=True)
     communicate = edge_tts.Communicate(
-        text, voice=voice, rate="-8%", boundary="WordBoundary"
+        text, voice=voice, rate="+12%", boundary="WordBoundary"
     )
     boundaries: list[dict] = []
     with mp3_dest.open("wb") as f:
