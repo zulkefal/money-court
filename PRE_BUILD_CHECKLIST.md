@@ -1,4 +1,4 @@
-# Pre-Build Checklist — The Money Crew
+# Pre-Build Checklist — The Money Court
 
 **Status:** Pre-build phase. Do not start coding the pipeline until all blockers below are resolved.
 **Created:** 2026-04-26

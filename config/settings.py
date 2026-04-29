@@ -1,4 +1,4 @@
-"""Central config for The Money Crew pipeline. All paths and constants live here."""
+"""Central config for The Money Court pipeline. All paths and constants live here."""
 from __future__ import annotations
 
 import os
