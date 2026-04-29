@@ -22,7 +22,7 @@ Four permanent mascots. Always use these consistently. Never invent new characte
 | Character | Niche | Format opener | Format closer | Voice (edge-tts) |
 |-----------|-------|---------------|---------------|-------------------|
 | **Judge Vera** | Debt, contracts, lawsuits, financial law | "Court is in session!" | "Court dismissed!" | `en-US-AriaNeural` |
-| **Detective Cash** | Scams, fraud, phishing, identity theft, romance scams, crypto rugpulls | "Case file 0042. Time of incident…" | "Case closed." | `en-US-DavisNeural` |
+| **Detective Cash** | Scams, fraud, phishing, identity theft, romance scams, crypto rugpulls | "Case file 0042. Time of incident…" | "Case closed." | `en-US-RogerNeural` |
 | **Coach Vault** | Savings discipline, emergency fund, debt-payoff workout, spending diet | "Today's training session begins now!" | "Drop and give me twenty bucks!" | `en-US-GuyNeural` |
 | **Doctor Dollar** | Credit score, debt-to-income, net worth audit, retirement readiness | "Today's patient checkup starts here." | "See you next visit. Stay financially healthy!" | `en-US-EmmaNeural` |
 

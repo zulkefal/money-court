@@ -23,7 +23,7 @@ logger = get_logger("voiceover")
 
 CHARACTER_VOICES = {
     "judge_vera":     "en-US-AriaNeural",     # confident, authoritative adult female — judge tone
-    "detective_cash": "en-US-DavisNeural",    # gruff investigative male — noir detective
+    "detective_cash": "en-US-RogerNeural",    # mature, serious male — noir detective (Davis was retired by MS)
     "coach_vault":    "en-US-GuyNeural",      # energetic upbeat male — fitness coach
     "doctor_dollar":  "en-US-EmmaNeural",     # warm reassuring female — doctor tone
 }
