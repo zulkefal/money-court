@@ -95,12 +95,8 @@ Per-character signature lines:
 
 TITLE rules (for the JSON's `title` field):
 - Lead with a $ amount or shocking number — quantify the hook
-- Include 1–2 emoji from the character's set:
-    judge_vera: ⚖️ 🔨
-    detective_cash: 🕵️ 🔍 🚨
-    coach_vault: 💪 💰 🔔
-    doctor_dollar: 🩺 💊 📈
-- Keep ≤ 75 chars total
+- NO emojis, NO icons, NO unicode symbols — plain ASCII text only
+- Keep <= 75 chars total
 - End with " | Money Court #shorts"
 
 IMAGE_PROMPT rules:

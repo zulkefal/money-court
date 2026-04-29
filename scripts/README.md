@@ -109,14 +109,14 @@ That's it. Drop the file in `scripts/`, commit, push. The next daily run will pi
 
 If you write a custom `title` field:
 - **Lead with a $ amount or shocking number** — quantify the hook
-- **Include 1–2 emoji** from this set: ⚖️ 🔨 💸 😱 💰 📉
-- **≤ 75 characters total**
+- **No emojis, no unicode symbols** — plain ASCII only
+- **<= 75 characters total**
 - **End with** ` | Money Court #shorts`
 
 Examples:
-- `Sued for $8,000?! ⚖️😱 Dan vs Zoe | Money Court #shorts`
-- `Wages Garnished 25% 🔨 Dan vs Zoe | Money Court #shorts`
-- `She Saved $3,500 by Calling 💰 Dan vs Zoe | Money Court #shorts`
+- `Sued for $8,000?! Dan vs Zoe | Money Court #shorts`
+- `Wages Garnished 25% Dan vs Zoe | Money Court #shorts`
+- `She Saved $3,500 by Calling Smart | Money Court #shorts`
 
 ## The winning verdict format
 

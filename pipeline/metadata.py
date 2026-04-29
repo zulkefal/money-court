@@ -17,9 +17,9 @@ class VideoMetadata(TypedDict):
 
 
 CHANNEL_PITCH = (
-    "🎬 Welcome to Money Court — Judge Vera, Detective Cash, Coach Vault & Doctor Dollar\n"
-    "    break down real-world money cases every day!\n"
-    "📱 New episode daily\n"
+    "Welcome to Money Court — Judge Vera, Detective Cash, Coach Vault & Doctor Dollar\n"
+    "break down real-world money cases every day.\n"
+    "New episode daily.\n"
 )
 
 DEFAULT_HASHTAGS = (
@@ -73,12 +73,12 @@ CORE_TAGS = [
     "debt advice", "credit advice",
 ]
 
-# Per-character emoji pair — used when generating a clickbaity title fallback
+# Per-character emoji pair — kept for back-compat but emojis stripped per user request.
 CHARACTER_EMOJI = {
-    "judge_vera":     "⚖️🔨",
-    "detective_cash": "🕵️🔍",
-    "coach_vault":    "💪💰",
-    "doctor_dollar":  "🩺💊",
+    "judge_vera":     "",
+    "detective_cash": "",
+    "coach_vault":    "",
+    "doctor_dollar":  "",
 }
 
 # Word-form numbers spoken in narration → numeric strings, for title extraction
@@ -142,8 +142,7 @@ def _extract_biggest_dollar_amount(narrations: list[str]) -> str | None:
 
 
 def _default_title(topic: str, character: str, narrations: list[str]) -> str:
-    """Clickbaity fallback title — leads with a $ figure + emoji."""
-    emoji = CHARACTER_EMOJI.get(character, "💰")
+    """Clickbaity fallback title — leads with a $ figure (no emoji)."""
     amount = _extract_biggest_dollar_amount(narrations)
     # Pull the "X vs Y" comparison out of the topic if present
     comparison = ""
@@ -152,17 +151,17 @@ def _default_title(topic: str, character: str, narrations: list[str]) -> str:
         comparison = comp.rstrip(")").strip()
     suffix = " | Money Court #shorts"
     if amount and comparison:
-        head = f"{amount} {emoji} {comparison}"
+        head = f"{amount} {comparison}"
     elif amount:
-        head = f"{amount} {emoji} {topic.split('(')[0].strip()}"
+        head = f"{amount} {topic.split('(')[0].strip()}"
     elif comparison:
-        head = f"{emoji} {comparison}"
+        head = comparison
     else:
-        head = f"{emoji} {topic[:60]}"
+        head = topic[:60]
     title = head + suffix
-    # YouTube hard cap is 100; aim for ≤75 for better mobile display
+    # YouTube hard cap is 100; aim for <=75 for better mobile display
     if len(title) > 100:
-        title = title[:97] + "…"
+        title = title[:97] + "..."
     return title
 
 
