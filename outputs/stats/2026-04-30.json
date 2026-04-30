@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-30",
+  "snapshot_at": "2026-04-30T07:02:26.827348+00:00",
+  "videos": [
+    {
+      "video_id": "-vRCJgDMpMI",
+      "title": "$6,000 \ud83d\udd75\ufe0f\ud83d\udd0d Bo vs Sage | Money Court #shorts",
+      "published_at": "2026-04-29T19:15:00Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 26,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 26.0
+    },
+    {
+      "video_id": "b3qZWPOA2tg",
+      "title": "$8,000 Bruno vs Diana | Money Court #shorts",
+      "published_at": "2026-04-30T06:46:58Z",
+      "privacy_status": "private",
+      "duration_sec": 67,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.0
+    }
+  ]
+}
