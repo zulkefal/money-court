@@ -37,6 +37,9 @@ CAPTION_Y_FRACTION_FROM_BOTTOM = 0.24
 CAPTION_FONTCOLOR = "white"
 CAPTION_BORDERCOLOR = "black"
 CAPTION_BORDERW = 6
+# Karaoke highlight: yellow box behind the currently-spoken word.
+CAPTION_HIGHLIGHT_COLOR = "yellow"
+CAPTION_HIGHLIGHT_PADDING = 8  # boxborderw, in px — small visual padding around the word
 
 # Background music volume relative to narrator. 0.10 = music at 10% — present
 # but stays well under the voice. Tune higher for more prominent music.
@@ -79,27 +82,96 @@ def _motion_filter(scene_idx: int, total_frames: int, width: int, height: int) -
     )
 
 
+def _measure_word_widths(font_path: Path, fontsize: int, words: list[str]) -> tuple[list[int], int]:
+    """Return (per-word pixel widths, space width) using Pillow + freetype.
+
+    Pillow and FFmpeg drawtext both rasterize via freetype, so the measurements
+    line up closely enough that per-word X positions look natural inside the
+    centered phrase. Sub-pixel drift is invisible at video scale.
+    """
+    from PIL import ImageFont
+
+    font = ImageFont.truetype(str(font_path), fontsize)
+    widths: list[int] = []
+    for w in words:
+        bbox = font.getbbox(w)
+        widths.append(int(round(bbox[2] - bbox[0])))
+    space_bbox = font.getbbox(" ")
+    space_w = int(round(space_bbox[2] - space_bbox[0]))
+    return widths, space_w
+
+
 def _captions_filter(captions_json: Path, height: int, fontsize: int) -> str:
-    """Build a chain of drawtext filters with timed enable= expressions."""
+    """Build a drawtext chain that renders captions with a karaoke yellow highlight.
+
+    Per cue we emit two drawtext layers per word:
+      1. base   — white text + black border, visible for the whole cue
+      2. accent — same text on a yellow `box=1` background, visible only during
+                  that word's WordBoundary window
+
+    Words are positioned individually using freetype-measured widths so the trio
+    stays centered as a phrase. Falls back to the legacy single-phrase render if
+    a cue lacks per-word timings (older cached captions JSON).
+    """
     cues = json.loads(captions_json.read_text())
     if not cues:
         return ""
     caption_y = f"h-{int(height * CAPTION_Y_FRACTION_FROM_BOTTOM)}"
     parts: list[str] = []
     for c in cues:
-        text = c["text"]
-        enable = f"between(t\\,{c['start']:.3f}\\,{c['end']:.3f})"
-        parts.append(
-            f"drawtext=fontfile={CAPTION_FONT}"
-            f":text='{text}'"
-            f":fontsize={fontsize}"
-            f":fontcolor={CAPTION_FONTCOLOR}"
-            f":bordercolor={CAPTION_BORDERCOLOR}"
-            f":borderw={CAPTION_BORDERW}"
-            f":x=(w-text_w)/2"
-            f":y={caption_y}"
-            f":enable='{enable}'"
-        )
+        words = c.get("words")
+        if not words:
+            enable = f"between(t\\,{c['start']:.3f}\\,{c['end']:.3f})"
+            parts.append(
+                f"drawtext=fontfile={CAPTION_FONT}"
+                f":text='{c['text']}'"
+                f":fontsize={fontsize}"
+                f":fontcolor={CAPTION_FONTCOLOR}"
+                f":bordercolor={CAPTION_BORDERCOLOR}"
+                f":borderw={CAPTION_BORDERW}"
+                f":x=(w-text_w)/2"
+                f":y={caption_y}"
+                f":enable='{enable}'"
+            )
+            continue
+
+        word_texts = [w["text"] for w in words]
+        widths, space_w = _measure_word_widths(CAPTION_FONT, fontsize, word_texts)
+        phrase_w = sum(widths) + space_w * (len(words) - 1)
+        cue_enable = f"between(t\\,{c['start']:.3f}\\,{c['end']:.3f})"
+
+        cur_x = 0
+        for i, w in enumerate(words):
+            x_expr = f"(w-{phrase_w})/2+{cur_x}"
+            word_enable = f"between(t\\,{w['start']:.3f}\\,{w['end']:.3f})"
+            # Base white-on-black-border layer for the full cue duration.
+            parts.append(
+                f"drawtext=fontfile={CAPTION_FONT}"
+                f":text='{w['text']}'"
+                f":fontsize={fontsize}"
+                f":fontcolor={CAPTION_FONTCOLOR}"
+                f":bordercolor={CAPTION_BORDERCOLOR}"
+                f":borderw={CAPTION_BORDERW}"
+                f":x={x_expr}"
+                f":y={caption_y}"
+                f":enable='{cue_enable}'"
+            )
+            # Yellow-box accent during this word's WordBoundary window.
+            parts.append(
+                f"drawtext=fontfile={CAPTION_FONT}"
+                f":text='{w['text']}'"
+                f":fontsize={fontsize}"
+                f":fontcolor={CAPTION_FONTCOLOR}"
+                f":bordercolor={CAPTION_BORDERCOLOR}"
+                f":borderw={CAPTION_BORDERW}"
+                f":box=1"
+                f":boxcolor={CAPTION_HIGHLIGHT_COLOR}"
+                f":boxborderw={CAPTION_HIGHLIGHT_PADDING}"
+                f":x={x_expr}"
+                f":y={caption_y}"
+                f":enable='{word_enable}'"
+            )
+            cur_x += widths[i] + space_w
     return ",".join(parts)
 
 

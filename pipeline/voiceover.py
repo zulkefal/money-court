@@ -3,7 +3,17 @@
 Each scene gets:
   outputs/voiceovers/<video_id>/scene_NN.mp3
   outputs/voiceovers/<video_id>/scene_NN.captions.json
-    -> [{"start": 0.0, "end": 1.5, "text": "COURT IS IN SESSION"}, ...]
+    -> [
+         {
+           "start": 0.0, "end": 1.5, "text": "COURT IS IN",
+           "words": [
+             {"text": "COURT", "start": 0.0, "end": 0.4},
+             {"text": "IS",    "start": 0.4, "end": 0.6},
+             {"text": "IN",    "start": 0.6, "end": 1.5}
+           ]
+         }, ...
+       ]
+The per-word timings drive the karaoke-style yellow highlight in the assembler.
 """
 from __future__ import annotations
 
@@ -42,19 +52,42 @@ def _sanitize_caption(text: str) -> str:
 def _build_captions(
     boundaries: list[dict], group_size: int = WORDS_PER_CAPTION
 ) -> list[dict]:
-    """Group word boundaries into N-word captions; return list of timed cues."""
+    """Group word boundaries into N-word captions with per-word timings.
+
+    Each cue carries `start`/`end` covering the whole group plus a `words` list
+    where each word has its own `start`/`end`. The word's `end` is the next
+    word's `start` (or the group end for the last word) so the karaoke highlight
+    hands off smoothly with no gaps.
+    """
     cues: list[dict] = []
     for start in range(0, len(boundaries), group_size):
         group = boundaries[start : start + group_size]
         if not group:
             continue
-        first = group[0]
-        last = group[-1]
-        start_s = first["offset"] / 10_000_000
-        end_s = (last["offset"] + last["duration"]) / 10_000_000
-        text = _sanitize_caption(" ".join(b["text"] for b in group))
-        if text:
-            cues.append({"start": round(start_s, 3), "end": round(end_s, 3), "text": text})
+        words_out: list[dict] = []
+        for i, b in enumerate(group):
+            w_text = _sanitize_caption(b["text"])
+            if not w_text:
+                continue
+            w_start = b["offset"] / 10_000_000
+            if i + 1 < len(group):
+                w_end = group[i + 1]["offset"] / 10_000_000
+            else:
+                w_end = (b["offset"] + b["duration"]) / 10_000_000
+            words_out.append(
+                {"text": w_text, "start": round(w_start, 3), "end": round(w_end, 3)}
+            )
+        if not words_out:
+            continue
+        text = " ".join(w["text"] for w in words_out)
+        cues.append(
+            {
+                "start": words_out[0]["start"],
+                "end": words_out[-1]["end"],
+                "text": text,
+                "words": words_out,
+            }
+        )
     return cues
 
 
