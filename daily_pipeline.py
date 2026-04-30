@@ -21,7 +21,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import random
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
@@ -41,13 +40,12 @@ QUEUE_DIR = Path("scripts")
 ARCHIVE_DIR = QUEUE_DIR / "archive"
 TARGET_QUEUE_DEPTH = 5
 
-# Random publishAt windows per slot. Two-slot day = morning + evening, with
-# random minute offsets so the channel doesn't always post at the same exact
-# time (looks more human, gives broader algo testing across hours).
-SLOT_WINDOWS = {
-    1: [(11, 14)],                  # 1/day: midday block
-    2: [(9, 12), (17, 20)],         # 2/day: late-morning + early-evening
-    3: [(9, 11), (13, 16), (18, 21)],  # 3/day: morning, afternoon, evening
+# Fixed publishAt times per slot (PKT). Same time every day so the audience
+# learns when to expect a new video. Two-slot day = morning + evening.
+SLOT_TIMES = {
+    1: [(12, 0)],                       # 1/day: noon
+    2: [(12, 30), (13, 30)],            # TEMP smoke test: 12:30 + 13:30 PKT (revert to 10:00/18:00 after verifying)
+    3: [(10, 0), (14, 0), (19, 0)],     # 3/day: morning, afternoon, evening
 }
 
 
@@ -63,15 +61,13 @@ def _next_character(history_path: Path) -> str:
     return ROTATION[(idx + 1) % len(ROTATION)]
 
 
-def _random_publish_at(target_date: date, slot_idx: int, slots_per_day: int) -> str:
-    """Pick a random RFC-3339 timestamp inside the slot's window for `target_date`."""
-    windows = SLOT_WINDOWS.get(slots_per_day, SLOT_WINDOWS[1])
-    start_h, end_h = windows[slot_idx]
-    hour = random.randint(start_h, max(start_h, end_h - 1))
-    minute = random.choice([0, 7, 13, 19, 22, 27, 31, 38, 41, 47, 53, 58])
+def _publish_at(target_date: date, slot_idx: int, slots_per_day: int) -> str:
+    """RFC-3339 timestamp for this slot's fixed daily time on `target_date`."""
+    times = SLOT_TIMES.get(slots_per_day, SLOT_TIMES[1])
+    hour, minute = times[slot_idx]
     dt = datetime(target_date.year, target_date.month, target_date.day,
                   hour, minute, 0, tzinfo=PKT)
-    # If chosen time has already passed today, push to tomorrow's same window
+    # If today's slot time has already passed, schedule for tomorrow.
     if dt < datetime.now(PKT) + timedelta(minutes=10):
         dt += timedelta(days=1)
     return dt.isoformat()
@@ -195,7 +191,7 @@ def _run_one_slot(
         logger.info("  --dry-run set; stopping after script selection")
         return
 
-    publish_at = publish_at_override or _random_publish_at(date.today(), slot_idx, slots_per_day)
+    publish_at = publish_at_override or _publish_at(date.today(), slot_idx, slots_per_day)
     logger.info(f"  publishAt: {publish_at}")
 
     from make_video import main as render_main
@@ -227,8 +223,8 @@ def main(
     publish_at: str | None,
     slots: int,
 ) -> None:
-    if slots not in SLOT_WINDOWS:
-        raise SystemExit(f"--slots must be one of {sorted(SLOT_WINDOWS)}")
+    if slots not in SLOT_TIMES:
+        raise SystemExit(f"--slots must be one of {sorted(SLOT_TIMES)}")
     for slot_idx in range(slots):
         _run_one_slot(
             slot_idx=slot_idx,
@@ -258,8 +254,8 @@ if __name__ == "__main__":
         type=int,
         default=1,
         choices=[1, 2, 3],
-        help="Videos per day. 2 = morning + evening. Each slot picks a random "
-             "minute within its hour-window so post times don't look robotic.",
+        help="Videos per day. 2 = morning + evening. Each slot publishes at a "
+             "fixed daily time (see SLOT_TIMES) so the audience knows when to expect it.",
     )
     args = parser.parse_args()
     main(

@@ -1,10 +1,10 @@
 name: Daily Money Court video
 
 on:
-  # 04:00 UTC = 09:00 PKT. daily_pipeline.py picks its own publishAt window
-  # within PKT working hours, so this just needs to fire well before that.
+  # TEMP: 06:45 UTC = 11:45 PKT for today's smoke test (publishAt 12:30/13:30 PKT).
+  # Once verified, revert to '0 4 * * *' (= 09:00 PKT) and 10:00 PKT publish window.
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '45 6 * * *'
   workflow_dispatch:
     inputs:
       character:
