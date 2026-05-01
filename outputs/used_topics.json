@@ -93,5 +93,15 @@
     "date": "2026-04-30",
     "character": "detective_cash",
     "topic": "Fake check overpayment \u2014 stopping the wire vs sending it (Frank vs Lucy)"
+  },
+  {
+    "date": "2026-05-01",
+    "character": "detective_cash",
+    "topic": "Crypto rugpull \u2014 researching vs ape buying (Hugo vs Nina)"
+  },
+  {
+    "date": "2026-05-01",
+    "character": "detective_cash",
+    "topic": "Fake Zelle screenshot \u2014 confirming in app vs trusting screens (Jett vs Kira)"
   }
 ]

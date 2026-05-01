@@ -1,9 +1,11 @@
-Stats snapshot for 2026-04-30
-Compared to: 2026-04-29
+Stats snapshot for 2026-05-01
+Compared to: 2026-04-30
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$2,000 Carla vs Jed | Money Court #shorts                         73      —    73.0    0   0     public
-$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                       36      —    36.0    1   0     public
-$8,000 Bruno vs Diana | Money Court #shorts                       24      —    24.0    0   0     public
-$1,100 Cole vs Sasha | Money Court #shorts                         0      —     0.0    0   0    private
+$1,100 Cole vs Sasha | Money Court #shorts                       241   +241   241.0    9   0     public
+$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      121    +85    76.8    3   0     public
+$2,000 Carla vs Jed | Money Court #shorts                        103    +30   100.6    1   0     public
+$4,000 Frank vs Lucy | Money Court #shorts                        82      —    82.0    2   0     public
+$8,000 Bruno vs Diana | Money Court #shorts                       37    +13    34.7    0   0     public
+$50,000 Hugo vs Nina | Money Court #shorts                         0      —     0.0    0   0    private
