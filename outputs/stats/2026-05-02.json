@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-02",
+  "snapshot_at": "2026-05-02T08:38:37.685426+00:00",
+  "videos": [
+    {
+      "video_id": "5G2vD8UefUs",
+      "title": "$4,000 Frank vs Lucy | Money Court #shorts",
+      "published_at": "2026-05-01T08:30:06Z",
+      "privacy_status": "public",
+      "duration_sec": 69,
+      "views": 983,
+      "likes": 21,
+      "comments": 0,
+      "views_per_day": 977.21
+    },
+    {
+      "video_id": "WWrxvmOKTFM",
+      "title": "$1,100 Cole vs Sasha | Money Court #shorts",
+      "published_at": "2026-05-01T07:30:14Z",
+      "privacy_status": "public",
+      "duration_sec": 65,
+      "views": 546,
+      "likes": 15,
+      "comments": 1,
+      "views_per_day": 521.24
+    },
+    {
+      "video_id": "-vRCJgDMpMI",
+      "title": "$6,000 \ud83d\udd75\ufe0f\ud83d\udd0d Bo vs Sage | Money Court #shorts",
+      "published_at": "2026-04-29T19:15:00Z",
+      "privacy_status": "public",
+      "duration_sec": 84,
+      "views": 154,
+      "likes": 5,
+      "comments": 0,
+      "views_per_day": 60.2
+    },
+    {
+      "video_id": "A5f13Qz0Xn0",
+      "title": "$2,000 Carla vs Jed | Money Court #shorts",
+      "published_at": "2026-04-30T08:30:05Z",
+      "privacy_status": "public",
+      "duration_sec": 64,
+      "views": 105,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 52.34
+    },
+    {
+      "video_id": "b3qZWPOA2tg",
+      "title": "$8,000 Bruno vs Diana | Money Court #shorts",
+      "published_at": "2026-04-30T07:30:27Z",
+      "privacy_status": "public",
+      "duration_sec": 67,
+      "views": 38,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 18.56
+    },
+    {
+      "video_id": "n74m12eNoNQ",
+      "title": "$50,000 Hugo vs Nina | Money Court #shorts",
+      "published_at": "2026-05-02T07:30:21Z",
+      "privacy_status": "public",
+      "duration_sec": 68,
+      "views": 32,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 32.0
+    },
+    {
+      "video_id": "NQp4fxCQ-5Y",
+      "title": "$400 Jett vs Kira | Money Court #shorts",
+      "published_at": "2026-05-02T08:30:21Z",
+      "privacy_status": "public",
+      "duration_sec": 62,
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "views_per_day": 8.0
+    },
+    {
+      "video_id": "eMdhfhHSVRo",
+      "title": "$20,000 Marco vs Eva | Money Court #shorts",
+      "published_at": "2026-05-02T08:25:49Z",
+      "privacy_status": "private",
+      "duration_sec": 70,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.0
+    }
+  ]
+}
