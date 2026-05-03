@@ -1,13 +1,15 @@
-Stats snapshot for 2026-05-02
-Compared to: 2026-05-01
+Stats snapshot for 2026-05-03
+Compared to: 2026-05-02
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$4,000 Frank vs Lucy | Money Court #shorts                       983   +901   977.2   21   0     public
-$1,100 Cole vs Sasha | Money Court #shorts                       546   +305   521.2   15   1     public
-$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      154    +33    60.2    5   0     public
-$2,000 Carla vs Jed | Money Court #shorts                        105     +2    52.3    1   0     public
-$8,000 Bruno vs Diana | Money Court #shorts                       38     +1    18.6    0   0     public
-$50,000 Hugo vs Nina | Money Court #shorts                        32    +32    32.0    0   0     public
-$400 Jett vs Kira | Money Court #shorts                            8      —     8.0    1   0     public
-$20,000 Marco vs Eva | Money Court #shorts                         0      —     0.0    0   0    private
+$4,000 Frank vs Lucy | Money Court #shorts                       979    +-4   486.6   21   0     public
+$400 Jett vs Kira | Money Court #shorts                          710   +702   701.6    7   0     public
+$1,100 Cole vs Sasha | Money Court #shorts                       548     +2   266.8   17   1     public
+$20,000 Marco vs Eva | Money Court #shorts                       255   +255   255.0    6   0     public
+$25,000 Otto vs Cleo | Money Court #shorts                       212      —   212.0    0   0     public
+$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      184    +30    51.6    6   0     public
+$2,000 Carla vs Jed | Money Court #shorts                        105      —    34.9    1   0     public
+$50,000 Hugo vs Nina | Money Court #shorts                        59    +27    56.0    0   0     public
+$8,000 Bruno vs Diana | Money Court #shorts                       38      —    12.4    0   0     public
+$1,000 Reese vs Holly | Money Court #shorts                        0      —     0.0    0   0    private
