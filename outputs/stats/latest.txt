@@ -1,17 +1,19 @@
-Stats snapshot for 2026-05-04
-Compared to: 2026-05-03
+Stats snapshot for 2026-05-05
+Compared to: 2026-05-04
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$4,000 Frank vs Lucy | Money Court #shorts                       983     +4   322.8   21   0     public
-$20,000 Marco vs Eva | Money Court #shorts                       811   +556   746.5   13   0     public
-$400 Jett vs Kira | Money Court #shorts                          798    +88   390.2    7   0     public
-$25,000 Otto vs Cleo | Money Court #shorts                       624   +412   597.1   16   1     public
-$1,100 Cole vs Sasha | Money Court #shorts                       549     +1   177.9   18   1     public
-$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      184      —    40.0    6   0     public
-$90,000 Rex vs Stella | Money Court #shorts                      108      —   108.0    3   0     public
-$2,000 Carla vs Jed | Money Court #shorts                        105      —    26.0    1   0     public
-$50,000 Hugo vs Nina | Money Court #shorts                        60     +1    28.8    0   0     public
-$1,000 Reese vs Holly | Money Court #shorts                       48    +48    48.0    1   0     public
-$8,000 Bruno vs Diana | Money Court #shorts                       38      —     9.3    0   0     public
-$2,000 Saul vs Pam | Money Court #shorts                           0      —     0.0    0   0    private
+$4,000 Frank vs Lucy | Money Court #shorts                       983      —   243.4   21   0     public
+$20,000 Marco vs Eva | Money Court #shorts                       815     +4   391.9   13   0     public
+$400 Jett vs Kira | Money Court #shorts                          799     +1   263.0    7   0     public
+$25,000 Otto vs Cleo | Money Court #shorts                       626     +2   307.2   16   1     public
+$1,100 Cole vs Sasha | Money Court #shorts                       550     +1   134.8   18   1     public
+$90,000 Rex vs Stella | Money Court #shorts                      426   +318   410.4    7   0     public
+$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      184      —    32.9    6   0     public
+$2,000 Carla vs Jed | Money Court #shorts                        105      —    20.8    1   0     public
+$1,000 Reese vs Holly | Money Court #shorts                       73    +25    67.6    2   0     public
+$50,000 Hugo vs Nina | Money Court #shorts                        60      —    19.5    0   0     public
+$8,000 Bruno vs Diana | Money Court #shorts                       38      —     7.5    0   0     public
+$3,000 Vince vs Maya | Money Court #shorts                         0      —     0.0    0   0    private
+$2,500 Tony vs Lila | Money Court #shorts                          0      —     0.0    0   0     public
+$2,000 Saul vs Pam | Money Court #shorts                           0      —     0.0    0   0     public
