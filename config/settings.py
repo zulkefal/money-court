@@ -1,4 +1,4 @@
-"""Central config for The Money Court pipeline. All paths and constants live here."""
+"""Central config for The 3AM Tape pipeline. All paths and constants live here."""
 from __future__ import annotations
 
 import os
@@ -15,6 +15,19 @@ REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN", "")
 YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
 YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")
 YOUTUBE_REFRESH_TOKEN = os.getenv("YOUTUBE_REFRESH_TOKEN", "")
+
+# Facebook Graph API — for Reels upload via pipeline/facebook_uploader.py.
+# Generate a non-expiring System User token in Meta Business Suite to avoid
+# the 60-day expiry on standard user tokens.
+FB_PAGE_ID = os.getenv("FB_PAGE_ID", "")
+FB_PAGE_ACCESS_TOKEN = os.getenv("FB_PAGE_ACCESS_TOKEN", "")
+
+# Instagram Graph API — for Reels upload via pipeline/instagram_uploader.py.
+# Uses the FB Login for Business path: same Page Access Token as FB_PAGE_ACCESS_TOKEN
+# (with instagram_basic + instagram_content_publish + pages_read_engagement scopes).
+# IG_USER_ID is the Instagram Business Account ID linked to the FB Page.
+# Look it up: GET /{FB_PAGE_ID}?fields=instagram_business_account in Graph API Explorer.
+IG_USER_ID = os.getenv("IG_USER_ID", "")
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", PROJECT_ROOT / "outputs")).resolve()
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
@@ -36,18 +49,23 @@ CLAUDE_MODEL = "claude-sonnet-4-6"
 VIDEO_WIDTH = 1080
 VIDEO_HEIGHT = 1920
 VIDEO_FPS = 30
-SCENES_PER_VIDEO = 10
-SCENE_DURATION_SECONDS = 5
+# Format: YouTube Shorts (vertical 9:16). YouTube raised the Shorts duration cap
+# from 60s to 180s in October 2024. We target 60-90 seconds — long enough for
+# proper analog-horror dread build-up, short enough to keep retention strong.
+# 12 scenes × ~6-7 sec each is the sweet spot. ~12-15 words narration per scene.
+SCENES_PER_VIDEO = 12
+SCENE_DURATION_SECONDS = 7
+SHORT_TARGET_DURATION_SECONDS = 90   # our target sweet spot
+SHORT_MAX_DURATION_SECONDS = 180     # hard cap before YouTube classifies as regular video
 
 # Need a full ffmpeg with libfreetype for drawtext/captions.
-# On this Mac, ffmpeg-full is keg-only at /usr/local/opt/ffmpeg-full/bin.
-# On VPS this should be `ffmpeg`/`ffprobe` once a full build is installed there.
 FFMPEG_BIN = os.getenv("FFMPEG_BIN", "/usr/local/opt/ffmpeg-full/bin/ffmpeg")
 FFPROBE_BIN = os.getenv("FFPROBE_BIN", "/usr/local/opt/ffmpeg-full/bin/ffprobe")
 
-# Caption font path. Overridable via env so CI/Linux can swap Impact (Mac-only,
-# proprietary) for Liberation Sans Bold (apt: fonts-liberation) or DejaVu.
+# Caption font path. Default is the bundled Anton (Google Fonts, OFL license).
+# Anton is bold-condensed sans — the standard "viral Shorts caption" font that
+# reads big and crisp at 90pt. Overridable via env if you want to swap.
 CAPTION_FONT = os.getenv(
     "CAPTION_FONT",
-    "/System/Library/Fonts/Supplemental/Impact.ttf",
+    str(FONTS_DIR / "Anton-Regular.ttf"),
 )

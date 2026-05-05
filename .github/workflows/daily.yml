@@ -1,46 +1,44 @@
 name: Daily Money Court video
 
 on:
-  # TEMP: 06:45 UTC = 11:45 PKT for today's smoke test (publishAt 12:30/13:30 PKT).
-  # Once verified, revert to '0 4 * * *' (= 09:00 PKT) and 10:00 PKT publish window.
+  # 2 uploads/day via daily_pipeline.py --slots 2 (morning + evening slot).
   schedule:
-    - cron: '45 6 * * *'
+    - cron: '45 6 * * *'   # 06:45 UTC = 11:45 PKT (publishAt 12:30/13:30 PKT)
   workflow_dispatch:
     inputs:
-      character:
-        description: 'Force a mascot (judge_vera / detective_cash / coach_vault / doctor_dollar). Empty = auto-rotate.'
-        required: false
-        default: ''
       topic:
-        description: 'Force a topic. Empty = pick next un-cooled-down topic.'
+        description: 'Force a topic for the next Claude generation (only used when queue is empty).'
         required: false
         default: ''
-      slots:
-        description: 'Videos this run (1, 2, or 3).'
-        required: false
-        default: '2'
       no_upload:
         description: 'Render only, skip YouTube upload.'
         type: boolean
         default: false
       dry_run:
-        description: 'Generate the script only, skip render and upload.'
+        description: 'Pick the next script and exit (no render, no upload).'
         type: boolean
         default: false
+
+# Concurrency lock: prevent two daily.yml runs from racing each other on
+# state commit-back. Without this, simultaneous fires (e.g. cron + manual
+# dispatch happening close together) can both pick the same queued script
+# and double-upload it. cancel-in-progress=false means later runs queue
+# behind the active one and fire when it finishes.
+concurrency:
+  group: daily-pipeline
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60   # 12-15 horror scenes × ~30 sec each = longer than money-crew Shorts
     permissions:
-      # Required so the bot can commit used_topics.json + the generated script back.
       contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Need full ref to push the cooldown-state commit back.
           persist-credentials: true
 
       - name: Set up Python 3.11
@@ -61,23 +59,27 @@ jobs:
 
       - name: Run daily pipeline
         env:
-          # YouTube OAuth (one-time bootstrap via auth.py, stored as repo secrets)
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-          # Claude (script_generator). Optional: if unset, daily_pipeline.py runs in
-          # JSON-only mode and only renders scripts already in scripts/*.json.
+          # Optional. Without it daily_pipeline.py runs in JSON-only mode
+          # and only renders hand-written scripts in scripts/*.json.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # Linux ffmpeg + caption font (override Mac defaults from settings.py)
+          # Optional. Without both, Facebook Reels upload is skipped silently.
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          # Optional. Without it, Instagram Reels upload is skipped silently.
+          # Reuses FB_PAGE_ACCESS_TOKEN above; needs instagram_basic +
+          # instagram_content_publish + pages_read_engagement on the app.
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
           FFMPEG_BIN: ffmpeg
           FFPROBE_BIN: ffprobe
           CAPTION_FONT: /usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf
           OUTPUT_DIR: ./outputs
           LOG_LEVEL: INFO
         run: |
-          ARGS="--slots ${{ inputs.slots || '2' }}"
-          if [ -n "${{ inputs.character }}" ]; then ARGS="$ARGS --character ${{ inputs.character }}"; fi
-          if [ -n "${{ inputs.topic }}" ];     then ARGS="$ARGS --topic \"${{ inputs.topic }}\""; fi
+          ARGS="--slots 2"
+          if [ -n "${{ inputs.topic }}" ];           then ARGS="$ARGS --topic \"${{ inputs.topic }}\""; fi
           if [ "${{ inputs.no_upload }}" = "true" ]; then ARGS="$ARGS --no-upload"; fi
           if [ "${{ inputs.dry_run }}" = "true" ];   then ARGS="$ARGS --dry-run"; fi
           echo "running: python daily_pipeline.py $ARGS"
@@ -91,22 +93,33 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           OUTPUT_DIR: ./outputs
         run: |
-          # Pull views/likes/comments for every video on the channel.
-          # Saves outputs/stats/<date>.json — grows by 1 file/day for trend analysis.
           python stats.py | tee outputs/stats/latest.txt || echo "stats step failed (non-fatal)"
 
-      - name: Commit cooldown state, archived script, queue backfill, stats
+      - name: Commit cooldown state + archived script + stats
         if: success()
         run: |
-          git config user.name  "money-crew-bot"
+          git config user.name  "the-3am-tape-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add outputs/used_topics.json outputs/stats/ scripts/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "no state changes to commit"
-          else
-            git commit -m "chore(daily): run $(date -u +%Y-%m-%d) [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(daily): run $(date -u +%Y-%m-%d) [skip ci]"
+          # Defensive rebase-then-push loop: even with concurrency lock,
+          # external pushes (manual fixes, README edits, etc.) can land
+          # between checkout and commit. Try up to 3 times to integrate.
+          for attempt in 1 2 3; do
+            echo "push attempt $attempt..."
+            if git pull --rebase origin main && git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed; retrying after 5s..."
+            sleep 5
+          done
+          echo "ERROR: failed to push state commit after 3 attempts"
+          exit 1
 
       - name: Upload rendered mp4 as artifact (no-upload runs only)
         if: success() && inputs.no_upload == true

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Money Court — Watermark (render)</title>
+<style>
+  html, body { margin: 0; padding: 0; background: transparent; }
+  body { width: 300px; height: 300px; }
+  svg { display: block; width: 300px; height: 300px; }
+</style>
+</head>
+<body>
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="goldFill" cx="50%" cy="38%" r="62%">
+      <stop offset="0%"   stop-color="#FFE57C"/>
+      <stop offset="55%"  stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#C68F00"/>
+    </radialGradient>
+    <linearGradient id="navyFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#1F4080"/>
+      <stop offset="100%" stop-color="#0E2247"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer thick black ring -->
+  <circle cx="150" cy="150" r="142" fill="#0B0B0B"/>
+  <!-- Navy disk -->
+  <circle cx="150" cy="150" r="128" fill="url(#navyFill)"/>
+  <!-- Gold accent ring -->
+  <circle cx="150" cy="150" r="118" fill="none"
+          stroke="#F5C518" stroke-width="4" opacity="0.9"/>
+
+  <!-- Smaller $ glyph in the upper portion to leave room for the wordmark -->
+  <text x="150" y="138"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+        font-size="115" font-weight="900"
+        fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="7"
+        paint-order="stroke fill">$</text>
+
+  <!-- Channel name stacked across two lines so each word stays readable
+       when YouTube renders the watermark at 150x150 in the player corner. -->
+  <text x="150" y="200"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+        font-size="42" font-weight="900" letter-spacing="3"
+        fill="#FFFFFF" stroke="#0B0B0B" stroke-width="4"
+        paint-order="stroke fill">MONEY</text>
+  <text x="150" y="244"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+        font-size="42" font-weight="900" letter-spacing="3"
+        fill="#FFFFFF" stroke="#0B0B0B" stroke-width="4"
+        paint-order="stroke fill">COURT</text>
+</svg>
+</body>
+</html>

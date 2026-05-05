@@ -63,6 +63,47 @@ def main(
         logger.info(f"=== Uploaded: {url} ===")
         print(f"\nYouTube URL: {url}")
 
+        # Facebook Reels upload — silently skipped when FB creds aren't configured.
+        # Non-fatal: a FB failure must not break YouTube archival in daily_pipeline.
+        from config.settings import (
+            FB_PAGE_ACCESS_TOKEN,
+            FB_PAGE_ID,
+            IG_USER_ID,
+        )
+        if FB_PAGE_ID and FB_PAGE_ACCESS_TOKEN:
+            from pipeline import facebook_uploader
+            logger.info("Step 5: uploading to Facebook Reels")
+            try:
+                fb_url = facebook_uploader.upload(
+                    video_path=final,
+                    title=meta["title"],
+                    description=meta["description"],
+                )
+                logger.info(f"=== FB Reel: {fb_url} ===")
+                print(f"Facebook URL: {fb_url}")
+            except Exception as e:
+                logger.warning(f"Facebook upload failed (non-fatal): {e}")
+        else:
+            logger.info("Step 5: Facebook upload skipped (FB_PAGE_ID / FB_PAGE_ACCESS_TOKEN not set)")
+
+        # Instagram Reels upload — reuses FB Page Access Token. Skipped silently
+        # when IG_USER_ID isn't set. Non-fatal like the FB step above.
+        if IG_USER_ID and FB_PAGE_ACCESS_TOKEN:
+            from pipeline import instagram_uploader
+            logger.info("Step 6: uploading to Instagram Reels")
+            try:
+                ig_url = instagram_uploader.upload(
+                    video_path=final,
+                    title=meta["title"],
+                    description=meta["description"],
+                )
+                logger.info(f"=== IG Reel: {ig_url} ===")
+                print(f"Instagram URL: {ig_url}")
+            except Exception as e:
+                logger.warning(f"Instagram upload failed (non-fatal): {e}")
+        else:
+            logger.info("Step 6: Instagram upload skipped (IG_USER_ID / FB_PAGE_ACCESS_TOKEN not set)")
+
     return final
 
 

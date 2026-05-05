@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Money Court — Channel Logo</title>
+<style>
+  :root {
+    --bg: #ececec;
+    --card: #ffffff;
+    --ink: #0b0b0b;
+    --navy-1: #1f4080;
+    --navy-2: #0e2247;
+    --gold-1: #ffe57c;
+    --gold-2: #f5c518;
+    --gold-3: #c68f00;
+    --wood: #a86a1f;
+    --red: #e54b3c;
+    --cream: #fff6e0;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: #333;
+  }
+  .stage {
+    width: 800px;
+    height: 800px;
+    background: var(--card);
+    border-radius: 16px;
+    box-shadow: 0 16px 48px rgba(0,0,0,.12);
+    display: grid;
+    place-items: center;
+    /* Take a screenshot of just this white card. */
+  }
+  .logo {
+    width: 720px;
+    height: 720px;
+  }
+  .hint {
+    font-size: 13px;
+    color: #666;
+    text-align: center;
+    max-width: 720px;
+    line-height: 1.5;
+  }
+  .hint code {
+    background: #fff;
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+</style>
+</head>
+<body>
+
+  <div class="stage">
+    <svg class="logo" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg" aria-label="Money Court logo">
+      <defs>
+        <radialGradient id="goldFill" cx="50%" cy="38%" r="62%">
+          <stop offset="0%"   stop-color="#FFE57C"/>
+          <stop offset="55%"  stop-color="#F5C518"/>
+          <stop offset="100%" stop-color="#C68F00"/>
+        </radialGradient>
+        <linearGradient id="navyFill" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%"   stop-color="#1F4080"/>
+          <stop offset="100%" stop-color="#0E2247"/>
+        </linearGradient>
+        <radialGradient id="redBurst" cx="50%" cy="50%" r="60%">
+          <stop offset="0%"   stop-color="#FF6B57"/>
+          <stop offset="100%" stop-color="#C8341F"/>
+        </radialGradient>
+        <clipPath id="diskClip">
+          <circle cx="360" cy="360" r="316"/>
+        </clipPath>
+      </defs>
+
+      <!-- Outer black ring (thick comic outline) -->
+      <circle cx="360" cy="360" r="346" fill="#0B0B0B"/>
+      <!-- Inner navy disk -->
+      <circle cx="360" cy="360" r="316" fill="url(#navyFill)"/>
+
+      <!-- Everything bursty/iconic clipped to the disk so nothing pokes out -->
+      <g clip-path="url(#diskClip)">
+
+        <!-- Subtle halftone dots for comic-book texture -->
+        <g fill="#FFFFFF" opacity="0.06">
+          <circle cx="120" cy="160" r="6"/>
+          <circle cx="160" cy="220" r="4"/>
+          <circle cx="100" cy="300" r="5"/>
+          <circle cx="200" cy="120" r="4"/>
+          <circle cx="600" cy="180" r="6"/>
+          <circle cx="560" cy="240" r="4"/>
+          <circle cx="620" cy="320" r="5"/>
+          <circle cx="540" cy="120" r="4"/>
+          <circle cx="140" cy="500" r="5"/>
+          <circle cx="580" cy="500" r="5"/>
+        </g>
+
+        <!-- Red comic burst behind the icon -->
+        <g transform="translate(360 320)">
+          <polygon
+            points="0,-220 30,-86 170,-100 70,-32 120,118 0,42 -120,118 -70,-32 -170,-100 -30,-86"
+            fill="url(#redBurst)"
+            stroke="#0B0B0B"
+            stroke-width="8"
+            stroke-linejoin="round"/>
+        </g>
+
+        <!-- Gavel — head top-left, handle pointing toward the dollar sign -->
+        <g transform="translate(228 196) rotate(-32)">
+          <!-- Handle -->
+          <rect x="-10" y="0" width="20" height="180" rx="6"
+                fill="#A86A1F" stroke="#0B0B0B" stroke-width="8"/>
+          <!-- Handle grip wraps -->
+          <rect x="-12" y="60"  width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+          <rect x="-12" y="100" width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+          <rect x="-12" y="140" width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+          <!-- Head -->
+          <rect x="-90" y="-44" width="180" height="92" rx="14"
+                fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="10"/>
+          <!-- Head end caps -->
+          <rect x="-90" y="-44" width="22" height="92"
+                fill="#C68F00" stroke="#0B0B0B" stroke-width="10"/>
+          <rect x="68"  y="-44" width="22" height="92"
+                fill="#C68F00" stroke="#0B0B0B" stroke-width="10"/>
+          <!-- Highlight stripe -->
+          <rect x="-66" y="-32" width="132" height="10" rx="4"
+                fill="#FFE57C" opacity="0.85"/>
+        </g>
+
+        <!-- Big dollar sign (the hero glyph) -->
+        <text x="360" y="430"
+              text-anchor="middle"
+              font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+              font-size="300"
+              font-weight="900"
+              fill="url(#goldFill)"
+              stroke="#0B0B0B"
+              stroke-width="14"
+              paint-order="stroke fill">$</text>
+
+        <!-- Tiny BAM stars to sell the "court strikes scams" energy -->
+        <g fill="#FFE57C" stroke="#0B0B0B" stroke-width="4" stroke-linejoin="round">
+          <polygon points="600,420 610,440 632,442 614,456 620,480 600,468 580,480 586,456 568,442 590,440"/>
+          <polygon points="120,460 128,476 146,478 132,489 137,508 120,498 103,508 108,489 94,478 112,476"/>
+        </g>
+
+        <!-- Bottom curve panel for the brand name -->
+        <!-- Solid banner behind the brand name, kept inside the disk so the
+             text never collides with the outer ring or gets clipped. -->
+        <rect x="40" y="540" width="640" height="110" rx="14"
+              fill="#0B0B0B" stroke="#F5C518" stroke-width="5"/>
+
+      </g>
+
+      <!-- Gold accent ring just inside the black outline -->
+      <circle cx="360" cy="360" r="298" fill="none"
+              stroke="#F5C518" stroke-width="6" opacity="0.85"/>
+
+      <!-- Straight horizontal brand text — most legible at avatar sizes -->
+      <text x="360" y="623"
+            text-anchor="middle"
+            font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+            font-size="78"
+            font-weight="900"
+            letter-spacing="6"
+            fill="#FFFFFF"
+            stroke="#0B0B0B"
+            stroke-width="5"
+            paint-order="stroke fill">MONEY COURT</text>
+    </svg>
+  </div>
+
+  <div class="hint">
+    Take a screenshot of the white card above (right-click on the page in macOS Preview is fine,
+    or use <code>Cmd+Shift+4</code> and drag a square around the card). YouTube channel avatars
+    are square — crop to the card's edges and upload. The art is a vector SVG, so it stays sharp
+    at any size from 24×24 thumbnails up to 800×800.
+  </div>
+
+</body>
+</html>

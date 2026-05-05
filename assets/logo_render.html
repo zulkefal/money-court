@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Money Court Logo (render)</title>
+<style>
+  html, body { margin: 0; padding: 0; background: transparent; }
+  body { width: 1024px; height: 1024px; }
+  svg { display: block; width: 1024px; height: 1024px; }
+</style>
+</head>
+<body>
+<svg viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="goldFill" cx="50%" cy="38%" r="62%">
+      <stop offset="0%"   stop-color="#FFE57C"/>
+      <stop offset="55%"  stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#C68F00"/>
+    </radialGradient>
+    <linearGradient id="navyFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#1F4080"/>
+      <stop offset="100%" stop-color="#0E2247"/>
+    </linearGradient>
+    <radialGradient id="redBurst" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#FF6B57"/>
+      <stop offset="100%" stop-color="#C8341F"/>
+    </radialGradient>
+    <clipPath id="diskClip">
+      <circle cx="360" cy="360" r="316"/>
+    </clipPath>
+  </defs>
+
+  <circle cx="360" cy="360" r="346" fill="#0B0B0B"/>
+  <circle cx="360" cy="360" r="316" fill="url(#navyFill)"/>
+
+  <g clip-path="url(#diskClip)">
+    <g fill="#FFFFFF" opacity="0.06">
+      <circle cx="120" cy="160" r="6"/>
+      <circle cx="160" cy="220" r="4"/>
+      <circle cx="100" cy="300" r="5"/>
+      <circle cx="200" cy="120" r="4"/>
+      <circle cx="600" cy="180" r="6"/>
+      <circle cx="560" cy="240" r="4"/>
+      <circle cx="620" cy="320" r="5"/>
+      <circle cx="540" cy="120" r="4"/>
+      <circle cx="140" cy="500" r="5"/>
+      <circle cx="580" cy="500" r="5"/>
+    </g>
+
+    <g transform="translate(360 320)">
+      <polygon
+        points="0,-220 30,-86 170,-100 70,-32 120,118 0,42 -120,118 -70,-32 -170,-100 -30,-86"
+        fill="url(#redBurst)"
+        stroke="#0B0B0B"
+        stroke-width="8"
+        stroke-linejoin="round"/>
+    </g>
+
+    <g transform="translate(228 196) rotate(-32)">
+      <rect x="-10" y="0" width="20" height="180" rx="6"
+            fill="#A86A1F" stroke="#0B0B0B" stroke-width="8"/>
+      <rect x="-12" y="60"  width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+      <rect x="-12" y="100" width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+      <rect x="-12" y="140" width="24" height="6" fill="#0B0B0B" opacity="0.55"/>
+      <rect x="-90" y="-44" width="180" height="92" rx="14"
+            fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="10"/>
+      <rect x="-90" y="-44" width="22" height="92"
+            fill="#C68F00" stroke="#0B0B0B" stroke-width="10"/>
+      <rect x="68"  y="-44" width="22" height="92"
+            fill="#C68F00" stroke="#0B0B0B" stroke-width="10"/>
+      <rect x="-66" y="-32" width="132" height="10" rx="4"
+            fill="#FFE57C" opacity="0.85"/>
+    </g>
+
+    <text x="360" y="430"
+          text-anchor="middle"
+          font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+          font-size="300"
+          font-weight="900"
+          fill="url(#goldFill)"
+          stroke="#0B0B0B"
+          stroke-width="14"
+          paint-order="stroke fill">$</text>
+
+    <g fill="#FFE57C" stroke="#0B0B0B" stroke-width="4" stroke-linejoin="round">
+      <polygon points="600,420 610,440 632,442 614,456 620,480 600,468 580,480 586,456 568,442 590,440"/>
+      <polygon points="120,460 128,476 146,478 132,489 137,508 120,498 103,508 108,489 94,478 112,476"/>
+    </g>
+
+    <!-- Solid black banner for the brand name. Stays well inside the disk so
+         no descender gets clipped by the outer ring. -->
+    <rect x="40" y="540" width="640" height="110" rx="14"
+          fill="#0B0B0B" stroke="#F5C518" stroke-width="5"/>
+  </g>
+
+  <circle cx="360" cy="360" r="298" fill="none"
+          stroke="#F5C518" stroke-width="6" opacity="0.85"/>
+
+  <text x="360" y="623"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+        font-size="78"
+        font-weight="900"
+        letter-spacing="6"
+        fill="#FFFFFF"
+        stroke="#0B0B0B"
+        stroke-width="5"
+        paint-order="stroke fill">MONEY COURT</text>
+</svg>
+</body>
+</html>

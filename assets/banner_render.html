@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Money Court — YouTube Banner (render)</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #000; }
+  body { width: 2048px; height: 1152px; }
+  svg { display: block; width: 2048px; height: 1152px; }
+</style>
+</head>
+<body>
+<svg viewBox="0 0 2048 1152" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="goldFill" cx="50%" cy="38%" r="62%">
+      <stop offset="0%"   stop-color="#FFE57C"/>
+      <stop offset="55%"  stop-color="#F5C518"/>
+      <stop offset="100%" stop-color="#C68F00"/>
+    </radialGradient>
+    <linearGradient id="bgFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#1F4080"/>
+      <stop offset="100%" stop-color="#0A1B3A"/>
+    </linearGradient>
+    <radialGradient id="redBurst" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#FF6B57"/>
+      <stop offset="100%" stop-color="#C8341F"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="2.2" fill="#FFFFFF" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="2048" height="1152" fill="url(#bgFill)"/>
+  <rect width="2048" height="1152" fill="url(#dots)"/>
+
+  <!-- ============================================================
+       Decorative content OUTSIDE the safe zone (only fully visible on
+       TV / wide desktop). Mobile crop hides most of this; the safe
+       zone (1235x338 centered) still carries the brand on its own.
+       ============================================================ -->
+
+  <!-- Far-left comic burst with oversized gavel -->
+  <g transform="translate(280 576)">
+    <polygon
+      points="0,-380 60,-160 340,-180 140,-50 240,210 0,90 -240,210 -140,-50 -340,-180 -60,-160"
+      fill="url(#redBurst)" stroke="#0B0B0B" stroke-width="10" stroke-linejoin="round"/>
+    <g transform="rotate(-22)">
+      <rect x="-22" y="-20" width="44" height="240" rx="10"
+            fill="#A86A1F" stroke="#0B0B0B" stroke-width="10"/>
+      <rect x="-30" y="60" width="60" height="14" fill="#0B0B0B" opacity="0.6"/>
+      <rect x="-30" y="120" width="60" height="14" fill="#0B0B0B" opacity="0.6"/>
+      <rect x="-160" y="-110" width="320" height="170" rx="22"
+            fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="14"/>
+      <rect x="-160" y="-110" width="40" height="170" fill="#C68F00" stroke="#0B0B0B" stroke-width="14"/>
+      <rect x="120"  y="-110" width="40" height="170" fill="#C68F00" stroke="#0B0B0B" stroke-width="14"/>
+      <rect x="-130" y="-90" width="240" height="22" rx="6" fill="#FFE57C" opacity="0.85"/>
+    </g>
+  </g>
+
+  <!-- Far-right giant $ inside a yellow burst -->
+  <g transform="translate(1810 576)">
+    <polygon
+      points="0,-300 50,-110 270,-130 110,-30 190,170 0,70 -190,170 -110,-30 -270,-130 -50,-110"
+      fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="10" stroke-linejoin="round"/>
+    <text x="0" y="80" text-anchor="middle"
+          font-family="Impact, sans-serif" font-size="320" font-weight="900"
+          fill="#0E2247" stroke="#0B0B0B" stroke-width="10"
+          paint-order="stroke fill">$</text>
+  </g>
+
+  <!-- Faint floating $ signs on the outer edges -->
+  <text x="80"  y="240" font-family="Impact, sans-serif" font-size="220"
+        font-weight="900" fill="#F5C518" opacity="0.14">$</text>
+  <text x="80"  y="1080" font-family="Impact, sans-serif" font-size="200"
+        font-weight="900" fill="#F5C518" opacity="0.14">$</text>
+  <text x="1820" y="1080" font-family="Impact, sans-serif" font-size="220"
+        font-weight="900" fill="#F5C518" opacity="0.14">$</text>
+
+  <!-- ============================================================
+       SAFE ZONE: 1235x338 centered (x:406..1641, y:407..745).
+       Everything below stays inside this band so it's visible on
+       phones, desktop, and TV without any cropping.
+       ============================================================ -->
+
+  <!-- TITLE -->
+  <text x="1024" y="500"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', 'Arial Black', sans-serif"
+        font-size="180" font-weight="900" letter-spacing="6"
+        fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="12"
+        paint-order="stroke fill">MONEY COURT</text>
+
+  <!-- TAGLINE -->
+  <text x="1024" y="582"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', sans-serif"
+        font-size="48" letter-spacing="8"
+        fill="#FFFFFF" stroke="#0B0B0B" stroke-width="4"
+        paint-order="stroke fill">DAILY FINANCE SHORTS · COMIC-BOOK STYLE</text>
+
+  <!-- SUB-TAGLINE: niches -->
+  <text x="1024" y="635"
+        text-anchor="middle"
+        font-family="Impact, 'Bebas Neue', sans-serif"
+        font-size="34" letter-spacing="14"
+        fill="#F5C518" stroke="#0B0B0B" stroke-width="3"
+        paint-order="stroke fill">DEBT  ·  SCAMS  ·  SAVINGS  ·  CREDIT</text>
+
+  <!-- MASCOT ICON ROW -->
+  <g transform="translate(1024 712)">
+    <!-- Judge Vera — gavel -->
+    <g transform="translate(-450 0)">
+      <circle cx="0" cy="0" r="50" fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="6"/>
+      <g transform="rotate(-30)">
+        <rect x="-5" y="-4" width="10" height="46" rx="3" fill="#A86A1F" stroke="#0B0B0B" stroke-width="3"/>
+        <rect x="-26" y="-26" width="52" height="22" rx="5" fill="#0B0B0B"/>
+        <rect x="-24" y="-24" width="48" height="18" rx="3" fill="url(#goldFill)"/>
+      </g>
+    </g>
+    <text x="-450" y="92" text-anchor="middle"
+          font-family="Impact, sans-serif" font-size="22" letter-spacing="2"
+          fill="#FFFFFF" stroke="#0B0B0B" stroke-width="3" paint-order="stroke fill">JUDGE VERA</text>
+
+    <!-- Detective Cash — magnifying glass -->
+    <g transform="translate(-150 0)">
+      <circle cx="0" cy="0" r="50" fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="6"/>
+      <g transform="translate(-6 -6)">
+        <circle cx="0" cy="0" r="18" fill="#FFFFFF" stroke="#0B0B0B" stroke-width="5"/>
+        <circle cx="0" cy="0" r="11" fill="#9DD6FF" opacity="0.6"/>
+        <line x1="13" y1="13" x2="28" y2="28" stroke="#0B0B0B" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="-150" y="92" text-anchor="middle"
+          font-family="Impact, sans-serif" font-size="22" letter-spacing="2"
+          fill="#FFFFFF" stroke="#0B0B0B" stroke-width="3" paint-order="stroke fill">DET. CASH</text>
+
+    <!-- Coach Vault — whistle -->
+    <g transform="translate(150 0)">
+      <circle cx="0" cy="0" r="50" fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="6"/>
+      <g transform="translate(-2 0)">
+        <rect x="-26" y="-9" width="34" height="18" rx="5" fill="#C13030" stroke="#0B0B0B" stroke-width="4"/>
+        <circle cx="12" cy="0" r="12" fill="#C13030" stroke="#0B0B0B" stroke-width="4"/>
+        <circle cx="12" cy="0" r="3.5" fill="#0B0B0B"/>
+        <path d="M -26 0 q -10 -12 -22 -6" fill="none" stroke="#0B0B0B" stroke-width="4"/>
+      </g>
+    </g>
+    <text x="150" y="92" text-anchor="middle"
+          font-family="Impact, sans-serif" font-size="22" letter-spacing="2"
+          fill="#FFFFFF" stroke="#0B0B0B" stroke-width="3" paint-order="stroke fill">COACH VAULT</text>
+
+    <!-- Doctor Dollar — stethoscope + $ chest piece -->
+    <g transform="translate(450 0)">
+      <circle cx="0" cy="0" r="50" fill="url(#goldFill)" stroke="#0B0B0B" stroke-width="6"/>
+      <g>
+        <path d="M -20 -22 q 0 16 8 24 l 0 4" fill="none" stroke="#0B0B0B" stroke-width="5" stroke-linecap="round"/>
+        <path d="M  20 -22 q 0 16 -8 24 l 0 4" fill="none" stroke="#0B0B0B" stroke-width="5" stroke-linecap="round"/>
+        <path d="M -12 8 q 0 18 12 18 q 12 0 12 -18"
+              fill="none" stroke="#0B0B0B" stroke-width="5" stroke-linecap="round"/>
+        <circle cx="12" cy="26" r="10" fill="#FFFFFF" stroke="#0B0B0B" stroke-width="4"/>
+        <text x="12" y="31" text-anchor="middle"
+              font-family="Impact, sans-serif" font-size="14"
+              font-weight="900" fill="#0B0B0B">$</text>
+      </g>
+    </g>
+    <text x="450" y="92" text-anchor="middle"
+          font-family="Impact, sans-serif" font-size="22" letter-spacing="2"
+          fill="#FFFFFF" stroke="#0B0B0B" stroke-width="3" paint-order="stroke fill">DR. DOLLAR</text>
+  </g>
+</svg>
+</body>
+</html>
