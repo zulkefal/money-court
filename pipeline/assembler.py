@@ -291,17 +291,23 @@ def assemble(
     target_h = height or VIDEO_HEIGHT
     target_fontsize = fontsize or CAPTION_FONTSIZE
     FINAL_DIR.mkdir(parents=True, exist_ok=True)
+    final = FINAL_DIR / f"{video_id}.mp4"
+    if final.exists():
+        logger.info(f"final cached: {final}")
+        return final
     work = FINAL_DIR / video_id
     work.mkdir(parents=True, exist_ok=True)
     scene_clips: list[Path] = []
     for i, (img, aud, cap) in enumerate(zip(images, audio_clips, caption_clips), start=1):
         out = work / f"scene_{i:02d}.mp4"
-        _build_scene_clip(
-            img, aud, cap, out, scene_idx=i,
-            width=target_w, height=target_h, fontsize=target_fontsize,
-        )
+        if out.exists():
+            logger.info(f"scene {i:02d}: cached")
+        else:
+            _build_scene_clip(
+                img, aud, cap, out, scene_idx=i,
+                width=target_w, height=target_h, fontsize=target_fontsize,
+            )
         scene_clips.append(out)
-    final = FINAL_DIR / f"{video_id}.mp4"
 
     music = _pick_music(video_id)
     if music is None:

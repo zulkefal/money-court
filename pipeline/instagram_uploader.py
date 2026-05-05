@@ -93,7 +93,13 @@ def _create_container(caption: str) -> str:
 
 
 def _transfer_video(container_id: str, video_path: Path) -> None:
-    """Phase 2: stream the mp4 binary to rupload.facebook.com."""
+    """Phase 2: stream the mp4 binary to rupload.facebook.com.
+
+    Quirk: rupload often returns 400 ProcessingFailedError even when the
+    binary was received successfully (the container ends up FINISHED on
+    a status poll). So we don't raise on a non-OK response here — we let
+    _wait_finished be the source of truth.
+    """
     file_size = video_path.stat().st_size
     with video_path.open("rb") as fh:
         resp = requests.post(
@@ -106,10 +112,11 @@ def _transfer_video(container_id: str, video_path: Path) -> None:
             data=fh,
             timeout=600,
         )
-    resp.raise_for_status()
-    result = resp.json()
-    if not result.get("success"):
-        raise RuntimeError(f"IG video transfer failed: {result}")
+    if not resp.ok:
+        logger.warning(
+            f"IG rupload returned {resp.status_code} (often misleading; will verify via status poll): "
+            f"{resp.text[:500]}"
+        )
 
 
 def _wait_finished(container_id: str) -> None:
@@ -172,6 +179,15 @@ def upload(video_path: Path, title: str, description: str) -> str:
     _wait_finished(container_id)
 
     media_id = _publish(container_id)
-    url = f"https://www.instagram.com/reel/{media_id}/"
+    # Fetch the canonical permalink — IG uses shortcodes, /reel/{numeric_id}/ doesn't reliably resolve.
+    try:
+        r = requests.get(
+            f"{GRAPH_BASE}/{media_id}",
+            params={"fields": "permalink", "access_token": FB_PAGE_ACCESS_TOKEN},
+            timeout=15,
+        )
+        url = r.json().get("permalink") or f"https://www.instagram.com/reel/{media_id}/"
+    except Exception:
+        url = f"https://www.instagram.com/reel/{media_id}/"
     logger.info(f"ig upload OK: {url}")
     return url
