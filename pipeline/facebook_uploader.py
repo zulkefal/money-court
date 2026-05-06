@@ -22,6 +22,7 @@ Usage:
 """
 from __future__ import annotations
 
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -89,18 +90,33 @@ def _transfer_video(upload_url: str, video_path: Path) -> None:
         raise RuntimeError(f"FB video transfer failed: {result}")
 
 
-def _finish_upload(video_id: str, title: str, description: str) -> None:
-    """Phase 3: publish the Reel."""
+def _finish_upload(
+    video_id: str,
+    title: str,
+    description: str,
+    scheduled_unix: int | None = None,
+) -> None:
+    """Phase 3: publish (or schedule) the Reel.
+
+    When `scheduled_unix` is given, the Reel is held in SCHEDULED state and
+    Facebook auto-publishes at that time. FB requires the schedule to be
+    >=10 min and <=75 days in the future.
+    """
+    data = {
+        "upload_phase": "finish",
+        "video_id": video_id,
+        "title": title[:255],
+        "description": description[:DESCRIPTION_MAX],
+        "access_token": FB_PAGE_ACCESS_TOKEN,
+    }
+    if scheduled_unix is not None:
+        data["video_state"] = "SCHEDULED"
+        data["scheduled_publish_time"] = str(scheduled_unix)
+    else:
+        data["video_state"] = "PUBLISHED"
     resp = requests.post(
         f"{GRAPH_BASE}/{FB_PAGE_ID}/video_reels",
-        data={
-            "upload_phase": "finish",
-            "video_id": video_id,
-            "video_state": "PUBLISHED",
-            "title": title[:255],
-            "description": description[:DESCRIPTION_MAX],
-            "access_token": FB_PAGE_ACCESS_TOKEN,
-        },
+        data=data,
         timeout=60,
     )
     resp.raise_for_status()
@@ -109,8 +125,17 @@ def _finish_upload(video_id: str, title: str, description: str) -> None:
         raise RuntimeError(f"FB publish failed: {result}")
 
 
-def upload(video_path: Path, title: str, description: str) -> str:
+def upload(
+    video_path: Path,
+    title: str,
+    description: str,
+    publish_at: str | None = None,
+) -> str:
     """Upload `video_path` as a Facebook Reel; return the page Reels URL.
+
+    `publish_at` is an optional RFC-3339 timestamp. When provided, the Reel
+    is uploaded as SCHEDULED and FB auto-publishes at that time (must be
+    >=10 min in the future). Without it the Reel publishes immediately.
 
     Non-fatal caller pattern: wrap in try/except so a FB failure doesn't
     block YouTube archival in daily_pipeline.py.
@@ -119,8 +144,13 @@ def upload(video_path: Path, title: str, description: str) -> str:
     if not video_path.exists():
         raise FileNotFoundError(video_path)
 
+    scheduled_unix: int | None = None
+    if publish_at:
+        scheduled_unix = int(datetime.fromisoformat(publish_at).timestamp())
+
     file_size = video_path.stat().st_size
-    logger.info(f"fb upload start: {video_path.name} ({file_size:,} bytes)")
+    when = f" scheduled@{publish_at}" if publish_at else ""
+    logger.info(f"fb upload start: {video_path.name} ({file_size:,} bytes){when}")
 
     video_id, upload_url = _start_upload()
     logger.info(f"  fb session: video_id={video_id}")
@@ -128,7 +158,7 @@ def upload(video_path: Path, title: str, description: str) -> str:
     _transfer_video(upload_url, video_path)
     logger.info(f"  fb transfer: complete")
 
-    _finish_upload(video_id, title, description)
+    _finish_upload(video_id, title, description, scheduled_unix=scheduled_unix)
 
     url = f"https://www.facebook.com/reel/{video_id}/"
     logger.info(f"fb upload OK: {url}")

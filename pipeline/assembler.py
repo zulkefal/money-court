@@ -29,24 +29,12 @@ from pipeline.logger import get_logger
 
 logger = get_logger("assembler")
 
-# 60-sec Shorts caption styling: bold-condensed Anton, white base
-# with per-word yellow karaoke highlight.
-CAPTION_FONTSIZE = 72
-# Phrase position: 30% from bottom = 70% from top. Just below dead-center
-# of the vertical 1080x1920 frame, well above YouTube's mobile UI overlay.
-CAPTION_Y_FRACTION_FROM_BOTTOM = 0.30
-CAPTION_FONTCOLOR = "white"
-CAPTION_BORDERCOLOR = "black"
-CAPTION_BORDERW = 6
-# Karaoke highlight: bright yellow word with black box behind it. The box
-# cleanly covers the underlying white phrase even with sub-pixel alignment
-# differences between PIL's measurement and FFmpeg's drawtext rendering.
+# 60-sec Shorts caption styling: bold-condensed Anton, yellow text on a
+# black box, dead-center of the frame. One 3-word cue at a time.
+CAPTION_FONTSIZE = 66
 CAPTION_HIGHLIGHT_COLOR = "yellow"
 CAPTION_HIGHLIGHT_BOX_COLOR = "black"
 CAPTION_HIGHLIGHT_BOX_PADDING = 8
-# How many words to display together as one phrase. At narrator's slow rate
-# 4-5 words is comfortable to read without flickering.
-WORDS_PER_PHRASE = 4
 
 # Background music volume relative to narrator. 0.10 = music at 10% — present
 # but stays well under the voice. Tune higher for more prominent music.
@@ -103,80 +91,33 @@ def _motion_filter(scene_idx: int, total_frames: int, width: int, height: int) -
 def _captions_filter(
     captions_json: Path, width: int, height: int, fontsize: int
 ) -> str:
-    """Build a chain of drawtext filters with karaoke-style word highlighting.
+    """Build a chain of drawtext filters: one yellow 3-word cue at a time.
 
-    Word-level cues from voiceover.py are grouped into N-word phrases for
-    display. Each phrase emits two layers of drawtext:
-      1. The full phrase in white (with black border) — visible for the
-         entire phrase duration
-      2. One yellow drawtext per word with a black box background, enabled
-         only during that word's spoken interval, positioned at the word's
-         pre-computed X (PIL ImageFont measurement of the prefix width)
-
-    The black box behind the yellow word cleanly masks the underlying white
-    version of that word, so any sub-pixel misalignment between PIL's
-    metrics and FFmpeg's drawtext doesn't show.
+    Each cue from voiceover.py (already a 3-word group) is rendered as a
+    single yellow drawtext with a black box behind it, centered horizontally
+    and visible only during the cue's spoken interval. Cues swap on their
+    boundaries — no overlap, no per-word karaoke advance.
     """
-    from PIL import ImageFont
     cues = json.loads(captions_json.read_text())
     if not cues:
         return ""
 
-    # Group word-level cues into N-word phrases for display
-    phrases: list[list[dict]] = []
-    for i in range(0, len(cues), WORDS_PER_PHRASE):
-        group = cues[i : i + WORDS_PER_PHRASE]
-        if group:
-            phrases.append(group)
-
-    # Load the font for pixel-accurate width measurement
-    font = ImageFont.truetype(CAPTION_FONT, fontsize)
-
-    caption_y = f"h-{int(height * CAPTION_Y_FRACTION_FROM_BOTTOM)}"
     parts: list[str] = []
-
-    for group in phrases:
-        words = [w["text"] for w in group]
-        phrase_text = " ".join(words)
-        phrase_start = group[0]["start"]
-        phrase_end = group[-1]["end"]
-
-        # Centered start X for the phrase
-        phrase_width_px = font.getlength(phrase_text)
-        phrase_x_start = max(0, int((width - phrase_width_px) / 2))
-
-        # Layer 1: base white phrase
-        phrase_enable = f"between(t\\,{phrase_start:.3f}\\,{phrase_end:.3f})"
+    for cue in cues:
+        text = cue["text"]
+        enable = f"between(t\\,{cue['start']:.3f}\\,{cue['end']:.3f})"
         parts.append(
             f"drawtext=fontfile={CAPTION_FONT}"
-            f":text='{phrase_text}'"
+            f":text='{text}'"
             f":fontsize={fontsize}"
-            f":fontcolor={CAPTION_FONTCOLOR}"
-            f":bordercolor={CAPTION_BORDERCOLOR}"
-            f":borderw={CAPTION_BORDERW}"
-            f":x={phrase_x_start}"
-            f":y={caption_y}"
-            f":enable='{phrase_enable}'"
+            f":fontcolor={CAPTION_HIGHLIGHT_COLOR}"
+            f":box=1"
+            f":boxcolor={CAPTION_HIGHLIGHT_BOX_COLOR}"
+            f":boxborderw={CAPTION_HIGHLIGHT_BOX_PADDING}"
+            f":x=(w-text_w)/2"
+            f":y=(h-text_h)/2"
+            f":enable='{enable}'"
         )
-
-        # Layer 2: per-word yellow highlight with black box backing
-        for j, w in enumerate(group):
-            prefix = " ".join(words[:j]) + (" " if j > 0 else "")
-            prefix_width_px = font.getlength(prefix) if prefix else 0
-            word_x = phrase_x_start + int(prefix_width_px)
-            word_enable = f"between(t\\,{w['start']:.3f}\\,{w['end']:.3f})"
-            parts.append(
-                f"drawtext=fontfile={CAPTION_FONT}"
-                f":text='{w['text']}'"
-                f":fontsize={fontsize}"
-                f":fontcolor={CAPTION_HIGHLIGHT_COLOR}"
-                f":box=1"
-                f":boxcolor={CAPTION_HIGHLIGHT_BOX_COLOR}"
-                f":boxborderw={CAPTION_HIGHLIGHT_BOX_PADDING}"
-                f":x={word_x}"
-                f":y={caption_y}"
-                f":enable='{word_enable}'"
-            )
     return ",".join(parts)
 
 

@@ -9,7 +9,7 @@ exists, it's reused. Same for per-scene images and voiceovers. So re-running on
 an already-rendered archive script is fast — it goes straight to upload.
 
 Usage:
-    ./venv/bin/python social_repost.py scripts/archive/verdict-dan-vs-zoe-credit-card-debt.json
+    ./venv/bin/python social_repost.py scripts/archive/case-file-frank-vs-lucy-fake-check-overpayment-001.json
     ./venv/bin/python social_repost.py scripts/archive/some-script.json --fb-only
     ./venv/bin/python social_repost.py scripts/archive/some-script.json --ig-only
 """

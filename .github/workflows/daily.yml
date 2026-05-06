@@ -31,7 +31,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60   # 12-15 horror scenes × ~30 sec each = longer than money-crew Shorts
+    # Render + YT/FB upload completes in ~25 min for 2 slots, but the IG step
+    # sleeps until each YT publish_at so all three platforms go live together.
+    # Last slot publishes at 13:30 PKT (08:30 UTC = 02:00 after the 06:45 cron),
+    # so allow ~3h end-to-end with buffer.
+    timeout-minutes: 180
     permissions:
       contents: write
 
