@@ -23,6 +23,7 @@ import argparse
 import json
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from config.settings import ANTHROPIC_API_KEY, SCRIPTS_DIR
 from config.topics import pick_topic, record_topic
@@ -33,6 +34,9 @@ logger = get_logger("daily")
 # Daily mascot rotation. Cycles in this order so each character gets equal screen time.
 ROTATION = ("judge_vera", "detective_cash", "coach_vault", "doctor_dollar")
 PKT = timezone(timedelta(hours=5))
+# All published-at slot times are anchored to US Eastern (America/New_York).
+# zoneinfo handles the EDT↔EST transitions automatically — no cron juggling.
+ET = ZoneInfo("America/New_York")
 
 # Hand-written + auto-generated scripts both live here. After successful upload,
 # scripts are moved to QUEUE_DIR / "archive" so the queue only ever shows pending work.
@@ -40,12 +44,13 @@ QUEUE_DIR = Path("scripts")
 ARCHIVE_DIR = QUEUE_DIR / "archive"
 TARGET_QUEUE_DEPTH = 5
 
-# Fixed publishAt times per slot (PKT). Same time every day so the audience
-# learns when to expect a new video. Two-slot day = morning + evening.
+# Fixed publishAt times per slot, anchored to US Eastern (DST-aware via zoneinfo).
+# Same time every day so the audience learns when to expect new videos.
 SLOT_TIMES = {
-    1: [(12, 0)],                       # 1/day: noon
-    2: [(12, 30), (13, 30)],            # TEMP smoke test: 12:30 + 13:30 PKT (revert to 10:00/18:00 after verifying)
-    3: [(10, 0), (14, 0), (19, 0)],     # 3/day: morning, afternoon, evening
+    1: [(12, 0)],                                       # 1/day: noon ET
+    2: [(17, 0), (21, 0)],                              # 2/day: 5pm + 9pm ET
+    3: [(17, 0), (19, 0), (21, 0)],                     # 3/day: 5pm + 7pm + 9pm ET
+    4: [(17, 0), (19, 0), (21, 0), (23, 0)],            # 4/day: 5pm + 7pm + 9pm + 11pm ET
 }
 
 
@@ -62,13 +67,14 @@ def _next_character(history_path: Path) -> str:
 
 
 def _publish_at(target_date: date, slot_idx: int, slots_per_day: int) -> str:
-    """RFC-3339 timestamp for this slot's fixed daily time on `target_date`."""
+    """RFC-3339 timestamp for this slot's fixed daily time on `target_date` (ET)."""
     times = SLOT_TIMES.get(slots_per_day, SLOT_TIMES[1])
     hour, minute = times[slot_idx]
     dt = datetime(target_date.year, target_date.month, target_date.day,
-                  hour, minute, 0, tzinfo=PKT)
-    # If today's slot time has already passed, schedule for tomorrow.
-    if dt < datetime.now(PKT) + timedelta(minutes=10):
+                  hour, minute, 0, tzinfo=ET)
+    # If today's slot time has already passed (FB requires schedule >=10 min
+    # in the future), roll forward to tomorrow.
+    if dt < datetime.now(ET) + timedelta(minutes=10):
         dt += timedelta(days=1)
     return dt.isoformat()
 
@@ -154,35 +160,53 @@ def _run_one_slot(
     no_upload: bool,
     publish_at_override: str | None,
 ) -> None:
-    # Step 1: pick a script from the queue. If the queue is empty, generate one
-    # via Claude (or fail loudly if we're in JSON-only mode).
+    # Step 1: pick a script. We always determine the next mascot up via LRU
+    # rotation, then prefer a queued script for that mascot — otherwise the
+    # alphabetical queue order would drain one mascot completely before the
+    # next ever appears (e.g. all `case-file-*` before any `verdict-*`).
     queue = _queued_scripts()
-    if queue:
-        script_path = queue[0]
-        script = json.loads(script_path.read_text())
+    from config.topics import USED_TOPICS_FILE
+    target_character = character or _next_character(USED_TOPICS_FILE)
+    if target_character not in ROTATION:
+        raise SystemExit(f"unknown character: {target_character}. Choices: {list(ROTATION)}")
+
+    script_path: Path | None = None
+    match = next(
+        (p for p in queue
+         if json.loads(p.read_text()).get("character") == target_character),
+        None,
+    )
+    if match is not None:
+        script_path = match
         logger.info(
             f"slot {slot_idx + 1}/{slots_per_day}: queue has {len(queue)}, "
-            f"using {script_path.name}"
+            f"using {match.name} (matched mascot {target_character})"
+        )
+    elif queue:
+        # Queue has scripts but none for the target mascot — take whatever's
+        # at the front rather than blocking. Generation would be wasteful
+        # when there's already work pending.
+        script_path = queue[0]
+        logger.info(
+            f"slot {slot_idx + 1}/{slots_per_day}: queue has {len(queue)} "
+            f"but none for {target_character}; falling back to {queue[0].name}"
         )
     else:
+        # Queue empty — generate one via Claude.
         if not ANTHROPIC_API_KEY:
             raise SystemExit(
                 "Queue is empty (scripts/*.json) and ANTHROPIC_API_KEY is not set. "
                 "Either drop a hand-written script into scripts/ or set the API key."
             )
-        if character is None:
-            from config.topics import USED_TOPICS_FILE
-            character = _next_character(USED_TOPICS_FILE)
-        if character not in ROTATION:
-            raise SystemExit(f"unknown character: {character}. Choices: {list(ROTATION)}")
         if topic is None:
-            topic = pick_topic(character)
+            topic = pick_topic(target_character)
         logger.info(
             f"slot {slot_idx + 1}/{slots_per_day}: queue empty, "
-            f"generating fresh script ({character} / {topic!r})"
+            f"generating fresh script ({target_character} / {topic!r})"
         )
-        script_path = _generate_and_save(character=character, topic=topic)
-        script = json.loads(script_path.read_text())
+        script_path = _generate_and_save(character=target_character, topic=topic)
+
+    script = json.loads(script_path.read_text())
 
     character = script["character"]
     topic = script.get("topic", "")
@@ -253,9 +277,9 @@ if __name__ == "__main__":
         "--slots",
         type=int,
         default=1,
-        choices=[1, 2, 3],
-        help="Videos per day. 2 = morning + evening. Each slot publishes at a "
-             "fixed daily time (see SLOT_TIMES) so the audience knows when to expect it.",
+        choices=[1, 2, 3, 4],
+        help="Videos per day. 4 = one per mascot. Each slot publishes at a "
+             "fixed daily time in ET (see SLOT_TIMES) so the audience knows when to expect it.",
     )
     args = parser.parse_args()
     main(

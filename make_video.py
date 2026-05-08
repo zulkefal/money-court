@@ -90,26 +90,13 @@ def main(
         # Instagram Reels upload — reuses FB Page Access Token. Skipped silently
         # when IG_USER_ID isn't set. Non-fatal like the FB step above.
         #
-        # IG Graph API has no native scheduling — /media_publish is immediate.
-        # When `publish_at` is set we sleep until then so IG goes live at the
-        # same instant as YT/FB. Container creation + processing takes ~30-60s
-        # for a Shorts-length Reel, so we kick off the upload ~75s early and
-        # let the publish call land right at publish_at.
+        # IG Graph API has no native scheduling, and sleeping the workflow
+        # until publish_at burns GitHub Actions minutes (a 23h sleep on a
+        # day-rollover would blow the monthly budget). So IG publishes
+        # immediately as the video finishes, accepting that it'll go live
+        # earlier than the FB+YT scheduled time.
         if IG_USER_ID and FB_PAGE_ACCESS_TOKEN:
             from pipeline import instagram_uploader
-            if publish_at:
-                from datetime import datetime, timezone
-                import time as _time
-                target = datetime.fromisoformat(publish_at).timestamp()
-                # Pre-roll: start the IG container ~75s before publish_at so the
-                # container reaches FINISHED status by the time we publish.
-                wait_s = max(0, target - 75 - _time.time())
-                if wait_s > 0:
-                    logger.info(
-                        f"Step 6: waiting {wait_s:.0f}s until IG pre-roll "
-                        f"(publish_at={publish_at})"
-                    )
-                    _time.sleep(wait_s)
             logger.info("Step 6: uploading to Instagram Reels")
             try:
                 ig_url = instagram_uploader.upload(

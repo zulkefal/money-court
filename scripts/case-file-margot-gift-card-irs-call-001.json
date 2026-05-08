@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-margot-gift-card-irs-call-001",
+  "character": "detective_cash",
+  "topic": "Fake IRS call demanding payment in Apple gift cards (Margot)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The IRS called Grandma at nine in the morning. By noon she had three thousand dollars in Apple gift cards in a CVS bag and was reading the codes out loud. Case file 0056. Time of incident, Tuesday morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a stack of Apple gift cards stamped FAKE IRS, comic banner reads THREE THOUSAND IN GIFT CARDS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Margot is seventy two years old. The phone rings at nine in the morning. The caller says he is from the IRS and there is a warrant for her arrest for unpaid taxes from twenty nineteen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman margot with gray hair and glasses sitting at a kitchen table holding a corded phone with a worried face, a fake official badge floating over the phone, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller says she can avoid arrest if she pays three thousand dollars right now in Apple gift cards. He stays on the phone with her the entire time and tells her not to hang up.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman margot walking out of her front door holding a phone to her ear, a comic banner reads STAY ON THE PHONE, a clock showing nine forty AM, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Margot drives to CVS, buys three Apple gift cards worth one thousand dollars each, and reads the sixteen digit codes off the back to the caller one by one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman margot at a CVS checkout counter holding three Apple gift cards, a phone pressed to her ear, a confused cashier in the background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Within sixty seconds the codes are sold on a foreign marketplace and the gift card balances are emptied. The IRS warrant never existed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, three gift cards with a giant red ZERO BALANCE stamp over them, a small map of the world in the background with a red dot far from the United States, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Margot's daughter visits that evening, sees the empty gift cards on the counter, and learns there is no way to get the three thousand dollars back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman margot at a kitchen table with empty gift cards in front of her, her adult daughter standing beside her with a sad face holding a phone, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "No real agency, ever, takes payment in gift cards. Not the IRS, not the police, not Medicare. If anyone says gift cards on the phone, hang up. Tell every grandparent you know. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over an Apple gift card with a giant red X over it, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

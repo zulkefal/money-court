@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-mona-fake-brand-deal-overpayment-001",
+  "character": "detective_cash",
+  "topic": "Fake brand deal with overpayment check for a small influencer (Mona)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A ten thousand follower creator got a seven thousand five hundred dollar brand deal check. The brand asked her to forward three thousand to the photographer. The check bounced. Case file 0063. Time of incident, Wednesday inbox. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a fake brand deal email and a forged check, comic banner reads THREE THOUSAND TO PHOTOGRAPHER, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Mona has ten thousand followers on Instagram. A clean looking email from a beauty brand offers her seven thousand five hundred dollars for one post and one reel.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mona at a kitchen table on a laptop, an email open with a brand logo and SEVEN THOUSAND FIVE HUNDRED highlighted, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The brand mails her a real looking check for seven thousand five hundred dollars and tells her to deposit it. They say their photographer will reach out and she will forward three thousand to him.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mona at a kitchen table holding a paper check, an email open beside her reading FORWARD TO PHOTOGRAPHER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Mona deposits the check, sees the seven thousand five hundred land in her account that night, and Zelles three thousand to the photographer the next morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mona at a kitchen table on a phone showing a Zelle screen sending THREE THOUSAND, a balance screen behind it showing SEVEN FIVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six business days later the bank reverses the check. Her account is now negative three thousand dollars. The brand email account is deleted and the photographer is unreachable.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman mona at a kitchen table looking at a bank app showing NEGATIVE THREE THOUSAND in red, an email window stamped INBOX EMPTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The real beauty brand confirms they never contacted her. The check was forged. Mona owes her bank three thousand dollars and has no brand deal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mona on a couch holding a phone with the real brand customer service screen open, a paper labeled NOT US beside her, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Real brands pay through PayPal, Stripe, or direct deposit. They never send you a check and ask you to forward part of it to anyone. The forward is the trap. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled NEVER FORWARD ANY OF THE CHECK, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-ben-vs-cora-forgotten-401k-from-old-job-001",
+  "character": "judge_vera",
+  "topic": "Tracking old retirement accounts vs forgetting them (Ben vs Cora)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Twenty nine billion dollars in forgotten retirement money is sitting in old accounts right now. I am Judge Vera and today two workers find theirs in very different ways. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a comic burst banner reading TWENTY NINE BILLION FORGOTTEN, a stack of dusty 401k statements spotlit on the bench, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ben and Cora both quit good jobs in twenty twelve. Both had small 401k balances at the time and both moved on to new careers without rolling them over.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man ben packing a desk in 2012, right side woman cora packing a desk in 2012, both with cardboard boxes labeled OLD JOB, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Ben loses the paperwork, never updates his address with the old plan, and the statements stop arriving. He forgets the account exists.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ben in a messy garage shrugging at a folder labeled OLD 401K with cobwebs on it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Cora keeps a single page note listing every job, every 401k, and every email login. Once a year she logs into each account and updates her address.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cora at a kitchen table with a single sheet of paper labeled RETIREMENT ACCOUNTS LIST, three account names with checkmarks beside them, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Twelve years later Ben's twelve thousand dollar balance has grown to seventy three thousand dollars but it was rolled into a default IRA earning almost nothing for nine of those years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man ben at a kitchen table holding a found statement, a comic banner reads SEVENTY THREE THOUSAND, a small graph beside him reads STUCK IN CASH, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cora's twelve thousand dollar balance grew to one hundred and forty thousand dollars because she rolled it into an index fund the year she left.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side ben staring at a paper stamped DEFAULT IRA, right side cora smiling at a phone showing a graph climbing to ONE FORTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Search your name at the National Registry of Unclaimed Retirement Benefits. When you leave a job, roll the 401k into an IRA the same week. Forgotten money is lazy money. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a clipboard labeled ROLL OVER WITHIN ONE WEEK, comic burst banner reads COURT DISMISSED, kids comic book illustration"
+    }
+  ]
+}

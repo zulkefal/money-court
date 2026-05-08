@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-kai-fake-escrow-marketplace-001",
+  "character": "detective_cash",
+  "topic": "Fake escrow website used in a Facebook Marketplace luxury sale (Kai)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He sold his Rolex on Facebook Marketplace. The buyer insisted on using a perfect looking escrow site. The seven thousand five hundred dollar watch was shipped and the escrow money never arrived. Case file 0062. Time of incident, Sunday night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a fake escrow website on a laptop, comic banner reads SEVEN FIVE HUNDRED ROLEX GONE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kai lists his Rolex Submariner on Facebook Marketplace for seven thousand five hundred dollars. Within an hour a buyer messages saying he will pay full price, no negotiation.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kai at a desk on a laptop with a Rolex listing on screen, a chat bubble showing FULL PRICE NO NEGOTIATION, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The buyer says he is overseas and wants to use a third party escrow site to protect both of them. He sends a link to a clean professional looking escrow page with a real looking logo.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kai on a laptop with a fake escrow website on screen, a logo and lock icon at the top, a small banner reads SAFE TRANSACTION, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The escrow site emails Kai a confirmation that seven thousand five hundred dollars is held in escrow. The site says funds release as soon as he ships and uploads the tracking number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kai at a desk reading an email confirmation, a fake screenshot beside him stamped FUNDS HELD IN ESCROW, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Kai ships the Rolex overnight and uploads the tracking number. The escrow site says the funds will release in one business day. The next morning the entire website is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man kai at a desk staring at a laptop showing PAGE NOT FOUND, a tracking screen showing DELIVERED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The buyer's Facebook account is gone. The escrow company never existed. The package was delivered to a UPS Store mailbox in another state. Both the watch and the money are gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kai at a desk on a laptop with a deleted profile and a UPS Store mailbox photo, a comic banner reads SEVEN FIVE HUNDRED LOST, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never use an escrow site the buyer chose. Only ship after the money clears in your real bank account, not a third party page. If a buyer insists on their escrow, walk away. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled CASH IN BANK BEFORE SHIP, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

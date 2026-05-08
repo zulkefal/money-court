@@ -51,6 +51,25 @@ STATUS_POLL_INTERVAL = 10
 STATUS_POLL_TIMEOUT = 300
 
 
+def _raise_for_graph(resp: requests.Response, context: str) -> None:
+    """Like resp.raise_for_status() but include the Graph error body.
+
+    The default raise_for_status() throws away the JSON body, hiding the
+    actual error code/subcode. We want those in the log so failures are
+    diagnosable without a manual probe.
+    """
+    if resp.ok:
+        return
+    try:
+        body = resp.json()
+    except Exception:
+        body = {"raw": resp.text[:1000]}
+    raise requests.HTTPError(
+        f"{context}: HTTP {resp.status_code} — {body}",
+        response=resp,
+    )
+
+
 def _check_config() -> None:
     missing = [
         name for name, val in (
@@ -87,7 +106,7 @@ def _create_container(caption: str) -> str:
         },
         timeout=30,
     )
-    resp.raise_for_status()
+    _raise_for_graph(resp, "ig /media create container")
     data = resp.json()
     return data["id"]
 
@@ -128,7 +147,7 @@ def _wait_finished(container_id: str) -> None:
             params={"fields": "status_code", "access_token": FB_PAGE_ACCESS_TOKEN},
             timeout=30,
         )
-        resp.raise_for_status()
+        _raise_for_graph(resp, "ig container status poll")
         status = resp.json().get("status_code")
         logger.info(f"  ig container status: {status}")
         if status == "FINISHED":
@@ -148,7 +167,7 @@ def _publish(container_id: str) -> str:
         data={"creation_id": container_id, "access_token": FB_PAGE_ACCESS_TOKEN},
         timeout=60,
     )
-    resp.raise_for_status()
+    _raise_for_graph(resp, "ig /media_publish")
     data = resp.json()
     media_id = data.get("id")
     if not media_id:

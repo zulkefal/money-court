@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-marcus-fake-government-grant-senior-001",
+  "character": "detective_cash",
+  "topic": "Fake government grant for seniors with an upfront processing fee (Marcus)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Grandpa got a letter saying he had won a nine thousand five hundred dollar federal senior grant. He just had to pay four hundred dollars in fees first. Case file 0061. Time of incident, Monday mail. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a fake government letter with a gold seal, comic banner reads NINE THOUSAND FIVE HUNDRED FOR SENIORS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marcus is sixty eight years old, retired, and on a fixed income. The mailman drops off an official looking letter with a federal seal saying he qualifies for a senior grant.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man marcus with white hair and glasses holding a letter at his front porch mailbox, a fake government seal visible on the envelope, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The letter says the grant is nine thousand five hundred dollars and is non taxable. He just needs to call the number on the letter and pay a four hundred dollar processing fee to release the funds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus at a kitchen table reading a letter, a phone number highlighted in yellow on the page, a small note reads PAY FOUR HUNDRED FEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Marcus calls the number, talks to a polite man who calls him sir, and sends four hundred dollars from his Walmart prepaid card to the number he is given.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus at a kitchen table on a corded phone with a Walmart prepaid card in his hand, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two days later the polite man calls back saying there is a small additional fee of seven hundred dollars to release the grant due to a federal tax audit. Marcus sends another seven hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man marcus on a phone holding a second prepaid card, a comic banner reads JUST SEVEN HUNDRED MORE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "After three weeks and two thousand four hundred dollars in fees, the grant never arrives, the phone number stops working, and Marcus's daughter discovers the letter was a scam.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus at a kitchen table with several empty prepaid cards in front of him, his adult daughter beside him holding a phone showing CALL FAILED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The federal government does not call you about grants you did not apply for. No real grant ever asks you to pay a fee to receive money. If you pay to get money, it is always a scam. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled NEVER PAY TO GET MONEY, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-helena-wire-fraud-closing-001",
+  "character": "detective_cash",
+  "topic": "Wire fraud at house closing — fake email with new wire instructions (Helena)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Two days before her house closing she got an email from her title company with new wire instructions. The two hundred and seventy thousand dollar down payment went to Russia. Case file 0057. Time of incident, Thursday morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a fake email labeled NEW WIRE INSTRUCTIONS, a comic banner reads TWO SEVENTY THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Helena is closing on her first house. Her real estate agent and title company have been emailing her for weeks. Her down payment is two hundred and seventy thousand dollars sitting in her checking account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman helena at a kitchen table on a laptop with a real estate listing open, a checking account screen showing TWO SEVENTY THOUSAND beside her, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Two days before closing she gets an urgent email from her title officer's exact name and address. The bank changed the wire instructions and she needs to use a new routing and account number today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman helena reading an email on a laptop with a familiar name as sender, the email body marked URGENT NEW WIRE INSTRUCTIONS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Helena drives to her bank, fills out the wire form with the new numbers, and sends two hundred and seventy thousand dollars without calling the title company first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman helena at a bank wire desk handing a paper to a teller, a paper labeled NEW ROUTING circled in red, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "On closing day the title company says they never sent that email and never received any money. The real wire instructions never changed. Her email had been silently watched for weeks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman helena at a closing table with two empty chairs facing her, a comic banner reads NEVER ARRIVED, an inbox icon with a glowing red eye over it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The bank traces the wire to an account that was emptied within an hour. The two hundred and seventy thousand dollars and her dream house are both gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman helena outside a bank holding a tracing report, a small house photo behind her with a giant red X over it, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Wire instructions never change at the last minute. Always call the title company at the number you already have, not the one in the email. Confirm out loud before you send. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled CALL TO CONFIRM EVERY WIRE, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

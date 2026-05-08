@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-rhett-vs-sloane-negotiate-hospital-bill-001",
+  "character": "coach_vault",
+  "topic": "Negotiating a hospital bill down vs paying it (Rhett vs Sloane)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "She made one phone call. The hospital cut her four thousand dollar bill down to nine hundred. I am Coach Vault and today two patients fight back differently. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding up a phone and a hospital bill stamped FOUR THOUSAND, comic burst banner reads CUT TO NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Rhett and Sloane both go to the emergency room for the same kind of mild appendicitis scare and both get four thousand dollar bills two weeks later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man rhett at a kitchen table with an ER bill, right side woman sloane at a kitchen table with the same ER bill, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Rhett puts the bill on a credit card to avoid going to collections, paying twenty three percent interest, and never asks the hospital for any reduction.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rhett at a kitchen table swiping a credit card on a phone, a comic banner reads TWENTY THREE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sloane calls the billing office, asks for an itemized bill, then asks for the financial assistance application and the cash pay discount in the same call.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sloane at a kitchen table on a phone with a notepad reading ITEMIZED BILL FINANCIAL ASSISTANCE CASH DISCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three weeks later Rhett's four thousand dollar bill on the credit card is now four thousand four hundred and growing. He will pay almost five thousand by the time it is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man rhett at a kitchen table looking at a credit card statement, comic banner reads FOUR THOUSAND FOUR HUNDRED AND CLIMBING, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Sloane's itemized bill removed two duplicate charges, financial assistance cut another forty percent, and a cash pay discount took her total to nine hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side rhett with a heavy credit card statement, right side sloane smiling at a paid receipt stamped NINE HUNDRED PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Never put a hospital bill on a credit card. Always ask for an itemized bill, financial assistance, and the cash pay discount in one call. Hospitals expect you to ask. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading ITEMIZE THEN ASK, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

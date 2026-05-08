@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-jasper-zelle-wrong-number-001",
+  "character": "detective_cash",
+  "topic": "Zelle wrong number refund scam — sending it back vs reporting it (Jasper)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Five hundred dollars landed in his Zelle by accident. He sent it back. The original was a stolen card and he was out five hundred dollars. Case file 0058. Time of incident, Sunday afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone showing a Zelle screen with FIVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jasper is at home on a Sunday when his phone buzzes. Someone he does not know just sent him five hundred dollars on Zelle with the note for car deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jasper on a couch holding a phone showing a Zelle notification, surprised expression, a comic banner reads FIVE HUNDRED FROM A STRANGER, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A minute later he gets a polite text from a stranger saying she sent the deposit to the wrong number, please send it back, sorry for the trouble.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a polite text saying WRONG NUMBER PLEASE SEND IT BACK with a sad face emoji, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jasper feels bad for the stranger and Zelles five hundred dollars back to the number she texted him from. He thinks he just helped someone out.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jasper on a couch tapping send on a Zelle screen for FIVE HUNDRED, a small thumbs up emoji floating over the phone, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Three days later his bank reverses the original five hundred dollars. The first transfer was funded with a stolen credit card. His payout to the stranger was sent from his own real money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man jasper at a kitchen table looking at a bank app with a red REVERSED stamp over a transaction, comic banner reads FIVE HUNDRED OWED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Jasper calls the bank. They tell him Zelle is final and the wrong number text was the scam. The five hundred dollars is gone for good.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jasper on a phone with a bank rep, a paper in front of him labeled ZELLE IS FINAL, a small empty wallet on the table, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "If money you did not expect lands in your Zelle, do not send it back. Call the bank, tell them, and let them reverse it through the system. Never refund a stranger directly. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled CALL THE BANK NEVER REFUND, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

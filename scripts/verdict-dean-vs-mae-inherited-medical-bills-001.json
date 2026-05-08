@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-dean-vs-mae-inherited-medical-bills-001",
+  "character": "judge_vera",
+  "topic": "Inheriting a parent's medical debt vs walking away cleanly (Dean vs Mae)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Mom died on a Tuesday. By Friday the hospital was billing her two children for forty seven thousand dollars. I am Judge Vera and only one of them owed a single cent. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant comic banner reading FORTY SEVEN THOUSAND, a hospital invoice spotlit on the bench, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dean and Mae are siblings. Their mother spends three weeks in a hospital before she passes away with no estate and no life insurance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults dean and mae in a quiet hospital hallway, a doctor in the background holding a clipboard, soft sad lighting, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Dean signs the admission paperwork as the financially responsible party because the front desk clerk says it is just a formality.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dean at a hospital admissions desk signing a thick form, a small line on the form circled in red reads FINANCIALLY RESPONSIBLE PARTY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Mae refuses to sign anything as guarantor and only signs forms as the patient's daughter for medical decisions.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mae at a hospital admissions desk handing back a form with one line crossed out, a small note reads ONLY MEDICAL DECISIONS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two months after the funeral the hospital sends Dean a forty seven thousand dollar bill and a collection notice with his name on it because he signed as guarantor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man dean at a kitchen table holding a bill, comic banner reads FORTY SEVEN THOUSAND OWED, a yellow envelope stamped FINAL NOTICE on the floor, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Mae sends the hospital a copy of mom's death certificate and a short letter saying she is not the estate. The bills stop in thirty days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side dean holding a stack of bills, right side mae mailing an envelope labeled NOT THE ESTATE with a copy of a death certificate inside, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Children almost never inherit a parent's medical debt unless they sign as guarantor. Never sign as the financially responsible party. The estate pays. You do not. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a clipboard reading NEVER SIGN AS GUARANTOR, comic burst banner reads COURT DISMISSED, kids comic book illustration"
+    }
+  ]
+}

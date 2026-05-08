@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-vance-vs-riley-fake-toll-text-001",
+  "character": "detective_cash",
+  "topic": "Fake unpaid toll text scam — tapping the link vs verifying (Vance vs Riley)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A six dollar and ninety five cent toll text drained eleven thousand four hundred dollars from a checking account in under an hour. Case file 0053. Time of incident, Friday lunch break. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone screen showing a fake text reading UNPAID TOLL, comic banner reads ELEVEN FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vance and Riley both get the same text on a Friday saying they owe six dollars and ninety five cents to the state toll authority and must pay today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man vance in a parking lot looking at a phone with a red toll text, right side woman riley at a desk holding the same text on her phone, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Vance taps the link, sees a real looking toll authority page, and types in his card number, his billing zip, and the three numbers on the back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vance hunched over a phone typing card details into a fake government website with state seals, comic banner reads JUST SIX BUCKS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Riley closes the text, opens her browser, and types the official toll authority website by hand. Her real account shows zero balance owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman riley at a kitchen table holding a phone with a browser bar circled in green, a balance screen reads BALANCE ZERO, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Forty minutes later Vance gets two alerts. The scammers used his card to buy three Apple gift cards and one online Best Buy laptop, total eleven thousand four hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man vance at a parking lot looking at a phone covered in red transaction alerts, comic banner reads ELEVEN FOUR HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Riley still has her six dollars and ninety five cents. Same text, same scammer, two completely different outcomes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side vance with a frozen card and an empty wallet, right side riley calmly working at a desk with a clean bank screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "States do not text you about unpaid tolls with a payment link. Never tap a link in a text. Always type the official site by hand. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a phone with a giant red X over a text link, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

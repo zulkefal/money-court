@@ -12,11 +12,16 @@ Usage:
     ./venv/bin/python social_repost.py scripts/archive/case-file-frank-vs-lucy-fake-check-overpayment-001.json
     ./venv/bin/python social_repost.py scripts/archive/some-script.json --fb-only
     ./venv/bin/python social_repost.py scripts/archive/some-script.json --ig-only
+
+    # Diagnostic: schedule both FB + IG to go live 11 min from now.
+    ./venv/bin/python social_repost.py scripts/archive/some-script.json --in-minutes 11
 """
 from __future__ import annotations
 
 import argparse
 import json
+import time as _time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from config.settings import (
@@ -54,13 +59,20 @@ def _render(script_path: Path) -> tuple[Path, dict]:
     return final, script
 
 
-def main(script_path: Path, do_fb: bool, do_ig: bool) -> None:
+def main(
+    script_path: Path,
+    do_fb: bool,
+    do_ig: bool,
+    publish_at: str | None = None,
+) -> None:
     if not script_path.exists():
         raise SystemExit(f"script not found: {script_path}")
 
     final, script = _render(script_path)
     meta = meta_mod.metadata_for(script)
     logger.info(f"  title: {meta['title']}")
+    if publish_at:
+        logger.info(f"  publish_at: {publish_at}")
 
     posted_any = False
 
@@ -75,6 +87,7 @@ def main(script_path: Path, do_fb: bool, do_ig: bool) -> None:
                     video_path=final,
                     title=meta["title"],
                     description=meta["description"],
+                    publish_at=publish_at,
                 )
                 print(f"Facebook URL: {fb_url}")
                 posted_any = True
@@ -86,6 +99,18 @@ def main(script_path: Path, do_fb: bool, do_ig: bool) -> None:
             logger.error("IG skipped: IG_USER_ID / FB_PAGE_ACCESS_TOKEN not set in .env")
         else:
             from pipeline import instagram_uploader
+            # IG Graph API has no native scheduling. To land at the same instant
+            # as FB's scheduled publish, sleep until ~75s before publish_at and
+            # then call /media_publish (container processing takes ~30-60s).
+            if publish_at:
+                target = datetime.fromisoformat(publish_at).timestamp()
+                wait_s = max(0, target - 75 - _time.time())
+                if wait_s > 0:
+                    logger.info(
+                        f"IG pre-roll: sleeping {wait_s:.0f}s until "
+                        f"{publish_at} (minus 75s upload buffer)"
+                    )
+                    _time.sleep(wait_s)
             logger.info("Uploading to Instagram Reels")
             try:
                 ig_url = instagram_uploader.upload(
@@ -105,13 +130,31 @@ def main(script_path: Path, do_fb: bool, do_ig: bool) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("script", type=Path, help="Path to a script JSON (typically in scripts/archive/).")
-    group = parser.add_mutually_exclusive_group()
-    group.add_argument("--fb-only", action="store_true", help="Skip Instagram, post to Facebook only.")
-    group.add_argument("--ig-only", action="store_true", help="Skip Facebook, post to Instagram only.")
+    platform_group = parser.add_mutually_exclusive_group()
+    platform_group.add_argument("--fb-only", action="store_true", help="Skip Instagram, post to Facebook only.")
+    platform_group.add_argument("--ig-only", action="store_true", help="Skip Facebook, post to Instagram only.")
+    schedule_group = parser.add_mutually_exclusive_group()
+    schedule_group.add_argument(
+        "--in-minutes",
+        type=int,
+        help="Schedule FB + IG to publish N minutes from now. FB requires N>=10.",
+    )
+    schedule_group.add_argument(
+        "--publish-at",
+        help="Explicit RFC-3339 timestamp (e.g. 2026-05-08T17:30:00+05:00).",
+    )
     args = parser.parse_args()
+
+    publish_at: str | None = args.publish_at
+    if args.in_minutes is not None:
+        if args.in_minutes < 10:
+            raise SystemExit("--in-minutes must be >= 10 (Facebook requirement)")
+        target = datetime.now(timezone.utc) + timedelta(minutes=args.in_minutes)
+        publish_at = target.replace(microsecond=0).isoformat()
 
     main(
         script_path=args.script,
         do_fb=not args.ig_only,
         do_ig=not args.fb_only,
+        publish_at=publish_at,
     )

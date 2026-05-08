@@ -1,0 +1,42 @@
+{
+  "video_id": "checkup-wes-vs-opal-medical-collections-under-500-001",
+  "character": "doctor_dollar",
+  "topic": "Disputing small medical collections after the 2023 rule change vs ignoring them (Wes vs Opal)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Her three hundred eighty seven dollar emergency room bill killed her score for five years. In twenty twenty three the rule changed and nobody told her. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a doctor's office holding a clipboard with a small bill stamped THREE EIGHTY SEVEN, comic burst banner reads RULE CHANGED IN 2023, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Wes and Opal both have a small medical collection under five hundred dollars sitting on their credit reports from twenty nineteen. Both have been ignoring it for years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man wes at a kitchen table with a credit report, right side woman opal with the same credit report, both with a red MEDICAL COLLECTION line highlighted, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Wes assumes nothing changed, never disputes the collection, and watches it sit on his report dragging his score down by sixty points for five straight years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wes at a kitchen table tossing a credit report on a stack of mail, comic banner reads NOTHING I CAN DO, a falling score gauge behind him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Opal reads about the new rule, files a free dispute online with all three credit bureaus citing the under five hundred dollar medical collection rule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal at a kitchen table on a laptop with three browser tabs labeled EQUIFAX EXPERIAN TRANSUNION, a paper labeled DISPUTE LETTER beside her, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Wes applies for a car loan and gets quoted nine point eight percent because of the old medical mark. Same loan would have cost him three thousand dollars more over five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man wes at a car dealership desk holding a loan offer stamped NINE POINT EIGHT PERCENT, comic banner reads THREE THOUSAND MORE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Thirty days later Opal's collection is removed from all three reports. Her score jumps sixty two points and she gets a five point nine percent loan on her own car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side wes signing a high rate loan, right side opal smiling at a phone with a score chart up by SIXTY TWO POINTS and a paper labeled FIVE POINT NINE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Since twenty twenty three, paid medical collections and any unpaid ones under five hundred dollars cannot stay on your credit report. Pull your report, dispute every small medical mark, and watch your score climb. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard reading DISPUTE EVERY SMALL MEDICAL MARK, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
+    }
+  ]
+}

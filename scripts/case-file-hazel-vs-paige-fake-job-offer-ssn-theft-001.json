@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-hazel-vs-paige-fake-job-offer-ssn-theft-001",
+  "character": "detective_cash",
+  "topic": "Fake remote job offer stealing SSN — sending it early vs waiting (Hazel vs Paige)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "An eighty five thousand dollar remote job offer turned into a destroyed credit score and four loans in her name. Case file 0054. Time of incident, late night job hunt. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a fake job offer letter stamped EIGHTY FIVE K, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hazel and Paige are both job hunting and both apply to the same remote analyst posting on a major job board paying eighty five thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side woman hazel on a laptop applying to a job, right side woman paige on a laptop with the same posting open, both at home offices, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both get a same day text interview, no video call, and a quick offer letter. The recruiter asks each for a social security number for onboarding.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two phones side by side showing identical chat interviews with no video, an onboarding form requesting SOCIAL SECURITY NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hazel sends her social security number that night. Paige writes back saying she will only share her social after a signed offer letter and a verified company email.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side hazel typing her SSN into a chat, right side paige replying with a polite NO and asking for a SIGNED OFFER LETTER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two weeks later Hazel sees four hard inquiries and two new credit cards opened in her name. Her score drops one hundred and forty points.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman hazel at a kitchen table looking at a credit report with four red HARD INQUIRY stamps and a falling score chart, comic banner reads ONE FORTY POINT DROP, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Paige never hears back from the recruiter. Her credit is untouched. The job posting was deleted three days later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side hazel staring at her phone in panic, right side paige calmly closing her laptop with a clean credit report on screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "No real company asks for your social before a signed offer with a verified email domain. Text only interviews are a red flag. Wait for the paperwork. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled SIGNED OFFER FIRST, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

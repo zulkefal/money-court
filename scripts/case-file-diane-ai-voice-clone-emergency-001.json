@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-diane-ai-voice-clone-emergency-001",
+  "character": "detective_cash",
+  "topic": "AI voice cloning a child or grandchild for an emergency wire (Diane)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Mom got a call. It was her son's voice. He was crying, in jail, and needed nine thousand dollars wired in twenty minutes. Case file 0059. Time of incident, ten at night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a phone with sound waves and a red AI label, comic banner reads NINE THOUSAND IN TWENTY MINUTES, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Diane is in her living room when her phone rings late at night. The caller cries and says it is her son. He was in a car accident and the other driver is hurt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diane on a couch in a dim living room holding a phone with a worried face, a clock on the wall showing ten PM, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The voice sounds exactly like her son. He says he is at a police station, his lawyer needs nine thousand dollars in cash app right now, and he begs her not to tell dad.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diane on a phone with a panicked expression, a comic banner reads DO NOT TELL DAD, a small image of a fake lawyer floating in a thought bubble, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Diane opens cash app, sends nine thousand dollars to the username the voice gave her, and stays on the line crying until the call ends.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diane on a couch holding a phone in one hand and a phone with a cash app screen showing NINE THOUSAND SENT in the other, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Five minutes later her real son walks through the front door, fine, asking what's for dinner. The voice on the phone was an AI clone built from his Instagram videos.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diane standing up from the couch in shock, her son walking through the front door with a backpack looking confused, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The cash app account is empty, the username is gone, and the bank confirms cash app transfers are not reversible. Nine thousand dollars vanished in a six minute call.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman diane and her son at a kitchen table looking at a phone with a cash app screen showing USER NOT FOUND, a comic banner reads NINE THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Set a family code word today. If anyone calls in an emergency asking for money, ask for the code word. AI can clone any voice from a thirty second clip. Real family will know the word. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled FAMILY CODE WORD, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

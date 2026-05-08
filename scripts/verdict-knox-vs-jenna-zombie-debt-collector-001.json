@@ -1,0 +1,42 @@
+{
+  "video_id": "verdict-knox-vs-jenna-zombie-debt-collector-001",
+  "character": "judge_vera",
+  "topic": "Old debt past the statute of limitations vs accidentally restarting it (Knox vs Jenna)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He owed eight hundred dollars in twenty fifteen. In twenty twenty four a stranger sued him for four thousand two hundred and won. I am Judge Vera and one wrong word brought a dead debt back to life. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a comic banner reading EIGHT HUNDRED BECAME FOUR THOUSAND, a paper stamped TIME BARRED on the bench, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Knox and Jenna both forgot about a small credit card debt from nine years ago and both get the same surprise call from a debt collector this Tuesday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man knox on a phone with a worried expression, right side woman jenna on a phone with a calm focused expression, both at home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Knox feels guilty, says yes I remember it, agrees to pay just five dollars to be honest, and that single payment restarts the seven year clock.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man knox on a phone holding a five dollar bill, a giant comic clock behind him reset to zero with a banner reading CLOCK RESTARTED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jenna says nothing about the debt, asks for everything in writing, and never pays a cent or admits the debt is hers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jenna at a kitchen table holding a phone in one hand and a notepad reading SEND IT IN WRITING in the other, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six months later Knox gets sued for the eight hundred dollar debt plus nine years of interest and court fees totaling four thousand two hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man knox at a kitchen table reading a court summons, comic banner reads FOUR TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Jenna sends one letter saying the debt is past the statute of limitations and stop contacting her. The collector goes silent forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side knox in a courtroom looking defeated, right side jenna mailing an envelope labeled CEASE AND DESIST with the words STATUTE OF LIMITATIONS visible, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Old debts die after three to ten years depending on your state. Never confirm the debt and never pay a cent. One sentence on the phone can resurrect a zombie. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a checklist labeled NEVER ADMIT NEVER PAY, comic burst banner reads COURT DISMISSED, kids comic book illustration"
+    }
+  ]
+}

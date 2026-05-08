@@ -1,9 +1,11 @@
 name: Daily Money Court video
 
 on:
-  # 2 uploads/day via daily_pipeline.py --slots 2 (morning + evening slot).
+  # 4 uploads/day, one per mascot, via daily_pipeline.py --slots 4.
+  # Cron at 20:00 UTC = 4pm EDT / 3pm EST = ~1 AM PKT.
+  # First scheduled slot is 5pm ET, giving 1-2h buffer for render + upload.
   schedule:
-    - cron: '45 6 * * *'   # 06:45 UTC = 11:45 PKT (publishAt 12:30/13:30 PKT)
+    - cron: '0 20 * * *'
   workflow_dispatch:
     inputs:
       topic:
@@ -31,11 +33,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Render + YT/FB upload completes in ~25 min for 2 slots, but the IG step
-    # sleeps until each YT publish_at so all three platforms go live together.
-    # Last slot publishes at 13:30 PKT (08:30 UTC = 02:00 after the 06:45 cron),
-    # so allow ~3h end-to-end with buffer.
-    timeout-minutes: 180
+    # Render + IG/FB/YT upload for 4 slots completes in ~45 min total —
+    # IG publishes immediately per render, FB+YT use platform-side scheduling.
+    # No more workflow sleeping (that pattern blew CI minutes on day-rollovers).
+    timeout-minutes: 60
     permissions:
       contents: write
 
@@ -82,7 +83,7 @@ jobs:
           OUTPUT_DIR: ./outputs
           LOG_LEVEL: INFO
         run: |
-          ARGS="--slots 2"
+          ARGS="--slots 4"
           if [ -n "${{ inputs.topic }}" ];           then ARGS="$ARGS --topic \"${{ inputs.topic }}\""; fi
           if [ "${{ inputs.no_upload }}" = "true" ]; then ARGS="$ARGS --no-upload"; fi
           if [ "${{ inputs.dry_run }}" = "true" ];   then ARGS="$ARGS --dry-run"; fi

@@ -1,0 +1,42 @@
+{
+  "video_id": "case-file-pete-vs-nia-fake-qr-code-restaurant-001",
+  "character": "detective_cash",
+  "topic": "Fake QR code stickers at restaurants and parking meters — scanning vs checking (Pete vs Nia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A QR code sticker on a parking meter drained two thousand four hundred dollars from a checking account before lunch was over. Case file 0055. Time of incident, Saturday brunch. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a parking meter with a fake QR sticker on it, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Pete and Nia park on the same downtown block on a Saturday morning, both walk up to the same parking meter and see a small QR code sticker that says scan to pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man pete approaching a parking meter, right side woman nia approaching the same kind of meter, a sticker reading SCAN TO PAY visible on each, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Pete scans the sticker, lands on a parking page that looks real, and types his card number to pay three dollars for two hours of parking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man pete on a sidewalk holding a phone with a fake parking website on screen, typing in card details, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Nia sees the sticker is peeling at the corner, ignores it, and pays the three dollars by tapping her card on the actual meter screen instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nia at a parking meter pointing at a peeling QR sticker, then tapping her card on the meter touch screen instead, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two hours later Pete gets four bank alerts. His card was used for two thousand four hundred dollars at three different online stores while he ate brunch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man pete at a brunch table looking at a phone covered in red transaction alerts, comic banner reads TWENTY FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Nia finishes her brunch, walks back to her car, and the only charge on her statement is three dollars to the city.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side pete on a phone calling his bank in panic, right side nia smiling at a clean bank statement showing one charge for THREE DOLLARS CITY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Scammers cover real QR codes with stickers. Never scan QR stickers in public. Pay at the meter screen, the cashier, or the official app. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a peeling QR sticker with a giant red X over it, comic banner reads CASE CLOSED, kids comic book illustration"
+    }
+  ]
+}

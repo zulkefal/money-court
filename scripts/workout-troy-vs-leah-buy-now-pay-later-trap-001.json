@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-troy-vs-leah-buy-now-pay-later-trap-001",
+  "character": "coach_vault",
+  "topic": "Buy now pay later stacking vs using one debit card (Troy vs Leah)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Eight Klarna purchases. Zero late payments. His credit score still tanked ninety points. I am Coach Vault and today two shoppers find out why. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a phone with eight Klarna icons floating around it, comic burst banner reads NINETY POINT DROP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Troy and Leah both want to buy fall clothes, a new headset, sneakers, and a smart watch. Both have around four hundred dollars a month to spend.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man troy on a phone with a shopping cart, right side woman leah on a phone with the same shopping cart, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Troy splits every purchase into four payments using Klarna and Afterpay. He has eight active buy now pay later plans running at the same time and never sees the full total.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man troy on a phone with eight active payment plans listed on screen, comic banner reads ONLY FORTY DOLLARS A WEEK on each, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Leah waits a week, picks two of the four items she actually needs, and pays with her debit card in full. She skips the headset and the smart watch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman leah at a desk with two items in a small online cart and a debit card on the table, a notepad reading WAIT ONE WEEK, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two months later all of Troy's buy now pay later plans report to the credit bureaus. His score drops ninety points and his real monthly payments add up to three hundred and twenty dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man troy at a kitchen table looking at a credit report and a calendar with eight payment dates, comic banner reads THREE TWENTY A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Leah owes nothing. Her credit score is unchanged. She has two items she uses every day and three hundred and twenty dollars in her checking account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side troy holding a credit report with a falling score, right side leah at a desk wearing her sneakers with a clean bank balance on screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Buy now pay later now reports to credit bureaus. Stack three plans and your score drops. Wait a week, cut your cart in half, and pay in full on debit. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading WAIT A WEEK PAY IN FULL, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

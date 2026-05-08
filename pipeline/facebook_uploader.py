@@ -40,6 +40,25 @@ GRAPH_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 DESCRIPTION_MAX = 2200
 
 
+def _raise_for_graph(resp: requests.Response, context: str) -> None:
+    """Like resp.raise_for_status() but include the Graph error body.
+
+    The default raise_for_status() throws away the JSON body, hiding the
+    actual error code/subcode. We want those in the log so failures are
+    diagnosable without a manual probe.
+    """
+    if resp.ok:
+        return
+    try:
+        body = resp.json()
+    except Exception:
+        body = {"raw": resp.text[:1000]}
+    raise requests.HTTPError(
+        f"{context}: HTTP {resp.status_code} — {body}",
+        response=resp,
+    )
+
+
 def _check_config() -> None:
     missing = [
         name for name, val in (
@@ -65,7 +84,7 @@ def _start_upload() -> tuple[str, str]:
         data={"upload_phase": "start", "access_token": FB_PAGE_ACCESS_TOKEN},
         timeout=30,
     )
-    resp.raise_for_status()
+    _raise_for_graph(resp, "fb /video_reels start")
     data = resp.json()
     return data["video_id"], data["upload_url"]
 
@@ -84,7 +103,7 @@ def _transfer_video(upload_url: str, video_path: Path) -> None:
             data=fh,
             timeout=300,
         )
-    resp.raise_for_status()
+    _raise_for_graph(resp, "fb video transfer")
     result = resp.json()
     if not result.get("success"):
         raise RuntimeError(f"FB video transfer failed: {result}")
@@ -119,7 +138,7 @@ def _finish_upload(
         data=data,
         timeout=60,
     )
-    resp.raise_for_status()
+    _raise_for_graph(resp, "fb /video_reels finish")
     result = resp.json()
     if not result.get("success"):
         raise RuntimeError(f"FB publish failed: {result}")

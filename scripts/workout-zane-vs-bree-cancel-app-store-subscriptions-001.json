@@ -1,0 +1,42 @@
+{
+  "video_id": "workout-zane-vs-bree-cancel-app-store-subscriptions-001",
+  "character": "coach_vault",
+  "topic": "Hidden in app store subscriptions audit vs ignoring them (Zane vs Bree)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He thought he paid forty dollars a month in subscriptions. The real number was three hundred and twelve. I am Coach Vault and today two phones get a workout. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding up a phone with a long subscription list on screen, comic burst banner reads THREE HUNDRED TWELVE A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Zane and Bree both think they pay around forty dollars a month for streaming and apps. Both have the same iPhone and the same casual download habits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man zane on a couch with a phone, right side woman bree on a couch with a phone, both casually scrolling, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Zane never opens his subscriptions list in settings. He still pays for two free trials he forgot to cancel two years ago and three apps he uses once a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man zane on a couch with a phone surrounded by app icons floating in the air, comic banner reads FORGOT TO CANCEL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Bree spends ten minutes once a quarter opening Apple ID, tapping subscriptions, and canceling anything she did not use that month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bree on a couch with a phone showing a SUBSCRIPTIONS LIST, several lines crossed out with a comic banner reading CANCEL CANCEL CANCEL, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Zane finally opens his subscriptions list and counts twenty one active subscriptions totaling three hundred and twelve dollars a month or three thousand seven hundred and forty four a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man zane at a kitchen table with a phone showing a long list of TWENTY ONE subscriptions, comic banner reads THIRTY SEVEN HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Bree pays forty seven dollars a month total. She saved over three thousand dollars a year for the price of ten minutes a quarter on her phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side zane staring at his bill in shock, right side bree at a coffee table with a clean phone screen reading FORTY SEVEN A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Today, open Settings, tap your name, tap Subscriptions, and cancel anything you did not use this month. Do it every ninety days. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading SUBSCRIPTIONS AUDIT EVERY NINETY DAYS, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}
