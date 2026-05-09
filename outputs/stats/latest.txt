@@ -1,22 +1,27 @@
-Stats snapshot for 2026-05-06
-Compared to: 2026-05-05
+Stats snapshot for 2026-05-09
+Compared to: 2026-05-06
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$4,000 Frank vs Lucy | Money Court #shorts                       983      —   194.6   21   0     public
-$20,000 Marco vs Eva | Money Court #shorts                       817     +2   264.1   13   0     public
-$400 Jett vs Kira | Money Court #shorts                          799      —   197.2    7   0     public
-$25,000 Otto vs Cleo | Money Court #shorts                       626      —   205.1   16   1     public
-$1,100 Cole vs Sasha | Money Court #shorts                       550      —   108.0   18   1     public
-$90,000 Rex vs Stella | Money Court #shorts                      429     +3   209.0    7   0     public
-$2,500 Tony vs Lila | Money Court #shorts                        299   +299   284.0    6   0     public
-$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      184      —    27.9    6   0     public
-$2,000 Carla vs Jed | Money Court #shorts                        105      —    17.4    1   0     public
-$1,000 Reese vs Holly | Money Court #shorts                       76     +3    36.3    2   0     public
-$50,000 Hugo vs Nina | Money Court #shorts                        60      —    14.7    0   0     public
-$8,000 Bruno vs Diana | Money Court #shorts                       38      —     6.2    0   0     public
-$3,000 Vince vs Maya | Money Court #shorts                        22    +22    22.0    0   0     public
-$15,000 Walt vs Anna | Money Court #shorts                         1      —     1.0    0   0     public
-$15,000 Adam vs Mira | Money Court #shorts                         0      —     0.0    0   0    private
-$1,001,200 Aaron vs Naomi | Money Court #shorts                    0      —     0.0    0   0    private
+$4,000 Frank vs Lucy | Money Court #shorts                       983      —   124.0   21   0     public
+$20,000 Marco vs Eva | Money Court #shorts                       817      —   136.9   13   0     public
+$400 Jett vs Kira | Money Court #shorts                          799      —   115.4    7   0     public
+$25,000 Otto vs Cleo | Money Court #shorts                       626      —   105.6   16   1     public
+$1,100 Cole vs Sasha | Money Court #shorts                       550      —    69.0   18   1     public
+$90,000 Rex vs Stella | Money Court #shorts                      429      —    87.1    7   0     public
+$2,500 Tony vs Lila | Money Court #shorts                        301     +2    76.7    6   0     public
+$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      184      —    19.4    6   0     public
+$2,000 Carla vs Jed | Money Court #shorts                        105      —    11.8    1   0     public
+$1,000 Reese vs Holly | Money Court #shorts                       76      —    15.3    2   0     public
+$1,001,200 Aaron vs Naomi | Money Court #shorts                   70    +70    35.6    0   0     public
+$50,000 Hugo vs Nina | Money Court #shorts                        60      —     8.6    0   0     public
+$15,000 Walt vs Anna | Money Court #shorts                        52    +51    17.8    0   0     public
+$3,000 Vince vs Maya | Money Court #shorts                        44    +22    14.8    0   0     public
+$8,000 Bruno vs Diana | Money Court #shorts                       38      —     4.2    0   0     public
+$9,000 Asher vs Greta | Money Court #shorts                       36      —    36.0    0   0     public
+$15,000 Adam vs Mira | Money Court #shorts                         8     +8     4.2    0   0     public
+$3,000 Beck vs Olive | Money Court #shorts                         0      —     0.0    0   0    private
+$9,000 Diane | Money Court #shorts                                 0      —     0.0    0   0    private
+$40,000 Ava vs Mia | Money Court #shorts                           0      —     0.0    0   0    private
+$9,000 Asher vs Greta | Money Court #shorts                        0      —     0.0    0   0    private
 $2,000 Saul vs Pam | Money Court #shorts                           0      —     0.0    0   0     public
