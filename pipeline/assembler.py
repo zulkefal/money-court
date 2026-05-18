@@ -15,6 +15,8 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from PIL import ImageFont
+
 from config.settings import (
     CAPTION_FONT,
     FFMPEG_BIN,
@@ -29,11 +31,14 @@ from pipeline.logger import get_logger
 
 logger = get_logger("assembler")
 
-# 60-sec Shorts caption styling: bold-condensed Anton, yellow text on a
-# black box, dead-center of the frame. One 3-word cue at a time.
+# 60-sec Shorts caption styling: bold-condensed font, dead-center of the
+# frame. The full 3-word cue is rendered in white on a black box for the
+# whole cue duration; the word currently being spoken is overlaid in yellow
+# (karaoke-style) using the per-word timings from voiceover.py.
 CAPTION_FONTSIZE = 66
+CAPTION_BASE_COLOR = "white"
 CAPTION_HIGHLIGHT_COLOR = "yellow"
-CAPTION_HIGHLIGHT_BOX_COLOR = "black"
+CAPTION_HIGHLIGHT_BOX_COLOR = "black@0.7"
 CAPTION_HIGHLIGHT_BOX_PADDING = 8
 
 # Background music volume relative to narrator. 0.10 = music at 10% — present
@@ -91,33 +96,64 @@ def _motion_filter(scene_idx: int, total_frames: int, width: int, height: int) -
 def _captions_filter(
     captions_json: Path, width: int, height: int, fontsize: int
 ) -> str:
-    """Build a chain of drawtext filters: one yellow 3-word cue at a time.
+    """Build a chain of drawtext filters with karaoke-style per-word highlight.
 
-    Each cue from voiceover.py (already a 3-word group) is rendered as a
-    single yellow drawtext with a black box behind it, centered horizontally
-    and visible only during the cue's spoken interval. Cues swap on their
-    boundaries — no overlap, no per-word karaoke advance.
+    For each cue:
+      1. Base layer: full cue text in white on a black box, visible for the
+         whole cue interval.
+      2. Per-word overlay: the word currently being spoken is redrawn in
+         yellow, positioned exactly over its white twin, enabled only during
+         that word's interval (from voiceover.py's WordBoundary timings).
+
+    Per-word x positions are pre-measured with PIL so the yellow word lands
+    pixel-aligned over the white text underneath. text_h is identical for the
+    base line and each word (same font/size, all-caps sanitized text → no
+    descenders) so y=(h-text_h)/2 lines them up vertically.
     """
     cues = json.loads(captions_json.read_text())
     if not cues:
         return ""
 
+    font = ImageFont.truetype(CAPTION_FONT, fontsize)
+
     parts: list[str] = []
     for cue in cues:
-        text = cue["text"]
-        enable = f"between(t\\,{cue['start']:.3f}\\,{cue['end']:.3f})"
+        line = cue["text"]
+        line_w = font.getlength(line)
+        line_start_x = f"(w-{line_w:.1f})/2"
+
+        # Base: white line on black box for the whole cue duration.
+        enable_cue = f"between(t\\,{cue['start']:.3f}\\,{cue['end']:.3f})"
         parts.append(
             f"drawtext=fontfile={CAPTION_FONT}"
-            f":text='{text}'"
+            f":text='{line}'"
             f":fontsize={fontsize}"
-            f":fontcolor={CAPTION_HIGHLIGHT_COLOR}"
+            f":fontcolor={CAPTION_BASE_COLOR}"
             f":box=1"
             f":boxcolor={CAPTION_HIGHLIGHT_BOX_COLOR}"
             f":boxborderw={CAPTION_HIGHLIGHT_BOX_PADDING}"
-            f":x=(w-text_w)/2"
+            f":x={line_start_x}"
             f":y=(h-text_h)/2"
-            f":enable='{enable}'"
+            f":enable='{enable_cue}'"
         )
+
+        # Per-word yellow overlay, positioned at each word's offset in the line.
+        char_offset = 0
+        for w in cue["words"]:
+            prefix = line[:char_offset]
+            prefix_w = font.getlength(prefix)
+            word_x = f"({line_start_x})+{prefix_w:.1f}"
+            enable_word = f"between(t\\,{w['start']:.3f}\\,{w['end']:.3f})"
+            parts.append(
+                f"drawtext=fontfile={CAPTION_FONT}"
+                f":text='{w['text']}'"
+                f":fontsize={fontsize}"
+                f":fontcolor={CAPTION_HIGHLIGHT_COLOR}"
+                f":x={word_x}"
+                f":y=(h-text_h)/2"
+                f":enable='{enable_word}'"
+            )
+            char_offset += len(w["text"]) + 1  # +1 for the joining space
     return ",".join(parts)
 
 
