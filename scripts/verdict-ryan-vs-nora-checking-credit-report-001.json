@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "One in five credit reports has a damaging error. I am Judge Vera and today two mortgage applicants discovered theirs at very different times. Court is in session!",
+      "narration": "One in five credit reports has a damaging error. Court is in session!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant credit report with red error circles, comic burst banner reads ONE IN FIVE, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Ryan and Nora both apply for a three hundred thousand dollar mortgage, both earn the same salary, and both have nearly identical credit histories.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults ryan and nora at a bank loan officer desk holding identical mortgage application packets, a price tag reading THREE HUNDRED THOUSAND, kids comic book illustration"
+      "narration": "Ryan and Nora both apply for a three hundred thousand dollar mortgage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ryan and woman nora at a bank loan officer desk holding identical mortgage application packets, price tag reading THREE HUNDRED THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Ryan has never checked his credit report. He assumes everything is fine and submits the application without reviewing his three reports.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ryan handing a mortgage application to a loan officer with a confident shrug, a question mark hovering over his head, kids comic book illustration"
+      "narration": "Both earn the same salary and have nearly identical credit histories.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical paychecks and two near identical credit summaries stacked side by side, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Nora pulls all three free reports at annualcreditreport dot com, finds three errors including a closed account marked open, and disputes each one in writing.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nora at a kitchen table with three credit reports spread out, a red pen circling errors, comic burst banner reads ANNUAL CREDIT REPORT, kids comic book illustration"
+      "narration": "Ryan never checks his credit report before applying for the loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ryan handing a mortgage application to a loan officer with a confident shrug, a question mark hovering over his head, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Six weeks later Ryan is approved at seven and a half percent because old errors hurt his score. His monthly payment is two thousand one hundred dollars.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man ryan at a closing table with a paper labeled SEVEN POINT FIVE PERCENT looming over him, calculator showing TWO THOUSAND ONE HUNDRED, kids comic book illustration"
+      "narration": "He assumes everything is fine and just submits the application.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ryan on a couch hitting SUBMIT on a mortgage application website, no credit reports open, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Nora's clean report gets her approved at six point two percent. Over thirty years she pays forty thousand dollars less than Ryan for the same house.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side ryan with a giant payment number, right side nora with a paper labeled SIX POINT TWO PERCENT and a smile, kids comic book illustration"
+      "narration": "Nora pulls all three reports free at annualcreditreport dot com.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nora at a kitchen table with three credit reports spread out, a laptop showing ANNUALCREDITREPORT DOT COM, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Pull your credit reports every year for free at annualcreditreport dot com. Errors cost you tens of thousands. Court dismissed!",
+      "narration": "She finds three errors including a closed account marked open.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nora circling three red errors on a credit report including a CLOSED ACCOUNT MARKED OPEN line, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She disputes each one in writing the same week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nora signing three written dispute letters and stuffing them into envelopes, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Six weeks later Ryan is approved at seven and a half percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked ryan at a closing table with a paper labeled SEVEN POINT FIVE PERCENT looming over him, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His monthly payment is twenty one hundred dollars on the same house.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ryan holding a calculator reading TWENTY ONE HUNDRED PER MONTH, a small house photo beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Nora's clean report gets her six point two percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side ryan with a giant payment number, right side nora with a paper labeled SIX POINT TWO PERCENT and a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pull your credit reports yearly at annualcreditreport dot com. Court dismissed!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a credit report stamped CLEAN, comic banner reads CHECK YEARLY, kids comic book illustration"
     }
   ]

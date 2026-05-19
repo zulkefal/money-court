@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Patients who track net worth yearly grow it six times faster. I am Doctor Dollar and today these two get on the scale. Today's patient checkup starts here.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a doctor's office holding a clipboard labeled NET WORTH SCALE, comic burst banner reads SIX TIMES FASTER, kids comic book illustration"
+      "narration": "Tracking net worth yearly grows it six times faster. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled NET WORTH SCALE, comic burst banner reads SIX TIMES FASTER, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Nate and Daisy are both thirty five, both bring home eighty thousand dollars a year, and both have been working for a decade with no real plan.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man nate at the doctor's desk shrugging, right side woman daisy at the desk with a notebook, both with paychecks reading EIGHTY THOUSAND, kids comic book illustration"
+      "narration": "Nate and Daisy are both thirty five and earn eighty thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man nate and woman daisy at matching desks each holding paychecks reading EIGHTY THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Nate has never added up his assets and debts. He has no idea if he is moving forward or sliding backward.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nate at a couch with bills scattered around, comic banner reads NO IDEA, a question mark over a piggy bank icon, kids comic book illustration"
+      "narration": "They have both worked for a decade with no real money plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both nate and daisy holding ten year work badges, an empty financial plan sheet between them, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Daisy fills out a one page net worth sheet every January, listing every account, every debt, and every asset she owns.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman daisy at a kitchen table with a printed sheet labeled NET WORTH JANUARY, columns for ASSETS and DEBTS clearly listed, kids comic book illustration"
+      "narration": "Nate has never added up his assets and debts on paper.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nate on a couch with bills scattered around, a question mark over a piggy bank icon, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Nate's checkup reveals he owes twenty thousand dollars more than he owns and has been losing ground every year for five years.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man nate looking at a calculator showing NEGATIVE TWENTY THOUSAND, comic banner reads UNDERWATER FOR FIVE YEARS, kids comic book illustration"
+      "narration": "He has no idea if he is moving forward or backward.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nate standing at a crossroads sign labeled FORWARD and BACKWARD with question marks above him, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Daisy's net worth has grown sixty thousand dollars over the same five years just by paying attention and adjusting course every January.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side nate with a negative balance sheet, right side daisy with a chart labeled SIXTY THOUSAND POSITIVE GROWTH, kids comic book illustration"
+      "narration": "Daisy fills a one page net worth sheet every January.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, daisy at a kitchen table with a printed sheet labeled NET WORTH JANUARY, calendar showing January, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Track net worth once a year on one page. The score makes the next move obvious. You cannot grow what you do not measure. See you next visit. Stay financially healthy!",
+      "narration": "She lists every account, every debt, and every asset she owns.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, close up of daisy's net worth sheet with two clean columns labeled ASSETS and DEBTS, items listed neatly, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Five years later Nate owes twenty thousand more than he owns.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked nate looking at a calculator showing NEGATIVE TWENTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He has been losing ground every year and never noticed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a downward red arrow line chart on a wall behind nate, comic banner reads UNDERWATER FIVE YEARS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Daisy's net worth has grown sixty thousand over the same period.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, daisy holding a chart labeled SIXTY THOUSAND POSITIVE GROWTH, a rising green line, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Tracking made every bad month obvious early enough to fix.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, daisy at a kitchen table circling a small dip on her chart with a red pen, comic banner reads CAUGHT EARLY, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Track net worth on one page every January. See you next visit. Stay financially healthy!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding up a chart with a rising net worth line, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
     }
   ]

@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Cash spenders save eighteen percent more than card swipers on the same income. I am Coach Vault and today the envelopes win the round. Today's training session begins now!",
+      "narration": "Cash spenders save eighteen percent more than card swipers. Today's training session begins now!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding three envelopes labeled GROCERIES, GAS, FUN, comic burst banner reads CASH WINS, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Wade and Piper both budget two thousand dollars a month for variable spending like groceries, gas, and entertainment.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man wade with a credit card, right side woman piper with three labeled envelopes of cash, both in kitchens, kids comic book illustration"
+      "narration": "Wade and Piper both budget two thousand dollars a month for variables.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man wade and woman piper each holding budget sheets labeled TWO THOUSAND VARIABLE, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Wade swipes a credit card for everything. He tells himself he will pay it off at month end without checking the running total.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wade at a grocery checkout swiping a credit card, comic banner reads SWIPE AND FORGET, receipt curling out of the register, kids comic book illustration"
+      "narration": "That covers groceries, gas, and entertainment for the whole month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, three icons labeled GROCERIES GAS ENTERTAINMENT lined up under a TWO THOUSAND label, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Piper pulls cash on payday into three envelopes labeled groceries, gas, and fun. When an envelope is empty, that category is closed for the month.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman piper at a kitchen counter splitting cash into three envelopes, a small chalkboard reads ENVELOPE EMPTY EQUALS NO MORE, kids comic book illustration"
+      "narration": "Wade swipes a credit card for every variable expense.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, wade at a grocery checkout swiping a credit card, receipt curling out of the register, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Wade's credit card statement shows two thousand four hundred dollars of variable spending, four hundred dollars over budget, again.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man wade at a kitchen table with a card statement reading FOUR HUNDRED OVER, comic banner reads OVER AGAIN, kids comic book illustration"
+      "narration": "He tells himself he will check the total at month end.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, wade tossing a receipt into a drawer with a thought bubble reading CHECK LATER, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Piper finished the month with thirty dollars left in the fun envelope and zero credit card balance. The visible cash made the limits real.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side wade with a high card statement, right side piper with envelopes showing leftover cash and a clean card statement, kids comic book illustration"
+      "narration": "Piper pulls cash on payday into three labeled envelopes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, piper at a kitchen counter splitting cash into envelopes labeled GROCERIES GAS FUN, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Try cash envelopes for the categories you overspend. Swiping numbs the brain. Cash makes the cost visible. Drop and give me twenty bucks!",
+      "narration": "When an envelope is empty, that category is closed entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a small chalkboard reading ENVELOPE EMPTY EQUALS NO MORE, an empty envelope beside it, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Wade's monthly card statement shows two thousand four hundred dollars spent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked wade at a kitchen table looking at a card statement reading TWO THOUSAND FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He went four hundred dollars over budget again this month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a comic banner reads FOUR HUNDRED OVER AGAIN, wade rubbing his temples, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Piper finished the month with thirty dollars in fun money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, piper holding an envelope labeled FUN with thirty dollars still inside, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She had zero credit card balance and full cash control.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, piper smiling at a clean card statement stamped ZERO BALANCE beside her three envelopes, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use cash envelopes where you overspend. Drop and give me twenty bucks!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding three envelopes labeled GROCERIES GAS FUN, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
     }
   ]

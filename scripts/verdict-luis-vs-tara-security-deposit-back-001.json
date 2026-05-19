@@ -5,38 +5,63 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Landlords keep an estimated twenty seven billion dollars in security deposits every year. I am Judge Vera and today two renters fought back differently. Court is in session!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a giant comic banner reading TWENTY SEVEN BILLION, courtroom spotlight on a stack of envelopes labeled DEPOSITS, kids comic book illustration"
+      "narration": "Landlords keep twenty seven billion in security deposits each year. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a giant comic banner reading TWENTY SEVEN BILLION, stack of envelopes labeled DEPOSITS in the spotlight, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Luis and Tara both move out of one thousand five hundred dollar apartments in the same city on the same Saturday.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults luis and tara moving boxes out of similar apartment doorways, both apartments numbered with rent flyers reading FIFTEEN HUNDRED, kids comic book illustration"
+      "narration": "Luis and Tara both move out of fifteen hundred dollar apartments.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man luis and woman tara each moving boxes out of identical apartment doorways labeled RENT FIFTEEN HUNDRED, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Luis hands in the keys, takes no photos, and never sends a forwarding address or a written demand for his deposit back.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man luis dropping keys into a landlord's hand, an empty kitchen behind him with no photos taken, dust in the corners, kids comic book illustration"
+      "narration": "Same city, same Saturday, same kind of landlord.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smug landlord standing between two identical apartment doors holding two sets of keys, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Tara photographs every wall, every appliance, and every floor before handing in the keys, then mails a written demand letter with her forwarding address.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tara in an empty apartment holding a phone with photo gallery open, an envelope labeled WRITTEN DEMAND LETTER on the counter, kids comic book illustration"
+      "narration": "Luis hands in keys, takes no photos, and never demands his deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, luis dropping keys into the landlord's hand, an empty kitchen behind him, no phone or camera in sight, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Thirty days later Luis gets a tiny check for one hundred dollars with vague deductions for cleaning, paint, and a missing curtain rod.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man luis at a mailbox holding a check for ONE HUNDRED, a tiny paper labeled DEDUCTIONS LIST that lists eight items, kids comic book illustration"
+      "narration": "He gives no forwarding address and waits to see what arrives.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, luis at a new apartment with an empty mailbox, a question mark above his head, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Tara gets one thousand four hundred and fifty dollars back because her photos proved every wall was clean. Same apartments, same landlord, very different results.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side luis with a small check, right side tara holding a check stamped FOURTEEN FIFTY, kids comic book illustration"
+      "narration": "Tara photographs every wall, appliance, and floor before handing over keys.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tara in an empty apartment holding a phone with a photo gallery open, every room snapped, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Photograph every room before you hand in the keys. Send a written demand within thirty days. The law is on your side. Court dismissed!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a phone with a move out photo gallery, comic banner reads PHOTOS AND LETTERS, kids comic book illustration"
+      "narration": "She mails a written demand letter with her new address.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tara sliding an envelope labeled WRITTEN DEMAND LETTER into a blue mailbox, her new address typed on the back, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Thirty days later Luis gets a tiny check for one hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked luis at a mailbox holding a check for ONE HUNDRED in his hand, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Vague deductions for cleaning, paint, and a missing curtain rod.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tiny paper labeled DEDUCTIONS LIST showing items CLEANING PAINT CURTAIN ROD with no receipts attached, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Tara gets one thousand four hundred fifty dollars back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tara smiling holding a check stamped FOURTEEN FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her photos proved every wall was clean when she left.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tara holding up a phone showing a grid of move out photos, each with a green CLEAN stamp, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Photograph every room. Mail a written demand within thirty days. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding a phone with move out photo gallery, comic banner reads PHOTOS AND LETTERS, kids comic book illustration"
     }
   ]
 }

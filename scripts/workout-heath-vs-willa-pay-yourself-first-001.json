@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "People who pay themselves first save four times more than people who save what is left. I am Coach Vault and today the order matters. Today's training session begins now!",
+      "narration": "Paying yourself first saves four times more than saving leftovers. Today's training session begins now!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a giant arrow pointing at SAVINGS FIRST then BILLS, comic burst banner reads FOUR TIMES MORE, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Heath and Willa each take home five thousand dollars a month and both want to save one thousand dollars per month for the future.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man heath at a desk with a paycheck, right side woman willa at a desk with the same paycheck, both with goal notes, kids comic book illustration"
+      "narration": "Heath and Willa each take home five thousand dollars every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man heath and woman willa each holding identical paychecks stamped FIVE THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Heath pays his rent, food, gas, and fun first, then tries to save what is left. By the twenty fifth there is rarely anything to move.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man heath at a kitchen table with bills paid and an empty checking screen, comic banner reads NOTHING LEFT TO SAVE, kids comic book illustration"
+      "narration": "Both want to save one thousand dollars per month for the future.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both holding identical goal notes that read SAVE ONE THOUSAND PER MONTH, hopeful expressions, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Willa transfers one thousand dollars to savings the morning after every paycheck, before she pays a single bill or buys a single coffee.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa at a phone screen tapping AUTO TRANSFER ONE THOUSAND right after a payday icon, kids comic book illustration"
+      "narration": "Heath pays his rent, food, gas, and fun first every paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, heath at a kitchen table paying bills, food, gas, and a pile of fun receipts, comic banner reads BILLS FIRST, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Twelve months later Heath has saved nine hundred dollars total because life always filled the budget before savings did.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man heath at a savings app reading NINE HUNDRED, calendar pages flipping past with no transfers, kids comic book illustration"
+      "narration": "Then he tries to save whatever pocket change is leftover.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, heath shaking out an empty wallet over a piggy bank, only a few coins falling out, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Willa saved twelve thousand dollars in twelve months. Same income, same bills, just a different transfer order.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side heath with thin savings, right side willa with a savings app reading TWELVE THOUSAND in big green numbers, kids comic book illustration"
+      "narration": "By the twenty fifth there is rarely anything left to move.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, heath at a kitchen table with an empty checking screen and a calendar reading TWENTY FIFTH, comic banner reads NOTHING LEFT, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Move your savings the morning after every paycheck, before any bill is paid. Future you is the only paycheck that compounds. Drop and give me twenty bucks!",
+      "narration": "Willa auto transfers one thousand dollars the morning after payday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, willa at a phone screen tapping AUTO TRANSFER ONE THOUSAND right after a payday icon, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She moves the money before paying a single bill or buying coffee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, willa walking past a coffee shop with a confident smile, savings app on her phone shows SAVED FIRST, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Then she pays her bills with whatever she has left.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, willa at a kitchen table calmly paying bills with a savings receipt already tucked into a SAVED jar, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Twelve months later Heath has saved only nine hundred dollars total.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked heath at a savings app reading NINE HUNDRED, calendar pages flipping past with no transfers, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Willa saved twelve thousand dollars on the same paycheck and bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side heath with thin savings, right side willa with a savings app reading TWELVE THOUSAND in big green numbers, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Auto transfer savings on payday. Pay future you first. Drop and give me twenty bucks!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading SAVINGS FIRST, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
     }
   ]

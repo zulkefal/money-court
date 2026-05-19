@@ -1,41 +1,66 @@
 {
   "video_id": "checkup-lily-vs-eve-credit-score-580-vs-780-001",
   "character": "doctor_dollar",
-  "topic": "Credit score 580 vs 780 \u2014 five year financial health (Lily vs Eve)",
+  "topic": "Credit score 580 vs 780 — five year financial health (Lily vs Eve)",
   "scenes": [
     {
       "id": 1,
-      "narration": "A two hundred point credit score difference can cost you eighty thousand dollars on a single mortgage. I am Doctor Dollar. Today's patient checkup starts here.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a doctor's office holding a clipboard with a credit score chart, a patient room behind her, comic burst banner reads EIGHTY THOUSAND DOLLAR DIFFERENCE, kids comic book illustration"
+      "narration": "Two hundred credit points equal eighty thousand on a mortgage. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a credit score chart, comic burst banner reads EIGHTY THOUSAND DIFFERENCE, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Lily and Eve are both thirty two, both buying their first three hundred thousand dollar home, but Lily's score is five hundred eighty and Eve's is seven hundred eighty.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side woman lily at a clinic desk with a credit chart reading FIVE EIGHTY, right side woman eve with a chart reading SEVEN EIGHTY, kids comic book illustration"
+      "narration": "Lily and Eve are both thirty two and buying their first home.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of woman lily and woman eve each holding identical house key icons in front of a three hundred thousand dollar starter home, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Lily missed payments two years ago, has high credit utilization, and never disputed two errors on her credit report.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lily at a desk with a credit report covered in red flags labeled MISSED PAYMENT and HIGH UTILIZATION, errors uncircled, kids comic book illustration"
+      "narration": "Lily's credit score is five hundred eighty, Eve's is seven hundred eighty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side lily at a clinic desk with a chart reading FIVE EIGHTY, right side eve with a chart reading SEVEN EIGHTY, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Eve pays every bill on auto, keeps her balances under ten percent of her limits, and disputes every error within thirty days.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eve at a kitchen table with a clean credit report stamped GREEN, autopay icons next to every bill, a low utilization gauge, kids comic book illustration"
+      "narration": "Lily missed payments two years ago and never disputed the errors.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, lily at a desk with a credit report covered in red flags labeled MISSED PAYMENT and ERROR, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Lily's mortgage rate is eight point one percent. Her monthly payment is two thousand two hundred and twenty dollars and she is house poor.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman lily at a closing table holding a paper labeled EIGHT POINT ONE PERCENT and a calculator reading TWENTY TWO TWENTY A MONTH, kids comic book illustration"
+      "narration": "She also keeps her cards near the credit limit every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, lily holding a credit card with a utilization gauge stuck at NINETY PERCENT in red, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Eve's mortgage rate is six point one percent. Same loan, eighty two thousand dollars less paid over thirty years and a comfortable budget every month.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side lily with a heavy mortgage statement, right side eve with a paper labeled SIX POINT ONE PERCENT and a smile, kids comic book illustration"
+      "narration": "Eve pays every bill on auto and disputes errors within thirty days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, eve at a kitchen table with a clean credit report stamped GREEN, autopay icons next to every bill, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Pay every bill on time, keep utilization under ten percent, and dispute every error. A clean score is the cheapest medicine in personal finance. See you next visit. Stay financially healthy!",
+      "narration": "She keeps her balances under ten percent of the credit limit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, eve holding a credit card with a utilization gauge stuck at TEN PERCENT in green, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Lily's mortgage rate comes back at eight point one percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, lily at a closing table holding a paper labeled EIGHT POINT ONE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her monthly payment is twenty two hundred dollars and she is house poor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked lily holding a calculator reading TWENTY TWO TWENTY A MONTH, empty fridge behind her, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Eve locks in six point one percent on the very same loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, eve at a closing table holding a paper labeled SIX POINT ONE PERCENT with a smile, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She pays eighty two thousand less over thirty years on identical houses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side lily with a heavy mortgage statement, right side eve with a paper banner reading EIGHTY TWO THOUSAND SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Autopay every bill. Stay under ten percent utilization. See you next visit. Stay financially healthy!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a credit score chart climbing to seven hundred eighty, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
     }
   ]

@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Two hours every Saturday turned into ten thousand dollars in one year. I am Coach Vault and today the side hustle pays. Today's training session begins now!",
+      "narration": "Four weekend hours can earn ten thousand a year. Today's training session begins now!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a stopwatch in one hand and a stack of cash in the other, comic burst banner reads TEN THOUSAND IN A YEAR, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Reid and Harper are both salaried employees making fifty five thousand a year and both have free Saturdays and Sundays.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man reid on a couch, right side woman harper at a laptop, both in workout gear with weekends marked on a calendar, kids comic book illustration"
+      "narration": "Reid and Harper both earn fifty five thousand at salaried jobs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man reid and woman harper at office desks each holding paychecks reading FIFTY FIVE THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Reid spends every weekend on the couch streaming and ordering takeout. He says he is too tired from his day job to do anything else.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reid sprawled on a couch with takeout and a remote, comic banner reads TIRED, weekend calendar marked NETFLIX, kids comic book illustration"
+      "narration": "Both have free Saturdays and Sundays after work all week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with Saturday and Sunday glowing in green, both reid and harper standing beside it, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Harper does freelance graphic design for two hours every Saturday and another two on Sunday morning, charging forty dollars an hour.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman harper at a desk with a sketch tablet and a laptop, a small clock reading FOUR HOURS, dollar bills stacked beside the keyboard, kids comic book illustration"
+      "narration": "Reid spends every weekend on the couch streaming and ordering takeout.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, reid sprawled on a couch with takeout boxes and a remote, weekend calendar marked NETFLIX, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "After twelve months Reid has the same checking balance he started with and his streaming bill went up.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man reid at a kitchen table with a flat bank statement, comic banner reads SAME BALANCE, takeout boxes around him, kids comic book illustration"
+      "narration": "He says he is too tired from his day job to hustle.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, reid yawning on a couch with a thought bubble reading TOO TIRED, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Harper banked nine thousand six hundred dollars in side income, paid off her car, and started building a real emergency fund.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side reid on the couch, right side harper with a brokerage app showing NINE THOUSAND SIX HUNDRED, kids comic book illustration"
+      "narration": "Harper does freelance design two hours every Saturday and Sunday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, harper at a desk with a sketch tablet and a laptop, a clock reading TWO HOURS, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Trade four weekend hours for an income stream you control. The money is not the only win, the skill is yours forever. Drop and give me twenty bucks!",
+      "narration": "She charges forty dollars an hour for graphic design work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, harper's invoice reading FORTY DOLLARS PER HOUR, dollar bills stacked beside the keyboard, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Twelve months later Reid has the same checking balance as before.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked reid at a kitchen table with a flat bank statement, comic banner reads SAME BALANCE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "His streaming subscription bill actually went up over the same year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a stack of streaming subscription receipts climbing higher in reid's living room, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Harper banked nine thousand six hundred dollars in side income.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, harper at a brokerage app reading NINE THOUSAND SIX HUNDRED in big green numbers, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She paid off her car and started a real emergency fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, harper holding a car title stamped PAID and a savings vault icon labeled EMERGENCY FUND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Trade four weekend hours for income you control. Drop and give me twenty bucks!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading FOUR HOURS A WEEKEND, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
     }
   ]

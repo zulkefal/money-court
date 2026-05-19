@@ -156,9 +156,10 @@ Hand-written JSON (eventual: Claude API generates these). Schema:
 - Judge Vera is the narrator / presiding judge
 - Lesson told as a comparison case between TWO named litigants (Dan vs Zoe, Mike vs Lisa, etc.)
 - Story arc: shocker hook + "Court is in session!" → setup → divergence → time-jump → reveal → verdict + "Court dismissed!"
-- 7 scenes total, each ~6–9 seconds of narration
+- **12 scenes total, each ~5 seconds of narration (~10–13 words, hard cap 15).** Images
+  swap every 5 seconds, so each scene must be a tight self-contained beat.
 - Scene 1: shocker stat + Judge Vera intro ending with "Court is in session!"
-- Scene 7: Judge Vera delivers the verdict + actionable lesson + "Court dismissed!"
+- Scene 12: Judge Vera delivers the verdict + actionable lesson + "Court dismissed!"
 - `video_id` prefix is `verdict-`
 
 **Image prompt anchor** (in `image_generator.py`):
@@ -253,4 +254,4 @@ tail -f logs/pipeline.log
 8. **Always match the host's signature format** — opener in scene 1, closer in scene 7, two named secondary characters, comparison story
 9. **Always keep outputs** organized by `video_id`. Per-character prefixes: `verdict-` (Judge Vera), `case-file-` (Detective Cash), `workout-` (Coach Vault), `checkup-` (Doctor Dollar)
 10. **Never delete outputs on failure** — keep for debugging
-11. **Keep videos ~60 seconds** — YouTube Shorts limit (current uploads can run a touch over; aim for ~60)
+11. **Keep videos ~60 seconds** — YouTube Shorts limit. Target is **12 scenes × ~5s = ~60s** so the image swaps every 5 seconds throughout the video

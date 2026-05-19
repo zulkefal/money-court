@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "She paid off her oldest card and closed it on a Friday. By Monday her score had dropped eighty four points. I am Doctor Dollar. Today's patient checkup starts here.",
+      "narration": "Closing an old card can drop your score eighty points. Today's patient checkup starts here.",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a doctor's office holding a clipboard with a credit score chart falling sharply, comic burst banner reads EIGHTY FOUR POINT DROP, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Sofia and Demi are both thirty four years old, both have a fifteen year old credit card, and both finally paid off their balance to zero this month.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side woman sofia at a clinic desk with a paid card, right side woman demi with the same paid card, both with PAID OFF stamps, kids comic book illustration"
+      "narration": "Sofia and Demi are both thirty four with a fifteen year old card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of woman sofia and woman demi each holding identical credit cards stamped FIFTEEN YEARS OLD, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Sofia closes the card the same day to remove the temptation. The fifteen year history vanishes from her average account age and her credit limit drops by ten thousand dollars.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sofia holding scissors over a credit card, a clock behind her resetting to zero, a credit limit gauge dropping by TEN THOUSAND, kids comic book illustration"
+      "narration": "Both just paid the balance off to zero this month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both sofia and demi holding identical statements stamped BALANCE ZERO PAID OFF, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Demi keeps the card open, sets a five dollar Netflix charge to autopay on it every month, and sets the card to autopay in full from her checking account.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman demi at a kitchen table with a phone showing a NETFLIX FIVE DOLLAR autopay and a card with AUTOPAY IN FULL toggled on, kids comic book illustration"
+      "narration": "Sofia closes the card to remove the temptation completely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sofia holding scissors over a credit card, an account screen behind her stamped CLOSED, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Three weeks later Sofia's score drops eighty four points because her oldest account closed and her utilization on her remaining cards jumped from twelve percent to forty four.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked woman sofia at a kitchen table looking at a phone showing a credit score chart falling, comic banner reads EIGHTY FOUR POINTS GONE, kids comic book illustration"
+      "narration": "Her fifteen year history vanishes and her total credit limit drops.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clock behind sofia resetting to zero, a credit limit gauge dropping by TEN THOUSAND, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Demi's score went up nine points. Same payoff, same month, two completely different scores from one closed card.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side sofia staring at a falling score chart, right side demi smiling at a phone showing a score chart up by NINE POINTS, kids comic book illustration"
+      "narration": "Demi keeps the card open and puts a five dollar Netflix charge on it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, demi at a kitchen table with a phone showing a NETFLIX FIVE DOLLAR autopay on her old card, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "When you pay off a card, do not close it. Keep it open with one tiny autopay charge and pay it in full each month. Length of credit history is fifteen percent of your score. See you next visit. Stay financially healthy!",
+      "narration": "She sets the card to autopay in full every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, demi tapping AUTOPAY IN FULL toggle on her bank app, a check mark glowing green beside it, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Three weeks later Sofia's score drops eighty four points overnight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked sofia at a kitchen table looking at a phone showing a falling credit score chart, comic banner reads EIGHTY FOUR DOWN, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her utilization jumped from twelve percent to forty four percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a utilization gauge swinging from green TWELVE to red FORTY FOUR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Demi's score went up nine points over the same period.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, demi smiling at a phone showing a score chart up by NINE POINTS in green, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same payoff, same month, but Demi kept her credit history alive.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side sofia with a falling chart, right side demi with a rising chart, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never close paid old cards. Keep them open. See you next visit. Stay financially healthy!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard reading KEEP OLD CARDS OPEN, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
     }
   ]

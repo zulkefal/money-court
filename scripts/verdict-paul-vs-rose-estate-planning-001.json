@@ -5,38 +5,63 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Dying without a will can cost your family forty percent of your estate and fourteen months in court. I am Judge Vera. Court is in session!",
+      "narration": "Dying without a will costs families forty percent of the estate. Court is in session!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a will document stamped SIMPLE WILL, comic burst banner reads FORTY PERCENT LOST, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Paul and Rose are both fifty five years old, both have two hundred thousand dollars in assets, and both have a spouse and two adult children.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults paul and rose at separate kitchen tables with house photos and bank statements, both papers reading TWO HUNDRED THOUSAND, kids comic book illustration"
+      "narration": "Paul and Rose are both fifty five with two hundred thousand in assets.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man paul and woman rose at separate kitchen tables, both with bank statements reading TWO HUNDRED THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Paul says he will write a will eventually. He puts it off for a decade and never updates the beneficiaries on his retirement accounts.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man paul shrugging at a brochure labeled SIMPLE WILL FOR THREE HUNDRED, calendar pages flipping by behind him, kids comic book illustration"
+      "narration": "Each has a spouse and two adult children at home.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two family photo portraits side by side, each showing a couple with two adult children, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Rose pays three hundred dollars for a basic will, names beneficiaries on every account, and stores copies with her family attorney.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rose at a small attorney's desk signing a printed will, a small fee paper labeled THREE HUNDRED beside her, kids comic book illustration"
+      "narration": "Paul says he will write a will eventually and puts it off.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, paul shrugging at a brochure labeled SIMPLE WILL FOR THREE HUNDRED, calendar pages flipping by behind him, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Tragedy strikes both families. Paul's estate is stuck in probate court for fourteen months and his family pays eighty thousand dollars in fees and taxes.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked family of paul standing outside a courthouse holding a paper stamped PROBATE OPEN, comic banner reads EIGHTY THOUSAND IN FEES, kids comic book illustration"
+      "narration": "He never updates beneficiaries on any retirement account either.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, paul's old retirement statement with a beneficiary line reading BLANK, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Rose's family inherits the full two hundred thousand in three weeks because every account had a beneficiary and the will named one executor.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side paul's family in a long courthouse hallway, right side rose's family at a kitchen table with a check stamped FULL INHERITANCE, kids comic book illustration"
+      "narration": "Rose pays three hundred dollars for a simple will today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rose at an attorney's desk signing a printed will, a fee paper labeled THREE HUNDRED beside her, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "A simple will and named beneficiaries cost three hundred dollars once and save your family eighty thousand. Do it this month. Court dismissed!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a will stamped SIGNED with a checklist labeled BENEFICIARIES, comic banner reads PROTECT YOUR FAMILY, kids comic book illustration"
+      "narration": "She names beneficiaries on every account and stores copies safely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rose at a kitchen table updating a list labeled BENEFICIARIES across multiple accounts, a fire safe behind her, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Years pass and tragedy strikes both of these families.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, calendar pages flipping forward, two solemn family photos side by side, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Paul's estate gets stuck in probate court for fourteen months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, paul's family standing outside a courthouse holding a paper stamped PROBATE OPEN, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His family pays eighty thousand dollars in legal fees and taxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, paul's family staring at a tall invoice from a probate lawyer, comic banner reads EIGHTY THOUSAND IN FEES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Rose's family inherits the full two hundred thousand in three weeks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rose's family at a kitchen table with a check stamped FULL INHERITANCE TWO HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Sign a simple will and name your beneficiaries. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a will stamped SIGNED, comic banner reads PROTECT YOUR FAMILY, kids comic book illustration"
     }
   ]
 }

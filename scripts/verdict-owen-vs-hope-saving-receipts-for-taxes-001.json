@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "One year of saved receipts can mean three thousand two hundred dollars more back from the IRS. I am Judge Vera and today two freelancers learned why. Court is in session!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a receipt printed THREE THOUSAND TWO HUNDRED REFUND, comic burst banner reads SAVE THE PAPER, kids comic book illustration"
+      "narration": "Saved receipts can mean three thousand more back from the IRS. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a refund check printed THREE THOUSAND, comic burst banner reads SAVE THE PAPER, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Owen and Hope are both freelance designers who earned fifty thousand dollars last year and both work from home most days.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults owen and hope at home offices with sketch tablets and laptops, ledger sheets nearby labeled FIFTY THOUSAND, kids comic book illustration"
+      "narration": "Owen and Hope are freelance designers earning fifty thousand last year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man owen and woman hope at home offices with sketch tablets and laptops, ledger sheets labeled FIFTY THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Owen throws out receipts as soon as they arrive and tells himself he will remember every business expense at tax time.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man owen tossing a pile of crumpled receipts into a trash can, a thought bubble over his head with a question mark, kids comic book illustration"
+      "narration": "Both work from home most days for the same kinds of clients.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two home offices side by side, identical mood boards and client invoices on the walls, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Hope drops every receipt into a free phone app the moment she gets it, tracks her car mileage, and tags each expense by category.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hope at a coffee shop scanning a receipt into a phone app, a small icon labeled MILEAGE LOG and a folder labeled HOME OFFICE on her desk, kids comic book illustration"
+      "narration": "Owen throws receipts away as soon as they arrive.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, owen tossing a pile of crumpled receipts into a trash can, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "At tax time Owen guesses he had about one thousand two hundred dollars of expenses and writes that on the return to be safe.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man owen at a desk with a tax form, scribbling guessed numbers, a giant comic banner reading GUESSING above his head, kids comic book illustration"
+      "narration": "He tells himself he will remember every expense at tax time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, owen relaxing on a couch with a thought bubble full of question marks, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Hope's app printed a clean four thousand four hundred dollars in real expenses, all backed by paperwork. She got eight hundred dollars more in her refund than Owen.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side owen with a thin refund check, right side hope with a thicker check labeled EIGHT HUNDRED MORE, kids comic book illustration"
+      "narration": "Hope scans each receipt into a free phone app immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hope at a coffee shop scanning a receipt into a phone app, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Save every receipt as it happens. Use a free app. The IRS only honors what you can prove. Court dismissed!",
+      "narration": "She tracks her car mileage and tags each expense category.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hope's phone showing a mileage log and tagged categories labeled HOME OFFICE, MILES, MEALS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "At tax time Owen guesses twelve hundred dollars of expenses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, owen at a desk with a tax form, scribbling TWELVE HUNDRED next to expenses, a giant question mark above him, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He writes the guessed number on his return to be safe.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, owen filing a tax return online with a banner reading PLAYING IT SAFE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Hope's app printed forty four hundred dollars in real expenses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hope holding a printout from her app reading TOTAL EXPENSES FORTY FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She got eight hundred dollars more in her refund than Owen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side owen with a thin refund check, right side hope with a thicker check labeled EIGHT HUNDRED MORE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Save every receipt with a free app. The IRS honors proof. Court dismissed!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a phone with a receipt scanner app open, comic banner reads SCAN AS YOU GO, kids comic book illustration"
     }
   ]

@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "She made one phone call. The hospital cut her four thousand dollar bill down to nine hundred. I am Coach Vault and today two patients fight back differently. Today's training session begins now!",
+      "narration": "One call cut a four thousand bill to nine hundred. Today's training session begins now!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding up a phone and a hospital bill stamped FOUR THOUSAND, comic burst banner reads CUT TO NINE HUNDRED, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Rhett and Sloane both go to the emergency room for the same kind of mild appendicitis scare and both get four thousand dollar bills two weeks later.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man rhett at a kitchen table with an ER bill, right side woman sloane at a kitchen table with the same ER bill, kids comic book illustration"
+      "narration": "Rhett and Sloane both get four thousand dollar ER bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man rhett and woman sloane at kitchen tables each opening identical ER bills stamped FOUR THOUSAND, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Rhett puts the bill on a credit card to avoid going to collections, paying twenty three percent interest, and never asks the hospital for any reduction.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rhett at a kitchen table swiping a credit card on a phone, a comic banner reads TWENTY THREE PERCENT, kids comic book illustration"
+      "narration": "Both had a mild appendicitis scare two weeks earlier.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar showing TWO WEEKS AGO with a small hospital icon, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Sloane calls the billing office, asks for an itemized bill, then asks for the financial assistance application and the cash pay discount in the same call.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sloane at a kitchen table on a phone with a notepad reading ITEMIZED BILL FINANCIAL ASSISTANCE CASH DISCOUNT, kids comic book illustration"
+      "narration": "Rhett puts the bill on a credit card to avoid collections.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rhett at a kitchen table swiping a credit card on a phone, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Three weeks later Rhett's four thousand dollar bill on the credit card is now four thousand four hundred and growing. He will pay almost five thousand by the time it is gone.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man rhett at a kitchen table looking at a credit card statement, comic banner reads FOUR THOUSAND FOUR HUNDRED AND CLIMBING, kids comic book illustration"
+      "narration": "He pays twenty three percent interest and never asks for help.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit card statement with a giant red label reading TWENTY THREE PERCENT APR, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Sloane's itemized bill removed two duplicate charges, financial assistance cut another forty percent, and a cash pay discount took her total to nine hundred dollars.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side rhett with a heavy credit card statement, right side sloane smiling at a paid receipt stamped NINE HUNDRED PAID IN FULL, kids comic book illustration"
+      "narration": "Sloane calls the billing office and requests an itemized bill.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sloane on a phone at a kitchen table with a notepad reading ITEMIZED BILL REQUEST, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Never put a hospital bill on a credit card. Always ask for an itemized bill, financial assistance, and the cash pay discount in one call. Hospitals expect you to ask. Drop and give me twenty bucks!",
+      "narration": "She asks for financial assistance and the cash pay discount.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sloane's notepad now also reading FINANCIAL ASSISTANCE and CASH PAY DISCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Three weeks later Rhett's bill ballooned to four thousand four hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked rhett at a kitchen table looking at a credit card statement, comic banner reads FOUR THOUSAND FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He will pay nearly five thousand by the time it is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a long stretching calendar of payments and a red total reading FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Sloane's itemized bill removed two duplicate charges immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sloane circling two duplicate line items on an itemized bill, both stamped REMOVED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Discounts dropped her total to just nine hundred dollars paid.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sloane smiling at a paid receipt stamped NINE HUNDRED PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Itemize, ask financial assistance, request cash pay discount. Drop and give me twenty bucks!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading ITEMIZE THEN ASK, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
     }
   ]

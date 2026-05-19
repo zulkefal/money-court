@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "The new remote job sent him a four thousand two hundred dollar check for office equipment. He wired one thousand eight hundred to their preferred vendor. Both numbers vanished. Case file 0060. Time of incident, first day on the job. Let me open the evidence.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a paper check stamped FORGED, a comic banner reads ONE EIGHT HUNDRED GONE, kids comic book illustration"
+      "narration": "A four thousand dollar check vanished overnight. Case file 0060. Let's open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a magnifying glass over a paper check stamped FORGED, comic banner reads ONE EIGHT HUNDRED GONE, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Nolan accepts a remote customer service job paying twenty four dollars an hour after a quick text interview. The hiring manager seems friendly and very fast.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nolan at a kitchen table on a laptop with a chat window open, a job offer letter beside him stamped CONGRATULATIONS, kids comic book illustration"
+      "narration": "Nolan accepts a remote customer service job paying twenty four dollars hourly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nolan at a kitchen table on a laptop with a job offer letter stamped CONGRATULATIONS, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Day one she emails him a check for four thousand two hundred dollars and says it is for his work from home setup. He should buy a laptop, monitor, and headset from their preferred vendor.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nolan holding a paper check at a kitchen table, a comic banner reads FOR YOUR HOME OFFICE, a vendor name circled on a small note labeled PREFERRED VENDOR, kids comic book illustration"
+      "narration": "The hiring manager interviewed him only by text in under ten minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nolan reading a fast text interview on his phone, a chat bubble reads YOU ARE HIRED, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Nolan deposits the check, sees four thousand two hundred dollars in his balance the next morning, and wires one thousand eight hundred dollars to the preferred vendor that day.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nolan at a bank wire desk handing a paper to a teller, a phone showing his balance going up by FOUR TWO HUNDRED, kids comic book illustration"
+      "narration": "Day one she sends a four thousand two hundred dollar check.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nolan holding a paper check at a kitchen table, comic banner reads FOR YOUR HOME OFFICE, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Six business days later the bank discovers the check is forged. The four thousand two hundred is reversed and his account is now negative one thousand eight hundred dollars.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man nolan at a kitchen table looking at a bank app showing NEGATIVE ONE EIGHT HUNDRED in red, a paper stamped CHECK BOUNCED beside him, kids comic book illustration"
+      "narration": "Buy a laptop, monitor, and headset from our preferred vendor today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a vendor name circled on a sticky note labeled PREFERRED VENDOR, an email open on a laptop with instructions, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "The hiring manager's email bounces. The vendor's website is gone. The bank confirms the wire is unrecoverable. There was never a job.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nolan staring at a laptop with two emails marked UNDELIVERABLE and a website screen reading PAGE NOT FOUND, kids comic book illustration"
+      "narration": "Nolan deposits the check and sees the balance the next morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone showing a bank balance going up by FOUR TWO HUNDRED, a smiling nolan holding the phone, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Real employers buy and ship your equipment themselves. They never send you a check and ask you to forward part of it. Any job that does this is a scam. Case closed.",
+      "narration": "He wires one thousand eight hundred dollars to the vendor that day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, nolan at a bank wire desk handing a paper to a teller, comic banner reads ONE EIGHT HUNDRED OUT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Six business days later his bank discovers the original check is forged.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank app showing a CHECK BOUNCED notice in big red letters, a worried nolan staring at the screen, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "His account drops to negative one thousand eight hundred dollars overnight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked nolan at a kitchen table holding a bank app showing NEGATIVE ONE EIGHT HUNDRED in red, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The hiring manager's email bounces and the vendor website is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop showing two emails marked UNDELIVERABLE and a website screen reading PAGE NOT FOUND, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "There was never a job, only a scammer using his bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy scammer silhouette laughing behind a fake job posting page on a computer, money raining offscreen, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Real employers ship equipment themselves. They never send checks to forward. Case closed.",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash holding a magnifying glass over a paper labeled REAL JOBS SHIP THE LAPTOP, comic banner reads CASE CLOSED, kids comic book illustration"
     }
   ]

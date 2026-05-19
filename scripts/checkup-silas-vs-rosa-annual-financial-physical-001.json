@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Just like a yearly physical, a yearly money checkup catches problems early and adds years of healthy growth. I am Doctor Dollar. Today's patient checkup starts here.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled ANNUAL FINANCIAL PHYSICAL, a stethoscope around her neck, comic burst banner reads CATCH IT EARLY, kids comic book illustration"
+      "narration": "A yearly money checkup catches problems early and adds wealth. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled ANNUAL FINANCIAL PHYSICAL, comic burst banner reads CATCH IT EARLY, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Silas and Rosa each have a job, a checking account, a 401k, and a credit card. Both have not reviewed any of these accounts in seven years.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man silas with old statements, right side woman rosa with a fresh checklist, both at home, kids comic book illustration"
+      "narration": "Silas and Rosa both have a job, a 401k, and a card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man silas and woman rosa at matching kitchen tables, each with paychecks, 401k statements, and credit cards laid out, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Silas trusts the system and never checks fees, allocations, or interest rates because everything still seems to work.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man silas on a couch ignoring a stack of statements, comic banner reads NEVER CHECK, dust on the papers, kids comic book illustration"
+      "narration": "Neither has reviewed any account in over seven full years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both silas and rosa standing by a calendar showing seven years passing, dusty unopened statements behind them, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Rosa books one Saturday morning every June and reviews fees, beneficiaries, allocations, and interest rates on every account.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosa at a kitchen table with a checklist reading FEES BENEFICIARIES ALLOCATIONS RATES, a calendar marked JUNE PHYSICAL, kids comic book illustration"
+      "narration": "Silas trusts the system and never checks fees or interest rates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, silas on a couch ignoring a stack of statements, comic banner reads NEVER CHECK, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Silas's checkup reveals he is paying one point three percent in 401k fees and his savings is at zero point zero one percent. He has lost twenty thousand dollars in growth.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man silas at a kitchen table looking at fee disclosures, comic banner reads TWENTY THOUSAND LOST, kids comic book illustration"
+      "narration": "Everything seems to work, so he leaves it all alone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, silas relaxing on a couch while a small drip slowly leaks money from his retirement account icon, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Rosa rebalanced her 401k, switched to a high yield savings account, and updated outdated beneficiaries. She gained an extra fifteen thousand over five years.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side silas with old papers, right side rosa with an updated brokerage app reading FIFTEEN THOUSAND MORE, kids comic book illustration"
+      "narration": "Rosa books one Saturday morning every June for a money review.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rosa at a kitchen table with a calendar marked JUNE MONEY DAY, fresh coffee and a checklist beside her, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Schedule one Saturday a year as your money physical. Five hours can fix a decade of financial drift. See you next visit. Stay financially healthy!",
+      "narration": "She checks fees, beneficiaries, allocations, and interest rates on every account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, close up of rosa's checklist reading FEES BENEFICIARIES ALLOCATIONS RATES with green check marks, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Silas's checkup reveals one point three percent in 401k fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked silas at a kitchen table looking at a fee disclosure stamped ONE POINT THREE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "His savings earned almost nothing and lost twenty thousand in growth.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, silas holding a savings statement reading ZERO POINT ZERO ONE PERCENT, comic banner reads TWENTY THOUSAND LOST, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Rosa rebalanced her 401k and switched to high yield savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rosa at a laptop tapping HIGH YIELD SAVINGS, a clean rebalanced pie chart beside her, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She gained an extra fifteen thousand over the same five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side silas with old papers, right side rosa with a brokerage app reading FIFTEEN THOUSAND MORE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "One Saturday yearly fixes a decade of drift. See you next visit. Stay financially healthy!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled YEARLY MONEY DAY, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
     }
   ]

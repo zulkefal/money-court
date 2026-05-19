@@ -5,38 +5,63 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "A bank can freeze your parent's eighty thousand dollar account for six months without a power of attorney. I am Judge Vera. Court is in session!",
+      "narration": "Banks freeze parents accounts six months without power of attorney. Court is in session!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a frozen bank account icon, comic burst banner reads EIGHTY THOUSAND FROZEN, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Mark and Iris each have a healthy parent in their late seventies. Each parent has eighty thousand dollars in checking and a stack of monthly bills.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults mark and iris each visiting an aging parent in a tidy living room, a small banking statement on the coffee table reading EIGHTY THOUSAND, kids comic book illustration"
+      "narration": "Mark and Iris each have a healthy parent in their late seventies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man mark and woman iris each visiting an aging parent in matching tidy living rooms, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Mark says they will set up a power of attorney later. He thinks his dad is healthy and there is no rush.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man mark waving off a brochure labeled DURABLE POWER OF ATTORNEY in his father's living room, calendar on the wall with no plans, kids comic book illustration"
+      "narration": "Each parent has eighty thousand in checking and monthly bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, close up of two coffee tables with banking statements reading EIGHTY THOUSAND beside stacks of monthly bills, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Iris drives her mother to an attorney that month, pays two hundred dollars, and signs a durable power of attorney while her mom is sharp and healthy.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman iris and her mother in an attorney's office both signing a printed power of attorney form, a small fee paper reads TWO HUNDRED, kids comic book illustration"
+      "narration": "Mark says they will set up the power of attorney later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, mark waving off a brochure labeled DURABLE POWER OF ATTORNEY in his father's living room, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Six months later Mark's father has a stroke. The bank freezes the account and Mark spends six months in court paying lawyers to gain access.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man mark at a bank counter being told the account is frozen, a court stamped paper labeled GUARDIANSHIP CASE in the background, kids comic book illustration"
+      "narration": "He thinks his dad is healthy and there is no rush.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, mark relaxing with his father on a couch, the brochure tossed in a drawer behind them, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Iris pays her mom's bills the same day she gets sick, manages her medical decisions, and never sees the inside of a probate court.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side mark in a courthouse hallway with a lawyer, right side iris paying bills online from her mother's bedside, kids comic book illustration"
+      "narration": "Iris drives her mother to an attorney and pays two hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, iris and her mother walking into an attorney's office, a fee paper reading TWO HUNDRED visible on the desk, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Set up a durable power of attorney while your parents are healthy. Two hundred dollars now beats six months of court later. Court dismissed!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a power of attorney form stamped SIGNED, comic banner reads DO IT EARLY, kids comic book illustration"
+      "narration": "They sign a durable power of attorney that same month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, iris and her mother both signing a printed POWER OF ATTORNEY form at an attorney's desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Six months later Mark's father has a serious stroke overnight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, mark rushing into a hospital room, his father in a bed with monitors, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The bank freezes the account and Mark hires a lawyer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked mark at a bank counter being told the account is frozen, a teller pointing at a paper stamped FROZEN, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He spends six months in probate court paying lawyers for access.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, mark in a courthouse hallway with a lawyer, a calendar flipping six months, comic banner reads LAWYER FEES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Iris pays mom's bills the same day she gets sick.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, iris paying bills online from her mother's bedside, a calm green check mark on her phone, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Sign a power of attorney while parents are healthy. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a POWER OF ATTORNEY form stamped SIGNED, comic banner reads DO IT EARLY, kids comic book illustration"
     }
   ]
 }

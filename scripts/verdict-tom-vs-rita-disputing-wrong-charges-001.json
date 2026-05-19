@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "Federal law gives you sixty days to dispute a wrong charge. After that the money is gone. I am Judge Vera and today two cardholders made very different choices. Court is in session!",
+      "narration": "Federal law gives sixty days to dispute a wrong charge. Court is in session!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the courtroom bench pointing her gavel at a wall calendar with sixty days circled in red, comic burst banner reads SIXTY DAYS, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Tom and Rita each open their statements and find the same mystery charge from a gym they never joined, four hundred dollars each.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults tom and rita at separate kitchen tables holding paper statements with a red highlighted line reading FOUR HUNDRED MYSTERY GYM, kids comic book illustration"
+      "narration": "Tom and Rita each open their card statements on Monday morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man tom and woman rita at separate kitchen tables opening paper statements, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Tom assumes the charge will fall off on its own, tosses the statement on the counter, and forgets about it for three months.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man tom shrugging and tossing a paper statement onto a messy kitchen counter, dust building on a stack of unopened envelopes, kids comic book illustration"
+      "narration": "Both find a mystery four hundred dollar gym charge they never made.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, close up of both statements with a red highlighted line reading FOUR HUNDRED MYSTERY GYM, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Rita calls her bank that same afternoon, files a written dispute, and sends the bank a copy of her membership records to prove she never signed up.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rita on the phone at a kitchen table with a notebook, a big written letter labeled WRITTEN DISPUTE in front of her, kids comic book illustration"
+      "narration": "Tom assumes the charge will simply fall off on its own.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tom shrugging and tossing a paper statement onto a messy kitchen counter, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Sixty days later Tom calls the bank to fight the charge but the dispute window is closed and he is now legally responsible for the four hundred dollars.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man tom on the phone with a bank rep, a giant red comic banner reading TOO LATE blocks the screen behind him, kids comic book illustration"
+      "narration": "He tosses the statement onto the counter and forgets entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, dust building on a stack of unopened envelopes, tom watching television in the background, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Rita got her four hundred dollars credited back in ten days and the bank closed the merchant account for fraud.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side tom looking at a bill labeled FOUR HUNDRED OWED, right side rita celebrating a credit notice labeled REFUNDED, kids comic book illustration"
+      "narration": "Rita calls her bank that same Monday afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rita on the phone at a kitchen table with a notebook open in front of her, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Open every statement the day it arrives and dispute anything you do not recognize in writing. Sixty days is your only window. Court dismissed!",
+      "narration": "She files a written dispute with proof she never joined.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rita signing a letter labeled WRITTEN DISPUTE, a folder of membership records beside her, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Sixty days later Tom calls the bank to fight the charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, tom on the phone with a bank rep, a calendar showing day SIXTY ONE circled in red behind him, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "His dispute window is closed and he owes the four hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked tom holding a phone, a giant red comic banner reading TOO LATE blocking the screen behind him, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Rita got her four hundred dollars credited back in ten days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, rita smiling at a credit notice labeled REFUNDED FOUR HUNDRED, calendar showing ten days flipped, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "The bank also closed the merchant account for fraud after her dispute.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fake gym storefront with a CLOSED FOR FRAUD sticker on the window, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Open every statement. Dispute in writing within sixty days. Court dismissed!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a checklist labeled FILE WRITTEN DISPUTE, comic banner reads SIXTY DAY RULE, kids comic book illustration"
     }
   ]

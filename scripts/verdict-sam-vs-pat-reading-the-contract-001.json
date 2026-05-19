@@ -5,38 +5,63 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "One page of fine print hid six extra fees worth six hundred dollars. I am Judge Vera and today two used car buyers learned the cost of a quick signature. Court is in session!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant unrolled contract with six red dollar circles drawn on it, dramatic courtroom spotlight, kids comic book illustration"
+      "narration": "Fine print can hide six hundred dollars in surprise fees. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench pointing her gavel at a giant unrolled contract with six red dollar circles, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Sam and Pat both walk into the same dealership for the same three thousand dollar used sedan on the same Saturday afternoon.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two adults sam and pat standing in a busy used car lot looking at the same blue sedan with a price tag reading THREE THOUSAND, kids comic book illustration"
+      "narration": "Sam and Pat walk into the same dealership on Saturday afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man sam and woman pat both walking into a busy used car dealership, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Sam glances at the first page, signs the rest without reading, and drives off feeling like he won the deal of the year.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man sam at a salesman desk signing fast with one hand while waving keys in the other, salesman smirking behind the desk, kids comic book illustration"
+      "narration": "They both want the same three thousand dollar used sedan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both sam and pat standing in front of the same blue sedan with a price tag reading THREE THOUSAND, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Pat reads every line out loud, spots a doc fee, a prep fee, a warranty bundle, and a paint protection charge, and asks for each one to be removed.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pat sitting at the same desk with a finger on a contract line, red comic burst circles around hidden fees, salesman looking flustered, kids comic book illustration"
+      "narration": "Sam glances at the first page and signs the rest blind.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sam at a salesman desk signing fast with one hand while waving keys in the other, salesman smirking behind the desk, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "Thirty days later the dealer mails Sam the final paperwork showing he actually paid three thousand eight hundred dollars instead of three thousand.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man sam staring at a final invoice in his driveway, a giant comic burst banner reading EIGHT HUNDRED EXTRA looms above him, kids comic book illustration"
+      "narration": "He drives off feeling like he won the deal of the year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sam in the blue sedan driving away with a big confident grin, comic banner reads BIG WINNER, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Pat drove off paying three thousand two hundred and saved six hundred dollars just by reading the page in front of her.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side sam holding a paper labeled THREE THOUSAND EIGHT HUNDRED, right side pat smiling with a paper labeled THREE THOUSAND TWO HUNDRED, kids comic book illustration"
+      "narration": "Pat reads every line out loud at the salesman's desk.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, pat sitting at the same desk with a finger on a contract line, reading aloud, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "Ten minutes of reading saves you hundreds of dollars. Never sign a contract until you have read every line, every fee, every total. Court dismissed!",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a contract with a giant red CHECK every line stamp, comic banner reads READ FIRST, kids comic book illustration"
+      "narration": "She spots doc, prep, warranty, and paint protection charges hidden.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, four red comic burst circles around hidden fees labeled DOC PREP WARRANTY PAINT, salesman looking flustered, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She demands each hidden fee be removed from the contract.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, pat pointing at the contract while the salesman crosses out four line items with a red pen, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Thirty days later Sam's mailed paperwork shows he paid thirty eight hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked sam staring at a final invoice in his driveway, a giant comic burst banner reading EIGHT HUNDRED EXTRA, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Pat drove off paying just thirty two hundred dollars total.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, pat at home smiling at a final invoice marked THIRTY TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She saved six hundred dollars by reading the page in front of her.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side sam with a paper labeled THIRTY EIGHT HUNDRED, right side pat with a paper labeled THIRTY TWO HUNDRED and a stack of saved bills, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read every line and every fee before signing. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel, holding up a contract with a giant red CHECK EVERY LINE stamp, comic banner reads READ FIRST, kids comic book illustration"
     }
   ]
 }

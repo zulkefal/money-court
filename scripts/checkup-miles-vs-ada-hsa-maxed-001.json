@@ -5,37 +5,62 @@
   "scenes": [
     {
       "id": 1,
-      "narration": "A maxed health savings account can grow into one hundred fifty thousand dollars of triple tax free retirement money. I am Doctor Dollar. Today's patient checkup starts here.",
+      "narration": "A maxed HSA can grow to one hundred fifty thousand. Today's patient checkup starts here.",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled HSA TRIPLE TAX FREE, comic burst banner reads ONE HUNDRED FIFTY THOUSAND, kids comic book illustration"
     },
     {
       "id": 2,
-      "narration": "Miles and Ada both have a high deductible health plan at work and both qualify to contribute to a health savings account.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, left side man miles with a benefits sheet labeled HSA ELIGIBLE, right side woman ada with the same sheet, both at the doctor's desk, kids comic book illustration"
+      "narration": "Miles and Ada both have high deductible plans that qualify for an HSA.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man miles and woman ada at the doctor's desk holding benefits sheets stamped HSA ELIGIBLE, kids comic book illustration"
     },
     {
       "id": 3,
-      "narration": "Miles never opened the HSA. He thinks of it as just a medical bill account and never knew it could be invested in index funds.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man miles on a couch with a benefits booklet unopened, comic banner reads NEVER OPENED IT, a closed HSA icon, kids comic book illustration"
+      "narration": "Miles never opens his HSA, thinking it is just a medical account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, miles on a couch with an unopened benefits booklet, comic banner reads NEVER OPENED, a closed HSA icon, kids comic book illustration"
     },
     {
       "id": 4,
-      "narration": "Ada contributes the full four thousand dollar yearly maximum, pays small medical bills out of pocket, and invests the HSA in a low cost index fund.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ada at a laptop tapping AUTO INVEST FOUR THOUSAND in an HSA, a low cost fund chart on the screen, kids comic book illustration"
+      "narration": "He never learns that HSAs can be invested in index funds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, miles shrugging in front of a chalkboard with INDEX FUND HSA written on it but crossed out, kids comic book illustration"
     },
     {
       "id": 5,
-      "narration": "After twenty years Miles has zero dollars in an HSA and has paid over thirty thousand dollars in medical bills out of taxed checking.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked man miles staring at a kitchen table with old medical bills, comic banner reads ZERO HSA, kids comic book illustration"
+      "narration": "Ada contributes the full four thousand dollar yearly maximum every January.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ada at a laptop tapping CONTRIBUTE FOUR THOUSAND on an HSA portal, a January calendar icon beside her, kids comic book illustration"
     },
     {
       "id": 6,
-      "narration": "Ada's HSA holds one hundred forty thousand dollars in tax free retirement money and a folder of every medical receipt she can reimburse herself for any time.",
-      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side miles with empty hands, right side ada with a brokerage app reading ONE HUNDRED FORTY THOUSAND HSA, kids comic book illustration"
+      "narration": "She invests it in a low cost index fund and pays bills cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ada holding a phone with a rising index fund chart, a small wallet beside it paying a medical bill, kids comic book illustration"
     },
     {
       "id": 7,
-      "narration": "If you qualify for an HSA, max it and invest it. Pay small medical bills with cash. The triple tax free win is the strongest in the IRS code. See you next visit. Stay financially healthy!",
+      "narration": "Twenty years pass and Miles has saved zero dollars in his HSA.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked older miles at a kitchen table holding an empty HSA statement, comic banner reads ZERO HSA, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "He has paid over thirty thousand dollars in taxed medical bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, miles staring at a tall stack of old medical bills stamped PAID FROM CHECKING, comic banner reads THIRTY THOUSAND TAXED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Ada's HSA holds one hundred forty thousand tax free dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older ada smiling at a brokerage app reading ONE HUNDRED FORTY THOUSAND HSA in big green numbers, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She also kept every receipt to reimburse herself any time tax free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, ada with a folder labeled MEDICAL RECEIPTS, a stamp reading TAX FREE REIMBURSE beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same plan, same eligibility, but only Ada invested the account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split scene, left side miles with empty hands, right side ada with stacks of HSA growth charts, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Max your HSA and invest it. See you next visit. Stay financially healthy!",
       "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard labeled MAX AND INVEST, comic burst banner reads SEE YOU NEXT VISIT, kids comic book illustration"
     }
   ]

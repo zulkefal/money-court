@@ -47,8 +47,12 @@ Every script follows this winning structure (validated by user data):
 - The mascot is the NARRATOR / presiding professional, not the subject of the story.
 - The lesson is told as a COMPARISON CASE between TWO named secondary characters
   (Dan vs Zoe, Mike vs Lisa, Sam vs Pat — never reuse names from prior videos).
-- 7 scenes total, each ~6–9 seconds of narration.
-- Story arc: shocker hook → setup → divergence A → divergence B → time-jump → reveal → mascot's signature closer + lesson
+- 12 scenes total, each ~5 seconds of narration (~10–13 words). Scene images
+  swap every 5 seconds, so each scene must be a tight, self-contained beat that
+  the visual change can punctuate cleanly.
+- Story arc: shocker hook → opener → setup A → setup B → divergence A → divergence B
+  → mid-jump A → mid-jump B → time-jump → reveal A → reveal B → mascot's signature
+  closer + lesson
 
 You output ONLY valid JSON in this exact schema:
 {
@@ -58,7 +62,7 @@ You output ONLY valid JSON in this exact schema:
   "title": "<clickbaity title with $AMOUNT + emoji + comparison, see TITLE rules>",
   "scenes": [
     {"id": 1, "narration": "...", "image_prompt": "..."},
-    ... (exactly 7 scenes)
+    ... (exactly 12 scenes)
   ]
 }
 
@@ -71,27 +75,29 @@ NARRATION rules:
 - 8th-grade reading level. Short, punchy sentences.
 - Use only letters, digits, spaces, periods, commas, ! and ? — no quote marks.
 - Spell out numbers in narration ("eight thousand dollars" not "$8,000").
+- TARGET 10–13 WORDS PER SCENE (≈5 seconds at our TTS rate). Hard cap: 15 words.
+  Going over breaks the 5-second image cadence.
 - Scene 1 must lead with a shocker stat or counterintuitive fact, then transition
   into the mascot's signature opener.
-- Scene 7 ends with the mascot's signature closer + an action lesson.
+- Scene 12 ends with the mascot's signature closer + an action lesson.
 
 Per-character signature lines:
 
   judge_vera:
     Scene 1 ends with: "...Court is in session!"
-    Scene 7 ends with: "...Court dismissed!"
+    Scene 12 ends with: "...Court dismissed!"
 
   detective_cash:
     Scene 1 ends with something like: "...Case file 0042. Let's open the evidence."
-    Scene 7 ends with: "...Case closed."
+    Scene 12 ends with: "...Case closed."
 
   coach_vault:
     Scene 1 ends with: "...Today's training session begins now!"
-    Scene 7 ends with: "...Drop and give me twenty bucks!"
+    Scene 12 ends with: "...Drop and give me twenty bucks!"
 
   doctor_dollar:
     Scene 1 ends with: "...Today's patient checkup starts here."
-    Scene 7 ends with: "...See you next visit. Stay financially healthy!"
+    Scene 12 ends with: "...See you next visit. Stay financially healthy!"
 
 TITLE rules (for the JSON's `title` field):
 - Lead with a $ amount or shocking number — quantify the hook
@@ -106,7 +112,7 @@ IMAGE_PROMPT rules:
 - Describe what's IN the panel: characters' looks, poses, props, dollar amounts shown
   as part of the art (signs, banners, comic burst lettering), backgrounds.
 - Use comic conventions: motion lines, sparkles, comic burst banners.
-- For the host mascot (in scenes 1 and 7), always include their canonical look:
+- For the host mascot (in scenes 1 and 12), always include their canonical look:
 
     judge_vera = "cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel"
 
@@ -171,8 +177,8 @@ def generate(character: str, topic: str, used_names: list[str] | None = None) ->
     assert script["character"] == character, (
         f"character mismatch: asked for {character!r}, got {script.get('character')!r}"
     )
-    assert isinstance(script["scenes"], list) and len(script["scenes"]) == 7, (
-        f"expected 7 scenes, got {len(script.get('scenes', []))}"
+    assert isinstance(script["scenes"], list) and len(script["scenes"]) == 12, (
+        f"expected 12 scenes, got {len(script.get('scenes', []))}"
     )
     for s in script["scenes"]:
         assert "narration" in s and "image_prompt" in s, f"malformed scene: {s}"
