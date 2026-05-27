@@ -1,82 +1,87 @@
-Stats snapshot for 2026-05-25
-Compared to: 2026-05-23
+Stats snapshot for 2026-05-27
+Compared to: 2026-05-25
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$1,500 Luis vs Tara | Money Court #shorts                       1195    +-2   242.0   11   0     public
-$4,000 Frank vs Lucy | Money Court #shorts                       983      —    40.0   21   0     public
-$20,000 Marco vs Eva | Money Court #shorts                       817      —    36.2   13   0     public
-$400 Jett vs Kira | Money Court #shorts                          799      —    33.9    7   0     public
-$25,000 Otto vs Cleo | Money Court #shorts                       626      —    27.8   16   1     public
-$1,100 Cole vs Sasha | Money Court #shorts                       550      —    22.4   18   1     public
-$1,500 Luis vs Tara | Money Court #shorts                        452      —   114.8    2   0     public
-$90,000 Rex vs Stella | Money Court #shorts                      429      —    19.9    7   0     public
-$85,000 Hazel vs Paige | Money Court #shorts                     337      —    22.6   11   0     public
-$85,000 Hazel vs Paige | Money Court #shorts                     337      —    22.6   11   0     public
-$2,500 Tony vs Lila | Money Court #shorts                        301      —    14.7    6   0     public
-$3,000 Brad vs Tess | Money Court #shorts                        225      —    14.2    5   0     public
-$3,000 Beck vs Olive | Money Court #shorts                       217      —    13.7    6   0     public
-$85,000 Hazel vs Paige | Money Court #shorts                     209      —    13.1    4   0     public
-$500 Jasper | Money Court #shorts                                207      —    16.1    1   0     public
-$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      186      —     7.1    6   0     public
-$9,000 Diane | Money Court #shorts                               174      —    10.9    1   0     public
-$2,400 Pete vs Nia | Money Court #shorts                         154      —    40.0    0   0     public
-$9,000 Asher vs Greta | Money Court #shorts                      153      —     9.2    4   0     public
-$3,000 Brad vs Tess | Money Court #shorts                        149      —    10.0    2   0     public
-$4,200 Nolan | Money Court #shorts                               123      —    24.9    1   0     public
-$1,001,200 Aaron vs Naomi | Money Court #shorts                  105      —     5.7    0   0     public
-$2,000 Carla vs Jed | Money Court #shorts                        105      —     4.1    1   0     public
-$1,500 Jonah vs Mara | Money Court #shorts                        98      —    12.3    2   0     public
-$4,000 Cody vs Brooke | Money Court #shorts                       98      —     9.9    0   0     public
-$1,200 Bryce vs Skye | Money Court #shorts                        92      —     8.3    0   0     public
-$9,600 Jay vs Robin | Money Court #shorts                         91    +79    45.0    2   0     public
-$200 Mark vs Iris | Money Court #shorts                           85    +85    45.9    1   0     public
-$10,000 Levi vs Clara | Money Court #shorts                       83      —    12.1    0   0     public
-$1,000 Reese vs Holly | Money Court #shorts                       76      —     3.5    2   0     public
-$40,000 Ava vs Mia | Money Court #shorts                          75      —     4.7    0   0     public
-$9,000 Asher vs Greta | Money Court #shorts                       73      —     4.6    1   0     public
-$5,000 Kyle vs Ruby | Money Court #shorts                         72      —    14.3    0   0     public
-$5,000 Kyle vs Ruby | Money Court #shorts                         71      —    14.1    0   0     public
-$12,000 Heath vs Willa | Money Court #shorts                      63      —    13.0    0   0     public
-Finn vs June | Money Court #shorts                                63      —     9.1    0   0     public
-$3,000 Margot | Money Court #shorts                               62      —     7.0    0   0     public
-$75,000 Eli vs Hannah | Money Court #shorts                       62      —     4.2    0   0     public
-$50,000 Hugo vs Nina | Money Court #shorts                        60      —     2.5    0   0     public
-$7,500 Mona | Money Court #shorts                                 59      —     9.8    0   0     public
-$1,000,000 Ezra vs Wendy | Money Court #shorts                    56      —     3.8    0   0     public
-$15,000 Walt vs Anna | Money Court #shorts                        52      —     2.7    0   0     public
-$14,000 Kit vs Aspen | Money Court #shorts                        51      —    51.0    0   0     public
-$4,200 Knox vs Jenna | Money Court #shorts                        51      —     6.5    1   0     public
-$2,200 Lily vs Eve | Money Court #shorts                          47      —    11.7    0   0     public
-$70,000 Grace vs Caleb | Money Court #shorts                      47      —     5.9    0   0     public
-$9,500 Marcus | Money Court #shorts                               46      —     4.6    0   0     public
-$1,800 Chase vs Lana | Money Court #shorts                        46      —     4.2    0   0     public
-$30,000 Miles vs Ada | Money Court #shorts                        45    +45    23.2    0   0     public
-$3,000 Vince vs Maya | Money Court #shorts                        44      —     2.2    0   0     public
-$70,200 Helena | Money Court #shorts                              43      —     3.1    2   0     public
-$9,000 Asher vs Greta | Money Court #shorts                       40      —     2.3    0   0     public
-$2,640 Brock vs Layla | Money Court #shorts                       38      —     2.7    1   0     public
-$8,000 Bruno vs Diana | Money Court #shorts                       38      —     1.5    0   0     public
-$2,200 Lily vs Eve | Money Court #shorts                          34     +9    11.3    0   0     public
-$1,900 Hank vs Joy | Money Court #shorts                          32      —     3.5    0   0     public
-$47,000 Dean vs Mae | Money Court #shorts                         32      —     2.5    0   0     public
-$1,000,000 Ezra vs Wendy | Money Court #shorts                    31      —     2.6    0   0     public
-$73,000 Ben vs Cora | Money Court #shorts                         27      —     1.8    1   0     public
-$7,500 Kai | Money Court #shorts                                  26      —     2.6    0   0     public
-$5,500 Carl vs Beth | Money Court #shorts                         25      —     1.8    1   0     public
-$6,000 Jake vs Ivy | Money Court #shorts                          18      —     2.0    0   0     public
-$9,600 Jay vs Robin | Money Court #shorts                         17    +17    16.6    0   0     public
-$5,500 Carl vs Beth | Money Court #shorts                         11      —     0.8    0   0     public
-$30,000 Miles vs Ada | Money Court #shorts                         9     +2     3.1    0   0     public
-$2,000 Greg vs Faye | Money Court #shorts                          9      —     0.8    0   0     public
+$1,500 Luis vs Tara | Money Court #shorts                       1195      —   171.5   11   0     public
+$4,000 Frank vs Lucy | Money Court #shorts                       983      —    37.0   21   0     public
+$20,000 Marco vs Eva | Money Court #shorts                       817      —    33.2   13   0     public
+$400 Jett vs Kira | Money Court #shorts                          799      —    31.2    7   0     public
+$25,000 Otto vs Cleo | Money Court #shorts                       626      —    25.5   16   1     public
+$1,100 Cole vs Sasha | Money Court #shorts                       550      —    20.7   18   1     public
+$1,500 Luis vs Tara | Money Court #shorts                        452      —    75.7    2   0     public
+$90,000 Rex vs Stella | Money Court #shorts                      429      —    18.2    7   0     public
+$85,000 Hazel vs Paige | Money Court #shorts                     337      —    19.9   11   0     public
+$2,500 Tony vs Lila | Money Court #shorts                        301      —    13.3    6   0     public
+$3,000 Brad vs Tess | Money Court #shorts                        225      —    12.6    5   0     public
+$3,000 Beck vs Olive | Money Court #shorts                       217      —    12.1    6   0     public
+$85,000 Hazel vs Paige | Money Court #shorts                     209      —    11.6    4   0     public
+$500 Jasper | Money Court #shorts                                207      —    13.9    1   0     public
+$6,000 🕵️🔍 Bo vs Sage | Money Court #shorts                      186      —     6.6    6   0     public
+$9,000 Diane | Money Court #shorts                               174      —     9.7    1   0     public
+$2,400 Pete vs Nia | Money Court #shorts                         154      —    26.2    0   0     public
+$9,000 Asher vs Greta | Money Court #shorts                      153      —     8.2    4   0     public
+$3,000 Brad vs Tess | Money Court #shorts                        149      —     8.8    2   0     public
+$4,200 Nolan | Money Court #shorts                               123      —    17.6    1   0     public
+$1,001,200 Aaron vs Naomi | Money Court #shorts                  105      —     5.1    0   0     public
+$2,000 Carla vs Jed | Money Court #shorts                        105      —     3.8    1   0     public
+$1,500 Jonah vs Mara | Money Court #shorts                        98      —     9.8    2   0     public
+$4,000 Cody vs Brooke | Money Court #shorts                       98      —     8.2    0   0     public
+$1,200 Bryce vs Skye | Money Court #shorts                        92      —     7.0    0   0     public
+$9,600 Jay vs Robin | Money Court #shorts                         91      —    22.5    2   0     public
+$70,200 Helena | Money Court #shorts                              90      —     5.3    5   0     public
+$200 Mark vs Iris | Money Court #shorts                           88     +3    22.6    1   0     public
+$10,000 Levi vs Clara | Money Court #shorts                       83      —     9.3    0   0     public
+$14,000 Kit vs Aspen | Money Court #shorts                        76    +76    38.6    0   0     public
+$1,000 Reese vs Holly | Money Court #shorts                       76      —     3.2    2   0     public
+$40,000 Ava vs Mia | Money Court #shorts                          75      —     4.2    0   0     public
+$9,000 Asher vs Greta | Money Court #shorts                       73      —     4.1    1   0     public
+$5,000 Kyle vs Ruby | Money Court #shorts                         72      —    10.2    0   0     public
+$5,000 Kyle vs Ruby | Money Court #shorts                         71      —    10.1    0   0     public
+$12,000 Heath vs Willa | Money Court #shorts                      63      —     9.2    0   0     public
+Finn vs June | Money Court #shorts                                63      —     7.0    0   0     public
+$3,000 Margot | Money Court #shorts                               62      —     5.7    0   0     public
+$75,000 Eli vs Hannah | Money Court #shorts                       62      —     3.7    0   0     public
+$50,000 Hugo vs Nina | Money Court #shorts                        60      —     2.3    0   0     public
+$7,500 Mona | Money Court #shorts                                 59      —     7.3    0   0     public
+$15,000 Walt vs Anna | Money Court #shorts                        52      —     2.4    0   0     public
+$14,000 Kit vs Aspen | Money Court #shorts                        51      —    17.2    0   0     public
+$4,200 Knox vs Jenna | Money Court #shorts                        51      —     5.2    1   0     public
+$11,400 Vance vs Riley | Money Court #shorts                      47    +47    44.7    0   0     public
+$2,200 Lily vs Eve | Money Court #shorts                          47      —     7.8    0   0     public
+$70,000 Grace vs Caleb | Money Court #shorts                      47      —     4.7    0   0     public
+$9,500 Marcus | Money Court #shorts                               46      —     3.8    0   0     public
+$1,800 Chase vs Lana | Money Court #shorts                        46      —     3.5    0   0     public
+$30,000 Miles vs Ada | Money Court #shorts                        45      —    11.3    0   0     public
+$3,000 Vince vs Maya | Money Court #shorts                        44      —     2.0    0   0     public
+$70,200 Helena | Money Court #shorts                              43      —     2.7    2   0     public
+$9,000 Asher vs Greta | Money Court #shorts                       40      —     2.0    0   0     public
+$2,640 Brock vs Layla | Money Court #shorts                       38      —     2.4    1   0     public
+$8,000 Bruno vs Diana | Money Court #shorts                       38      —     1.4    0   0     public
+$2,200 Lily vs Eve | Money Court #shorts                          34      —     6.7    0   0     public
+$1,900 Hank vs Joy | Money Court #shorts                          32      —     2.9    0   0     public
+$47,000 Dean vs Mae | Money Court #shorts                         32      —     2.1    0   0     public
+$1,000,000 Ezra vs Wendy | Money Court #shorts                    31      —     2.2    0   0     public
+$73,000 Ben vs Cora | Money Court #shorts                         27      —     1.6    1   0     public
+$7,500 Kai | Money Court #shorts                                  26      —     2.2    0   0     public
+$5,500 Carl vs Beth | Money Court #shorts                         25      —     1.6    1   0     public
+$5,500 Carl vs Beth | Money Court #shorts                         25      —     1.6    1   0     public
+$6,000 Jake vs Ivy | Money Court #shorts                          18      —     1.6    0   0     public
+$9,600 Jay vs Robin | Money Court #shorts                         17      —     5.6    0   0     public
+$5,500 Carl vs Beth | Money Court #shorts                         11      —     0.7    0   0     public
+$30,000 Miles vs Ada | Money Court #shorts                        10     +1     2.0    0   0     public
+$2,000 Greg vs Faye | Money Court #shorts                          9      —     0.7    0   0     public
 $2,640 Brock vs Layla | Money Court #shorts                        8      —     0.5    0   0     public
 $15,000 Adam vs Mira | Money Court #shorts                         8      —     0.4    0   0     public
-$4,200 Nolan | Money Court #shorts                                 4      —     0.7    0   0     public
+$5,000 Oscar vs Petra | Money Court #shorts                        7      —     7.0    0   0     public
+$80,000 Nate vs Daisy | Money Court #shorts                        4     +4     2.1    0   0     public
+$4,200 Nolan | Money Court #shorts                                 4      —     0.5    0   0     public
 $95,100 Felix vs Dora | Money Court #shorts                        3      —     0.2    0   0     public
+$12,000 Mike vs Lisa | Money Court #shorts                         2      —     2.0    0   0     public
 Gabe vs Isla | Money Court #shorts                                 2      —     0.2    0   0     public
-$80,000 Nate vs Daisy | Money Court #shorts                        0      —     0.0    0   0    private
-$14,000 Kit vs Aspen | Money Court #shorts                         0      —     0.0    0   0    private
-$11,400 Vance vs Riley | Money Court #shorts                       0      —     0.0    0   0    private
-$11,400 Vance vs Riley | Money Court #shorts                       0      —     0.0    0   0     public
+$11,400 Vance vs Riley | Money Court #shorts                       1     +1     0.5    0   0     public
+$35,000 Neil vs Wren | Money Court #shorts                         0      —     0.0    0   0    private
+$5,000 Oscar vs Petra | Money Court #shorts                        0      —     0.0    0   0    private
+$12,000 Mike vs Lisa | Money Court #shorts                         0      —     0.0    0   0    private
 $60,000 Drew vs Cara | Money Court #shorts                         0      —     0.0    0   0     public
 $2,000 Saul vs Pam | Money Court #shorts                           0      —     0.0    0   0     public
