@@ -11,6 +11,11 @@ load_dotenv(PROJECT_ROOT / ".env")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 REPLICATE_API_TOKEN = os.getenv("REPLICATE_API_TOKEN", "")
 
+# Pollinations.ai API key. Pollinations moved image generation behind auth — the
+# anonymous free tier now returns 402 Payment Required. Sent as a Bearer token
+# (see pipeline/image_generator.py). Secret name in GitHub Actions: POLLINATION_API.
+POLLINATIONS_API_KEY = os.getenv("POLLINATION_API", "")
+
 # YouTube Data API v3 — see uploader.py for the OAuth flow.
 YOUTUBE_CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID", "")
 YOUTUBE_CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET", "")

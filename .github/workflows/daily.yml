@@ -67,6 +67,9 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          # Required for image generation. Pollinations moved behind auth — the
+          # anonymous tier returns 402 Payment Required.
+          POLLINATION_API: ${{ secrets.POLLINATION_API }}
           # Optional. Without it daily_pipeline.py runs in JSON-only mode
           # and only renders hand-written scripts in scripts/*.json.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-omar-vs-lena-credit-utilization-30-001",
+  "character": "doctor_dollar",
+  "topic": "Keeping credit utilization under thirty percent vs maxing the card (Omar vs Lena)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Maxing one card dropped a credit score by ninety points overnight. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a score gauge dropping NINETY POINTS, comic burst banner reads UTILIZATION CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Omar and Lena both have a five thousand dollar credit limit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man omar and woman lena each holding a credit card stamped LIMIT FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Utilization is how much of your limit you use each month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a credit card meter labeled UTILIZATION filling up, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Omar charges forty five hundred and carries it month to month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man omar swiping a card, a balance meter near the top reads FORTY FIVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His utilization sits at ninety percent and screams high risk.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a red utilization gauge pinned at NINETY PERCENT with a HIGH RISK warning, worried man omar beside it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lena keeps her balance under fifteen hundred, about thirty percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena holding a card with a green utilization gauge at THIRTY PERCENT, balance reads FIFTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She pays the statement in full before the due date.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena tapping PAY IN FULL on a phone, a calendar showing BEFORE DUE DATE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Omar's score sinks to six twenty from heavy utilization alone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge dropping to SIX TWENTY in the red zone, glum man omar watching, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Lena's score climbs past seven sixty with the same income.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge rising past SEVEN SIXTY in the green zone, smiling woman lena beside it, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Omar is denied a car loan at the good rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man omar at a car dealership holding a loan paper stamped DENIED, a salesperson shaking their head, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Lena qualifies instantly and saves thousands in interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena receiving car keys, a loan paper stamped APPROVED LOW RATE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Keep each card under thirty percent and pay in full. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading UNDER THIRTY PERCENT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

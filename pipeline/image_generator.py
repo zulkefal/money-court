@@ -16,7 +16,12 @@ from typing import Iterable
 import requests
 from PIL import Image, ImageFilter
 
-from config.settings import IMAGES_DIR, VIDEO_HEIGHT, VIDEO_WIDTH
+from config.settings import (
+    IMAGES_DIR,
+    POLLINATIONS_API_KEY,
+    VIDEO_HEIGHT,
+    VIDEO_WIDTH,
+)
 from pipeline.logger import get_logger
 
 logger = get_logger("image_generator")
@@ -46,12 +51,21 @@ def _build_url(prompt: str, seed: int, width: int, height: int) -> str:
         "model": "flux",
         "nologo": "true",
         "enhance": "true",
-        # NOTE: do NOT add "private": "true" — Pollinations bills private
-        # generations and returns 402 Payment Required on the free tier,
-        # which exhausts the retry loop and fails the whole daily run.
+        # private=true keeps generations out of the public Pollinations feed.
+        # This is a paid feature — it requires the API key sent in _headers().
+        "private": "true",
     }
     qs = "&".join(f"{k}={v}" for k, v in params.items())
     return f"{POLLINATIONS_BASE}/{encoded}?{qs}"
+
+
+def _headers() -> dict[str, str]:
+    """Auth header for Pollinations. The anonymous tier now returns 402 Payment
+    Required, so requests must carry the API key as a Bearer token. Sent via a
+    header (not a query param) so the key never lands in logged URLs."""
+    if POLLINATIONS_API_KEY:
+        return {"Authorization": f"Bearer {POLLINATIONS_API_KEY}"}
+    return {}
 
 
 def _upscale_to_target(path: Path, width: int, height: int) -> None:
@@ -74,7 +88,7 @@ def generate_scene_image(prompt: str, seed: int, dest: Path, width: int, height:
     url = _build_url(prompt, seed, width, height)
     logger.info(f"pollinations: seed={seed} prompt={prompt[:90]}...")
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, stream=True, timeout=180) as r:
+    with requests.get(url, headers=_headers(), stream=True, timeout=180) as r:
         r.raise_for_status()
         with dest.open("wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
