@@ -46,7 +46,9 @@ def _build_url(prompt: str, seed: int, width: int, height: int) -> str:
         "model": "flux",
         "nologo": "true",
         "enhance": "true",
-        "private": "true",
+        # NOTE: do NOT add "private": "true" — Pollinations bills private
+        # generations and returns 402 Payment Required on the free tier,
+        # which exhausts the retry loop and fails the whole daily run.
     }
     qs = "&".join(f"{k}={v}" for k, v in params.items())
     return f"{POLLINATIONS_BASE}/{encoded}?{qs}"
