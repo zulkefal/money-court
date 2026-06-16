@@ -448,5 +448,20 @@
     "date": "2026-06-02",
     "character": "coach_vault",
     "topic": "Cooking at home five nights vs eating out (Tate vs Sienna)"
+  },
+  {
+    "date": "2026-06-16",
+    "character": "doctor_dollar",
+    "topic": "Saving fifteen percent vs five percent of income for retirement (Ian vs Brooke)"
+  },
+  {
+    "date": "2026-06-16",
+    "character": "judge_vera",
+    "topic": "Breaking a lease the right way vs abandoning it (Dell vs Nadia)"
+  },
+  {
+    "date": "2026-06-16",
+    "character": "detective_cash",
+    "topic": "Pig butchering crypto investment scam vs spotting it early (Devon vs Priya)"
   }
 ]
