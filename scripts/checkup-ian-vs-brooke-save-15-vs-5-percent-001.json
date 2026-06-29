@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-ian-vs-brooke-save-15-vs-5-percent-001",
+  "character": "doctor_dollar",
+  "topic": "Saving fifteen percent vs five percent of income for retirement (Ian vs Brooke)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Saving five percent instead of fifteen left one worker half a million short. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room beside two retirement jars marked FIVE PERCENT and FIFTEEN PERCENT, comic burst banner reads SAVINGS RATE CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ian and Brooke both earn sixty thousand dollars at age thirty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ian and woman brooke each holding a paycheck stamped SIXTY THOUSAND, a sign reads AGE THIRTY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Ian saves five percent, telling himself he will increase it later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ian dropping a tiny coin into a jar marked FIVE PERCENT, comic banner reads LATER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Brooke saves fifteen percent automatically from every paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman brooke with an auto transfer arrow moving money into a jar marked FIFTEEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Both invest in the same low cost index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both ian and brooke looking at the same chart labeled LOW COST INDEX FUND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Ian barely notices his small contribution each month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ian shrugging at a tiny deposit on a phone, a calendar of months ticking by, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Brooke adjusts her budget once and forgets about it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman brooke setting an automation toggle to ON, a relaxed smile, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Thirty five years later Ian has about three hundred thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man ian beside a small money pile labeled THREE HUNDRED THOUSAND, a calendar reads THIRTY FIVE YEARS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Brooke has just over nine hundred thousand dollars saved.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman brooke beside a tall money pile labeled NINE HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Same salary, same fund, only the savings rate differed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a side by side bar chart, a short bar FIVE PERCENT and a tall bar FIFTEEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Brooke retires comfortably while Ian must keep working.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman brooke relaxing on a beach chair while man ian still clocks in at a desk, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Aim for fifteen percent and automate it today. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading SAVE FIFTEEN PERCENT AUTOMATE, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

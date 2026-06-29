@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-grady-vs-noelle-fifty-thirty-twenty-budget-001",
+  "character": "coach_vault",
+  "topic": "The 50/30/20 budget vs no budget (Grady vs Noelle)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Same paycheck, but one of them saved twelve thousand more this year. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a pie chart split FIFTY THIRTY TWENTY, comic burst banner reads TWELVE THOUSAND MORE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Grady and Noelle each take home four thousand dollars monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man grady and woman noelle each holding paychecks stamped FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Same rent, same city, same bills, same coffee habit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical apartments side by side with matching bills and coffee cups, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Grady never budgets and just spends until the account empties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, grady swiping a card with an empty wallet, a phone showing BALANCE ZERO, comic banner reads NO BUDGET, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By month end Grady has nothing left and no idea why.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, confused grady shaking an empty wallet over a calendar marked MONTH END, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Noelle splits every paycheck fifty needs, thirty wants, twenty savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, noelle at a table dividing cash into three jars labeled NEEDS WANTS SAVINGS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Two thousand needs, twelve hundred wants, eight hundred straight to savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, three jars labeled TWO THOUSAND, TWELVE HUNDRED, and EIGHT HUNDRED SAVINGS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her savings transfer happens automatically the day she gets paid.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, noelle's phone showing an AUTO TRANSFER alert moving money into a savings jar, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "One year later Grady has saved exactly zero dollars total.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked grady holding an empty piggy bank stamped ZERO, a calendar reading ONE YEAR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Noelle saved nine thousand six hundred without feeling deprived once.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, noelle smiling beside a savings jar reading NINE THOUSAND SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She still enjoyed her wants, just inside the thirty percent line.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, happy noelle with dinner and movie tickets beside a meter pointing to THIRTY PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Split every paycheck fifty thirty twenty, automate savings. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading FIFTY THIRTY TWENTY, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

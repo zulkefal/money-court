@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-hugh-vs-della-refund-overpayment-scam-001",
+  "character": "detective_cash",
+  "topic": "Fake \"we overcharged you, accept a refund\" overpayment scam (Hugh vs Della)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A friendly refund offer tricked a man into wiring back his own money. Case file 0065. Time of incident, mid afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a fake REFUND CONFIRMED message, comic burst banner reads CASE FILE 0065, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hugh and Della each get a call claiming they were overcharged.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hugh and woman della each answering a phone, a caller screen reads REFUND DEPARTMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The agent offers a refund and asks to share their screen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop showing a SCREEN SHARE request popup, a banner reads ALLOW REMOTE ACCESS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hugh lets them in and watches a fake deposit appear.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugh at a laptop, a bank screen shows a fake DEPOSIT POSTED number jumping up, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The agent claims they refunded too much by mistake.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen banner reads WE SENT TOO MUCH, a fake balance with an extra zero, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Panicked Hugh wires back the overpayment in gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, panicked man hugh reading gift card codes into a phone, comic banner reads RETURN THE EXTRA, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Della hangs up and checks her real bank balance herself.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della hanging up and opening her real bank app, a notepad reads CHECK IT MYSELF, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She sees no deposit and knows the whole thing was staged.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della smiling at a phone, a screen reads NO DEPOSIT FOUND, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Hugh's deposit was fake but his gift cards were very real.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugh holding empty gift cards stamped DRAINED, a screen reads DEPOSIT WAS FAKE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He lost six hundred dollars to money that never existed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man hugh holding his head, a receipt stamped SIX HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Della reports the number and never shares her screen again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della filing a report stamped REPORTED, a board reads NEVER SHARE YOUR SCREEN, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody refunds you by asking for gift cards back. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads REAL REFUNDS NEED NOTHING BACK, kids comic book illustration"
+    }
+  ]
+}

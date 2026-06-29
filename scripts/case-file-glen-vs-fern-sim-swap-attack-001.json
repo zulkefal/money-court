@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-glen-vs-fern-sim-swap-attack-001",
+  "character": "detective_cash",
+  "topic": "SIM swap phone-porting account takeover (Glen vs Fern)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A stolen phone number drained an entire bank account overnight. Case file 0064. Time of incident, late night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a dead phone screen reading NO SERVICE, comic burst banner reads CASE FILE 0064, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Glen and Fern each see their phones suddenly lose all signal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man glen and woman fern each staring at a phone screen reading NO SERVICE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Scammers tricked the carrier into porting their numbers to new sims.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hooded figure inserting a sim card into a phone, a screen reads NUMBER PORTED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Glen shrugs it off and assumes it is a network glitch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man glen waving off a dead phone, a thought banner reads JUST A GLITCH, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The thieves catch his login codes and reset his bank password.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hacker phone showing a stolen ONE TIME CODE, a banner reads PASSWORD RESET, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "They empty Glen's savings before he even notices anything wrong.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank app showing a balance dropping to zero, a screen stamped ACCOUNT DRAINED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Fern instantly calls her carrier from another phone to investigate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern using a landline to call her carrier, a notepad reads CALL CARRIER NOW, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She locks her number and adds a port-out PIN immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern setting a security pin, a screen reads PORT OUT PIN ENABLED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Glen logs in later to find his account completely emptied.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man glen staring at a laptop, a bank screen reads BALANCE ZERO, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His delay cost him thousands the bank may never recover.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man glen at an empty account screen stamped FUNDS GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fern switches to an app authenticator instead of text codes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern setting up an authenticator app, a screen reads APP CODES ON, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Set a carrier PIN and ditch text codes for an app. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads ADD A CARRIER PIN, kids comic book illustration"
+    }
+  ]
+}

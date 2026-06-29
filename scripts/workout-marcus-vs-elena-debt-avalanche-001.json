@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-marcus-vs-elena-debt-avalanche-001",
+  "character": "coach_vault",
+  "topic": "Debt avalanche (highest interest first) vs random payments (Marcus vs Elena)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Same debt, same money, but four thousand dollars in interest apart. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two clipboards labeled AVALANCHE and RANDOM, comic burst banner reads FOUR THOUSAND APART, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marcus and Elena each owe twenty thousand across three different loans.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man marcus and woman elena at desks each with three loan statements totaling TWENTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both have six hundred extra dollars to attack debt monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both marcus and elena holding identical envelopes stamped SIX HUNDRED EXTRA, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Marcus pays whichever loan feels scariest that month, no plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marcus at a couch tossing money randomly at three loan statements, comic banner reads NO PLAN, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He ignores his twenty four percent credit card the longest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marcus turning away from a glowing red credit card statement labeled TWENTY FOUR PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Elena lists every loan by interest rate, highest at the top.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elena at a kitchen table writing a ranked list, top row circled HIGHEST RATE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She throws all six hundred extra at the highest rate loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elena dropping a SIX HUNDRED stack onto the statement stamped TWENTY FOUR PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "When that clears she rolls everything to the next highest rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elena crossing off a paid loan and drawing an arrow to the next highest rate statement, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Three years later Marcus still owes nine thousand at high interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked marcus on a couch staring at a statement still labeled NINE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Elena cleared all twenty thousand and paid four thousand less interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elena smiling with all loans stamped PAID, a banner reading FOUR THOUSAND LESS INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She finished a full year sooner and saved that interest money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elena beside a calendar reading ONE YEAR SOONER holding a savings jar labeled FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Rank debts by interest rate. Kill the highest first. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading HIGHEST RATE FIRST, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

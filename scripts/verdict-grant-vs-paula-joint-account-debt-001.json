@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-grant-vs-paula-joint-account-debt-001",
+  "character": "judge_vera",
+  "topic": "Joint account liability vs keeping finances separate (Grant vs Paula)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A joint account made one partner liable for the other's eight thousand dollar debt. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside two names chained to one bill stamped EIGHT THOUSAND, comic burst banner reads BOTH LIABLE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Grant and Paula both move in with partners who carry debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man grant and woman paula moving in with partners, moving boxes and a debt folder visible, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each partner suggests opening one shared joint credit account together.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank form labeled JOINT ACCOUNT APPLICATION on a table with two pens, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Paula adds her name to her partner's joint credit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman paula signing a card application beside her partner, a card labeled JOINT ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Her partner keeps overspending and Paula is fully on the hook.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rising debt bar on a statement labeled JOINT BALANCE, woman paula looking alarmed, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Grant keeps his own separate accounts and splits bills cleanly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant pointing at two separate account folders labeled HIS and SHARED BILLS ONLY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He uses a simple shared expense app instead of merging debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant and partner looking at a phone app labeled SPLIT EXPENSES, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Grant tracks who pays what without sharing any credit liability.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant at a desk with a clear ledger labeled WHO PAID WHAT, calm and organized, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The relationship ends and Paula owes the full joint balance alone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman paula alone holding a bill stamped EIGHT THOUSAND OWED, an empty chair beside her, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her credit score crashes for debt she barely even spent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge plunging into red, worried woman paula beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Grant walks away owing nothing with his credit fully intact.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant smiling at a credit report stamped EXCELLENT ZERO SHARED DEBT, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Avoid joint accounts, split bills but keep your own credit separate. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads KEEP CREDIT SEPARATE, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-ed-vs-tilly-fake-charity-donation-001",
+  "character": "detective_cash",
+  "topic": "Fake charity / disaster donation scam (Ed vs Tilly)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A heartfelt disaster donation went straight into a scammer's pocket. Case file 0066. Time of incident, stormy evening. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a fake DISASTER RELIEF donation page, comic burst banner reads CASE FILE 0066, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ed and Tilly each see a tearful disaster relief plea online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ed and woman tilly each viewing a phone with a HELP THE VICTIMS donation post, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The page demands instant gift cards or crypto to donate now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a donation page banner reads PAY WITH GIFT CARDS OR CRYPTO, an urgent clock ticking, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ed feels rushed and donates without checking the charity name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ed quickly tapping DONATE NOW on a phone, a thought banner reads NO TIME TO CHECK, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He sends two hundred dollars in gift cards to strangers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ed reading gift card codes into a phone, comic banner reads DONATION SENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The page vanishes the moment his payment clears.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone showing a donation page error PAGE NOT FOUND, man ed confused, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Tilly searches the charity on a watchdog site first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tilly at a laptop, a charity rating site reads NOT REGISTERED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She learns real charities never demand gift cards or crypto.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tilly holding a notepad reading CHARITIES DON'T WANT GIFT CARDS, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Ed checks the same site and sees the charity is fake.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ed at a laptop, a screen reads CHARITY NOT FOUND, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His two hundred dollars helped no victims, only the scammer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man ed holding empty gift cards stamped DRAINED, a receipt stamped TWO HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Tilly donates to a verified charity and reports the fake page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tilly donating on a VERIFIED CHARITY site and filing a report stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Verify the charity first and never give by gift card. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VERIFY THE CHARITY FIRST, kids comic book illustration"
+    }
+  ]
+}

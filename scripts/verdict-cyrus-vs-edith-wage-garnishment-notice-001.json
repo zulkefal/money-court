@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-cyrus-vs-edith-wage-garnishment-notice-001",
+  "character": "judge_vera",
+  "topic": "Responding to a wage garnishment notice vs ignoring it (Cyrus vs Edith)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Ignoring one garnishment notice let a creditor take twenty five percent of every paycheck. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant paycheck with a chunk torn away stamped GARNISHED, comic burst banner reads NOTICE IGNORED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cyrus and Edith both open a court notice warning of wage garnishment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man cyrus and woman edith each holding an official letter stamped GARNISHMENT NOTICE, worried faces, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The notice gives them a short window to respond or object.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a court document with a highlighted deadline labeled RESPOND WITHIN TEN DAYS, a ticking clock beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Edith tosses the notice in a drawer and hopes it disappears.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edith shoving an unopened notice into a messy drawer, comic banner reads JUST IGNORE IT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "She misses the hearing date and the judgment goes through unopposed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty courtroom chair where edith should sit, a gavel striking, paperwork stamped DEFAULT JUDGMENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cyrus reads the notice and calls a free legal aid clinic.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus on the phone holding the notice, a flyer beside him labeled FREE LEGAL AID, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He files a claim of exemption protecting income he truly needs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus handing a clerk a form labeled CLAIM OF EXEMPTION, a calm steady look, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Cyrus also negotiates a smaller monthly payment plan with the creditor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus shaking hands with a creditor over a paper labeled PAYMENT PLAN, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Edith loses a quarter of every check with no warning left.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a sad woman edith holding a paycheck with a huge slice cut away labeled TWENTY FIVE PERCENT GONE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her bank account is frozen and rent suddenly bounces in red.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank statement stamped ACCOUNT FROZEN, a rent check marked BOUNCED, worried edith, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Cyrus keeps most of his pay and chips the debt down calmly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus smiling at a budget sheet showing a shrinking debt bar labeled ON TRACK, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Always respond to a garnishment notice and claim your exemptions fast. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads RESPOND AND CLAIM EXEMPTIONS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-dom-vs-edna-fake-debt-collector-001",
+  "character": "detective_cash",
+  "topic": "Fake debt collector threatening arrest for a debt you don't owe (Dom vs Edna)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake collector threatened arrest over a debt that never existed. Case file 0063. Time of incident, early morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a threatening ARREST WARRANT call, comic burst banner reads CASE FILE 0063, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dom and Edna each get a call about an old unpaid debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dom and woman edna each answering a phone, a caller screen reads DEBT COLLECTION UNIT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller demands instant payment or police will arrest them today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen with a banner reading PAY NOW OR BE ARRESTED, a fake badge graphic, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dom panics and never asks for proof of the supposed debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, panicked man dom clutching a phone, a thought banner reads NO PROOF ASKED, sweat beads, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He is told to wire money fast to avoid a courtroom.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dom at a wire transfer kiosk, a screen reads SEND NOW AVOID COURT, his wallet open, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Dom wires twelve hundred dollars to the threatening fake agent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dom sending a transfer, a screen reads SENDING TWELVE HUNDRED, his savings shrinking, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Edna stays calm and asks for written validation of the debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edna calmly on the phone holding a notepad reading SEND IT IN WRITING, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She knows real collectors cannot threaten arrest or demand wires.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edna holding a notepad reading NO ARREST FOR DEBT, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Dom calls his real creditor and learns he owed nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dom on the phone, a screen reads ACCOUNT CLEAR NOTHING OWED, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His twelve hundred dollars is gone with no debt to show.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty wallet on a table stamped FUNDS GONE, devastated man dom holding his head, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Edna reports the caller and blocks the spoofed number forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edna tapping BLOCK on a phone and filing a report stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Real debts come in writing, never threats of arrest. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads DEMAND IT IN WRITING, kids comic book illustration"
+    }
+  ]
+}

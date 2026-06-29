@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-deacon-vs-anita-roth-vs-traditional-ira-001",
+  "character": "doctor_dollar",
+  "topic": "Roth vs Traditional IRA choice (Deacon vs Anita)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Picking the wrong IRA type can cost tens of thousands in retirement taxes. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room beside two jars marked ROTH and TRADITIONAL, comic burst banner reads IRA CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Deacon and Anita are both young and in a low bracket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man deacon and woman anita, a sign reads LOW TAX BRACKET NOW, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A Traditional IRA deducts taxes now but taxes withdrawals later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a jar labeled TRADITIONAL with TAXED LATER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A Roth IRA taxes money now but grows fully tax free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a jar labeled ROTH stamped TAX FREE LATER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Deacon chooses Traditional for the small deduction today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man deacon dropping money into a jar marked TRADITIONAL, a small DEDUCTION tag, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Anita chooses Roth, paying low taxes now while young.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman anita dropping money into a jar marked ROTH stamped PAY LOW NOW, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Both jars grow for decades in the same index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two jars growing tall on a rising chart labeled SAME INDEX FUND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "In retirement Deacon lands in a higher tax bracket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man deacon beside a meter labeled HIGHER BRACKET, a tax stamp looming, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Every dollar Deacon withdraws gets taxed at that higher rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man deacon pulling coins from the TRADITIONAL jar, a TAXED stamp on each, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Anita withdraws from her Roth completely tax free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman anita pulling coins from the ROTH jar stamped TAX FREE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Anita keeps thousands more spendable than Deacon does.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, side by side money piles, anita's taller labeled MORE SPENDABLE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Young and low bracket, lean Roth for tax free growth. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading ROTH WHEN YOUNG, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

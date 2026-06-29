@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-quill-vs-marisol-rate-shopping-inquiries-001",
+  "character": "doctor_dollar",
+  "topic": "Rate-shopping in one window vs scattered hard inquiries (Quill vs Marisol)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Scattering loan applications across months stacked up hard inquiries and bruised a credit score. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a chart of stacked inquiry stamps, comic burst banner reads INQUIRY CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Quill and Marisol both want the best auto loan rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man quill and woman marisol each holding a paper labeled AUTO LOAN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A hard inquiry happens every time a lender checks your credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a magnifying glass stamping HARD INQUIRY on a report, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Quill applies at five lenders spread across three slow months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man quill at a calendar with five inquiry stamps scattered over three months, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Each scattered inquiry counts separately and chips his score down.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, five separate HARD INQUIRY stamps each nicking a score meter lower, worried man quill, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marisol applies at five lenders within a two week window.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol at a calendar with five inquiry stamps inside a circled TWO WEEK WINDOW, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Scoring models bundle her rate shopping into one single inquiry.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, five inquiry stamps merging into one bundle labeled COUNTED ONCE, smiling woman marisol, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Quill's score drops fifteen points from the scattered inquiries.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge dropping FIFTEEN POINTS, glum man quill watching, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Marisol's score barely moves and stays in the green.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge steady in the green zone, smiling woman marisol beside it, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Quill is offered a higher interest rate on his loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man quill holding a loan paper stamped HIGH RATE, a frowning lender beside him, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Marisol locks the lowest rate and saves real money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol holding a loan paper stamped LOWEST RATE, a coin stack growing beside her, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cluster your rate shopping inside a two week window. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading SHOP IN ONE WINDOW, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

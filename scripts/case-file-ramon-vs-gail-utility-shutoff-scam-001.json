@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-ramon-vs-gail-utility-shutoff-scam-001",
+  "character": "detective_cash",
+  "topic": "Fake utility shutoff gift card scam call vs verifying the bill (Ramon vs Gail)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake power company threatened to cut the lights in thirty minutes. Case file 0062. Time of incident, midday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a threatening POWER SHUTOFF call, comic burst banner reads CASE FILE 0062, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ramon and Gail each get a call claiming their bill is overdue.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ramon and woman gail each answering a phone, a caller screen reads UTILITY DEPARTMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller says power shuts off in thirty minutes unless they pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen with a ticking clock reading THIRTY MINUTES and a banner POWER SHUTOFF, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ramon panics and is told to pay only with gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, panicked man ramon in a store grabbing a rack of gift cards, comic banner reads PAY WITH GIFT CARDS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He reads sixteen digit codes off four cards over the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ramon reading numbers from four gift cards into a phone, the codes floating away as digits, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Minutes later the money and the fake agent both vanish.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, four empty gift cards on a table stamped DRAINED, a phone showing CALL ENDED, ramon stunned, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Gail hangs up and calls the number on her real bill.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gail hanging up one phone and dialing a number printed on a paper utility bill, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The utility confirms her account is current with nothing owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gail smiling on the phone, a screen reads ACCOUNT CURRENT BALANCE ZERO, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She learns real utilities never demand gift cards or instant payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gail holding a notepad reading UTILITIES NEVER ASK FOR GIFT CARDS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Ramon is out eight hundred dollars that cards cannot refund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sad man ramon holding empty gift cards, a receipt stamped EIGHT HUNDRED GONE NO REFUND, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gail reports the number and warns her elderly neighbors.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gail filing a report stamped REPORTED and warning two elderly neighbors at a fence, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hang up, call the number on your real bill. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CALL THE NUMBER ON YOUR BILL, kids comic book illustration"
+    }
+  ]
+}
