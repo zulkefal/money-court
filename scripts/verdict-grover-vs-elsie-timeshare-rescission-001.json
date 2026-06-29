@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-grover-vs-elsie-timeshare-rescission-001",
+  "character": "judge_vera",
+  "topic": "Using the timeshare rescission window vs getting stuck (Grover vs Elsie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Missing a five day window locked one buyer into a lifetime timeshare bill. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a timeshare contract chained to a calendar stamped FIVE DAYS, comic burst banner reads WINDOW CLOSED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Grover and Elsie both sign a timeshare after a high pressure pitch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man grover and woman elsie at a resort signing a contract labeled TIMESHARE, a pushy salesman nearby, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "By law each gets a few days to cancel with no penalty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing law book open to a page titled RESCISSION PERIOD FIVE DAYS, a wooden gavel resting on it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Elsie feels buyer's remorse but assumes she is stuck forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elsie at home looking regretful at the contract, comic banner reads TOO LATE NOW, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "She lets the rescission window quietly close without acting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with the cancel deadline crossed out, woman elsie unaware in the background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Grover reads the contract and spots the cancellation deadline immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grover reading the contract with a highlighted line reading CANCEL WITHIN FIVE DAYS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He writes a cancellation letter and mails it the very next morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grover dropping an envelope stamped CANCELLATION NOTICE into a mailbox, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Grover sends it certified to prove he canceled on time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grover holding a post office receipt stamped CERTIFIED MAIL, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Elsie is stuck paying yearly fees and dues she can't escape.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elsie buried under bills stamped MAINTENANCE FEES, a calendar reading EVERY YEAR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Reselling proves nearly impossible and the debt drags on forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a timeshare with a sign reading FOR SALE crossed out, woman elsie frustrated beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Grover's full refund arrives and his contract is voided completely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grover smiling holding a refund check and a contract stamped CANCELLED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use the rescission window and cancel timeshares in writing fast. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads CANCEL IN THE WINDOW, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

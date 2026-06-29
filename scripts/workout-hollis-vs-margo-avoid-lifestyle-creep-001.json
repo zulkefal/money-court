@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-hollis-vs-margo-avoid-lifestyle-creep-001",
+  "character": "coach_vault",
+  "topic": "Avoiding lifestyle creep after a raise vs inflating spending (Hollis vs Margo)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Same big raise, but only one of them was richer a year later. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a paycheck arrow pointing up labeled RAISE, comic burst banner reads STAY DISCIPLINED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hollis and Margo both land a twelve thousand dollar raise.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hollis and woman margo each holding raise letters stamped PLUS TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both suddenly have a thousand extra dollars every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both holding envelopes stamped ONE THOUSAND EXTRA MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hollis upgrades his car, apartment, and dinners right away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hollis beside a fancier car, bigger apartment, and pricey dinner, comic banner reads LIFESTYLE CREEP, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His bills swell to swallow the entire raise instantly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, growing bills devouring hollis's raise arrow, leaving nothing, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Margo keeps living exactly like she did before the raise.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, margo in her same modest apartment, unchanged and content, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She sends the whole thousand straight into investments automatically.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an auto transfer moving ONE THOUSAND from margo into an investing app, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her lifestyle stays flat while her money quietly grows.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, margo beside a flat lifestyle line and a rising wealth chart, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "One year later Hollis feels broke despite the bigger paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, stressed hollis with an empty wallet beside his fancy upgrades, calendar reading ONE YEAR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Margo banked twelve thousand and feels exactly as comfortable.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, relaxed margo beside an investment chart reading TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "That invested raise will compound into real wealth for decades.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, margo watching a long rising compounding chart stretch far ahead, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "After a raise, keep spending flat and invest the difference. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle, holding a clipboard reading BEAT LIFESTYLE CREEP, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

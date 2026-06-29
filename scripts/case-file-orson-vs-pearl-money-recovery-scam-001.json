@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-orson-vs-pearl-money-recovery-scam-001",
+  "character": "detective_cash",
+  "topic": "Recovery scam (pay a fee to \"recover\" money you already lost) (Orson vs Pearl)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Scam victims were robbed twice by a fake fund recovery service. Case file 0071. Time of incident, quiet evening. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a fake WE CAN RECOVER YOUR MONEY message, comic burst banner reads CASE FILE 0071, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Orson and Pearl each lost money to scams a year ago.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man orson and woman pearl each holding an old empty wallet stamped SCAMMED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both get contacted by a recovery agent promising their money back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone message banner reads WE WILL RECOVER YOUR LOST FUNDS, an official looking fake seal, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The agent demands an upfront fee to release the recovered funds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen banner reads PAY A FEE TO RELEASE FUNDS, dollar signs dangling, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Desperate Orson pays five hundred to get his savings back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man orson paying a fee on a phone, a screen reads SENDING FIVE HUNDRED, hopeful and tense, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Then the agent invents a tax and asks for even more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen banner reads PAY A RELEASE TAX, more fees stacking up, orson worried, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Pearl notices the same scam playbook from the first time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl frowning at a phone, a notepad reads SAME TRICK AS BEFORE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She knows real recovery never charges fees upfront.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl holding a notepad reading NO FEE TO GET MONEY BACK, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Orson keeps paying until the recovery agent vanishes for good.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man orson staring at a phone reading CONTACT LOST, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He was scammed a second time and lost even more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man orson holding an empty wallet, a receipt stamped SCAMMED AGAIN, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Pearl reports the recovery scam to real fraud authorities free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl filing a report on a REAL FRAUD AGENCY site stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Anyone charging to recover lost money is scamming you again. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NO FEE TO RECOVER MONEY, kids comic book illustration"
+    }
+  ]
+}

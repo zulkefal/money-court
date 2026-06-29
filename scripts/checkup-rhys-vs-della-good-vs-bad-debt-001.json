@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-rhys-vs-della-good-vs-bad-debt-001",
+  "character": "doctor_dollar",
+  "topic": "Good debt vs bad debt (Rhys vs Della)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Not all debt is sick, but the wrong kind can poison your finances fast. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room beside two vials marked GOOD DEBT and BAD DEBT, comic burst banner reads DEBT CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Rhys and Della both take on ten thousand dollars of debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man rhys and woman della each holding a paper stamped TEN THOUSAND DEBT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Good debt builds value, bad debt just drains your wallet.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart with GOOD DEBT rising and BAD DEBT falling, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Rhys borrows for a fancy vacation and a new gadget.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rhys holding beach tickets and a shiny gadget, a card stamped BAD DEBT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His debt charges twenty four percent and buys nothing lasting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a red interest meter pinned at TWENTY FOUR PERCENT, worried man rhys beside fading purchases, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Della instead borrows money to earn a skilled trade certification.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della holding a certificate stamped TRADE SKILL, a card labeled GOOD DEBT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her low interest loan steadily raises her future earning power.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della beside a rising income arrow labeled HIGHER EARNINGS, a green LOW INTEREST tag, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Rhys still owes the full balance with nothing to show.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man rhys holding a bill stamped STILL OWES, empty hands, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Della pays off her loan and keeps the higher salary.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman della tearing a paper stamped PAID OFF beside a fat paycheck, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Rhys's bad debt drags his net worth into the red.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a net worth meter dropping into the RED zone, man rhys watching, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Della's good debt instead pushes her net worth steadily upward.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a net worth meter climbing into the GREEN zone, smiling woman della beside it, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Borrow for things that grow, never for things that fade. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading BORROW FOR GROWTH, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

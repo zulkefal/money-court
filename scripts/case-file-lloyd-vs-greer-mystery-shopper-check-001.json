@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-lloyd-vs-greer-mystery-shopper-check-001",
+  "character": "detective_cash",
+  "topic": "Mystery shopper fake check scam (Lloyd vs Greer)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A dream side gig mailed a fat check that bounced into debt. Case file 0068. Time of incident, payday Friday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a fake oversized CHECK and a MYSTERY SHOPPER letter, comic burst banner reads CASE FILE 0068, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lloyd and Greer each get hired as a paid mystery shopper.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man lloyd and woman greer each reading a YOU ARE HIRED mystery shopper email, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each receives a large check to deposit and test the store.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mailbox with an oversized check, a letter banner reads DEPOSIT THIS CHECK, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The task says keep some pay and wire the rest back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an instruction sheet banner reads KEEP YOUR PAY WIRE THE REST, dollar arrows splitting, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Lloyd deposits the check and sees the funds appear available.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lloyd at an atm, a screen reads FUNDS AVAILABLE, a smile on his face, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He wires back nine hundred before the bank clears it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lloyd sending a wire, a screen reads SENDING NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Greer waits and asks her bank if the check truly cleared.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greer at a bank counter, a notepad reads WAIT FOR IT TO CLEAR, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She learns available is not the same as truly cleared.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greer holding a notepad reading AVAILABLE IS NOT CLEARED, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Days later Lloyd's check bounces as a worthless forgery.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lloyd staring at a bank notice stamped CHECK BOUNCED FAKE, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He owes the bank the nine hundred he already wired away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man lloyd holding a bank statement stamped NINE HUNDRED OWED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Greer reports the fake employer and shreds the bad check.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greer feeding a check into a shredder and filing a report stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No real job pays you to wire back a check. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NEVER WIRE BACK A CHECK, kids comic book illustration"
+    }
+  ]
+}

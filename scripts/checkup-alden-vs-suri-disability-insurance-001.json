@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-alden-vs-suri-disability-insurance-001",
+  "character": "doctor_dollar",
+  "topic": "Disability insurance to protect income (Alden vs Suri)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One injury can erase a paycheck for years, yet most people never insure their income. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a shield labeled INCOME PROTECTION, comic burst banner reads INSURANCE CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Alden and Suri both earn seventy thousand dollars a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man alden and woman suri each holding a paycheck stamped SEVENTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Disability insurance replaces your income if you cannot work anymore.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a paycheck under a protective shield labeled DISABILITY INSURANCE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Alden skips the coverage, calling it a total waste of money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alden waving off an insurance form stamped DECLINED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Suri instead pays a small premium to protect her paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman suri signing a policy, a small coin tag labeled LOW PREMIUM, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A bad back injury sidelines both of them for months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, both alden and suri with arm slings, a calendar marked MONTHS OFF WORK, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Alden's paycheck stops cold while his monthly bills keep coming.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man alden with an empty paycheck and a stack of bills labeled DUE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Suri's policy pays out sixty percent of her income monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman suri receiving a check stamped SIXTY PERCENT INCOME, a relieved smile, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Alden drains his savings and slides into credit card debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alden watching an empty savings jar, a credit card stamped MAXED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Suri meanwhile keeps her home and her savings fully intact.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman suri in front of her house, a savings jar still full labeled INTACT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Both eventually recover, but only Alden also faces financial ruin.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, side by side, suri smiling steady and alden buried under bills labeled FINANCIAL RUIN, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Insure your income, it is your biggest financial asset. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading PROTECT YOUR INCOME, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

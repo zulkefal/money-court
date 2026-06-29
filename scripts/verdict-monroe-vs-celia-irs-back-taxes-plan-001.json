@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-monroe-vs-celia-irs-back-taxes-plan-001",
+  "character": "judge_vera",
+  "topic": "Setting up an IRS payment plan vs ignoring back taxes (Monroe vs Celia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Ignoring a five thousand dollar tax bill let the IRS seize a whole bank account. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside an IRS notice and a bank account stamped LEVIED, comic burst banner reads BACK TAXES, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Monroe and Celia each owe five thousand dollars in back taxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man monroe and woman celia each holding an official letter labeled IRS BALANCE DUE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The IRS offers anyone affordable monthly installment payment plans.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a government brochure labeled IRS PAYMENT PLAN OPTIONS on a desk, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Celia panics, hides the letters, and files nothing at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celia stuffing IRS letters into a drawer, comic banner reads HOPE IT GOES AWAY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Penalties and interest pile on top of her growing balance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rising stack of bills labeled PENALTIES AND INTEREST, woman celia overwhelmed, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Monroe calls the IRS and applies online for a payment plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man monroe at a laptop on a page labeled APPLY FOR INSTALLMENT PLAN, phone in hand, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He locks in a small affordable monthly amount he can manage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man monroe holding a confirmation stamped PLAN APPROVED, a calendar with small monthly marks, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Monroe keeps every payment current and the penalties slow way down.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man monroe checking off monthly payments, a shrinking balance bar labeled ON TRACK, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The IRS files a lien and levies Celia's entire bank account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celia staring at a bank screen stamped ACCOUNT LEVIED, a tax lien notice beside her, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her wages get garnished and the debt nearly doubles in size.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celia holding a paycheck with a chunk torn away labeled GARNISHED, a doubled bill beside her, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Monroe pays his plan off and clears the IRS completely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man monroe smiling holding a letter stamped BALANCE PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never ignore back taxes, set up an IRS payment plan early. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads SET UP A PAYMENT PLAN, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

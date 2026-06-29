@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-roscoe-vs-mabel-bank-fraud-text-001",
+  "character": "detective_cash",
+  "topic": "Bank \"fraud alert\" smishing text scam (Roscoe vs Mabel)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake fraud alert text emptied a checking account in minutes. Case file 0069. Time of incident, busy morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a fake BANK FRAUD ALERT text, comic burst banner reads CASE FILE 0069, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Roscoe and Mabel each get a text about a suspicious charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man roscoe and woman mabel each reading a phone text banner FRAUD ALERT DID YOU MAKE THIS, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The text says reply no, then a caller phones right away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone text reads REPLY NO TO DECLINE and an incoming call labeled BANK SECURITY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Roscoe answers and trusts the caller posing as bank security.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man roscoe on a phone with a caller screen reading BANK SECURITY, his guard down, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He reads the one time code aloud to verify his identity.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man roscoe reading a ONE TIME CODE from a text into the phone, the digits floating away, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That code let the scammer drain his account instantly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank app balance dropping to zero, a screen stamped ACCOUNT DRAINED, roscoe stunned, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Mabel ignores the text and calls the bank number on her card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mabel dialing the number printed on the back of her bank card, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her bank confirms no fraud and never sent that text.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mabel smiling on the phone, a screen reads NO FRAUD ON ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She knows a real bank never asks for your code.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mabel holding a notepad reading BANKS NEVER ASK FOR CODES, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Roscoe is out two thousand dollars in a few minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man roscoe holding his head, a screen stamped TWO THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Mabel reports the smishing text and freezes her card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman mabel tapping FREEZE CARD on an app and filing a report stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never share a code, call the number on your card. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NEVER SHARE YOUR CODE, kids comic book illustration"
+    }
+  ]
+}

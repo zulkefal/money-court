@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-dwight-vs-nadine-student-loan-forgiveness-scam-001",
+  "character": "detective_cash",
+  "topic": "Fake student loan forgiveness / debt relief scam (Dwight vs Nadine)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A promise to erase student loans erased a savings account instead. Case file 0070. Time of incident, lunchtime. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a flyer reading LOAN FORGIVENESS GUARANTEED, comic burst banner reads CASE FILE 0070, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dwight and Nadine each get a call offering total loan forgiveness.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dwight and woman nadine each answering a phone, a caller screen reads LOAN RELIEF PROGRAM, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The agent demands an upfront fee to enroll them right now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen banner reads PAY ENROLLMENT FEE NOW, a ticking clock, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dwight is excited and never questions the upfront charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dwight grinning at a phone, a thought banner reads FINALLY DEBT FREE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He hands over his loan login and a four hundred dollar fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dwight typing his loan login and paying, a screen reads FEE PAID FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The company disappears and his loans are still fully owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone showing DISCONNECTED, a loan statement stamped STILL OWED, dwight stunned, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Nadine checks the official student aid site before paying anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadine at a laptop on an OFFICIAL STUDENT AID site, a notepad reads GO TO THE SOURCE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She learns real forgiveness is free and never charges fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadine holding a notepad reading FORGIVENESS IS ALWAYS FREE, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Dwight discovers the scammer also raided his loan account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dwight at a laptop, a loan account screen reads UNAUTHORIZED CHANGES, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He lost his fee and handed strangers his account access.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man dwight holding his head, a receipt stamped FEE GONE ACCESS STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Nadine applies free through her real servicer and reports the scam.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadine applying on her real LOAN SERVICER site and filing a report stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Loan forgiveness is free, anyone charging upfront is lying. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NEVER PAY FOR FORGIVENESS, kids comic book illustration"
+    }
+  ]
+}

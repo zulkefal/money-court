@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-blake-vs-maren-loan-to-a-friend-in-writing-001",
+  "character": "judge_vera",
+  "topic": "Putting a loan to a friend in writing vs a handshake (Blake vs Maren)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A handshake loan to a best friend turned three thousand dollars into nothing. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a broken handshake and a bill stamped THREE THOUSAND, comic burst banner reads NO PROOF, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Blake and Maren each lend three thousand dollars to a close friend.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man blake and woman maren each handing money to a smiling friend, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both friends promise to pay it all back within six months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two friends nodding sincerely, a calendar circled SIX MONTHS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Maren just shakes hands and never writes a single thing down.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman maren shaking hands with a friend, an empty notepad nearby, comic banner reads NOTHING IN WRITING, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Months pass and her friend keeps dodging every repayment text.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman maren staring at a phone showing unanswered messages stamped IGNORED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Blake writes a simple loan agreement listing the amount and dates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake at a table writing a paper labeled LOAN AGREEMENT with amount and due dates, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Both he and his friend sign and keep a dated copy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake and his friend both signing the agreement, two copies stamped with the date, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "He sets a clear monthly repayment schedule they both agree to.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake showing a friend a chart labeled MONTHLY REPAYMENT PLAN, both nodding, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Maren has no proof and small claims court rejects her case.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman maren in small claims court holding empty hands, a gavel striking, paperwork stamped DISMISSED NO PROOF, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She loses the money and the friendship at the very same time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman maren sad and alone, a torn friendship photo and an empty wallet beside her, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Blake's signed agreement gets him every dollar back on schedule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake smiling holding cash and the signed agreement stamped PAID BACK, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Loaning to a friend, always put the terms in writing. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads PUT IT IN WRITING, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

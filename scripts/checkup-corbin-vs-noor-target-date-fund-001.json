@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-corbin-vs-noor-target-date-fund-001",
+  "character": "doctor_dollar",
+  "topic": "Target-date fund vs picking individual stocks (Corbin vs Noor)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Chasing hot individual stocks left one investor far behind a hands off fund. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room beside a fund pie chart labeled TARGET DATE, comic burst banner reads INVESTING CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Corbin and Noor both start investing for retirement at thirty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man corbin and woman noor, a sign reads AGE THIRTY INVESTING, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A target date fund auto diversifies and rebalances for you.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a chart of a balanced pie labeled AUTO REBALANCED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Corbin picks hot individual stocks chasing the next big winner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man corbin grabbing flashy stock tickers stamped HOT PICK, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He buys high, panics, and sells low again and again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a jagged stock chart, man corbin sweating at BUY HIGH SELL LOW arrows, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Noor buys one target date fund and ignores the noise.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman noor calmly holding one fund labeled TARGET DATE, ignoring a noisy news ticker, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her single fund quietly spreads risk across thousands of companies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a wide pie chart labeled THOUSANDS OF COMPANIES, smiling woman noor beside it, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Two stocks crash and wipe out most of Corbin's gains.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two tickers crashing in red, glum man corbin watching his pile shrink, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Noor's diversified fund easily rides out the dip and recovers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fund line dipping then rising past it, smiling woman noor steady beside it, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "After twenty years Corbin trails far behind the simple fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, side by side piles, corbin's short labeled BEHIND, a calendar reads TWENTY YEARS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Noor's quiet fund grows much larger with zero daily stress.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman noor relaxing beside a tall money pile labeled STRESS FREE GROWTH, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Skip stock picking, let a target date fund do the work. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading PICK A TARGET DATE FUND, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

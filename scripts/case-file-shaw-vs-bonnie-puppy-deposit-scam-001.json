@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-shaw-vs-bonnie-puppy-deposit-scam-001",
+  "character": "detective_cash",
+  "topic": "Online puppy/pet deposit scam (Shaw vs Bonnie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "An adorable puppy listing turned into a deposit that bought nothing. Case file 0067. Time of incident, weekend afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a too cute PUPPY FOR SALE listing, comic burst banner reads CASE FILE 0067, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Shaw and Bonnie each find the same cute puppy for sale.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man shaw and woman bonnie each viewing a phone with a PUPPY FOR SALE photo, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The seller wants a deposit by wire before any meeting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat screen banner reads SEND DEPOSIT TO HOLD PUPPY, a wire transfer icon, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Shaw falls for the cuteness and sends three hundred quickly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man shaw wiring money on a phone, a screen reads SENDING THREE HUNDRED, a puppy photo beside him, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Then the seller invents a surprise crate and insurance fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat screen banner reads PAY EXTRA CRATE AND INSURANCE FEE, more dollar signs piling up, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Shaw keeps paying, then the seller blocks him entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man shaw staring at a phone reading USER BLOCKED, no puppy in sight, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Bonnie reverse searches the puppy photo before paying anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bonnie at a laptop doing a reverse image search, results read STOLEN PHOTO, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The picture is stolen and posted on dozens of fake listings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a screen showing the same puppy photo on many fake ads, a banner reads USED EVERYWHERE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Shaw realizes there was never a real puppy at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man shaw at an empty doorstep, a thought banner reads NO PUPPY COMING, his face falling, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His deposits and fees are gone with nothing to show.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, devastated man shaw holding an empty wallet, a receipt stamped DEPOSITS GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Bonnie buys from a local breeder she can visit in person.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bonnie smiling at a real local breeder, a sign reads VISIT IN PERSON, a happy puppy nearby, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never wire a deposit for a pet you cannot meet. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads MEET THE PET FIRST, kids comic book illustration"
+    }
+  ]
+}
