@@ -538,5 +538,20 @@
     "date": "2026-07-01",
     "character": "doctor_dollar",
     "topic": "Roth vs Traditional IRA choice (Deacon vs Anita)"
+  },
+  {
+    "date": "2026-07-02",
+    "character": "judge_vera",
+    "topic": "Responding to a wage garnishment notice vs ignoring it (Cyrus vs Edith)"
+  },
+  {
+    "date": "2026-07-02",
+    "character": "detective_cash",
+    "topic": "Fake student loan forgiveness / debt relief scam (Dwight vs Nadine)"
+  },
+  {
+    "date": "2026-07-02",
+    "character": "coach_vault",
+    "topic": "Driving a paid-off car vs a perpetual car payment (Cyril vs Leona)"
   }
 ]
