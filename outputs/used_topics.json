@@ -658,5 +658,20 @@
     "date": "2026-07-11",
     "character": "doctor_dollar",
     "topic": "Keeping old credit cards open for credit age vs closing them (Rowan vs Juno)"
+  },
+  {
+    "date": "2026-07-12",
+    "character": "judge_vera",
+    "topic": "Setting up an IRS payment plan vs ignoring back taxes (Monroe vs Celia)"
+  },
+  {
+    "date": "2026-07-12",
+    "character": "detective_cash",
+    "topic": "Fake utility shutoff gift card scam call vs verifying the bill (Ramon vs Gail)"
+  },
+  {
+    "date": "2026-07-12",
+    "character": "coach_vault",
+    "topic": "Debt avalanche (highest interest first) vs random payments (Marcus vs Elena)"
   }
 ]
