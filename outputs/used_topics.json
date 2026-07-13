@@ -673,5 +673,20 @@
     "date": "2026-07-12",
     "character": "coach_vault",
     "topic": "Debt avalanche (highest interest first) vs random payments (Marcus vs Elena)"
+  },
+  {
+    "date": "2026-07-13",
+    "character": "doctor_dollar",
+    "topic": "Order of operations: 401k match, kill high-interest debt, then invest (Soren vs Marlee)"
+  },
+  {
+    "date": "2026-07-13",
+    "character": "judge_vera",
+    "topic": "Sending a cease-contact letter vs enduring collector harassment (Roy vs Hattie)"
+  },
+  {
+    "date": "2026-07-13",
+    "character": "detective_cash",
+    "topic": "Bank \"fraud alert\" smishing text scam (Roscoe vs Mabel)"
   }
 ]
