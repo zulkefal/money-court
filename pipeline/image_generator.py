@@ -8,6 +8,7 @@ profile as paid Replicate Flux Schnell, just queued and rate-limited.
 """
 from __future__ import annotations
 
+import hashlib
 import time
 import urllib.parse
 from pathlib import Path
@@ -97,20 +98,39 @@ def generate_scene_image(prompt: str, seed: int, dest: Path, width: int, height:
     return dest
 
 
+def _seed_for_video(video_id: str) -> int:
+    """Stable per-video base seed derived from the video_id.
+
+    Flux returns near-identical art for the same seed + similar prompt, and our
+    prompts are deliberately similar (every scene carries the same style anchor,
+    and the host scenes carry the same canonical character description). A fixed
+    base seed therefore made every video reuse the same 12 images. Hashing the
+    video_id gives each video its own seed run while staying deterministic, so
+    re-running a video still reproduces (and reuses) its cached PNGs.
+    """
+    digest = hashlib.sha256(video_id.encode("utf-8")).hexdigest()
+    return int(digest[:8], 16) % 1_000_000
+
+
 def generate_for_video(
     video_id: str,
     scenes: Iterable[dict],
-    seed: int = 42,
+    seed: int | None = None,
     width: int | None = None,
     height: int | None = None,
 ) -> list[Path]:
     """Generate one image per scene; return ordered list of saved paths.
+
+    seed defaults to a stable hash of video_id so different videos get different
+    imagery. Pass an explicit int only to force a specific look.
 
     width/height default to the Shorts dimensions (1080x1920). Pass 1920x1080
     for 16:9 long-form. Aspect framing is also influenced by the per-scene
     image_prompt (include "horizontal widescreen comic panel composition" for
     long-form scenes so Pollinations frames characters correctly).
     """
+    base_seed = _seed_for_video(video_id) if seed is None else seed
+    logger.info(f"image seed base for {video_id}: {base_seed}")
     target_w = width or VIDEO_WIDTH
     target_h = height or VIDEO_HEIGHT
     out_dir = IMAGES_DIR / video_id
@@ -128,7 +148,7 @@ def generate_for_video(
             attempts += 1
             try:
                 generate_scene_image(
-                    scene["image_prompt"], seed=seed + idx, dest=dest,
+                    scene["image_prompt"], seed=base_seed + idx, dest=dest,
                     width=target_w, height=target_h,
                 )
                 if dest.stat().st_size < 5_000:
