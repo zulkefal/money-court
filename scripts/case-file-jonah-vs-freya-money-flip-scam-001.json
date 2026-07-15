@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-jonah-vs-freya-money-flip-scam-001",
+  "character": "detective_cash",
+  "topic": "Cash app money flipping scam promising multiplied returns vs recognizing irreversible payments to strangers (Jonah vs Freya)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A money flipping account turned two hundred dollars into nothing at all. Case file 0082. Time of incident, Friday night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a flashy cash stack post, comic burst banner reads CASE FILE 0082, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jonah and Freya both see a flipping post promising huge returns.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man jonah and woman freya scrolling phones, a post banner reads FLIP YOUR MONEY FAST, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Send two hundred, get two thousand back within one hour.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cartoon arrow diagram from a small bill to a huge cash pile, a banner reads TWO HUNDRED BECOMES TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The page overflows with screenshots of happy winners and cash stacks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone feed of staged cash photos, small labels read TESTIMONIAL, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Jonah sends two hundred through a payment app to a stranger.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jonah tapping a payment app screen reading SENT TWO HUNDRED to an unknown avatar, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "They demand an activation fee before releasing his supposed winnings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone popup stamped PAY ACTIVATION FEE, a locked treasure chest icon, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Freya asks the obvious question, why would anyone multiply my money?",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman freya with a raised eyebrow holding a notepad reading WHY WOULD THEY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Those testimonial screenshots are edited, and the winners are stolen accounts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a screenshot being edited on a laptop, profile avatars stamped STOLEN ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Jonah pays the fee, then gets blocked and completely ignored.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone chat showing a profile stamped ACCOUNT BLOCKED, devastated man jonah, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "App payments to strangers are instant and almost never reversible.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payment app refund screen stamped CANNOT BE REVERSED, a one way arrow, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Freya reports the account and keeps every dollar she had.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman freya tapping a button labeled REPORT ACCOUNT, her savings jar full and safe, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody multiplies your money for free. Flipping is theft. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads NOBODY FLIPS YOUR MONEY, kids comic book illustration"
+    }
+  ]
+}

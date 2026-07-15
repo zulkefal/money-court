@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-herbert-vs-lorna-medicare-card-scam-001",
+  "character": "detective_cash",
+  "topic": "Fake Medicare card call harvesting the Medicare number for equipment billing fraud vs calling the number on the card (Herbert vs Lorna)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake Medicare call billed forty thousand in equipment never delivered. Case file 0079. Time of incident, late morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office inspecting a health insurance card and a pile of fake equipment invoices, comic burst banner reads CASE FILE 0079, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Herbert and Lorna both get calls about new Medicare cards issuing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of older man herbert and older woman lorna answering phones, a caller id label reads MEDICARE OFFICE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller only needs their Medicare number to verify their identity.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone handset with a caption card reading JUST VERIFY YOUR NUMBER, a shadowy hand holding a pen, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He also offers a free knee brace, shipped at no cost.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cartoon knee brace in a box with a sticker reading FREE NO COST TO YOU, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Herbert reads his number aloud, happy about the free brace.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man herbert cheerfully reading a card into a phone, the card labeled MEDICARE NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Scammers bill Medicare forty thousand for braces that never arrive.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy office printing invoices stamped FORTY THOUSAND BILLED, an empty doorstep with no delivery, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Lorna knows Medicare never calls asking for your number unsolicited.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman lorna holding a notepad reading MEDICARE NEVER COLD CALLS, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She hangs up and dials the number printed on her card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman lorna hanging up a phone and dialing from a card labeled OFFICIAL NUMBER ON CARD, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Medicare confirms no new cards and no braces were ever offered.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a friendly official on a phone, a caption card reads NO SUCH PROGRAM EXISTS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Herbert's record now shows equipment he never got, blocking real coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a medical file stamped ALREADY BILLED, a real claim form stamped DENIED, worried older man herbert, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He reports it and slowly cleans the fraud from his file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man herbert filing a form stamped FRAUD REPORTED, a file slowly being corrected, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Guard your Medicare number like cash. Medicare never cold calls. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads GUARD YOUR MEDICARE NUMBER, kids comic book illustration"
+    }
+  ]
+}

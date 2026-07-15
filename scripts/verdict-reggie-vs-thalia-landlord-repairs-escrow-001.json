@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-reggie-vs-thalia-landlord-repairs-escrow-001",
+  "character": "judge_vera",
+  "topic": "Withholding rent over broken heat vs using written notice and rent escrow (Reggie vs Thalia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Withholding rent over a broken heater is the fastest way to get yourself evicted. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a frozen radiator and an eviction notice, comic burst banner reads DO NOT JUST STOP PAYING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Reggie and Thalia rent apartments where the heat dies in December.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man reggie and woman thalia shivering in winter coats indoors, a frosted radiator between them, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Landlords owe habitable homes, including working heat, under nearly every state's law.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book on a courtroom bench titled WARRANTY OF HABITABILITY, a wooden gavel resting on it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Both text their landlord, who promises repairs and then vanishes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two phone screens showing unanswered messages, a landlord silhouette walking away, a banner reads GHOSTED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Reggie simply stops paying rent to force his landlord's hand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reggie crossing his arms beside an uncashed rent check labeled NOT PAYING, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Thalia sends written notice by certified mail with dated thermostat photos.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman thalia mailing an envelope stamped CERTIFIED MAIL beside printed photos of a thermostat labeled 48 DEGREES, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She then pays her rent into her court's escrow account instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman thalia depositing rent at a courthouse window labeled RENT ESCROW ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Escrow proves she can pay while the heat stays broken.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a locked courthouse strongbox filling with rent payments, a tag labeled PAID INTO ESCROW, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Reggie's landlord files eviction and the judge sees only unpaid rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reggie in a courtroom facing a ledger on the bench stamped RENT UNPAID, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He is evicted with a judgment that follows every rental application.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sad man reggie carrying boxes past a door stamped EVICTED, a record file trailing behind him, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Thalia's judge orders repairs and releases part of her escrowed rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman thalia in a courtroom as an order is stamped REPAIRS ORDERED, a warm glowing radiator behind her, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never just stop paying. Send written notice and use your court's escrow. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads WRITTEN NOTICE THEN ESCROW, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

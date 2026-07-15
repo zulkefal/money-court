@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-ramon-vs-gwen-unpaid-overtime-wage-theft-001",
+  "character": "judge_vera",
+  "topic": "Believing salary means no overtime vs documenting hours and filing a wage claim (Ramon vs Gwen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Being paid a salary does not automatically make you exempt from overtime pay. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant time clock overflowing with punch cards, comic burst banner reads SALARY IS NOT EXEMPT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ramon and Gwen both work fifty five hour weeks on salary.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of tired man ramon and tired woman gwen at office desks late at night, a wall clock labeled 55 HOURS between them, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Federal law owes most workers time and a half past forty hours.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book on a courtroom bench titled OVERTIME AFTER 40 HOURS, a wooden gavel resting beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Their boss says salaried staff never qualify for any overtime pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smug boss standing in a doorway waving a hand dismissively, a comic banner reads SALARIED MEANS NO OVERTIME, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ramon believes him and keeps no record of his extra hours.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ramon shrugging beside an empty notebook and a blank calendar labeled NO RECORDS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Gwen logs every shift in a dated notebook and photographs schedules.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen writing in a notebook labeled HOURS LOG while photographing a wall schedule with her phone, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her duties are clerical, so exemption rules do not cover her.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen reading a checklist labeled EXEMPTION DUTIES TEST with every box marked NO, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Gwen files a free complaint with the Labor Department's Wage Division.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen handing a form labeled WAGE COMPLAINT to a government clerk at a counter stamped FREE TO FILE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Investigators use her notebook because her employer kept no hour records.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an investigator holding gwen's notebook up in a courtroom beside an empty employer file stamped NO RECORDS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Gwen recovers two years of back pay plus equal damages.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen smiling holding a large check labeled BACK PAY PLUS DAMAGES in a courtroom, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ramon waited too long and the two year deadline erased his claim.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ramon watching an hourglass run empty beside a form stamped TIME BARRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Log your hours daily and file with the Labor Department within two years. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads LOG HOURS FILE IN TWO YEARS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

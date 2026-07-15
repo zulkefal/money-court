@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-fletcher-vs-simone-cosigning-debt-to-income-001",
+  "character": "doctor_dollar",
+  "topic": "Co-signing a loan wrecking your own debt to income ratio (Fletcher vs Simone)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He co-signed a car he never drove, and it cost him a house. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a chart of a car loan chained to a denied house, comic burst banner reads CO-SIGNING CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Fletcher and Simone each earn six thousand dollars every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man fletcher and woman simone holding matching paychecks stamped SIX THOUSAND A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both carry six hundred in monthly debt and want a mortgage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical debt meters reading SIX HUNDRED A MONTH beside a small dream house labeled MORTGAGE GOAL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Fletcher's nephew asks him to co-sign a five hundred dollar car payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a young nephew handing man fletcher a pen and a loan paper stamped CO-SIGN FIVE HUNDRED A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He agrees. The nephew pays perfectly and never misses anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the nephew driving happily, a payment record stamped NEVER MISSED, man fletcher waving from the curb, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "But lenders count that payment as Fletcher's own debt anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a lender stamping the car payment onto man fletcher's own debt file, tag reads COUNTS AS YOURS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Simone says no, and offers to help her nephew differently.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone gently declining a loan paper while handing over a budget worksheet stamped HELP ANOTHER WAY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Both apply for mortgages with nineteen hundred dollar monthly payments.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of both at a lender's desk with matching applications stamped NINETEEN HUNDRED A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Simone's debt to income lands at forty two percent. Approved.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a debt to income gauge at FORTY TWO PERCENT in green, woman simone holding a paper stamped APPROVED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Fletcher's climbs to fifty percent. The lender denies him instantly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a debt to income gauge pinned at FIFTY PERCENT in red, man fletcher holding a paper stamped DENIED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "The car runs fine. Fletcher's borrowing power is gone anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a perfectly fine car parked beside man fletcher whose borrowing meter reads EMPTY, exam room window behind, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Co-signing means the debt is yours. Never sign lightly. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading CO-SIGNED DEBT IS YOUR DEBT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

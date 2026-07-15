@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-trent-vs-odette-moving-company-hostage-load-001",
+  "character": "detective_cash",
+  "topic": "Rogue moving company holding a load hostage vs hiring a licensed mover with a binding estimate (Trent vs Odette)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Rogue movers held a family's entire home hostage for eight thousand dollars. Case file 0073. Time of incident, moving day morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a photo of a locked moving truck full of boxes, comic burst banner reads CASE FILE 0073, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Trent and Odette both book long distance movers for next month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man trent and woman odette taping boxes in empty rooms, a wall calendar marked MOVING DAY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "One company quotes a shockingly low price over the phone, sight unseen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone call with a cartoon price tag banner reading LOWEST QUOTE, boxes stacked in the background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "They refuse an in home survey and email a vague estimate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop showing a nearly empty document stamped NON BINDING ESTIMATE, a crossed out clipboard labeled HOME SURVEY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Trent signs it, thrilled to save nearly two thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man trent grinning while signing a paper, a savings banner reads SAVED TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Odette checks the company's USDOT number and finds no active registration.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette at a laptop, a search result stamped NO ACTIVE REGISTRATION beside a field labeled USDOT NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She books a licensed mover with a written binding estimate instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette shaking hands with a uniformed mover, a document stamped BINDING ESTIMATE, a truck labeled LICENSED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The truck loads Trent's home, then the price jumps to eight thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a full moving truck, a torn invoice banner reads NEW TOTAL EIGHT THOUSAND, shocked man trent, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "They refuse to unload until he pays cash, holding everything hostage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a padlocked truck door stamped PAY CASH FIRST, man trent pleading outside on an empty driveway, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Trent pays, and his complaint takes months to reach investigators.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man trent handing over cash, a complaint form stamped PENDING FOR MONTHS, a slow calendar behind him, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Odette's licensed crew arrives, unloads, and charges the exact quoted price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette smiling as movers carry boxes inside, a receipt stamped PRICE AS QUOTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No survey, no license, no deal. Demand a binding written estimate. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads CHECK THE USDOT NUMBER, kids comic book illustration"
+    }
+  ]
+}

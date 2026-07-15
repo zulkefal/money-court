@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-xander-vs-bianca-carpool-transit-commute-001",
+  "character": "coach_vault",
+  "topic": "Carpooling and transit passes vs driving solo downtown daily (Xander vs Bianca)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The same commute, nearly three thousand dollars apart every year. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two clipboards labeled DRIVE SOLO and CARPOOL AND TRANSIT, comic burst banner reads THREE THOUSAND APART, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Xander and Bianca commute thirty miles round trip downtown daily.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man xander and woman bianca on a road map labeled THIRTY MILES ROUND TRIP, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both pay for gas, parking, and the same insurance premium.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, xander and bianca holding matching receipts stamped GAS PARKING INSURANCE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Xander drives solo and pays eight dollars for daily parking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, xander alone in a car entering a garage, a sign reads EIGHT DOLLARS A DAY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Gas, parking, and wear cost him three hundred thirty monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, xander straining under a barbell with plates stamped GAS PARKING WEAR, total tag THREE HUNDRED THIRTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Bianca buys a ninety five dollar monthly transit pass instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, bianca holding a card stamped TRANSIT PASS NINETY FIVE beside a bus stop, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Two days weekly she carpools and splits the gas evenly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, bianca and coworkers in a shared car, a comic banner reads SPLIT THE GAS TWO DAYS A WEEK, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her car stays parked, so insurance drops a mileage tier.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, bianca's parked car under a cover, a policy paper stamped LOW MILEAGE DISCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Xander spent three thousand nine hundred sixty dollars commuting this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, xander slumped beside a gym scoreboard reading THREE THOUSAND NINE HUNDRED SIXTY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Bianca spent eleven hundred forty on passes and shared gas.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, bianca flexing beside a gym scoreboard reading ELEVEN HUNDRED FORTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Twenty eight hundred saved, plus she reads during every ride.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, bianca reading on a bus, a locker beside her stamped TWENTY EIGHT HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Price your commute monthly, then carpool or take transit. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading PRICE YOUR COMMUTE, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

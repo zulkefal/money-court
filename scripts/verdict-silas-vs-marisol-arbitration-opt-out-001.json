@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-silas-vs-marisol-arbitration-opt-out-001",
+  "character": "judge_vera",
+  "topic": "Missing the arbitration clause opt-out window vs mailing the letter in time (Silas vs Marisol)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Most contracts you sign quietly delete your right to ever sue in court. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom pointing at a giant contract where a line of fine print glows red, comic burst banner reads YOUR RIGHTS ERASED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Silas and Marisol both sign the same phone service contract.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man silas and woman marisol each signing identical contracts at a phone store counter, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Page nine hides a binding arbitration clause waiving class action rights.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a contract page numbered 9 with a paragraph highlighted and labeled BINDING ARBITRATION, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "That clause also grants a thirty day window to opt out.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with thirty days circled in red, a small door in the page labeled OPT OUT WINDOW, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Silas skips the fine print and never notices the deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man silas scrolling fast past walls of tiny text on a phone, a banner reads I AGREE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marisol mails a dated opt out letter and keeps her receipt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol dropping a sealed envelope labeled ARBITRATION OPT OUT into a mailbox, holding a certified mail receipt, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Two years later the company secretly overbills thousands of its customers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a corporate tower raining bills onto a crowd of angry customers, a banner reads OVERBILLED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "A class action lawsuit forms, but Silas signed his rights away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courtroom crowd joining a filing labeled CLASS ACTION while man silas stands outside a locked courtroom door, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He must arbitrate alone before an arbitrator the company helps pick.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man silas alone at a small table facing a private arbitrator, a sign on the wall labeled PRIVATE ARBITRATION, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Silas drops the claim because arbitration costs more than his refund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scale tipping with a huge fee bag outweighing a tiny refund coin, man silas walking away defeated, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Marisol joins the class action and collects her full refund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol smiling in a courtroom holding a settlement check labeled FULL REFUND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Search new contracts for arbitration and mail your opt out within thirty days. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads OPT OUT WITHIN THIRTY DAYS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

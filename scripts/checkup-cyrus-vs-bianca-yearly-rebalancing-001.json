@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-cyrus-vs-bianca-yearly-rebalancing-001",
+  "character": "doctor_dollar",
+  "topic": "Rebalancing your portfolio yearly vs letting it drift off target (Cyrus vs Bianca)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "His portfolio quietly became twice as risky as he ever chose. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a blood pressure gauge labeled PORTFOLIO RISK creeping into the red, comic burst banner reads REBALANCING CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cyrus and Bianca both target eighty percent stocks, twenty percent bonds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man cyrus and woman bianca each holding a pie chart labeled EIGHTY STOCKS TWENTY BONDS, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "That mix matches the risk their stomachs can actually handle.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a clipboard chart labeled RISK TOLERANCE with a needle resting in a comfortable green zone, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Five strong stock years pass. Both portfolios grow very nicely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rising chart arrow over a calendar stamped FIVE STRONG YEARS, two happy nest eggs growing, exam room, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Cyrus never touches his. Stocks drift up to ninety five percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus napping while his pie chart swells red, stamped NINETY FIVE PERCENT STOCKS, tag reads DRIFTED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Bianca rebalances every January back to her eighty twenty target.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bianca at a calendar page stamped JANUARY, adjusting a pie chart back to EIGHTY TWENTY, exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Rebalancing trims winners and buys laggards. It controls risk automatically.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a balance scale with a hand trimming the heavy side labeled WINNERS and adding to the light side labeled LAGGARDS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "A bear market arrives and stocks suddenly fall forty percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a storm cloud over a crashing chart arrow stamped STOCKS DOWN FORTY PERCENT, doctor's office window behind, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Cyrus loses thirty eight percent because he drifted into all stocks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus clutching his head beside a meter reading DOWN THIRTY EIGHT PERCENT in the red zone, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Bianca loses thirty two percent. Her bonds cushioned the fall.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bianca landing on a cushion labeled BONDS, a meter beside her reads DOWN THIRTY TWO PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Cyrus panics and sells. Bianca rebalances again and buys cheap.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man cyrus slamming a SELL button in panic, woman bianca calmly buying at a tag stamped ON SALE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Rebalance once a year to keep your risk where you chose. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading REBALANCE ONCE A YEAR, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

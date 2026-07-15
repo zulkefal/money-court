@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-vernon-vs-tessa-529-college-savings-001",
+  "character": "doctor_dollar",
+  "topic": "Saving for college inside a 529 plan vs a taxable brokerage account (Vernon vs Tessa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Two parents saved identical amounts for college. One handed thousands to the IRS. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a growth chart labeled COLLEGE FUND with a slice stamped LOST TO TAX, comic burst banner reads COLLEGE SAVINGS CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vernon and Tessa each save two hundred dollars monthly for eighteen years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man vernon and woman tessa dropping coins into piggy banks labeled TWO HUNDRED A MONTH, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Vernon uses a regular taxable brokerage account with no education tax break.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vernon holding an account folder stamped TAXABLE BROKERAGE, a small tag reads NO TAX BREAK, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Tessa opens a five twenty nine plan built for education expenses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tessa opening a shining account folder labeled 529 EDUCATION PLAN, a graduation cap on top, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Inside her plan, every dollar of growth compounds completely untaxed each year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing money tree growing inside a protective glass dome stamped TAX FREE GROWTH, woman tessa smiling beside it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Vernon owes tax on dividends and gains along the entire way.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vernon watching small coins siphoned off his growing chart into a jar labeled TAX EACH YEAR, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Eighteen years later both accounts hold about seventy seven thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two matching balance meters both reading SEVENTY SEVEN THOUSAND, an eighteen year timeline arrow below, doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Only forty three thousand was contributed. Thirty four thousand is pure growth.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a clipboard chart split into a blue bar labeled CONTRIBUTED FORTY THREE THOUSAND and a gold bar labeled GROWTH THIRTY FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Tessa withdraws for tuition and pays zero tax on that growth.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tessa handing a tuition envelope to a university clerk, a receipt stamped ZERO TAX ON GROWTH, exam room window behind, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Vernon sells and hands roughly five thousand dollars to capital gains tax.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vernon glumly handing a stack of bills to a tax clerk, the stack labeled FIVE THOUSAND CAPITAL GAINS TAX, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same savings, same market, same effort. Only the account wrapper differed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical seedlings side by side, one in a plain pot labeled TAXABLE and one in a domed pot labeled 529, doctor dollar comparing them, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use a five twenty nine for college money and keep the growth. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading USE A 529 FOR COLLEGE, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

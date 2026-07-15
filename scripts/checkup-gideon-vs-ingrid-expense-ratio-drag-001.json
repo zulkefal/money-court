@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-gideon-vs-ingrid-expense-ratio-drag-001",
+  "character": "doctor_dollar",
+  "topic": "A one percent expense ratio vs a low cost index fund over thirty years (Gideon vs Ingrid)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fee you never see quietly stole one hundred eighty thousand dollars from a retirement. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a chart with a slow invisible leak labeled FEES, comic burst banner reads EXPENSE RATIO CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Gideon and Ingrid each invest one hundred thousand dollars for thirty years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man gideon and woman ingrid each placing a briefcase stamped ONE HUNDRED THOUSAND on an exam table, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both funds hold nearly identical stocks and earn seven percent yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical fund jars side by side, each labeled SEVEN PERCENT YEARLY, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Gideon's fund charges one percent every single year, quietly automatic.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gideon's fund jar with a tiny automatic tap dripping coins out, tag stamped ONE PERCENT FEE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ingrid's index fund charges three hundredths of one percent yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ingrid's fund jar sealed tight, a tiny tag stamped ZERO POINT ZERO THREE PERCENT FEE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That gap looks tiny. One percent sounds harmless on paper.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a magnifying glass over a nearly invisible speck labeled ONE PERCENT, a note reads LOOKS HARMLESS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "But fees compound against you exactly like returns compound for you.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two mirrored spiral arrows, one gold rising labeled RETURNS COMPOUND, one grey sinking labeled FEES COMPOUND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Gideon nets six percent. His balance reaches five hundred seventy thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gideon beside a bar chart topping out at FIVE HUNDRED SEVENTY THOUSAND, a tag reads NET SIX PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Ingrid nets almost seven. Her balance reaches seven hundred fifty thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ingrid beside a taller bar chart topping out at SEVEN HUNDRED FIFTY THOUSAND, a tag reads NET SIX POINT NINE SEVEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The difference is one hundred eighty thousand dollars, purely from fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar pointing at the gap between two bars, the gap shaded and stamped ONE HUNDRED EIGHTY THOUSAND LOST TO FEES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gideon never wrote a check. It left silently from inside.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gideon looking at an empty checkbook while coins float invisibly out of his fund jar, tag reads NEVER BILLED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Check every fund's expense ratio and keep it near zero. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading CHECK YOUR EXPENSE RATIO, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-garrett-vs-yvonne-deepfake-ceo-wire-001",
+  "character": "detective_cash",
+  "topic": "Deepfake CEO video call demanding an urgent wire vs verifying on a known number (Garrett vs Yvonne)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A deepfake video call of the boss drained a company two hundred thousand dollars. Case file 0072. Time of incident, Friday afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a glitching video call of a fake executive on a monitor, comic burst banner reads CASE FILE 0072, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Garrett and Yvonne both handle wire payments at their finance departments.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man garrett and woman yvonne at office desks approving payments, folders stamped FINANCE DEPARTMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "An urgent email from the CEO requests a confidential acquisition transfer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop screen showing an email banner reading URGENT CONFIDENTIAL ACQUISITION, a red priority flag icon, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A video call follows, the CEO's face and voice look perfectly real.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a video call window showing a polished executive, faint digital glitch pixels at the jawline, banner reads LIVE CALL, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Garrett recognizes the boss instantly and never questions the rushed request.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man garrett nodding confidently at a video call screen, a sticky note stamped DO IT NOW, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He wires two hundred thousand to the account from the call.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man garrett clicking a bank screen reading SENDING TWO HUNDRED THOUSAND, money arrow flying offscreen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Yvonne notices the caller never answers questions and pushes secrecy hard.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvonne frowning at a video call, a caption card reads TELL NO ONE, her notepad reads NO ANSWERS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She hangs up and calls the CEO's real number from her directory.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvonne ending a call and dialing a desk phone, an open company directory labeled VERIFIED NUMBERS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The real CEO never made any call or requested any transfer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a surprised real executive on a phone, a bold caption card reads I NEVER CALLED YOU, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Garrett's money left the country within an hour, unrecoverable by the bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a world map with a money trail vanishing overseas, a bank notice stamped FUNDS UNRECOVERABLE, devastated man garrett, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Yvonne reports the deepfake and her company adds a callback rule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvonne filing a report stamped REPORTED, an office poster reads CALL BACK BEFORE ANY WIRE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Faces can be faked. Verify wire requests on a known number. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads VERIFY ON A KNOWN NUMBER, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-silas-vs-harriet-next-of-kin-inheritance-001",
+  "character": "detective_cash",
+  "topic": "Fake next of kin inheritance lawyer collecting advance probate fees vs deleting the email (Silas vs Harriet)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake estate lawyer promised millions and collected fifteen thousand in fees. Case file 0077. Time of incident, Monday morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining an ornate fake will with a wax seal, comic burst banner reads CASE FILE 0077, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Silas and Harriet each receive an email from a foreign estate lawyer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man silas and woman harriet reading laptops, an email header labeled ESTATE OF A LATE CLIENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A wealthy client died sharing their surname, leaving them sole heir.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a family tree diagram with one branch stamped SOLE HEIR, a portrait of an unknown wealthy stranger, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The estate is worth four million, waiting in a frozen account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank statement banner reading FOUR MILLION stamped ACCOUNT FROZEN, ice crystals on the paper, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Silas sends his passport copy and pays probate filing fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man silas scanning a passport and a receipt stamped PROBATE FILING FEE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The fees keep growing, notary, then tax clearance, then transfer insurance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rising staircase of invoices stamped NOTARY, TAX CLEARANCE, TRANSFER INSURANCE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Harriet knows real heirs are found by researchers, not random emails.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman harriet holding a notepad reading REAL HEIRS ARE RESEARCHED, an inbox on her screen, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Legitimate estates pay legal costs from the estate, never from heirs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a diagram of money flowing out of an estate chest to a lawyer, a label reads PAID BY THE ESTATE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She deletes it and never sends a single identity document.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman harriet clicking a trash icon, a passport safely closed in a drawer stamped NOT SHARED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Silas loses fifteen thousand, and his passport copy enables identity fraud.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure holding a copied passport, an empty wallet stamped FIFTEEN THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He freezes his credit and reports the stolen documents immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man silas on a laptop with a screen stamped CREDIT FROZEN and a report form stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody emails strangers millions. Real inheritances never need your money. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads NO ADVANCE FEES FOR HEIRS, kids comic book illustration"
+    }
+  ]
+}

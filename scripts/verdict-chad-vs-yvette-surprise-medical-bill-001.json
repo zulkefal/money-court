@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-chad-vs-yvette-surprise-medical-bill-001",
+  "character": "judge_vera",
+  "topic": "Paying a surprise hospital bill instantly vs demanding an itemized bill first (Chad vs Yvette)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Hospital bills are often padded with errors, and almost no patient ever checks. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom holding a hospital bill unrolling to the floor, comic burst banner reads CHECK THE BILL, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Chad and Yvette each get nine thousand dollar emergency room bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man chad and woman yvette each holding a bill stamped 9000 DOLLARS DUE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both bills are one vague summary line with no codes listed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a close up of a bill with a single blurry line labeled SERVICES RENDERED and a huge total, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Chad panics and pays the full amount with a credit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, panicked man chad swiping a credit card at a hospital counter, a receipt stamped PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Yvette requests a fully itemized bill listing every billing code.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvette at a hospital billing window handing over a form labeled ITEMIZED BILL REQUEST, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The itemized bill shows one procedure charged twice and duplicate supplies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvette circling repeated lines on a long itemized bill with a red pen, a magnifier over a line labeled CHARGED TWICE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "An out of network doctor billed her at an in network hospital.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hospital building labeled IN NETWORK with a doctor beside it labeled OUT OF NETWORK, a confused arrow between them, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The No Surprises Act bans that charge, so she disputes it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book titled NO SURPRISES ACT on a courtroom bench, woman yvette mailing an envelope stamped DISPUTE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Yvette's nine thousand dollar bill drops to eleven hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman yvette smiling as a giant number 9000 shrinks into 1100 on a bill, comic banner reads BILL CORRECTED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Chad requests a refund, but paid bills are far harder to reverse.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chad on the phone at a kitchen table beside a paper stamped REFUND REQUEST PENDING, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He pays eight thousand dollars for charges he never actually owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sad man chad holding an empty wallet beside a receipt labeled OVERPAID 8000 DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Always request the itemized bill and dispute errors before you pay anything. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads ITEMIZE BEFORE YOU PAY, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

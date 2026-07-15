@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-hugo-vs-simone-credit-freeze-after-fraud-001",
+  "character": "judge_vera",
+  "topic": "Calling only your bank after identity theft vs freezing all three credit bureaus (Hugo vs Simone)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Federal law makes a credit freeze free at all three bureaus, and almost no victim uses it. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside three giant credit files encased in blue ice, comic burst banner reads FREE TO FREEZE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hugo and Simone both spot strange loan applications in their names.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hugo and woman simone staring at phone screens showing loan applications stamped NOT MINE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A freeze blocks new lenders from pulling your credit report entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a giant frozen padlock over a credit report folder, a lender hand bouncing off the ice, comic banner reads ACCESS BLOCKED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hugo just calls his bank and assumes the problem is handled.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugo relaxing on a couch with a phone, a small bank building icon beside him, comic banner reads GOOD ENOUGH, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He never freezes Equifax, Experian, or TransUnion, so thieves keep applying.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, three unlocked credit file cabinets labeled EQUIFAX EXPERIAN TRANSUNION standing wide open, a shadowy hand reaching inside, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Simone freezes all three bureaus online, free, in under twenty minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone at a laptop with three file cabinets snapping shut behind her covered in frost, a timer labeled 20 MINUTES, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She files an identity theft report at IdentityTheft dot gov.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone submitting an official form labeled IDENTITY THEFT REPORT on a government website page, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "That report forces the bureaus to block the fraudulent accounts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a stack of fake account files being stamped BLOCKED in red ink, a courtroom gavel beside them, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Six months later Hugo has four new fraudulent credit cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugo overwhelmed holding a fan of four credit cards stamped FRAUDULENT, a calendar reads SIX MONTHS LATER, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Collectors chase him and his mortgage application is denied for months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugo running from a wave of collection envelopes, a mortgage paper stamped DENIED in his hand, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Simone's frozen file stops every new application before it starts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone calm at a table while fake applications shatter against a wall of ice labeled FROZEN, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Freeze all three bureaus free today and file at IdentityTheft dot gov. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads FREEZE ALL THREE BUREAUS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

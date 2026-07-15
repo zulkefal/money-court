@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-emmett-vs-sonia-insurance-denial-appeal-001",
+  "character": "judge_vera",
+  "topic": "Accepting an insurance claim denial vs appealing it in writing on time (Emmett vs Sonia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Almost nobody appeals a denied insurance claim, yet appeals overturn denials every single day. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom holding a letter stamped DENIED while an APPEAL stamp hovers above it, comic burst banner reads DENIED IS NOT FINAL, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Emmett and Sonia both get surgery claims denied by the same insurer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man emmett and woman sonia each reading a letter stamped CLAIM DENIED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The letters say not medically necessary and demand nine thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a close up denial letter with a highlighted line reading NOT MEDICALLY NECESSARY and a total labeled 9000 DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Law gives them internal appeals plus an independent external review.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book on a courtroom bench titled INTERNAL APPEAL AND EXTERNAL REVIEW, a wooden gavel beside it, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Emmett assumes the insurer is final and starts a payment plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emmett slumped at a table signing a form labeled PAYMENT PLAN, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Sonia requests the full denial reason and her policy language in writing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sonia writing a letter labeled SEND ME THE DENIAL REASON IN WRITING, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "A billing code was wrong, listing her surgery as cosmetic.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a magnifier over a claim form where a code line is labeled MISCODED AS COSMETIC, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her doctor writes a letter and Sonia files the internal appeal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a doctor signing a support letter while woman sonia mails an envelope stamped INTERNAL APPEAL, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The insurer overturns the denial and pays the surgery in full.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman sonia smiling as a letter is stamped DENIAL OVERTURNED PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Emmett's appeal window closes silently after one hundred eighty days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar page labeled 180 DAYS with a door slamming shut behind it, man emmett unaware, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He pays nine thousand dollars for a claim his insurance owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, sad man emmett handing over stacks of cash beside a bill labeled INSURANCE SHOULD HAVE PAID, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "A denial starts the fight. Appeal in writing within one hundred eighty days. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads APPEAL IN WRITING WITHIN 180 DAYS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

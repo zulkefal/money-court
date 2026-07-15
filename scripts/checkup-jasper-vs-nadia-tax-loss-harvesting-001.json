@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-jasper-vs-nadia-tax-loss-harvesting-001",
+  "character": "doctor_dollar",
+  "topic": "Harvesting investment losses at tax time vs ignoring them (Jasper vs Nadia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A losing investment can quietly hand you fifteen hundred dollars back. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a red losing chart with a gold refund tag stamped FIFTEEN HUNDRED BACK, comic burst banner reads TAX LOSS HARVEST CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jasper and Nadia each own a fund down ten thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man jasper and woman nadia each holding a red chart stamped DOWN TEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both also sold winners this year with ten thousand in gains.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two green charts each stamped TEN THOUSAND IN GAINS beside a tax form, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jasper stares at the loss and just waits for recovery.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jasper slumped in a waiting room chair staring at a red chart, a sign reads JUST WAITING, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Nadia sells the loser and books that ten thousand dollar loss.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadia pressing SELL and filing a slip stamped LOSS BOOKED TEN THOUSAND, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Same day, she buys a similar but not identical index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadia buying a fund card stamped SIMILAR NOT IDENTICAL, a clock reads SAME DAY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "That keeps her invested and dodges the wash sale rule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a clipboard rule stamped WASH SALE THIRTY DAY WINDOW with woman nadia stepping safely around it, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her booked loss cancels her ten thousand dollars of gains.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a red loss bar and a green gain bar cancelling to zero, stamped GAINS OFFSET, exam room, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Nadia saves fifteen hundred dollars in tax at fifteen percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nadia holding a tax bill reduced by a gold band stamped SAVED FIFTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Extra losses offset three thousand of ordinary income each year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar pointing at a chart bar labeled UP TO THREE THOUSAND AGAINST INCOME EACH YEAR, leftovers stamped CARRY FORWARD, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Jasper pays full tax. His fund recovers exactly like hers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man jasper paying a full tax bill while both fund charts recover identically, tag reads SAME RECOVERY, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Harvest losses, stay invested, and respect the wash sale window. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading HARVEST LOSSES STAY INVESTED, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

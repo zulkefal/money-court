@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-hugo-vs-camille-pmi-removal-twenty-percent-001",
+  "character": "doctor_dollar",
+  "topic": "Requesting PMI cancellation at twenty percent equity vs paying it for years (Hugo vs Camille)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He paid eight thousand dollars for insurance that protected somebody else entirely. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a chart of a house with a monthly fee tag stamped PMI, comic burst banner reads PMI CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hugo and Camille each buy homes with small down payments.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hugo and woman camille each holding house keys beside a small coin stack stamped LOW DOWN PAYMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "With under twenty percent down, every lender requires private mortgage insurance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a clipboard rule stamped UNDER TWENTY PERCENT DOWN EQUALS PMI REQUIRED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "That insurance protects the lender only. It never protects you.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an umbrella held over a bank building while the homeowner stands in the rain, tag stamped PROTECTS THE LENDER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Both pay one hundred seventy five dollars monthly in PMI.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two monthly bills side by side each stamped PMI ONE HUNDRED SEVENTY FIVE, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Their loans shrink and their home values slowly climb higher.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shrinking loan bar and a rising house value arrow crossing on a chart, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Camille tracks her equity and hits twenty percent in year four.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman camille marking a chart where an equity line crosses TWENTY PERCENT, a calendar stamped YEAR FOUR, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She requests cancellation in writing. The lender drops her PMI.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman camille mailing a letter stamped PMI CANCELLATION REQUEST, a returned notice stamped PMI REMOVED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Hugo never asks. It runs until automatic termination at seventy eight percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hugo asleep in a chair while PMI bills pile up, a distant sign stamped AUTO TERMINATION AT SEVENTY EIGHT PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Those four extra years cost Hugo about eight thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a receipt tape unrolling stamped FOUR EXTRA YEARS EIGHT THOUSAND DOLLARS, glum man hugo beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Camille invests her one seventy five monthly instead, every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman camille redirecting a monthly coin stream into a growing investment jar stamped ONE SEVENTY FIVE A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "At twenty percent equity, request PMI cancellation in writing. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading REQUEST PMI CANCELLATION AT TWENTY PERCENT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

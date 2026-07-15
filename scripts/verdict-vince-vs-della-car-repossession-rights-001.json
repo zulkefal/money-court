@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-vince-vs-della-car-repossession-rights-001",
+  "character": "judge_vera",
+  "topic": "Hiding from a car loan default vs using your repossession rights (Vince vs Della)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "In most states a lender can tow your car away without ever seeing a judge. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom pointing at a tow truck hauling away a small car, comic burst banner reads NO JUDGE NEEDED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vince and Della each fall two months behind on their car loans.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split courtroom panel of man vince and woman della each holding a loan statement stamped TWO MONTHS BEHIND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Missed payments mean default, and repo agents need no court order.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book on a courtroom bench titled DEFAULT AND REPOSSESSION, a wooden gavel resting beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Vince dodges the lender's calls and parks his sedan behind the house.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vince ignoring a ringing phone and hiding a sedan behind a house, comic banner reads DODGING THE CALLS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "A tow truck takes it from his driveway at three in the morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tow truck lifting a sedan from a dark driveway at night, a clock labeled 3 AM in the corner, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Della calls her lender first and requests a written payment deferment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della on the phone at a desk writing on a form labeled WRITTEN DEFERMENT REQUEST, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She also learns her state grants a right to reinstate the loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della reading a glowing law page with a highlighted line reading RIGHT TO REINSTATE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Della pays the past due amount and keeps her car legally.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman della smiling beside her car holding a receipt stamped LOAN REINSTATED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Vince's car sells at auction for far less than he still owes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an auction podium with a sedan on a block, a price sign labeled SOLD FOR PENNIES, man vince watching in dismay, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The lender sues him for the deficiency balance plus towing fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vince in a courtroom facing paperwork on the bench stamped DEFICIENCY BALANCE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Della drives to work while Vince pays for a car he lost.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of woman della cheerfully driving to work and man vince at a bus stop paying a bill labeled CAR HE NO LONGER HAS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Call your lender before default and ask about reinstatement in writing. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads CALL FIRST ASK IN WRITING, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

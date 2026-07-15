@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-otis-vs-marisol-price-tracking-big-buys-001",
+  "character": "coach_vault",
+  "topic": "Tracking price history before a big buy vs grabbing the sale sign (Otis vs Marisol)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Same appliance, same store, two hundred fifty dollars apart. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two clipboards labeled BUY TODAY and TRACK THE PRICE, comic burst banner reads TWO HUNDRED FIFTY APART, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Otis and Marisol both need a new refrigerator this month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man otis and woman marisol beside two empty kitchen spaces labeled NEEDS A FRIDGE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The model they want lists at nine hundred dollars today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, otis and marisol looking at a showroom refrigerator with a tag stamped NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Otis buys Saturday because the sign screams limited time offer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, otis rushing a cart past a flashing store banner reading LIMITED TIME OFFER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He never checks whether that price is actually a real deal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, otis walking out with the fridge, a hidden price history chart behind him marked UNCHECKED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marisol adds a price tracker and watches the history chart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marisol on a gym bench with a phone showing a price history chart labeled PRICE TRACKER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The chart shows it hits six fifty every few months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marisol pointing at a chart with repeating dips each stamped SIX FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She waits three weeks and buys during the holiday price drop.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marisol checking a calendar with THREE WEEKS crossed off and a tag reading HOLIDAY DROP, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Otis paid nine hundred dollars for the identical refrigerator model.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, otis slumped beside a gym scoreboard reading NINE HUNDRED PAID, same fridge behind him, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Marisol paid six hundred fifty dollars with free delivery included.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marisol flexing beside a gym scoreboard reading SIX HUNDRED FIFTY PAID and a tag stamped FREE DELIVERY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Twenty one days of patience earned her two hundred fifty dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, marisol holding a stopwatch labeled TWENTY ONE DAYS beside a locker stamped TWO HUNDRED FIFTY SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Track the price history before any buy over one hundred. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading CHECK THE HISTORY FIRST, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

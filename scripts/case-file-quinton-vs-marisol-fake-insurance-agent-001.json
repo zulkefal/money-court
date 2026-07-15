@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-quinton-vs-marisol-fake-insurance-agent-001",
+  "character": "detective_cash",
+  "topic": "Fake auto insurance agent selling a fabricated policy card vs verifying the license and buying direct (Quinton vs Marisol)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake insurance card left a driver personally liable for a crash. Case file 0081. Time of incident, rainy Saturday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining an insurance card under a lamp beside a photo of a dented bumper, comic burst banner reads CASE FILE 0081, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Quinton and Marisol both shop for cheaper car insurance online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man quinton and woman marisol comparing quotes on laptops, a banner reads CAR INSURANCE QUOTES, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "An agent offers full coverage at half of every other quote.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smiling salesman holding a price tag banner reading HALF PRICE FULL COVERAGE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He wants cash or app payment directly to him, not the company.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hand offering cash to a salesman, a crossed out insurance company building labeled NOT THE INSURER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Quinton pays and receives a printed insurance card that looks official.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man quinton holding a glossy card stamped PROOF OF INSURANCE, looking pleased, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marisol checks the agent's license on her state insurance department site.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol at a laptop, a lookup page labeled STATE INSURANCE DEPARTMENT LICENSE SEARCH, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "No license exists, and the carrier has never heard of him.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a search result stamped NO LICENSE FOUND, a phone call note reads AGENT UNKNOWN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She buys directly from the insurer and verifies her policy number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisol on an official insurer website, a confirmation stamped POLICY VERIFIED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Quinton rear ends a car and calls in his claim.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rainy street fender bender, man quinton phoning with a worried face, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The insurer has no policy, his card was completely fabricated.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a computer screen stamped NO POLICY ON RECORD, the glossy card revealed as a fake, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He pays every repair himself and faces uninsured driving penalties too.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man quinton handing over savings at a repair shop, a notice stamped UNINSURED DRIVING PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Verify the license, pay the insurer, confirm the policy number. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads VERIFY THE LICENSE AND POLICY, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-curtis-vs-bridget-timeshare-resale-scam-001",
+  "character": "detective_cash",
+  "topic": "Timeshare resale advance fee scam vs refusing any upfront closing fees (Curtis vs Bridget)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake timeshare buyer collected twelve thousand in upfront fees and vanished. Case file 0074. Time of incident, Tuesday morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office inspecting a glossy resort brochure and a stack of fee receipts, comic burst banner reads CASE FILE 0074, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Curtis and Bridget each own a timeshare they desperately want to sell.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man curtis and woman bridget holding resort contracts, a bill pile stamped ANNUAL MAINTENANCE FEES, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A broker calls claiming a cash buyer is already waiting to close.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a slick caller on a phone screen, a caption card reads BUYER READY TO CLOSE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "First they must wire closing costs and foreign transfer taxes upfront.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an invoice stamped WIRE FEES FIRST listing closing costs and transfer taxes, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Curtis wires four thousand, relieved the burden is finally ending.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man curtis exhaling with relief at a bank screen reading SENT FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "More fees follow, escrow, then registration, until twelve thousand is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growing tower of invoices stamped ESCROW and REGISTRATION, a total banner reads TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Bridget asks one question, why does a real buyer need my money?",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bridget on a phone with a skeptical raised eyebrow, a notepad reads WHY DO I PAY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Real brokers get paid from proceeds at closing, never in advance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bridget holding a notepad reading PAID AT CLOSING ONLY, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She checks the license number and it belongs to a dissolved company.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bridget at a laptop, a registry result stamped COMPANY DISSOLVED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Curtis's buyer never existed, his timeshare never sold, his money vanished.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man curtis holding an unsold contract, a disconnected phone line and a receipt stamped NO BUYER, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Bridget hangs up and reports the caller to state regulators.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bridget mailing a complaint form stamped REPORTED TO REGULATORS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Any resale buyer demanding upfront fees is not a buyer. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads NEVER PAY UPFRONT FEES, kids comic book illustration"
+    }
+  ]
+}

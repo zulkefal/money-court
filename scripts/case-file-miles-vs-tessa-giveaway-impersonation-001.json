@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-miles-vs-tessa-giveaway-impersonation-001",
+  "character": "detective_cash",
+  "topic": "Cloned social media giveaway account charging fake prize fees vs verifying the real brand page (Miles vs Tessa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A cloned giveaway account milked winners for fees and stole card numbers. Case file 0075. Time of incident, Sunday night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office comparing two identical social profiles pinned on a corkboard, comic burst banner reads CASE FILE 0075, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Miles and Tessa both enter a popular brand's online giveaway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man miles and woman tessa tapping a phone post banner reading ENTER TO WIN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Days later a message says congratulations, you won the grand prize.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone message screen with a confetti banner reading YOU WON THE GRAND PRIZE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The account looks identical, same photo, same posts, one extra letter.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two nearly identical profile headers side by side, one handle circled in red with an extra character, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Miles celebrates and pays a fifty dollar shipping and processing fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man miles cheering while a phone screen reads PAY SHIPPING FEE FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Then they request his card details to verify his prize delivery.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone form labeled VERIFY YOUR CARD with a credit card and a shadowy hand reaching for it, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Tessa checks the handle and spots only four hundred followers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tessa squinting at a profile stat reading 400 FOLLOWERS, a red magnifier circle, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The real brand's pinned post lists a completely different winner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a verified brand page with a pinned post banner reading OFFICIAL WINNER ANNOUNCED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She knows real giveaways never charge fees to claim a prize.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tessa holding a notepad reading WINNERS NEVER PAY FEES, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Miles's card is charged twice overseas before his bank freezes it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone alert list of foreign charges stamped FRAUD DETECTED, man miles gripping his head, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Tessa reports the clone account and warns the brand's real page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman tessa tapping a phone button labeled REPORT ACCOUNT, a message to a verified brand page, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Winners never pay. If claiming costs money, it's a fake. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads REAL PRIZES ARE FREE, kids comic book illustration"
+    }
+  ]
+}

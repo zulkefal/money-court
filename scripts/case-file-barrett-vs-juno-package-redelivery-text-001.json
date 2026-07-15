@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-barrett-vs-juno-package-redelivery-text-001",
+  "character": "detective_cash",
+  "topic": "Fake postal redelivery fee text harvesting card data vs tracking only in the official app (Barrett vs Juno)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One fake package text harvested a card number and drained three thousand dollars. Case file 0076. Time of incident, Wednesday evening. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a suspicious delivery text beside an empty parcel box, comic burst banner reads CASE FILE 0076, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Barrett and Juno both get texts about an undeliverable package today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man barrett and woman juno reading phone texts banner reading PACKAGE UNDELIVERABLE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The message blames an incomplete address and links to a redelivery page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone text with a highlighted link and a caption reading INCOMPLETE ADDRESS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Both are actually expecting a real delivery this week, so timing fits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar marked DELIVERY THIS WEEK beside a doorstep with no package, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Barrett taps the link and pays a small thirty cent fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man barrett entering card details on a fake postal page stamped REDELIVERY FEE 30 CENTS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The tiny fee was bait, the real prize was his card data.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cartoon fishing hook pulling a credit card out of a phone screen, a tag labeled BAIT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Juno notices the link domain is not the official postal address.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juno holding a phone, a zoomed link circled in red stamped FAKE DOMAIN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She knows the postal service never texts asking for redelivery fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juno holding a notepad reading POST OFFICE NEVER TEXTS FOR FEES, calm and confident, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She tracks her package in the official app, it arrives fine.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juno checking an official tracking app stamped OUT FOR DELIVERY, a parcel on her porch, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Barrett's card racks up three thousand in charges within two days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone list of charges totaling a banner reading THREE THOUSAND, man barrett stunned, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He freezes the card, disputes charges, and reports the phishing text.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man barrett tapping a bank app button labeled FREEZE CARD, a report form stamped PHISHING REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never tap delivery links. Track packages only in the official app. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads TRACK IN THE OFFICIAL APP, kids comic book illustration"
+    }
+  ]
+}

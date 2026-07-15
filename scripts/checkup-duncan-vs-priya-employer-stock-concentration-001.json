@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-duncan-vs-priya-employer-stock-concentration-001",
+  "character": "doctor_dollar",
+  "topic": "Loading a retirement plan with employer stock vs diversifying broadly (Duncan vs Priya)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One worker kept his entire retirement inside his employer's stock. It collapsed in a month. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at an x-ray showing a single cracked egg in one basket, comic burst banner reads CONCENTRATION RISK CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Duncan and Priya work at the same company with identical salaries.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man duncan and woman priya in matching office badges, a sign behind them labeled SAME COMPANY SAME SALARY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both contribute ten percent of pay into their company retirement plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two paychecks each with a slice arrow labeled TEN PERCENT flowing into retirement jars, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Duncan loves his employer, so eighty percent sits in company stock.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man duncan hugging a giant stock certificate, a pie chart beside him stamped EIGHTY PERCENT COMPANY STOCK in red, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Priya spreads hers across a broad index fund of thousands of companies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman priya holding a fan of thousands of tiny company cards, a pie chart labeled BROAD INDEX FUND in green, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Duncan's paycheck and his portfolio now depend on one single company.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man duncan balancing on a single thin pillar labeled ONE COMPANY, his paycheck and his nest egg both stacked on top, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Doctors call this concentration risk. One weak organ takes down everything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding an anatomy chart of a body where every organ is stamped SAME COMPANY, a warning tag reads CONCENTRATION RISK, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The company misses earnings badly and the stock falls sixty percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a newspaper page stamped EARNINGS MISS beside a stock chart arrow crashing labeled DOWN SIXTY PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Duncan's balance falls from four hundred thousand to roughly two hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a balance meter sliding from FOUR HUNDRED THOUSAND down to TWO HUNDRED THOUSAND, shocked man duncan watching, exam room, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Priya's index fund barely moves because one company is a sliver.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman priya calm beside a nearly flat chart line, a pie chart with one tiny sliver labeled ONE COMPANY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Layoffs follow. Duncan loses his job and his savings together.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man duncan carrying a cardboard box past a door stamped LAYOFFS, his empty retirement jar tucked under his arm, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Keep employer stock under ten percent of your retirement. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading EMPLOYER STOCK UNDER TEN PERCENT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

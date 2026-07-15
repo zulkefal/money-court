@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-kurt-vs-alma-student-loan-rehab-001",
+  "character": "judge_vera",
+  "topic": "Ignoring a federal student loan default vs rehabilitating the loan (Kurt vs Alma)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A defaulted federal student loan can seize your tax refund without ever going to court. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant graduation cap and a tax refund check being pulled away by a chain, comic burst banner reads NO COURT NEEDED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kurt and Alma both default on federal student loans after job losses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man kurt and woman alma each holding a loan notice stamped IN DEFAULT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Default lets the government garnish wages and take entire tax refunds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open law book on a courtroom bench titled GARNISHMENT AND REFUND OFFSET, a wooden gavel beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kurt assumes nothing can be done and stops opening the mail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kurt on a couch as unopened envelopes pile against the door, a banner reads WHY BOTHER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Alma calls her servicer and asks about loan rehabilitation directly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman alma on the phone at a kitchen table with a notepad labeled ASK ABOUT REHABILITATION, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Rehabilitation means nine on time payments within ten consecutive months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with nine checkmarks across ten months, a banner reads NINE ON TIME PAYMENTS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her payment is set from her income, just twelve dollars monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman alma holding a payment agreement labeled 12 DOLLARS PER MONTH, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Alma pays nine months and the default leaves her credit report.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit report page where a red mark labeled DEFAULT is being lifted away, woman alma smiling, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Kurt's tax refund is seized and fifteen percent of wages garnished.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kurt holding a paycheck with a slice cut away labeled 15 PERCENT GARNISHED, a refund check stamped SEIZED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He also cannot get federal aid to finish his degree.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kurt at a college door holding an aid form stamped INELIGIBLE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Alma qualifies for an income driven plan and federal aid again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman alma smiling with a paper labeled INCOME DRIVEN PLAN APPROVED and a college acceptance letter, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Call your servicer and ask for rehabilitation. You only get one chance. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads ASK FOR REHABILITATION ONE CHANCE, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

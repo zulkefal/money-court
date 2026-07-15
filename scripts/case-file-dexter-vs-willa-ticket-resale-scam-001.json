@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-dexter-vs-willa-ticket-resale-scam-001",
+  "character": "detective_cash",
+  "topic": "Fake concert ticket screenshot sold peer to peer vs buying through verified resale (Dexter vs Willa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A screenshot ticket died at the stadium gate, four hundred dollars gone. Case file 0078. Time of incident, concert night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a printed barcode under a red scanner light, comic burst banner reads CASE FILE 0078, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dexter and Willa both want tickets to a sold out concert.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dexter and woman willa staring at phones, a website banner reads SOLD OUT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A stranger in a fan group offers two seats below face value.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an anonymous avatar posting in a fan group, a price tag banner reads BELOW FACE VALUE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He wants payment by app, friends and family, no buyer protection.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payment app screen with a toggle labeled FRIENDS AND FAMILY and a crossed out shield labeled NO PROTECTION, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Dexter pays four hundred and receives only a screenshot of a barcode.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter smiling at a phone showing a plain barcode image stamped SCREENSHOT ONLY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Willa insists the seller transfer tickets inside the official ticketing app.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa holding a phone showing an official ticket app button labeled ACCEPT TRANSFER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The seller refuses, offers screenshots only, then suddenly stops replying entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat thread going silent, a status label reads NO REPLY, an avatar fading away, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She buys from the venue's verified resale platform for slightly more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa on a laptop, a checkout page stamped VERIFIED RESALE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "At the gate, Dexter's barcode is rejected, already scanned by someone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a stadium turnstile scanner flashing a banner reading ALREADY SCANNED, man dexter blocked by staff, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Friends and family payments have no protection, his money cannot return.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payment app dispute screen stamped NOT ELIGIBLE FOR REFUND, man dexter outside the venue, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Willa walks in scanning her ticket straight from the official app.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa scanning a phone ticket at a turnstile flashing a banner reading ADMITTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Screenshots are not tickets. Demand transfer inside the official app. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads OFFICIAL TRANSFER ONLY, kids comic book illustration"
+    }
+  ]
+}

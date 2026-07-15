@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-kellan-vs-odette-emergency-fund-hysa-vs-checking-001",
+  "character": "doctor_dollar",
+  "topic": "Parking your emergency fund in a high yield savings account vs a checking account (Kellan vs Odette)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The same twenty thousand dollar emergency fund earned one person four thousand and the other ten dollars. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at two identical cash jars, one stamped TEN DOLLARS EARNED and one stamped FOUR THOUSAND EARNED, comic burst banner reads EMERGENCY FUND CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kellan and Odette each hold twenty thousand dollars for emergencies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man kellan and woman odette each holding a sealed jar stamped TWENTY THOUSAND EMERGENCY FUND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both funds must stay safe, liquid, and reachable within days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding a clipboard checklist labeled SAFE LIQUID REACHABLE with three green checkmarks, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kellan leaves his parked in a checking account earning basically nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kellan's jar sitting in a dusty vault labeled CHECKING, a tiny rate tag stamped ZERO POINT ZERO ONE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Odette moves hers to a high yield savings account instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette carrying her jar into a bright bank labeled HIGH YIELD SAVINGS, a rate tag stamped FOUR PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Both accounts are FDIC insured and both transfer in one day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two accounts side by side each stamped FDIC INSURED and ONE DAY TRANSFER, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Odette's account pays about four percent today. Kellan's pays nearly zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two rate gauges, one needle at FOUR PERCENT in green and one flat at NEARLY ZERO in grey, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Same safety, same access. Only the interest rate is different.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar holding two identical x-rays, only the rate line differs, a tag reads ONLY THE RATE CHANGED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Five years later Kellan's balance has grown about ten dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kellan staring into his jar holding a single lonely coin stamped TEN DOLLARS IN FIVE YEARS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Odette's grew past twenty four thousand without any extra deposits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette's overflowing jar stamped TWENTY FOUR THOUSAND, a tag reads NO EXTRA DEPOSITS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She earned four thousand dollars for one afternoon of paperwork.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odette signing one short form beside a prize stack stamped FOUR THOUSAND DOLLARS, exam room, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Move your emergency fund into high yield savings today. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading MOVE IT TO HIGH YIELD SAVINGS, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

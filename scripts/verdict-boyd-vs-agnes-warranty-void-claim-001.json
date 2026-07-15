@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-boyd-vs-agnes-warranty-void-claim-001",
+  "character": "judge_vera",
+  "topic": "Accepting a voided warranty claim vs citing Magnuson-Moss warranty rights (Boyd vs Agnes)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Companies cannot void your warranty just because you used a third party part. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom holding up a torn warranty card being taped back together, comic burst banner reads NOT SO VOID, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Boyd and Agnes both own laptops that die inside the warranty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man boyd and woman agnes staring at dead laptops with blank screens, a tag labeled STILL UNDER WARRANTY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each had used a cheaper third party charger for a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a generic charger on a table with a small price tag, a calendar behind it reading ONE YEAR, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The maker says the charger voids everything and refuses free repair.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a repair counter clerk sliding back a laptop, a paper stamped WARRANTY VOID on the counter, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Boyd accepts it and pays six hundred dollars for a new board.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man boyd handing over cash at a repair shop, a receipt labeled 600 DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Agnes reads the Magnuson Moss Warranty Act before answering them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agnes at a courtroom library table reading a glowing law book titled MAGNUSON MOSS WARRANTY ACT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The law says they must prove the part caused her failure.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a law page with a highlighted line reading THEY MUST PROVE CAUSATION, a wooden gavel resting on it, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She emails that demand and copies the Federal Trade Commission.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agnes at a laptop sending an email, a carbon copy line labeled FEDERAL TRADE COMMISSION glowing, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The company cannot prove causation and repairs her laptop free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agnes receiving a repaired laptop across a counter, a receipt stamped REPAIRED FREE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Boyd's receipt sits in a drawer, six hundred dollars gone forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an open drawer with a lonely receipt labeled 600 DOLLARS GONE, man boyd frowning above it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Agnes keeps her warranty and her money by asking one question.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agnes smiling with a working laptop and a full wallet, a note beside her reads PROVE IT, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Make them prove the part caused the failure, in writing, every time. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads MAKE THEM PROVE IT IN WRITING, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

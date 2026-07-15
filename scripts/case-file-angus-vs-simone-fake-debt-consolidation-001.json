@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-angus-vs-simone-fake-debt-consolidation-001",
+  "character": "detective_cash",
+  "topic": "Advance fee debt relief company telling victims to stop paying creditors vs nonprofit credit counseling (Angus vs Simone)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A debt relief promise destroyed a credit score and added six thousand dollars. Case file 0080. Time of incident, Thursday afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a falling credit score chart pinned beside unpaid bills, comic burst banner reads CASE FILE 0080, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Angus and Simone both carry heavy credit card balances this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man angus and woman simone at kitchen tables buried under statements stamped BALANCE DUE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A company calls promising to erase their debt for a monthly fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a slick caller on a phone screen, a comic banner reads ERASE YOUR DEBT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Step one, stop paying your creditors and pay us instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a checklist stamped STOP PAYING CREDITORS with an arrow pointing to a shadowy company mailbox, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Angus signs up and stops every payment, feeling instant relief.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man angus sighing with relief while pushing a pile of bills into a drawer stamped IGNORED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Simone asks who they settle with, and gets vague answers only.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone on a phone with a skeptical expression, a notepad reads NO CLEAR ANSWERS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Charging fees before settling any debt is illegal for these companies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a law book open beside an invoice stamped ILLEGAL ADVANCE FEE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She calls a nonprofit credit counselor and builds a real plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone at a desk with a friendly counselor, a document stamped NONPROFIT CREDIT COUNSELING PLAN, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Six months later Angus's accounts are delinquent and interest exploded.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, letters stamped DELINQUENT piling up, a rising red interest arrow, panicked man angus, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The company settled nothing, kept six thousand, and his score collapsed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty shadowy office with a receipt stamped SIX THOUSAND IN FEES, a credit score gauge crashing down, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Simone's counselor lowered her rates and her balances shrink monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman simone smiling at a chart of shrinking balances labeled LOWER RATE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never stop paying creditors for strangers. Use nonprofit credit counseling. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, an evidence board reads NO FEES BEFORE SETTLEMENT, kids comic book illustration"
+    }
+  ]
+}
