@@ -718,5 +718,20 @@
     "date": "2026-07-15",
     "character": "doctor_dollar",
     "topic": "Claiming Social Security at sixty two vs waiting until seventy (Barrett vs Maeve)"
+  },
+  {
+    "date": "2026-07-16",
+    "character": "judge_vera",
+    "topic": "Accepting a voided warranty claim vs citing Magnuson-Moss warranty rights (Boyd vs Agnes)"
+  },
+  {
+    "date": "2026-07-16",
+    "character": "detective_cash",
+    "topic": "Fake postal redelivery fee text harvesting card data vs tracking only in the official app (Barrett vs Juno)"
+  },
+  {
+    "date": "2026-07-16",
+    "character": "coach_vault",
+    "topic": "Declining extended warranties and self funding repairs vs buying every warranty (Colton vs Imani)"
   }
 ]
