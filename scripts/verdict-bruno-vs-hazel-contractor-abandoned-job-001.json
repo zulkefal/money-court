@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-bruno-vs-hazel-contractor-abandoned-job-001",
+  "character": "judge_vera",
+  "topic": "Paying a contractor upfront vs milestones and lien waivers (Bruno vs Hazel)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He paid the whole remodel upfront, then the crew vanished forever. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a half-demolished kitchen and an empty toolbox, comic burst banner reads CREW VANISHED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bruno and Hazel both hire contractors to remodel their kitchens.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man bruno and woman hazel in the courtroom, each shaking hands with a contractor over kitchen blueprints, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each contractor asks for money before any real work begins.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two contractors holding out empty hands for cash, a bag labeled DEPOSIT UPFRONT between them, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Bruno pays a huge cash deposit with no written contract.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bruno handing over a huge bag of cash, a torn paper labeled NO WRITTEN CONTRACT beside him, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His contractor demolishes the kitchen, then abandons the job completely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a wrecked demolished kitchen with tools gone, a dust cloud, comic banner reads JOB ABANDONED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Hazel signs a written contract paying in milestones as work finishes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hazel signing a detailed document labeled MILESTONE CONTRACT, a payment schedule chart beside her, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She collects signed lien waivers from every subcontractor before paying.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hazel collecting signed papers from workers, each stamped LIEN WAIVER, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Hazel pays by check, keeping a clear traceable money trail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hazel writing a check, a clear money trail arrow labeled TRACEABLE PAYMENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Bruno's unpaid subcontractors slap a mechanic's lien on his house.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bruno staring at his house with a red notice nailed to the door stamped MECHANICS LIEN, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He pays twice and can barely find a lawyer's help.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bruno paying two separate bills at once, exhausted, a sign reads PAID TWICE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Hazel's kitchen finishes on time with zero liens against her.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hazel celebrating in a finished bright kitchen, a certificate labeled NO LIENS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use written milestone contracts and collect lien waivers before final payment. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads MILESTONES AND LIEN WAIVERS, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

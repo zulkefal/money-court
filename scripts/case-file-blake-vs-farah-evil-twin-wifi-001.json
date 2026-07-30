@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-blake-vs-farah-evil-twin-wifi-001",
+  "character": "detective_cash",
+  "topic": "Evil twin public wifi hotspot at an airport capturing bank login credentials (Blake vs Farah)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A free airport wifi twin captured Blake's bank login in minutes flat. Case file 0087. Time of incident, midday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a laptop showing two identical airport wifi names, comic burst banner reads CASE FILE 0087, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Blake and Farah both want free wifi during a long layover.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man blake and woman farah with phones at an airport gate seeking wifi, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Two networks appear, both named after the airport's free hotspot.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone wifi list showing two networks both labeled AIRPORT FREE WIFI, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "One is a scammer's evil twin, quietly copying all traffic.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hidden scammer laptop broadcasting a fake hotspot stamped EVIL TWIN copying data, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Blake picks the strongest signal and logs into his bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake tapping the strongest signal and opening his BANK app, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The fake hotspot records his username, password, and account balance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the fake hotspot capturing his login, a screen reads PASSWORD RECORDED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Farah asks staff for the real network's exact official name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman farah asking an airport staffer, a sign reads OFFICIAL NETWORK NAME, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She uses her phone's mobile data and a VPN for banking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman farah using phone mobile data with a shield icon reading VPN ON, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Hours later thieves drain Blake's account from another country entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a distant thief draining an account, a map pin reads ANOTHER COUNTRY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He never guessed the friendly free wifi was the trap.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man blake stunned at a bank alert stamped FUNDS GONE at the gate, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Farah banks safely and turns off automatic wifi joining afterward.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman farah toggling a setting reading AUTO JOIN OFF, calm at the airport, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "On public wifi, verify the network and avoid banking without a VPN. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VERIFY WIFI USE VPN, kids comic book illustration"
+    }
+  ]
+}

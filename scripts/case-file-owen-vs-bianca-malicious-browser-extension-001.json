@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-owen-vs-bianca-malicious-browser-extension-001",
+  "character": "detective_cash",
+  "topic": "Malicious browser extension with broad permissions stealing logins and session cookies (Owen vs Bianca)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A coupon browser extension quietly stole Owen's logins and emptied his wallet. Case file 0086. Time of incident, evening. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a browser with a suspicious COUPON extension icon, comic burst banner reads CASE FILE 0086, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Owen and Bianca both see an ad for a coupon extension.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man owen and woman bianca both seeing a pop up ad for a COUPON EXTENSION, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "It promises automatic discounts at checkout on every shopping site.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a browser banner reads AUTOMATIC DISCOUNTS AT CHECKOUT, price tags falling, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Installing it asks to read and change all your site data.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an install dialog stamped READ AND CHANGE ALL SITE DATA, warning triangle, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Owen clicks add now without reading the sweeping permission warning box.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man owen clicking ADD ignoring a red PERMISSION WARNING box, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The extension silently copies his passwords and banking login cookies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the extension icon with sneaky tendrils copying passwords, a screen reads COOKIES STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Bianca reads the permissions and the shaky, mostly negative reviews.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bianca frowning at a low star rating and a permissions list, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She skips it, choosing a trusted extension with millions of users.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bianca installing a trusted extension, badge reads MILLIONS OF USERS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Thieves log into Owen's bank using his stolen session cookies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a thief at a laptop logged into a bank, screen reads SESSION HIJACKED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "They drain his account before he even notices the extension.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man owen's account draining, a phone alert reads BALANCE ZERO, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Bianca stays safe and removes old extensions she no longer uses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bianca safely removing old extensions, a broom sweeping icons labeled REMOVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Extensions demanding full access can steal logins, so vet them carefully. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VET EXTENSION PERMISSIONS, kids comic book illustration"
+    }
+  ]
+}

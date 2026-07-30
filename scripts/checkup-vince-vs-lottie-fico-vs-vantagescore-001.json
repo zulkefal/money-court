@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-vince-vs-lottie-fico-vs-vantagescore-001",
+  "character": "doctor_dollar",
+  "topic": "Understanding FICO versus VantageScore before borrowing vs trusting one app score (Vince vs Lottie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The free credit score on your app may not match your lender's. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at two different score gauges, comic burst banner reads SCORE MODELS CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vince and Lottie both check credit scores before house hunting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man vince and woman lottie each holding a phone showing a CREDIT SCORE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Two main models exist, called FICO and VantageScore, weighted differently.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of two gauges labeled FICO and VANTAGESCORE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Vince trusts only the VantageScore shown in his free app.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vince staring at a phone gauge labeled VANTAGESCORE, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He assumes every mortgage lender sees that exact same number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, confident man vince pointing at a single number labeled SAME SCORE, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lottie learns most mortgage lenders pull a FICO score instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lottie reading a note stamped LENDERS USE FICO in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "So she checks her actual FICO number before applying anywhere.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lottie holding a report labeled MY FICO, doctor's office desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The two scores can differ by several dozen points sometimes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of two gauges with a gap labeled POINTS APART, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Vince is shocked when his mortgage FICO comes in lower.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, startled man vince at a lender desk seeing a gauge stamped LOWER FICO, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Lottie already knew her FICO and priced the rate correctly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman lottie holding a rate sheet stamped RATE LOCKED in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same borrower, two scoring models, two different-looking three-digit credit numbers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, one person with a gauge labeled FICO and another gauge labeled VANTAGESCORE showing different numbers, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Know your lender pulls FICO, so check that score before applying. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading CHECK YOUR FICO, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

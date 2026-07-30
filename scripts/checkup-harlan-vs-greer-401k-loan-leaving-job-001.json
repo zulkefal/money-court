@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-harlan-vs-greer-401k-loan-leaving-job-001",
+  "character": "doctor_dollar",
+  "topic": "The risk of a 401k loan when you leave the job vs repaying it first (Harlan vs Greer)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Borrowing from your 401k, then losing your job, can trigger a surprise tax bill. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a retirement jar with a loan slip, comic burst banner reads 401K LOAN CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Harlan and Greer both take a loan from their 401k.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man harlan and woman greer each pulling cash from a jar labeled 401K LOAN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A 401k loan feels cheap because you repay yourself interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a coin looping back labeled REPAY YOURSELF, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Harlan borrows, then unexpectedly leaves that job just months later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man harlan carrying a box out a door stamped JOB ENDED, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The whole remaining balance is now due by his tax deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man harlan holding a notice stamped BALANCE DUE with a calendar labeled TAX DEADLINE, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He cannot repay it, so it becomes a taxable distribution.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man harlan beside an empty wallet, the loan slip stamped TAXABLE DISTRIBUTION, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Greer instead repays her entire loan fully before switching jobs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greer placing cash back into a jar stamped LOAN REPAID, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "So her retirement savings stay whole and keep on compounding.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greer beside a rising chart labeled COMPOUNDING in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Harlan owes income tax plus a ten percent early penalty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man harlan holding a bill stamped TAX PLUS TEN PERCENT PENALTY, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Greer owes nothing and keeps her nest egg fully intact.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman greer holding a full nest egg labeled INTACT in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same loan, but a job change punished only one of them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man harlan with a red PENALTY stamp and woman greer with a green SAFE stamp, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Avoid 401k loans, or repay them fully before leaving a job. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading REPAY BEFORE YOU LEAVE, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

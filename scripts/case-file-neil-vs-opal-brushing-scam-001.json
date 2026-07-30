@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-neil-vs-opal-brushing-scam-001",
+  "character": "detective_cash",
+  "topic": "Brushing scam with unordered packages and fake reviews signaling leaked data (Neil vs Opal)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Mystery packages on Neil's porch signaled his data was for sale. Case file 0084. Time of incident, early afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash on a noir porch examining mystery boxes and a phone, comic burst banner reads CASE FILE 0084, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Neil and Opal each receive parcels they never ordered online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man neil and woman opal each surprised by unordered parcels on a doorstep, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A seller mailed them to post fake reviews using their names.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shady seller at a laptop posting five star reviews labeled FAKE REVIEW using stolen names, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Each box hides a QR code promising to reveal the sender.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cardboard box with a QR code sticker, a tag reads SCAN TO FIND SENDER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Neil scans the code and lands on a fake login page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man neil scanning a box QR code, his phone opens a page stamped FAKE LOGIN, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He types his account password, handing it straight to thieves.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man neil typing a password into a phishing form, a thief hand grabbing the data, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Opal knows unordered gifts often mean her data has leaked.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal wary at her door, a thought note reads UNORDERED MEANS DATA LEAKED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She ignores the QR code and reports it to the retailer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal on the phone reporting to the retailer, box set aside stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Opal changes her passwords and turns on two factor login.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal at a laptop changing passwords, a shield icon reads TWO FACTOR ON, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Neil's account is hijacked and fake reviews appear under his name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man neil's profile flooded with fake reviews, a banner reads ACCOUNT HIJACKED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "He spends weeks reclaiming the account and scrubbing the reviews.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man neil tiredly deleting fake reviews at night, calendar reads WEEKS LATER, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Unordered packages mean your data leaked, so never scan their codes. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NEVER SCAN MYSTERY CODES, kids comic book illustration"
+    }
+  ]
+}

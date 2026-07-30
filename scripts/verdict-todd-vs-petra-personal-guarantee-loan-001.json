@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-todd-vs-petra-personal-guarantee-loan-001",
+  "character": "judge_vera",
+  "topic": "Signing a full personal guarantee vs negotiating a capped one (Todd vs Petra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "His LLC failed, yet creditors still came straight for his house. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a collapsed LLC building while creditors reach toward a house, comic burst banner reads GUARANTEE TRAP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Todd and Petra both seek loans for their small businesses.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man todd and woman petra in the courtroom, each holding business loan applications, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Lenders often demand a personal guarantee behind the business loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing loan document on the courtroom bench, a highlighted clause labeled PERSONAL GUARANTEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Todd signs a full personal guarantee without reading the terms.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man todd signing a loan quickly without reading, a clause glowing labeled PERSONAL GUARANTEE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He believes his LLC fully shields his personal assets anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man todd standing behind a shield labeled LLC believing it protects his home, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Petra reads carefully and spots the personal guarantee clause first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra reading carefully with a magnifier, spotting a clause labeled PERSONAL GUARANTEE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She negotiates a smaller, capped guarantee before signing the loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra at a negotiation table, a document stamped CAPPED LIMITED GUARANTEE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Petra also keeps her business and personal finances clearly separate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra sorting two folders labeled BUSINESS and PERSONAL kept clearly separate, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Both businesses struggle and eventually close within the same year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two small shops with CLOSED signs, comic banner reads BOTH BUSINESSES FAILED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Creditors seize Todd's home to cover the guaranteed business debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, creditors carrying away man todd's house, a notice stamped GUARANTEED DEBT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Petra's capped guarantee limits her loss to a small amount.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra safe at home, a small bill labeled CAPPED LOSS in her hand, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "A personal guarantee bypasses your LLC; negotiate or cap it first. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads NEGOTIATE OR CAP THE GUARANTEE, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

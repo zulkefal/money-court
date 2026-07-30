@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-marcus-vs-willa-rent-reporting-credit-001",
+  "character": "doctor_dollar",
+  "topic": "Reporting on-time rent to build credit vs paying rent that never counts (Marcus vs Willa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "You can pay rent perfectly for years and build absolutely zero credit. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a blank credit report, comic burst banner reads RENT CREDIT CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marcus and Willa both rent apartments and pay on time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man marcus and woman willa each handing over a rent check stamped ON TIME, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Landlords usually never report those rent payments to credit bureaus.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a rent check with an arrow crossed out toward CREDIT BUREAU, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Marcus assumes steady rent alone is building his credit history.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, confident man marcus beside a report card labeled MY CREDIT that is blank, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His credit file stays thin with almost no track record.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus holding a nearly empty folder stamped THIN FILE in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Willa enrolls in a rent-reporting service that notifies the bureaus.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa tapping a phone app labeled RENT REPORTING sending to CREDIT BUREAUS, exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Now each on-time rent payment lands on her credit report.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa watching a rent check drop onto a report labeled CREDIT REPORT, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Modern scoring models like VantageScore can factor that rental history.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart labeled VANTAGESCORE counting RENT HISTORY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Marcus applies for a loan with a nearly blank file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus at a loan desk holding an empty folder stamped NO HISTORY, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Willa now shows many months of positive payment history instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman willa holding a full report labeled POSITIVE HISTORY in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same rent checks, but only one of them built credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man marcus with a blank report and woman willa with a full report labeled CREDIT BUILT, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "If your file is thin, report on-time rent to the bureaus. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading REPORT YOUR RENT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-troy-vs-lena-fake-app-clone-001",
+  "character": "detective_cash",
+  "topic": "Fake app store clone of a crypto wallet stealing the recovery phrase (Troy vs Lena)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A cloned crypto wallet app in the store swallowed Troy's entire savings. Case file 0088. Time of incident, late night. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a cloned wallet app, comic burst banner reads CASE FILE 0088, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Troy and Lena both search the app store for a wallet.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man troy and woman lena browsing an app store for a wallet app, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A top result copies the real brand's logo and name perfectly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two nearly identical wallet app icons, one tagged CLONE with a copied logo, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "But the developer is unknown and downloads are surprisingly very low.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an app listing showing UNKNOWN DEVELOPER and a tiny LOW DOWNLOADS number, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Troy installs it and types in his secret wallet recovery phrase.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man troy typing a secret RECOVERY PHRASE into a fake wallet app, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The clone instantly sends that phrase to the waiting thieves.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the clone app beaming the phrase to a thief, screen reads KEYS STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Lena checks the developer name and the tiny download count.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena inspecting the listing, a magnifier over DEVELOPER NAME and DOWNLOADS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She spots the fake, then installs the app from the official site.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena downloading from the OFFICIAL SITE link on a laptop, badge reads VERIFIED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Within minutes Troy's entire crypto balance is emptied to zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man troy staring at an empty wallet stamped BALANCE ZERO, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Blockchain transfers are final, so his savings can't be recovered.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a blockchain ledger stamped TRANSFER FINAL, funds gone forever, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Lena's real app keeps her keys private and her funds safe.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lena's real wallet app safe, a lock icon reads KEYS PRIVATE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Verify the developer and downloads, and never type your recovery phrase. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CHECK DEVELOPER AND DOWNLOADS, kids comic book illustration"
+    }
+  ]
+}

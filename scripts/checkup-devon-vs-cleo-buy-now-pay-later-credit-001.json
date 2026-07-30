@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-devon-vs-cleo-buy-now-pay-later-credit-001",
+  "character": "doctor_dollar",
+  "topic": "Overusing buy-now-pay-later that hurts credit vs using it carefully (Devon vs Cleo)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Splitting a purchase into four easy payments can quietly wreck your credit. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a checkout screen labeled PAY IN FOUR, comic burst banner reads BNPL CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Devon and Cleo both love using buy-now-pay-later at online checkout.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man devon and woman cleo each tapping a phone labeled BUY NOW PAY LATER, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "These plans split a single purchase into four quick installments.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of one price broken into four boxes labeled INSTALLMENTS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Devon stacks five different plans across several competing shopping apps.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man devon surrounded by five phones each stamped PLAN, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He loses track quickly and misses two installment due dates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man devon tangled in calendars with two dates stamped MISSED, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cleo uses one small plan and schedules autopay for it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cleo setting a single phone toggle labeled AUTOPAY ON, exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Some lenders report missed installments straight to the credit bureaus.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a missed installment arrow pointing at CREDIT BUREAU, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Devon's overdue plans eventually get sent to a debt collector.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man devon receiving a letter stamped SENT TO COLLECTIONS in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The collection lands on his report and tanks his score.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge dropping into the red labeled COLLECTION, glum man devon beside it, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Cleo pays every installment on time and stays completely clean.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman cleo beside a green report stamped ALL PAID, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same checkout button, but only one turned it into damage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man devon with a red DAMAGED score and woman cleo with a green HEALTHY score, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Limit buy-now-pay-later plans and autopay every installment on time. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading LIMIT AND AUTOPAY BNPL, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

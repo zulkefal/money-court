@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-otis-vs-delphine-long-vs-short-capital-gains-001",
+  "character": "doctor_dollar",
+  "topic": "Holding investments for long-term capital gains rates vs selling short-term (Otis vs Delphine)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Selling a winning stock one month too early can double your tax. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a stock chart and a calendar, comic burst banner reads CAPITAL GAINS CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Otis and Delphine both buy shares of the same growing stock.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man otis and woman delphine each holding a rising stock chart labeled SAME STOCK, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Holding over one year unlocks lower long-term capital gains rates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a calendar arrow past ONE YEAR labeled LOWER RATE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Otis sells all his shares after just eleven impatient months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man otis pressing a SELL button, a calendar stamped ELEVEN MONTHS, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "That short-term gain gets taxed fully at his ordinary income rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man otis holding a profit slip stamped TAXED AS INCOME, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Delphine waits until she has held it past one year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, patient woman delphine beside a calendar stamped OVER ONE YEAR in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her profit now qualifies for the much lower long-term rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman delphine holding a profit slip stamped LONG-TERM RATE, doctor's office desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "The holding date was the only real difference between them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of two calendars with only the sell date differing, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Otis hands a big chunk of his profit straight to taxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man otis handing a large slice of coins to a jar labeled TAXES, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Delphine keeps far more after paying that lower long-term rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman delphine holding a big stack of coins labeled KEPT MORE in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same stock and gain, but very different final tax bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man otis with a big tax bill and woman delphine with a small tax bill, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "When possible, hold winning investments past one year for lower taxes. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading HOLD PAST ONE YEAR, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

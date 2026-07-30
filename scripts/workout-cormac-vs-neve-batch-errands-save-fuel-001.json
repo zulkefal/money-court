@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-cormac-vs-neve-batch-errands-save-fuel-001",
+  "character": "coach_vault",
+  "topic": "Batching errands into one trip vs daily driving to cut fuel costs (Cormac vs Neve)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Scattered daily errands can burn an extra fifty dollars of gas every month. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym pointing at a wall map of tangled car routes, comic burst banner reads FIFTY IN GAS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cormac and Neve both live twenty minutes from every store.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man cormac and woman neve in gym gear beside a map labeled TWENTY MINUTES AWAY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each one runs errands across town several times every week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cormac and neve studying a gym wall map dotted with errand pins labeled ACROSS TOWN, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Cormac drives out separately for milk, then later for stamps.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cormac in a car outside a gym, two separate route lines stamped MILK TRIP and STAMP TRIP, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He backtracks the same roads five or six times weekly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cormac frustrated at a gym gas pump, a tangled looping route map labeled BACKTRACKING, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Neve writes one list and maps a single efficient loop.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, neve on a gym mat sketching a neat loop route, a checklist labeled ONE TRIP LIST, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She hits bank, store, and pharmacy on one Saturday drive.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, neve in a car following a single loop past icons labeled BANK STORE PHARMACY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "One planned trip replaces five, slashing her weekly mileage hugely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, neve pointing at a gym wall chart with a plunging line labeled MILEAGE DOWN, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "One year later Cormac burned six hundred dollars in gas.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shocked cormac at a gym gas pump holding receipts stamped SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Neve spent barely half of that on the same errands.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, neve smiling with a small fuel receipt stamped THREE HUNDRED beside a gym bench, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She also saved hours she reinvested into a side gig.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, neve working a laptop in the gym, a clock icon labeled HOURS SAVED beside a chart labeled SIDE GIG, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Batch your errands into one weekly loop and save gas. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing a whistle in the gym holding a clipboard reading ONE WEEKLY LOOP, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

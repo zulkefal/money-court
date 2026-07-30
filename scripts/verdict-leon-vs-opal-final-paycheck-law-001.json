@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-leon-vs-opal-final-paycheck-law-001",
+  "character": "judge_vera",
+  "topic": "Waiting on a withheld final paycheck vs enforcing the deadline (Leon vs Opal)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "His boss sat on his last paycheck for two whole months. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant withheld paycheck locked in a cage, comic burst banner reads PAY WITHHELD, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Leon and Opal both quit jobs and await final paychecks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man leon and woman opal in the courtroom, each waiting empty-handed for a final paycheck, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "State law sets strict deadlines for paying a final paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing law book on the courtroom bench labeled FINAL PAYCHECK DEADLINE, a calendar beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Leon's boss stalls, vaguely promising to mail the check eventually.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a boss at a desk shrugging beside man leon, a comic banner reads WE WILL MAIL IT LATER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Leon waits quietly, believing he has no real legal options.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leon sitting quietly at home doing nothing, a sign beside him labeled NO OPTIONS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Opal looks up her state's final paycheck deadline right away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal at a laptop reading a page labeled STATE FINAL PAY DEADLINE, a calendar circled, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She sends a written demand citing the legal payment deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal mailing a letter stamped WRITTEN DEMAND, a deadline date highlighted, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Opal files a wage claim with the state labor department.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal submitting a form at a government office window labeled STATE LABOR DEPARTMENT WAGE CLAIM, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Months pass and Leon still hasn't seen his final wages.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leon with empty pockets, a calendar showing months passing, his final wages still missing, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His delay wrecks his rent, and the trail goes cold.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leon facing an overdue rent notice, a cold trail of paperwork fading away, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Opal gets her wages plus a waiting-time penalty on top.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman opal holding a check plus an extra bonus slip stamped WAITING TIME PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Know your final pay deadline and file a wage claim fast. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads KNOW THE DEADLINE FILE A CLAIM, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

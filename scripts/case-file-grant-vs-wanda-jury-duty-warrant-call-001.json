@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-grant-vs-wanda-jury-duty-warrant-call-001",
+  "character": "detective_cash",
+  "topic": "Fake jury duty missed-service warrant phone call demanding gift card payment (Grant vs Wanda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A phone call about missed jury duty cost Grant four thousand dollars in gift cards. Case file 0083. Time of incident, mid morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a fake JURY DUTY WARRANT call, comic burst banner reads CASE FILE 0083, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Grant and Wanda each answer a call from a stern official.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man grant and woman wanda each answering a phone from a stern uniformed official, crime board behind them, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller says they skipped jury duty and a warrant awaits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a menacing caller, a document stamped WARRANT FOR ARREST on the desk, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Pay a fine now by gift card, or police arrive today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fake court officer on the phone demanding money, a banner reads PAY FINE NOW OR ARREST, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Grant panics and drives to buy four thousand in gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant nervously buying a rack of gift cards at a store counter, receipt labeled FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He reads the card numbers aloud to the fake court officer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man grant reading gift card numbers into a phone, the fake officer smirking on screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Wanda knows real courts never demand payment over the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wanda calm at home, a thought note reads COURTS NEVER DEMAND PHONE PAYMENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She hangs up and calls the courthouse using its official number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wanda hanging up and dialing the real courthouse, a directory stamped OFFICIAL NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The clerk confirms there is no warrant and no missed duty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a friendly court clerk on the phone, a screen reads NO WARRANT NO MISSED DUTY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Grant's gift cards are drained instantly and cannot be refunded.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, empty drained gift cards on a table stamped FUNDS GONE, man grant holding his head, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Wanda reports the number and warns her neighbors about the scam.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wanda filing a report stamped REPORTED and warning neighbors over a fence, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Courts mail notices and never demand gift cards by phone. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads COURTS MAIL NOTICES, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-percy-vs-enid-long-term-care-insurance-001",
+  "character": "doctor_dollar",
+  "topic": "Buying long-term care insurance early vs skipping it and draining savings (Percy vs Enid)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One long nursing-home stay can drain an entire retirement nest egg. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a draining nest egg chart, comic burst banner reads LONG-TERM CARE CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Percy and Enid both plan for a long retirement ahead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man percy and woman enid each holding a chart labeled RETIREMENT PLAN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Regular Medicare barely covers extended long-term care costs at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a Medicare card with a big gap labeled NOT COVERED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Percy skips long-term care insurance just to save on premiums.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man percy waving away a policy stamped LONG-TERM CARE, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Years later he suddenly needs very costly daily assisted-living care.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man percy in an assisted-living room with a bill stamped COSTLY CARE, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Enid instead buys long-term care coverage back in her fifties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman enid signing a policy stamped LONG-TERM CARE, a calendar labeled AGE FIFTIES, exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her premiums were much lower because she bought in early.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman enid holding a small bill labeled LOW PREMIUM in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "When she finally needs care, the policy pays most bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older woman enid with a care bill stamped POLICY PAYS, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Percy pays out of pocket and burns through his savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum older man percy watching a nest egg jar labeled DRAINED empty out, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Enid keeps her nest egg because insurance covers the care.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling older woman enid holding a full nest egg labeled PROTECTED in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same care needs, but only one protected her retirement money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man percy with an empty jar and woman enid with a full jar labeled SAVINGS SAFE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Consider long-term care coverage in your fifties, while it stays affordable. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading INSURE CARE EARLY, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

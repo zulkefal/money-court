@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-marcus-vs-fern-unauthorized-overdraft-fees-001",
+  "character": "judge_vera",
+  "topic": "Paying overdraft fees vs disputing unauthorized ones and opting out (Marcus vs Fern)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The bank charged thirty-five dollars for a four dollar coffee overdraft. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant coffee cup and a huge thirty-five dollar fee stamp, comic burst banner reads OVERDRAFT TRAP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marcus and Fern each get hit with surprise overdraft fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man marcus and woman fern in the courtroom, each holding bank statements marked with red overdraft fees, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Banks need your opt-in to overdraft debit and ATM purchases.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing rule book on the courtroom bench labeled OVERDRAFT NEEDS OPT-IN, a debit card beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Marcus assumes the fees are unavoidable and quietly pays them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus sighing and paying a stack of fee slips stamped OVERDRAFT FEE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "More overdrafts stack up, draining his account every single week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus watching his account balance drain, red fee arrows piling up every week, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Fern checks and learns she never opted into overdraft coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern reading her bank settings, a screen labeled NEVER OPTED IN highlighted, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She disputes the charges as unauthorized under federal banking rules.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern filing a dispute form stamped UNAUTHORIZED FEES at a bank counter, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Fern also opts out, blocking any future overdraft fees entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern toggling a bank switch to OFF labeled OVERDRAFT OPTED OUT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Months later, Marcus has lost hundreds to needless overdraft fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marcus holding an empty wallet, a chart showing HUNDREDS LOST to fees behind him, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "His balance keeps sliding as new fees trigger more fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a domino chain of fee slips knocking into each other, comic banner reads FEES TRIGGER FEES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fern wins a full refund and pays no overdraft fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern smiling with a refund check stamped FULL REFUND in the courtroom, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Opt out of overdraft coverage and dispute any unauthorized fees. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads OPT OUT AND DISPUTE FEES, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

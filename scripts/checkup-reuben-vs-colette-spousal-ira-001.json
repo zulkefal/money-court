@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-reuben-vs-colette-spousal-ira-001",
+  "character": "doctor_dollar",
+  "topic": "Funding a spousal IRA for a non-working spouse vs saving nothing (Reuben vs Colette)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A non-working spouse can still fund a retirement account every single year. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a retirement chart, comic burst banner reads SPOUSAL IRA CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Reuben and Colette both stay home raising kids without paychecks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man reuben and woman colette each holding a sign labeled NO PAYCHECK, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A spousal IRA lets a working partner contribute for them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of two rings and an account labeled SPOUSAL IRA, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Reuben's family assumes no income means no retirement account allowed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reuben in an exam room shrugging beside an empty jar labeled NO ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "So they save nothing at all under Reuben's name for decades.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reuben beside a dusty empty piggy bank stamped ZERO SAVED, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Colette's spouse funds a spousal IRA for her each year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman colette receiving coins into a jar labeled SPOUSAL IRA in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "They file taxes jointly, which the spousal IRA rules require.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman colette holding a tax form stamped FILED JOINTLY on an exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her account compounds quietly in the background year after year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growing bar chart labeled COMPOUNDING beside woman colette in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Reuben retires with zero savings tied to his own name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, older man reuben holding an empty account statement stamped ZERO BALANCE, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Colette retires with a six-figure balance in her own IRA.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling older woman colette holding a statement labeled SIX FIGURES in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same one-income household, wildly different retirement security for each spouse.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man reuben with an empty jar and woman colette with a full jar labeled IRA, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "If one spouse earns, fund a spousal IRA for the other. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading FUND A SPOUSAL IRA, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

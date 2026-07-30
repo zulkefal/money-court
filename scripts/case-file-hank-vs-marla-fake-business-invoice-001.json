@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-hank-vs-marla-fake-business-invoice-001",
+  "character": "detective_cash",
+  "topic": "Fake invoice for supplies never ordered sent to a small business (Hank vs Marla)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake toner invoice nobody ordered nearly bled Hank's small shop dry. Case file 0091. Time of incident, busy Monday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a suspicious business invoice under a lamp, comic burst banner reads CASE FILE 0091, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hank and Marla each run a small shop with busy staff.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hank and woman marla running busy small shops with staff, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "An official looking invoice arrives for printer toner never ordered.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an official looking invoice on a desk labeled PRINTER TONER, never ordered, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "It threatens late fees unless paid within forty eight hours.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the invoice stamped PAY WITHIN 48 HOURS with a red late fee warning, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Hank assumes a coworker ordered it and quickly pays immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hank writing a check assuming a coworker ordered it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The scammer pockets the money for goods never actually shipped.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scammer pocketing cash, a box stamped NEVER SHIPPED beside him, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Marla matches every invoice against an approved purchase order first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marla matching an invoice to a PURCHASE ORDER on her desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "No order exists, so she flags the invoice as fraudulent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marla stamping the invoice FRAUDULENT, no matching order found, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "More fake invoices flood in once scammers know Hank pays.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hank's inbox flooded with more fake invoices piling up, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He installs an approval rule to verify every future invoice.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hank posting an APPROVAL RULE checklist on the office wall, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Marla's shop loses nothing thanks to her purchase order checks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marla's tidy shop safe, a folder reads ORDERS VERIFIED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Match every invoice to a real order before you ever pay. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads MATCH INVOICE TO ORDER, kids comic book illustration"
+    }
+  ]
+}

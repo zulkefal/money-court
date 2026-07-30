@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-colin-vs-greta-gym-contract-cancellation-001",
+  "character": "judge_vera",
+  "topic": "Just quitting a gym vs cancelling by the legal rules (Colin vs Greta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "He quit the gym months ago, yet collectors still chase him for dues. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a giant gym membership card and a collections notice, comic burst banner reads STILL BILLED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Colin and Greta both want out of their gym contracts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man colin and woman greta in the courtroom, each holding gym membership cards, comic banner reads WANT OUT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their state gives health club members strict written cancellation rules.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing health club contract on the courtroom bench, a highlighted section labeled CANCELLATION RULES, wooden gavel beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Colin just cancels his card and stops paying the dues.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man colin cutting up a bank card and turning his back on a gym, comic banner reads JUST STOPPED PAYING, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The gym keeps billing, then sends his account to collections.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gym invoice transforming into a collections envelope stamped SENT TO COLLECTIONS, man colin worried behind it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Greta reads her contract and finds a three day cooling-off window.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greta reading her contract with a magnifier, a highlighted clause labeled THREE DAY COOLING OFF, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She mails a signed cancellation letter by certified mail, keeping proof.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greta mailing a sealed envelope stamped CERTIFIED MAIL, a copy labeled CANCELLATION LETTER in her hand, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Greta cites her legal right to cancel after moving away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greta pointing at a law book open to a page labeled RIGHT TO CANCEL, a moving box beside her, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Months later, Colin's unpaid dues wreck his credit score badly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man colin staring at a plunging credit score meter, a report stamped UNPAID DUES in the courtroom, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "A collector demands the full contract balance plus late fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a collector at a desk holding a bill labeled FULL BALANCE PLUS LATE FEES, man colin shocked, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Greta's cancellation is honored, and her membership ends owing nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman greta smiling as a clerk stamps her file CANCELLED, a note beside her reads OWES NOTHING, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cancel gyms in writing by certified mail, using your legal rights. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads CANCEL IN WRITING CERTIFIED MAIL, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

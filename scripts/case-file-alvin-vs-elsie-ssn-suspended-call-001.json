@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-alvin-vs-elsie-ssn-suspended-call-001",
+  "character": "detective_cash",
+  "topic": "Fake Social Security number suspended robocall demanding verification and gift cards (Alvin vs Elsie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A robocall claiming his Social Security number was suspended cost Alvin thousands. Case file 0092. Time of incident, early morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a SSN SUSPENDED robocall, comic burst banner reads CASE FILE 0092, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Alvin and Elsie each get a call about a suspended number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man alvin and woman elsie answering an alarming phone call, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller claims their Social Security number is linked to crimes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a fake agent, a card labeled SSN LINKED TO CRIMES, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Verify your number now, or face immediate arrest, they warn.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a threatening caller, a banner reads VERIFY NOW OR ARREST, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Alvin confirms his number and buys gift cards to comply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alvin reading gift card numbers into the phone, cards fanned out, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The scammers now hold his identity and his gift card codes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scammer holding a stolen ID card and gift card codes, grinning, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Elsie knows Social Security numbers are never suspended by phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elsie calm, a thought note reads NUMBERS NEVER SUSPENDED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She hangs up and calls the agency's real published number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elsie hanging up and dialing the agency's OFFICIAL NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Thieves open new accounts using Alvin's stolen Social Security number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a thief opening new accounts with a stolen SSN, files stamped FRAUD, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He spends long months freezing credit and repairing the damage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alvin at a desk freezing credit, a calendar reads MONTHS LATER, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Elsie confirms nothing is wrong and reports the robocall promptly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elsie filing a report stamped REPORTED, unbothered and safe, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Your Social Security number can't be suspended, so just hang up. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads SSN NEVER SUSPENDED, kids comic book illustration"
+    }
+  ]
+}

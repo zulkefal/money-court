@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-dexter-vs-pearl-i-bonds-inflation-hedge-001",
+  "character": "doctor_dollar",
+  "topic": "Hedging cash with I bonds and TIPS vs idle savings during inflation (Dexter vs Pearl)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "High inflation can quietly erase the real value of your idle cash. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a shrinking dollar chart, comic burst banner reads INFLATION CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dexter and Pearl each hold ten thousand dollars in savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man dexter and woman pearl each holding a cash bundle stamped TEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Inflation rises fast and prices climb across the whole economy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a rising red line labeled INFLATION, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dexter leaves all his cash in a near-zero checking account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter dropping bills into a checking box labeled ZERO INTEREST, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Its buying power shrinks as inflation outruns his tiny interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter watching a dollar bill shrinking, a meter labeled BUYING POWER dropping, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Pearl buys Treasury I bonds whose rate adjusts with inflation.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl holding a certificate labeled I BONDS with an arrow tracking inflation, exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She also adds TIPS, whose principal rises with the CPI.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl holding a bond stamped TIPS with a principal bar rising, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her savings keep pace instead of quietly losing real ground.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman pearl beside a steady green line labeled KEEPS PACE in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Dexter's ten thousand buys noticeably less than it did before.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man dexter holding a smaller shopping bag stamped BUYS LESS, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Pearl's inflation-linked bonds protect her purchasing power the whole time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman pearl holding a full cart labeled PROTECTED VALUE, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same starting cash, but only one held its real worth.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man dexter with a shrunken dollar and woman pearl with a full-size dollar labeled REAL WORTH, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hedge some cash with I bonds or TIPS when inflation bites. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading HEDGE WITH I BONDS, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-dexter-vs-willa-lease-mileage-penalty-001",
+  "character": "judge_vera",
+  "topic": "Ignoring lease mileage and wear limits vs managing them (Dexter vs Willa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A returned lease came with a surprise bill bigger than a mortgage payment. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera in a courtroom beside a returned lease car with a giant invoice, comic burst banner reads SURPRISE BILL, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dexter and Willa each lease the same car for three years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dexter and woman willa in the courtroom, each holding keys to identical leased cars, comic banner reads THREE YEAR LEASE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their leases cap mileage at twelve thousand miles a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing lease contract on the courtroom bench, a highlighted line labeled TWELVE THOUSAND MILES PER YEAR, a wooden gavel beside it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dexter ignores the cap and drives far past his mileage limit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter driving happily past a giant odometer spinning way over the limit, comic banner reads OVER THE CAP, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He also skips repairs, letting dents and scratches pile up.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter shrugging beside his car covered in dents and scratches, a sticky note labeled SKIPPED REPAIRS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Willa tracks her mileage and buys extra miles upfront, cheaply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa checking a mileage tracker app and paying a small fee, comic banner reads EXTRA MILES BOUGHT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She books a pre-return inspection and fixes small wear herself.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa handing keys to an inspector with a clipboard stamped PRE-RETURN INSPECTION, small tools nearby, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Buying miles early costs far less than the end penalty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a balance scale weighing a tiny coin labeled MILES UPFRONT against a huge money bag labeled END PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "At turn-in, Dexter gets billed thousands for excess miles and damage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dexter at the courtroom bench receiving a huge invoice stamped EXCESS MILES AND DAMAGE, shocked face, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The dealer charges twenty-five cents for every extra mile driven.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a close up of a lease bill with a line reading TWENTY-FIVE CENTS PER MILE, a calculator piling up charges, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Willa returns her car clean, on budget, owing almost nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman willa smiling as she returns a clean car, a receipt stamped OWES NOTHING in her hand, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Track your lease miles, buy extra early, and pre-inspect before return. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel in the courtroom, a clipboard reads TRACK MILES BUY EARLY INSPECT, comic burst banner reads DISMISSED, kids comic book illustration"
+    }
+  ]
+}

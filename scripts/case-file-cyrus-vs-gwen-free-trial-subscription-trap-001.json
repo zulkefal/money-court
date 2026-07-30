@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-cyrus-vs-gwen-free-trial-subscription-trap-001",
+  "character": "detective_cash",
+  "topic": "Fake free trial hiding a recurring monthly subscription charge in the fine print (Cyrus vs Gwen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A free trial that only charged shipping quietly billed Cyrus monthly for months. Case file 0090. Time of incident, quiet Sunday. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone with a FREE TRIAL ad and a stack of bills, comic burst banner reads CASE FILE 0090, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cyrus and Gwen both see a free trial for glowing skincare.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man cyrus and woman gwen seeing a FREE TRIAL skincare ad, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Just pay tiny shipping now, the cheerful ad promises them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cheerful ad banner reads JUST PAY SHIPPING, a tiny price tag, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Buried terms enroll buyers in an eighty dollar monthly subscription.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, fine print magnified reading EIGHTY DOLLARS MONTHLY hidden at the bottom, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Cyrus enters his card details, skipping the fine print entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus entering card details, ignoring a fine print scroll, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Next month a surprise eighty dollar charge hits his account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus shocked at a phone alert stamped EIGHTY DOLLAR CHARGE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Gwen reads the terms and finds the hidden recurring charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen with a magnifier over the terms reading RECURRING CHARGE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She skips it, or uses a single use virtual card number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen using a VIRTUAL CARD number, a shield icon beside it, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Cancelling takes endless calls while charges keep stacking up monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus on hold forever, a calendar shows CHARGES STACKING monthly, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He disputes the charges and finally blocks the persistent merchant.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cyrus disputing charges, a stamp reads MERCHANT BLOCKED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gwen pays nothing extra because she read before she clicked.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman gwen relaxed with no extra fees, a note reads READ FIRST, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Free trials often hide recurring charges, so read the terms first. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads READ TERMS BEFORE TRIALS, kids comic book illustration"
+    }
+  ]
+}

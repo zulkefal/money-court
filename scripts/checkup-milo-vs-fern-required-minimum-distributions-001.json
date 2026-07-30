@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-milo-vs-fern-required-minimum-distributions-001",
+  "character": "doctor_dollar",
+  "topic": "Taking required minimum distributions on time vs skipping them (Milo vs Fern)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Forgetting one retirement withdrawal can trigger a tax penalty of twenty-five percent. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a retirement account gauge, comic burst banner reads RMD CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Milo and Fern both saved big in traditional retirement accounts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man milo and woman fern each holding a money bag labeled TRADITIONAL RETIREMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The IRS makes you withdraw a minimum amount around age seventy-three.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a calendar stamped AGE SEVENTY-THREE with a withdrawal arrow, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Milo assumes his savings can just sit there untouched forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man milo in an exam room lounging beside a money bag stamped UNTOUCHED, a wall clock ticking behind him, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He skips his required minimum distribution the first eligible year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man milo waving away a form labeled REQUIRED WITHDRAWAL, a due-date calendar on the exam room wall, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Fern marks her withdrawal deadline and takes the required amount.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern in a doctor's office circling a deadline on a calendar labeled WITHDRAW NOW, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She reinvests what she does not need in a taxable account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fern moving coins into a jar labeled TAXABLE ACCOUNT on an exam room desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Milo finally learns the IRS penalizes every missed withdrawal steeply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, worried man milo in an exam room reading a notice stamped IRS PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "He owes a twenty-five percent penalty on the skipped amount.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, glum man milo holding a bill stamped TWENTY-FIVE PERCENT PENALTY in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Fern owes nothing extra and keeps her retirement plan healthy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman fern beside a green healthy retirement chart labeled ON TIME in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One took the withdrawal on time; the other paid dearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man milo with a red DELAYED stamp and woman fern with a green ON TIME stamp, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Take required distributions on time once you reach the trigger age. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading TAKE RMDS ON TIME, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

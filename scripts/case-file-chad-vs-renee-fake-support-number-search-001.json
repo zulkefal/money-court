@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-chad-vs-renee-fake-support-number-search-001",
+  "character": "detective_cash",
+  "topic": "Fake customer support number from a search result leading to remote access theft (Chad vs Renee)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One fake support number in a search result drained Chad's savings account. Case file 0085. Time of incident, late morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a laptop showing a fake support hotline, comic burst banner reads CASE FILE 0085, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Chad and Renee both need help with a frozen streaming account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man chad and woman renee frustrated at a frozen streaming login screen, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "They search online for the company's customer support phone number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a search bar on a screen typing CUSTOMER SUPPORT NUMBER, results loading, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A sponsored result shows a slick page with a fake hotline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a top sponsored search result labeled AD showing a fake hotline stamped FAKE NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Chad calls it and the agent requests remote access software.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chad on the phone, agent on screen asking to INSTALL REMOTE ACCESS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He installs it, letting the scammer see his banking screen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chad's laptop with a scammer cursor over an open BANK screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Renee ignores the ads and opens the official company app instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renee ignoring search ads and tapping the OFFICIAL APP icon, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She finds real support inside the app, no phone number needed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renee chatting with real in app support, a badge reads VERIFIED SUPPORT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The scammer moves Chad's savings while he watches, helpless and confused.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scammer draining an account remotely, a screen reads SAVINGS TRANSFERRED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He disconnects too late; thousands are already gone from checking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chad yanking out the cable too late, balance stamped FUNDS GONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Renee resolves her issue safely and never shared any details.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renee smiling, her account fixed, a note reads NO DETAILS SHARED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Get support numbers only from official apps or sites, never search ads. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads USE OFFICIAL APPS ONLY, kids comic book illustration"
+    }
+  ]
+}

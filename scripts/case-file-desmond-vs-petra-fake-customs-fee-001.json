@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-desmond-vs-petra-fake-customs-fee-001",
+  "character": "detective_cash",
+  "topic": "Fake customs import fee text for a held package harvesting card details (Desmond vs Petra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A one dollar customs fee text quietly stole Desmond's full card details. Case file 0093. Time of incident, rainy morning. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a phone showing a CUSTOMS FEE text, comic burst banner reads CASE FILE 0093, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Desmond and Petra both await a package shipped from overseas.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man desmond and woman petra awaiting an overseas package, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A text says customs holds it pending a small import fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone text reads CUSTOMS FEE DUE with a suspicious link, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The link leads to a page demanding full card details.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fake payment page demanding FULL CARD DETAILS, warning triangle, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Desmond pays the tiny fee and enters his card number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man desmond entering his card number to pay a tiny customs fee, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The page harvests his card for large fraudulent purchases later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the page harvesting his card, a screen reads CARD DATA STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Petra knows carriers rarely text random links about surprise fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra wary at her phone, a note reads CARRIERS DONT TEXT LINKS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She checks the tracking number on the carrier's official website.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra checking a tracking number on the OFFICIAL CARRIER SITE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Days later, several big charges appear on Desmond's stolen card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man desmond shocked at big fraudulent charges on a statement, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He cancels the card and reports the phishing text immediately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man desmond cancelling a card and reporting a text stamped PHISHING, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Petra sees no real fee and deletes the fake message.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman petra deleting the fake message, no fee owed, calm, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never pay delivery fees by text; verify on the carrier's site. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VERIFY ON CARRIER SITE, kids comic book illustration"
+    }
+  ]
+}

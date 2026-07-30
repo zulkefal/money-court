@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-casper-vs-renata-income-driven-repayment-001",
+  "character": "doctor_dollar",
+  "topic": "Using income-driven student loan repayment vs defaulting on federal loans (Casper vs Renata)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Defaulting on a federal student loan can crush your credit for years. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a student loan chart, comic burst banner reads STUDENT LOAN CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Casper and Renata both owe large federal student loan balances.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man casper and woman renata each holding a heavy book stamped STUDENT LOAN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their standard monthly payments feel impossible on small entry-level salaries.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a tiny paycheck beside a huge bill labeled STANDARD PAYMENT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Casper simply stops paying and keeps ignoring the loan servicer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man casper turning away from a pile of envelopes stamped OVERDUE, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His federal loans slide into default and his wages get garnished.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man casper holding a paycheck stamped WAGES GARNISHED, a loan file labeled DEFAULT, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Renata instead enrolls in an income-driven federal repayment plan quickly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renata signing a form stamped INCOME-DRIVEN PLAN in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her payment drops to a small percentage of discretionary income.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renata holding a smaller bill labeled LOWER PAYMENT beside a paycheck, doctor's office desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She stays current and avoids default the entire repayment time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman renata beside a green status bar labeled CURRENT in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Casper's default slashes his credit score and follows him everywhere.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score gauge dropping into the red stamped DEFAULT, glum man casper beside it, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Renata protects her credit and may even see eventual loan forgiveness.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman renata holding a paper stamped FORGIVENESS AHEAD in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same debt load, but only one avoided a credit disaster.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man casper with a red DEFAULT stamp and woman renata with a green CURRENT stamp, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cannot afford federal payments? Ask about income-driven repayment before defaulting. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading TRY INCOME-DRIVEN REPAYMENT, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

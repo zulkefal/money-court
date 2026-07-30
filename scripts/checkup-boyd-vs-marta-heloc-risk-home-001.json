@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-boyd-vs-marta-heloc-risk-home-001",
+  "character": "doctor_dollar",
+  "topic": "Borrowing a HELOC for lifestyle spending vs value-adding needs (Boyd vs Marta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Borrowing against your house for a vacation can put it in foreclosure. I am Doctor Dollar. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room pointing at a house with a loan tag, comic burst banner reads HELOC CHECKUP, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Boyd and Marta both open a home equity line of credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel in a doctor's office of man boyd and woman marta each holding a card stamped HELOC, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A HELOC uses your actual house itself as the collateral.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar in an exam room holding a chart of a house tied to a loan labeled COLLATERAL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Boyd spends his whole line on vacations and shiny gadgets.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man boyd surrounded by suitcases and gadgets stamped SPENT ON FUN, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Then the variable rate rises and his payment jumps sharply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man boyd staring at a rising rate arrow and a bill stamped PAYMENT JUMPED, doctor's office background, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marta instead borrows only for a value-adding home kitchen renovation.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marta beside a renovated kitchen labeled ADDS VALUE in an exam room, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She keeps a clear payoff plan and repays it quickly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marta holding a checklist stamped PAYOFF PLAN, doctor's office desk, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Boyd soon falls behind as the rising payments overwhelm him.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man boyd buried under bills stamped BEHIND in a doctor's office, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The bank threatens foreclosure because his home secured the debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house with a notice stamped FORECLOSURE, worried man boyd beside it, exam room background, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Marta pays hers off and even boosts her home's value.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, smiling woman marta beside a house with a rising value arrow labeled PAID OFF, exam room setting, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same borrowing tool, but only one gambled the family home.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man boyd with a house stamped AT RISK and woman marta with a house stamped SAFE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use a HELOC only for value or emergencies, never for lifestyle. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in an exam room holding a clipboard reading HELOC FOR VALUE ONLY, comic burst banner reads STAY HEALTHY, kids comic book illustration"
+    }
+  ]
+}

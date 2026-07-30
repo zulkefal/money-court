@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-wade-vs-nora-formjacking-checkout-001",
+  "character": "detective_cash",
+  "topic": "Formjacking skimmer on a fake discount checkout page cloning card details (Wade vs Nora)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A skimmed checkout page on a discount site cloned Wade's credit card. Case file 0089. Time of incident, weekend afternoon. Let me open the evidence.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a laptop checkout page leaking card numbers, comic burst banner reads CASE FILE 0089, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Wade and Nora both find a huge sale on a flashy site.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man wade and woman nora spotting a huge SALE on a flashy shopping site, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Its checkout page looks normal but hides card stealing code.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a normal looking checkout form with sneaky hidden code stamped SKIMMER underneath, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The web address is slightly misspelled, a subtle warning sign.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a browser address bar with a misspelled URL circled in red, warning triangle, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Wade types his card number directly into the checkout form.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wade typing a credit card number into a checkout form, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Hidden code copies each digit as he types it in.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hidden code copying each digit, a screen reads CARD DATA STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Nora notices the odd URL and the missing padlock icon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nora frowning at the odd URL and a crossed out padlock icon, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She pays through PayPal instead, never exposing her card number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nora paying via a PAYPAL button, her card icon kept hidden, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Days later Wade's card racks up strange purchases from overseas.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wade shocked at a statement of strange OVERSEAS PURCHASES, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "He cancels the card and disputes every single fraudulent charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wade on the phone cancelling a card stamped DISPUTED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Nora's card stays safe because PayPal shielded her real number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman nora relaxed, a shield over her card reads NUMBER PROTECTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "On unknown sites, check the URL and pay with protected methods. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CHECK URL PAY PROTECTED, kids comic book illustration"
+    }
+  ]
+}
