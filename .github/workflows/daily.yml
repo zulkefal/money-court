@@ -1,7 +1,7 @@
 name: Daily Money Court video
 
 on:
-  # 3 uploads/day via daily_pipeline.py --slots 3 (one mascot rotates out each day).
+  # 2 uploads/day via daily_pipeline.py --slots 2 (publish slots at 5pm + 9pm ET).
   # Cron at 20:00 UTC = 4pm EDT / 3pm EST = ~1 AM PKT.
   # First scheduled slot is 5pm ET, giving 1-2h buffer for render + upload.
   schedule:
@@ -33,7 +33,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Render + IG/FB/YT upload for 3 slots completes in ~40 min total —
+    # Render + IG/FB/YT upload for 2 slots completes in ~30 min total —
     # IG publishes immediately per render, FB+YT use platform-side scheduling.
     # No more workflow sleeping (that pattern blew CI minutes on day-rollovers).
     timeout-minutes: 60
@@ -86,7 +86,7 @@ jobs:
           OUTPUT_DIR: ./outputs
           LOG_LEVEL: INFO
         run: |
-          ARGS="--slots 3"
+          ARGS="--slots 2"
           if [ -n "${{ inputs.topic }}" ];           then ARGS="$ARGS --topic \"${{ inputs.topic }}\""; fi
           if [ "${{ inputs.no_upload }}" = "true" ]; then ARGS="$ARGS --no-upload"; fi
           if [ "${{ inputs.dry_run }}" = "true" ];   then ARGS="$ARGS --dry-run"; fi
