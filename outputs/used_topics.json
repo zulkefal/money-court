@@ -958,5 +958,15 @@
     "date": "2026-08-01",
     "character": "doctor_dollar",
     "topic": "Using income-driven student loan repayment vs defaulting on federal loans (Casper vs Renata)"
+  },
+  {
+    "date": "2026-08-02",
+    "character": "judge_vera",
+    "topic": "Just quitting a gym vs cancelling by the legal rules (Colin vs Greta)"
+  },
+  {
+    "date": "2026-08-02",
+    "character": "detective_cash",
+    "topic": "Evil twin public wifi hotspot at an airport capturing bank login credentials (Blake vs Farah)"
   }
 ]
