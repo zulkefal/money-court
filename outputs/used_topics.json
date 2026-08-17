@@ -1098,5 +1098,15 @@
     "date": "2026-08-16",
     "character": "doctor_dollar",
     "topic": "Buying long-term care insurance early vs skipping it and draining savings (Percy vs Enid)"
+  },
+  {
+    "date": "2026-08-17",
+    "character": "judge_vera",
+    "topic": "Signing a full personal guarantee vs negotiating a capped one (Todd vs Petra)"
+  },
+  {
+    "date": "2026-08-17",
+    "character": "detective_cash",
+    "topic": "Malicious browser extension with broad permissions stealing logins and session cookies (Owen vs Bianca)"
   }
 ]
