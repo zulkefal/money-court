@@ -1148,5 +1148,15 @@
     "date": "2026-08-21",
     "character": "detective_cash",
     "topic": "Formjacking skimmer on a fake discount checkout page cloning card details (Wade vs Nora)"
+  },
+  {
+    "date": "2026-08-23",
+    "character": "coach_vault",
+    "topic": "Skipping oil changes to save money vs following the maintenance schedule (Buck vs Antonia)"
+  },
+  {
+    "date": "2026-08-23",
+    "character": "doctor_dollar",
+    "topic": "Parking long term money in checking vs investing it against inflation (Alonzo vs Marisela)"
   }
 ]
