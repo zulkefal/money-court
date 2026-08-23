@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-ignatius-vs-roberta-refund-anticipation-loan-001",
+  "character": "judge_vera",
+  "topic": "Buying a tax refund advance vs filing free and waiting for direct deposit (Ignatius vs Roberta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Getting your own refund two weeks early can cost hundreds. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a refund check with a large slice cut away, banner reads PAYING FOR YOUR OWN MONEY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ignatius and Roberta both expect three thousand dollar refunds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ignatius and woman roberta holding tax forms with refunds reading THREE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their preparer offers the refund today for a small fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a storefront preparer offering an envelope labeled REFUND TODAY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ignatius accepts the advance, and the fees come out first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ignatius signing an advance form as fees are peeled off the top of his refund, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Preparation, filing, and advance fees total four hundred twenty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an itemized receipt reading PREP FILING ADVANCE TOTAL FOUR TWENTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That fee bought him his money just fourteen days early.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with fourteen days circled beside a price tag reading FOUR TWENTY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The same refund arrives free by direct deposit anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank app notification reading REFUND DEPOSITED, no fees attached, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Roberta files free through the official program online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman roberta at a laptop with an official free filing seal on screen, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays nothing and chooses direct deposit to her bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a form field showing a routing number and a stamp reading NO FEES, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her full three thousand lands in under three weeks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman roberta smiling at a bank screen reading THREE THOUSAND DEPOSITED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fourteen days of patience was worth four hundred twenty dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a balance scale weighing a calendar against a stack of cash, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never buy your own refund. File free, use direct deposit. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading FILE FREE DEPOSIT DIRECT, kids comic book illustration"
+    }
+  ]
+}

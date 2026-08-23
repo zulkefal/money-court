@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-tobias-vs-rosalie-401k-cash-out-penalty-001",
+  "character": "doctor_dollar",
+  "topic": "Cashing out a 401k when changing jobs vs a direct rollover (Tobias vs Rosalie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Cashing out thirty thousand at thirty quietly costs a fortune. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a shrinking retirement chart, comic burst banner reads CASHED OUT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Tobias and Rosalie both leave their jobs at age thirty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man tobias and woman rosalie carrying boxes out of identical offices, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each has thirty thousand sitting in an old employer plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two account statements reading THIRTY THOUSAND OLD RETIREMENT PLAN, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A letter offers to mail them a check right now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an opened letter reading CASH OUT NOW with a tempting check attached, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Tobias takes the cash for a vacation and new furniture.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man tobias in a beach chair surrounded by new furniture and a pile of receipts, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Twenty percent is withheld, plus a ten percent penalty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a check being sliced by scissors labeled TWENTY PERCENT TAX and TEN PERCENT PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "State tax lands too, leaving barely eighteen thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shrunken money stack stamped EIGHTEEN THOUSAND LEFT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Rosalie rolls hers into an individual retirement account instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosalie signing a direct rollover form, an arrow moving money into an IRA jar, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "A direct rollover triggers zero taxes and zero penalties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a paper stamped ZERO TAX ZERO PENALTY beside a healthy heartbeat line, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Untouched, that thirty thousand compounds for thirty five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar pointing at a chart climbing steadily across thirty five years, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "At retirement hers is worth over three hundred thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a retirement chart peaking at THREE HUNDRED THOUSAND beside smiling woman rosalie, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never cash out, ask for a direct rollover. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard reading DIRECT ROLLOVER ONLY, a healthy retirement chart behind her, kids comic book illustration"
+    }
+  ]
+}

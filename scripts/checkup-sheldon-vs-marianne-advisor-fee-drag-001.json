@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-sheldon-vs-marianne-advisor-fee-drag-001",
+  "character": "doctor_dollar",
+  "topic": "Paying a one percent assets under management fee vs hiring a flat fee planner (Sheldon vs Marianne)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A one percent advisor fee can quietly cost you a house. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a growth chart with a slice removed, comic burst banner reads ONE PERCENT FOREVER, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Sheldon and Marianne each invest five hundred every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man sheldon and woman marianne setting up identical monthly transfers, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both portfolios earn seven percent before any fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical growth charts labeled SEVEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sheldon pays an advisor one percent of assets yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fee slice being cut from a growing portfolio pie every year, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "That fee grows as his portfolio grows, forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fee slice getting visibly bigger as the portfolio bar rises, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Over thirty years it consumes one hundred forty thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man sheldon beside a chart with a shaded area labeled ONE FORTY THOUSAND IN FEES, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Marianne hires a flat fee planner for one thousand yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marianne at a planner's desk with an invoice reading ONE THOUSAND FLAT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She gets a written plan, then buys low cost funds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a binder stamped WRITTEN PLAN beside low cost fund tickets, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her total fee drag stays near one tenth of one percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a nearly invisible fee slice on a full portfolio pie, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Advice at a flat price does not scale with assets.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a flat price tag staying constant while a portfolio bar rises, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Thirty years later she has one hundred thirty thousand more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marianne beside a taller chart with a gap labeled ONE THIRTY THOUSAND MORE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pay for advice by the hour, not by percentage. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading FLAT FEE ADVICE, a healthy growth chart behind her, kids comic book illustration"
+    }
+  ]
+}

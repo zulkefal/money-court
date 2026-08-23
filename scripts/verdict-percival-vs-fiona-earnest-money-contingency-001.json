@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-percival-vs-fiona-earnest-money-contingency-001",
+  "character": "judge_vera",
+  "topic": "Missing the inspection contingency deadline vs cancelling in time (Percival vs Fiona)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Missing one contract deadline can vaporize a twenty thousand dollar deposit. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a deposit envelope reading TWENTY THOUSAND evaporating into smoke, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Percival and Fiona each put twenty thousand down on a home.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man percival and woman fiona handing over deposit checks at identical homes, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their contracts allow ten days to inspect and cancel.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a contract page with a highlighted clause reading TEN DAY INSPECTION PERIOD, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Percival schedules his inspection late and misses the deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man percival on the phone with an inspector while a calendar page flips past day ten, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The report finds a cracked foundation on day thirteen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an inspection report showing a cracked foundation, dated DAY THIRTEEN, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He walks away, but his contingency already expired.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man percival walking from a house as a contract stamp reads CONTINGENCY EXPIRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The seller legally keeps his twenty thousand dollar deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a seller pocketing an envelope stamped DEPOSIT FORFEITED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Fiona books the inspection the morning after signing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fiona calling an inspector at sunrise, contract fresh on the table, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The same crack appears in her report on day four.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an inspection report showing the same cracked foundation, dated DAY FOUR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She cancels in writing inside the contingency window.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fiona sending a written cancellation stamped WITHIN THE WINDOW, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her full deposit is returned within one week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fiona holding a returned check stamped DEPOSIT REFUNDED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Calendar every contract deadline and cancel in writing, early. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a giant calendar with deadlines circled in red, kids comic book illustration"
+    }
+  ]
+}

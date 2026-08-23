@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-barnaby-vs-coral-unpaid-ticket-suspension-001",
+  "character": "judge_vera",
+  "topic": "Ignoring a parking ticket into a license suspension vs asking the court for a plan (Barnaby vs Coral)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A ninety dollar ticket can end up costing you a job. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a small ticket that casts a giant shadow shaped like a suspended license, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Barnaby and Coral each get a ninety dollar parking ticket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man barnaby and woman coral pulling identical tickets off windshields, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both toss the envelope into a kitchen drawer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two hands dropping ticket envelopes into cluttered kitchen drawers, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Late fees double it, and then double it again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bill growing in three stages, ninety, then one eighty, then three sixty, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Barnaby ignores every notice until his license is suspended.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man barnaby staring at a letter stamped LICENSE SUSPENDED, unopened mail piled around, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He drives anyway and is cited for suspended driving.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man barnaby pulled over by an officer writing a much larger citation, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Now he owes twelve hundred plus court and reinstatement fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courthouse invoice reading TWELVE HUNDRED PLUS FEES, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "His insurance jumps and his delivery job disappears.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an insurance bill spiking beside a delivery job badge stamped TERMINATED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Coral calls the court and asks about a payment plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman coral on the phone with a courthouse clerk, calendar open, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She requests a hardship reduction and pays fifty five dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a court receipt stamped REDUCED FIFTY FIVE PAID, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One ticket, two futures, eleven hundred dollars apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two paths on the courtroom floor leading to a suspended license and a clean license, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never ignore a fine. Courts grant plans and reductions. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading CALL THE COURT FIRST, kids comic book illustration"
+    }
+  ]
+}

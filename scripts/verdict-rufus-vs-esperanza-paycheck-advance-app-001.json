@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-rufus-vs-esperanza-paycheck-advance-app-001",
+  "character": "judge_vera",
+  "topic": "Living on paycheck advance app fees and tips vs building a small buffer (Rufus vs Esperanza)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A tip on a paycheck advance is interest wearing a friendly mask. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a phone showing an advance app, comic burst banner reads TIPS ARE INTEREST, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Rufus and Esperanza both come up short before payday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man rufus and woman esperanza staring at low balance phone screens, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "An app offers instant cash with no interest, only tips.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone app screen reading NO INTEREST JUST TIP with a glowing instant button, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Rufus takes a hundred dollars with an express fee and tip.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rufus tapping INSTANT TRANSFER, small charges listed as EXPRESS FEE and TIP, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "That costs nine dollars for eight days of borrowing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar showing eight days beside a receipt reading NINE DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Annualized, that is over four hundred percent interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courtroom chart converting the small fee into a bar reading FOUR HUNDRED PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He borrows every pay period and never catches up.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rufus on a hamster wheel of paychecks and advance screens, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "One year later fees and tips total two hundred thirty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tally board reading TWO HUNDRED THIRTY IN FEES, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Esperanza asks her employer to change her pay schedule instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman esperanza speaking with a payroll clerk beside a calendar being adjusted, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She builds a two hundred dollar buffer over three months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman esperanza filling a jar labeled BUFFER TWO HUNDRED over three calendar pages, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Now she borrows nothing and keeps every dollar earned.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman esperanza deleting the advance app from her phone, smiling, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Tips and express fees are interest in disguise. Build a buffer. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading BUILD A BUFFER NOT A HABIT, kids comic book illustration"
+    }
+  ]
+}

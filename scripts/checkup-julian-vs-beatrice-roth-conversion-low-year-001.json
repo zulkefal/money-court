@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-julian-vs-beatrice-roth-conversion-low-year-001",
+  "character": "doctor_dollar",
+  "topic": "Skipping a Roth conversion in a low income year vs converting on purpose (Julian vs Beatrice)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A low income year is a rare window to move money cheaply. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a tax bracket chart with one low year highlighted, comic burst banner reads THE WINDOW, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Julian and Beatrice each take a year off to study.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man julian and woman beatrice with textbooks and empty pay stubs, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both hold two hundred thousand in pretax retirement accounts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two account statements reading TWO HUNDRED THOUSAND PRETAX, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Their taxable income this year is unusually low.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bar chart showing income dropping into the lowest bracket, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Julian waits, planning to convert sometime later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man julian shrugging at a calendar, thought bubble reading MAYBE LATER, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "In retirement his withdrawals land in a higher bracket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a retirement withdrawal arrow pointing into a high tax bracket band, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Beatrice converts thirty thousand into a Roth now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beatrice signing a conversion form moving THIRTY THOUSAND into a Roth jar, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She pays tax now at a very low rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a small tax bill stamped LOW BRACKET beside the converted money, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "That money grows tax free and is never taxed again.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a Roth jar growing with a stamp reading NEVER TAXED AGAIN, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her required distributions also shrink later in life.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smaller required withdrawal chart labeled REDUCED LATER, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same money, and she simply keeps far more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two retirement piles side by side, hers noticeably larger, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Convert during low income years, on purpose. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading CONVERT IN LOW YEARS, a healthy Roth chart behind her, kids comic book illustration"
+    }
+  ]
+}

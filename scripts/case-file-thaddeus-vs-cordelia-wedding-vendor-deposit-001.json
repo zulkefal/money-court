@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-thaddeus-vs-cordelia-wedding-vendor-deposit-001",
+  "character": "detective_cash",
+  "topic": "Wiring a wedding vendor deposit to a fake photographer vs vetting first (Thaddeus vs Cordelia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A dream photographer took the deposit and vanished before the wedding. Case file 0099. Time of incident, spring.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a wedding photo portfolio and an empty camera bag, comic burst banner reads CASE FILE 0099, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Thaddeus and Cordelia each book a photographer found online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man thaddeus and woman cordelia browsing wedding photographer profiles, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both portfolios look stunning and the prices seem low.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glowing portfolio page with a price tag reading SUSPICIOUSLY LOW, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The photographer wants full payment by app, today only.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone payment request reading PAY TODAY TO HOLD THE DATE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Thaddeus sends two thousand instantly to lock the date.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man thaddeus tapping SEND on a two thousand dollar payment, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Those portfolio photos were stolen from real artists.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash matching portfolio images to other photographers' work, stamped STOLEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "On the wedding day nobody arrives and the number is dead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty photographer spot at a wedding, a phone reading NUMBER DISCONNECTED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Cordelia asks for a contract, a license, and references.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cordelia holding a checklist reading CONTRACT LICENSE REFERENCES, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays the deposit by credit card for dispute rights.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cordelia paying by credit card, a shield icon reading DISPUTE PROTECTION, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She also meets the photographer in person before booking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cordelia shaking hands with a photographer at a real studio, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One wedding has no photos. One has a signed contract.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, an empty photo album, and a full wedding album beside a signed contract, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Contract, license, references, and pay by card, always. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads CONTRACT LICENSE REFERENCES CARD, kids comic book illustration"
+    }
+  ]
+}

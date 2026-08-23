@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-bennett-vs-priscilla-deductible-versus-premium-001",
+  "character": "doctor_dollar",
+  "topic": "Choosing a health plan by premium alone vs comparing deductible and out of pocket maximum (Bennett vs Priscilla)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The cheapest premium is very often not the cheapest year. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard comparing two health plans, comic burst banner reads CHEAPEST IS NOT CHEAPEST, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bennett and Priscilla choose plans during open enrollment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man bennett and woman priscilla at laptops during open enrollment, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "One plan has low premiums, one has low deductibles.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two plan cards labeled LOW PREMIUM and LOW DEDUCTIBLE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Bennett picks the lowest premium without reading further.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bennett clicking the cheapest plan instantly, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His deductible is seven thousand before coverage begins.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a plan detail page reading DEDUCTIBLE SEVEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Surgery arrives and he pays that full deductible.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bennett in a hospital gown holding a bill reading SEVEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Premiums plus deductible cost him nine thousand this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a total tally reading NINE THOUSAND FOR THE YEAR, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Priscilla adds her premium to likely medical costs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman priscilla adding premium and expected costs on a notepad, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She compares each plan's out of pocket maximum too.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two plan sheets with OUT OF POCKET MAXIMUM circled on both, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her plan costs more monthly but caps her risk lower.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart showing a higher premium bar and a much lower maximum bar, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her worst possible year totals fifty six hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman priscilla beside a capped meter reading FIFTY SIX HUNDRED MAXIMUM, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Compare premium plus deductible plus maximum, every year. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading PREMIUM PLUS DEDUCTIBLE PLUS MAXIMUM, a healthy coverage chart behind her, kids comic book illustration"
+    }
+  ]
+}

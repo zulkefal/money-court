@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-dallas-vs-peony-rent-out-what-you-own-001",
+  "character": "coach_vault",
+  "topic": "Taking extra shifts for income vs renting out idle things you already own (Dallas vs Peony)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "You already own equipment that could pay your utility bill. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym pointing at a truck, a pressure washer, and a parking sign labeled IDLE ASSETS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dallas and Peony own trucks, tools, and spare parking spots.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dallas and woman peony beside pickup trucks, tool shelves, and parking spaces, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "All of it sits unused six days every week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a dusty truck and tools under a calendar with six days crossed out, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dallas takes an extra weekend shift for extra income.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dallas in a work uniform clocking in on a Saturday, tired, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He earns money but loses every free Saturday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dallas slumped as a calendar shows every Saturday filled with work, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Peony lists her downtown parking spot for monthly rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman peony posting a parking spot listing on her phone, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "A commuter pays her one hundred fifty every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a car parked in her spot beside a payment tag reading ONE FIFTY A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She rents her pressure washer through a neighborhood group.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman peony handing a pressure washer to a neighbor with a rental note, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "That adds forty dollars most weekends, with no labor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a small cash stack tagged FORTY A WEEKEND beside a relaxed lawn chair, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her truck helps two moves monthly for fuel plus fifty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman peony's truck helping a move, a note reading FUEL PLUS FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She earns twenty six hundred yearly without a second job.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman peony flexing beside a gym scoreboard reading TWENTY SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Rent your idle stuff before renting your weekends. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading RENT WHAT YOU ALREADY OWN, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

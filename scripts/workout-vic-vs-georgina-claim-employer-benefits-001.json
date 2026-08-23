@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-vic-vs-georgina-claim-employer-benefits-001",
+  "character": "coach_vault",
+  "topic": "Ignoring the benefits portal vs claiming every employer perk (Vic vs Georgina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Most workers leave free employer money sitting on the table. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym pointing at a locker stuffed with unclaimed envelopes labeled BENEFITS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Vic and Georgina work the same job at the same company.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man vic and woman georgina at matching desks with identical badges, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Benefits include tuition help, a gym stipend, and vision credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a benefits poster listing TUITION HELP GYM STIPEND VISION CREDIT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Vic never opens the benefits portal after his first week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vic closing a benefits webpage on his first day and never returning, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays for classes, a gym, and glasses himself.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vic paying three separate bills for a class, a gym, and glasses, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That is twenty eight hundred dollars he could have claimed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man vic straining under a barbell stamped TWENTY EIGHT HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Georgina blocks one hour to read every benefit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman georgina with a highlighted benefits booklet and a one hour timer, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She claims tuition reimbursement for a certification course.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman georgina submitting a tuition reimbursement form beside a certificate, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The gym stipend and vision credit cover her spending.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gym pass and new glasses stamped COVERED BY BENEFITS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She also finds free financial coaching included.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman georgina in a free coaching session, a sign reads INCLUDED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same paycheck, twenty eight hundred dollars apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical paychecks with a gym scoreboard reading TWENTY EIGHT HUNDRED APART, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read your benefits page this week. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading CLAIM YOUR BENEFITS, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

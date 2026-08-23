@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-archibald-vs-perpetua-mail-check-washing-001",
+  "character": "detective_cash",
+  "topic": "Mailing a check from a curbside box vs paying online with gel ink backup (Archibald vs Perpetua)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A check dropped in a curbside box came back rewritten for nine thousand. Case file 0109. Time of incident, after dark.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a washed check under a lamp, comic burst banner reads CASE FILE 0109, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Archibald and Perpetua both mail rent checks the same night.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man archibald and woman perpetua holding rent envelopes at night, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Thieves fish envelopes out of outdoor collection boxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure fishing envelopes from a curbside mailbox with a sticky line, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Chemicals erase the ink but leave the signature intact.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a check soaking in a tray, the written amount fading, signature untouched, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Archibald used blue ballpoint and a curbside mailbox.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man archibald dropping a ballpoint written check into a curbside box, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His forty dollar check is rewritten for nine thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rewritten check reading NINE THOUSAND in a stranger's handwriting, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He notices only when the account is already overdrawn.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man archibald staring at a bank app reading OVERDRAWN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Perpetua pays her rent online and mails nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman perpetua tapping PAY RENT on a bank app, no envelope in sight, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "When a check is required, she uses gel ink.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gel ink pen writing a check, a note reading GEL INK RESISTS WASHING, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She drops it inside the post office before pickup.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman perpetua handing an envelope to a clerk inside a post office, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One replaced an entire account. One paid rent normally.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, a closed account letter and a receipt stamped RENT PAID, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pay online, use gel ink, mail inside the post office. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads ONLINE GEL INK INSIDE, kids comic book illustration"
+    }
+  ]
+}

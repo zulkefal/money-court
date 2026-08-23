@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-alistair-vs-genevieve-credit-repair-upfront-fee-001",
+  "character": "detective_cash",
+  "topic": "Paying a credit repair company upfront vs disputing errors yourself for free (Alistair vs Genevieve)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A company promised to erase bad credit for six hundred upfront. Case file 0105. Time of incident, evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a credit repair flyer promising ERASE ALL NEGATIVES, comic burst banner reads CASE FILE 0105, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Alistair and Genevieve both have late payments hurting their scores.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man alistair and woman genevieve holding credit reports with late marks, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "An advertisement promises to delete negative items, guaranteed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bright advertisement reading DELETE ALL NEGATIVE ITEMS GUARANTEED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "They ask six hundred dollars before doing any work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hand holding an invoice reading SIX HUNDRED DUE TODAY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Charging before delivering credit repair is illegal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a law book page reading NO ADVANCE FEES ALLOWED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Alistair pays and receives generic dispute letters.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alistair opening an envelope of copy paste dispute letters, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Accurate late payments cannot legally be erased by anyone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit report with true late marks stamped ACCURATE STAYS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "His score is unchanged and the company stops answering.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a flat score chart beside a disconnected phone, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Genevieve disputes her real errors herself, for free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman genevieve filing free online disputes for two wrong entries, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She adds autopay and lowers her card balances.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone showing AUTOPAY ON and balances dropping, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her score climbs sixty points in seven months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit chart climbing sixty points across seven months, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody erases accurate items. Dispute real errors yourself, free. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads DISPUTE IT YOURSELF FREE, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-wendell-vs-constance-property-tax-appeal-001",
+  "character": "coach_vault",
+  "topic": "Accepting a property tax assessment vs appealing an inflated one (Wendell vs Constance)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Your home may be taxed on a value it never had. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a property tax bill and a magnifying glass, comic burst banner reads TAXED ON AIR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Wendell and Constance own similar homes on the same street.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man wendell and woman constance in front of similar houses on one street, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both assessments jump forty thousand dollars this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two assessment notices with values jumping, arrows reading PLUS FORTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Wendell assumes the county number cannot be challenged.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wendell shrugging at a notice, thought bubble reading NOTHING I CAN DO, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His tax bill rises six hundred forty dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man wendell straining under a barbell stamped SIX HUNDRED FORTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Constance requests her property card from the assessor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman constance at an assessor counter receiving a property record card, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "It lists a finished basement her home does not have.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a property card with a highlighted line reading FINISHED BASEMENT beside an empty basement, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She gathers three comparable sales from her block.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman constance holding three comparable sale sheets from nearby homes, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The appeal hearing takes twenty minutes and costs nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman constance at a small hearing table, a clock showing twenty minutes, a tag reading NO FEE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her assessed value drops thirty six thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a corrected assessment notice with the value reduced, stamped ADJUSTED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She saves five hundred eighty dollars every year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman constance flexing beside a gym scoreboard reading FIVE EIGHTY EVERY YEAR, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Check your property card and appeal the errors. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading CHECK THE PROPERTY CARD, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

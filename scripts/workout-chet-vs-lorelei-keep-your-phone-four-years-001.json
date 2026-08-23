@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-chet-vs-lorelei-keep-your-phone-four-years-001",
+  "character": "coach_vault",
+  "topic": "Upgrading a phone every two years vs replacing the battery and keeping it (Chet vs Lorelei)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Upgrading every two years means buying the same phone twice. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two identical phones on a barbell, comic burst banner reads BOUGHT IT TWICE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Chet and Lorelei both own the same three year old phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man chet and woman lorelei holding identical worn phones, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both batteries fade and both screens look scratched.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two phones showing low battery icons and scratched screens, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Chet upgrades to a new twelve hundred dollar model.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chet at a phone counter with a shiny new phone tagged TWELVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The payment plan adds thirty three dollars every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a monthly bill line reading DEVICE PAYMENT THIRTY THREE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He upgrades again two years later, restarting the plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chet on a treadmill of repeating upgrade cycles, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Lorelei replaces the battery for eighty nine dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lorelei at a repair counter holding a receipt reading EIGHTY NINE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "A case and screen protector cost her thirty more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone case and screen protector tagged THIRTY DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her phone runs fine for two more full years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lorelei using a healthy phone beside a calendar showing two years, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She banks the payment she never had to make.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lorelei dropping monthly bills into a gym locker stamped SAVED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Over four years she keeps eighteen hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lorelei flexing beside a gym scoreboard reading EIGHTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Battery first, upgrade later. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading BATTERY FIRST, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

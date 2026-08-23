@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-benedict-vs-rosamund-scholarship-fee-scam-001",
+  "character": "detective_cash",
+  "topic": "Paying an advance fee for a guaranteed scholarship vs applying free (Benedict vs Rosamund)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A guaranteed scholarship asked for a small processing fee first. Case file 0100. Time of incident, late night.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a glossy scholarship letter stamped PROCESSING FEE, comic burst banner reads CASE FILE 0100, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Benedict and Rosamund both search for college money online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man benedict and woman rosamund at laptops searching for scholarships, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A slick site promises guaranteed awards for a small fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a flashy website banner reading GUARANTEED AWARD SMALL FEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "It requests a fee, a bank account, and a social number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a form asking for FEE BANK ACCOUNT SOCIAL SECURITY NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Benedict pays ninety nine dollars for guaranteed processing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man benedict entering card details for a NINETY NINE DOLLAR fee, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Real scholarships never charge you to apply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board reading REAL SCHOLARSHIPS ARE FREE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His bank details then feed repeating monthly charges.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank statement with repeating identical charges circled in red, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Rosamund searches the organization and finds complaints everywhere.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosamund reading a screen full of complaint reports and warnings, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She applies free through her school's financial aid office.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosamund at a campus financial aid counter filling free applications, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Free databases and local groups award her four thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosamund holding award letters totaling FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One paid to be scammed. One was paid to study.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, an empty wallet and a stack of award letters, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "If a scholarship charges you, it is not a scholarship. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads NEVER PAY TO APPLY, kids comic book illustration"
+    }
+  ]
+}

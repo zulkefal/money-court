@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-herschel-vs-doris-medicare-enrollment-window-001",
+  "character": "doctor_dollar",
+  "topic": "Missing the Medicare enrollment window vs signing up on time (Herschel vs Doris)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Missing one enrollment window adds a penalty for the rest of your life. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a calendar window highlighted, comic burst banner reads LIFETIME PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Herschel and Doris both turn sixty five this spring.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man herschel and woman doris beside birthday cakes reading SIXTY FIVE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each has a seven month window around that birthday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar band of seven months highlighted around a birthday, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Herschel feels healthy and skips signing up entirely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man herschel jogging past an enrollment office, waving it off, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He has no employer coverage to delay enrollment safely.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty employer coverage card stamped NONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Two years later he enrolls and owes a permanent penalty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man herschel at an enrollment desk receiving a notice stamped PERMANENT PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His monthly premium costs twenty percent more, forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a premium bill with an added slice labeled PLUS TWENTY PERCENT FOR LIFE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Doris marks her window three months before her birthday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman doris circling a date on a calendar three months early, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She compares coverage choices and enrolls on time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman doris comparing plan sheets at a clinic desk, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "No penalty, no coverage gap, no surprise bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clean enrollment confirmation stamped ON TIME NO PENALTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same age, same health, one paying extra for life.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two premium bills side by side, one clearly larger, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Mark your enrollment window at sixty four. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading MARK THE WINDOW AT SIXTY FOUR, a healthy coverage chart behind her, kids comic book illustration"
+    }
+  ]
+}

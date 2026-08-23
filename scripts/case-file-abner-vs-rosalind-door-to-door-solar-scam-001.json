@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-abner-vs-rosalind-door-to-door-solar-scam-001",
+  "character": "detective_cash",
+  "topic": "Door to door solar financing scam with a hidden home lien vs getting written quotes (Abner vs Rosalind)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A friendly door knock put a fifty thousand dollar lien on a house. Case file 0096. Time of incident, early evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a solar contract and a house deed stamped LIEN, comic burst banner reads CASE FILE 0096, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Abner and Rosalind both answer a salesman promising free solar panels.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man abner and woman rosalind at their front doors facing a salesman holding a brochure reading FREE SOLAR, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "He claims a government program covers everything and bills disappear.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a salesman gesturing at a poster reading GOVERNMENT PROGRAM COVERS IT ALL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He hands over a tablet and rushes them to sign tonight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tablet with a signature line held out, a ticking stopwatch beside it, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Abner signs without reading the twenty five year financing agreement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man abner signing quickly while tiny print below reads TWENTY FIVE YEAR AGREEMENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The contract quietly records a lien against his home title.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house deed stamped LIEN RECORDED with the shadow of a solar panel across it, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His payment is one hundred ninety monthly, forever, not free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man abner holding a bill reading ONE NINETY A MONTH beside a cracked FREE sign, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Selling the house now requires paying the whole balance first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a FOR SALE sign with a red sticker reading PAY OFF FIRST FIFTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Rosalind refuses to sign anything at her own front door.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosalind politely closing her door holding a note reading NEVER SIGN AT THE DOOR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She gathers three written quotes and reads every financing page.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosalind at a kitchen table comparing three written quotes with a highlighter, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her panels cost fourteen thousand less with no lien attached.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosalind on her roof beside solar panels holding a paper stamped NO LIEN, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nothing free needs a signature tonight. Get quotes, check for liens. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED, a board reads NOTHING FREE NEEDS A SIGNATURE, kids comic book illustration"
+    }
+  ]
+}

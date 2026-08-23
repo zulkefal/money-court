@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-bartholomew-vs-evangeline-deepfake-trading-app-001",
+  "character": "detective_cash",
+  "topic": "Depositing into a deepfake celebrity trading app vs checking the license register (Bartholomew vs Evangeline)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A famous face promised daily profits, and the video was fake. Case file 0108. Time of incident, late night.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a video frame of a celebrity with a stamp reading GENERATED, comic burst banner reads CASE FILE 0108, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bartholomew and Evangeline both see the same video advertisement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man bartholomew and woman evangeline watching the same phone advertisement, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A famous billionaire endorses an artificial intelligence trading app.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a video advertisement of a celebrity figure endorsing a glowing trading app, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The lips and the voice are generated, not real.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a video frame split showing real footage and a manipulated version, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Bartholomew deposits two hundred fifty to try it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bartholomew entering a small deposit of TWO HUNDRED FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A friendly account manager calls, urging a larger deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smooth account manager on a call urging a bigger transfer, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He sends nine thousand more and withdrawals never process.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a withdrawal screen spinning forever beside a total reading NINE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Evangeline reverse searches the video and finds the original.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman evangeline running a reverse image search showing the original unrelated clip, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She checks the platform against the regulator's license list.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman evangeline searching an official regulator register on a laptop, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "It appears instead on a public warning list.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a regulator page showing the platform under a heading reading WARNING LIST, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One funded a scam studio. One kept nine thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, an empty wallet and an intact savings account, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Celebrity endorsements are cheap to fake. Check the license register. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads CHECK THE REGISTER, kids comic book illustration"
+    }
+  ]
+}

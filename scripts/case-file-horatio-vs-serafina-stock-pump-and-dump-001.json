@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-horatio-vs-serafina-stock-pump-and-dump-001",
+  "character": "detective_cash",
+  "topic": "Buying a hyped stock from a signals group chat vs checking the filings (Horatio vs Serafina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A free stock group promised a sure thing, then dumped it. Case file 0102. Time of incident, market open.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a stock chart spiking then collapsing, comic burst banner reads CASE FILE 0102, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Horatio and Serafina both join a free stock signals group.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man horatio and woman serafina joining a busy chat group on phones, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Members post screenshots of enormous gains every single day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat feed stuffed with profit screenshots and celebration emojis, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Organizers announce one tiny company as tomorrow's rocket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat announcement reading TOMORROW AT THE OPEN with a rocket drawing, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Horatio buys six thousand dollars at the opening bell.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man horatio tapping BUY at market open, an order ticket reading SIX THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Insiders bought earlier and sell into the buying frenzy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, shadowy insiders selling shares while a crowd rushes in to buy, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The price collapses eighty percent before lunch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart falling off a cliff, a tag reading DOWN EIGHTY PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Serafina checks the company filings and sees no revenue.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman serafina reading a filing page stamped NO REVENUE NO PRODUCT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Coordinated hype on a tiny stock is a known scheme.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board reading PUMP AND DUMP PATTERN, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She keeps her money in a broad index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman serafina beside a steady climbing index fund chart, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Horatio lost forty eight hundred before lunchtime.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man horatio staring at a red account balance reading MINUS FORTY EIGHT HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hyped tickers in group chats are exits, not entries. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads HYPE IS SOMEONE ELSE EXIT, kids comic book illustration"
+    }
+  ]
+}

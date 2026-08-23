@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-trevor-vs-amelia-refinancing-federal-loans-001",
+  "character": "doctor_dollar",
+  "topic": "Refinancing federal student loans to private vs keeping federal protections (Trevor vs Amelia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Refinancing federal student loans deletes protections you can never buy back. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard comparing FEDERAL PROTECTIONS and PRIVATE LOAN, comic burst banner reads NO RETURNS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Trevor and Amelia each owe forty thousand in federal loans.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man trevor and woman amelia holding statements reading FORTY THOUSAND FEDERAL, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A private lender offers a lower interest rate today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a glossy offer reading LOWER RATE REFINANCE NOW, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Trevor refinances to save fifty dollars monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man trevor signing a refinance form beside a small savings tag reading FIFTY A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He gives up income driven repayment and forgiveness options.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a list of protections being crossed out, reading INCOME DRIVEN FORGIVENESS DEFERMENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A layoff arrives, and private lenders offer no relief.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man trevor holding a layoff notice while a lender window reads NO OPTIONS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Missed payments wreck his credit within four months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit score chart falling steeply across four months, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Amelia keeps her federal loans and lowers payments instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman amelia filing an income driven repayment application, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Income driven repayment adjusts when her income falls.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payment bar shrinking automatically as an income bar falls, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Deferment and forbearance protect her during unemployment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shield labeled DEFERMENT AND FORBEARANCE over a paused loan, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She paid slightly more interest and kept the safety net.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a small extra interest tag beside a large safety net catching her, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never trade federal protections for a small rate cut. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading KEEP THE SAFETY NET, a healthy repayment chart behind her, kids comic book illustration"
+    }
+  ]
+}

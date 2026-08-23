@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-nathaniel-vs-ottilie-erroneous-refund-scam-001",
+  "character": "detective_cash",
+  "topic": "Erroneous tax refund deposit scam vs verifying with the agency directly (Nathaniel vs Ottilie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A surprise tax refund landed in his account, and it was bait. Case file 0097. Time of incident, morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a bank statement showing a suspicious refund deposit, comic burst banner reads CASE FILE 0097, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Nathaniel and Ottilie both see an unexpected refund deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man nathaniel and woman ottilie staring at phones showing an unexpected deposit, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Minutes later a caller says the refund was sent mistakenly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone call bubble reading SENT BY MISTAKE RETURN IT NOW beside a fake agency seal, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He demands the money back immediately in store gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a caller demanding gift cards, a rack of store cards glowing on a counter, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Nathaniel panics and buys eighteen hundred in gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man nathaniel at a checkout buying a fan of gift cards worth EIGHTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That deposit came from a stolen return filed in his name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a forged tax return stamped FILED IN HIS NAME by a shadowy figure, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The bank reverses the deposit, so he loses it twice.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank screen reading DEPOSIT REVERSED beside an empty gift card pile, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Ottilie ignores the caller and phones the agency herself.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ottilie hanging up and dialing a number from an official government website, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Agencies never demand repayment in cards or crypto.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board reading NEVER GIFT CARDS NEVER CRYPTO, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She files an identity theft affidavit and returns funds properly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ottilie mailing a form stamped IDENTITY THEFT AFFIDAVIT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Nathaniel lost eighteen hundred. Ottilie lost one afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man nathaniel with empty pockets, woman ottilie checking a clock calmly, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Unexpected money plus an urgent caller equals a trap. Verify officially. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads VERIFY BEFORE YOU RETURN, kids comic book illustration"
+    }
+  ]
+}

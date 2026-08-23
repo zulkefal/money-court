@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-garrick-vs-annika-401k-vesting-cliff-001",
+  "character": "doctor_dollar",
+  "topic": "Quitting one month before the 401k match vests vs waiting it out (Garrick vs Annika)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Quitting one month early can erase eleven thousand in free money. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard showing a calendar with a red cliff labeled VESTING, comic burst banner reads ELEVEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Garrick and Annika both started jobs on the same day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man garrick and woman annika signing offer letters dated the same day, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Their employer matches five percent with a three year cliff.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a benefits page reading FIVE PERCENT MATCH THREE YEAR CLIFF, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A cliff means you own nothing until year three ends.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cartoon cliff edge with a money bag labeled MATCH sitting on the far side, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Both are offered better jobs at month thirty four.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two shiny offer letters stamped MONTH THIRTY FOUR, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Garrick resigns immediately, excited about a slightly higher salary.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man garrick handing in a resignation letter beside a small raise tag reading PLUS TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He forfeits eleven thousand of employer match, permanently.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a money bag stamped ELEVEN THOUSAND FORFEITED tumbling off a cliff, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Annika checks her vesting date before answering anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman annika reading a benefits statement with a highlighted VESTING DATE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She negotiates a start date two months further out.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman annika at a desk moving a calendar start date forward two months, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her match vests fully, then she rolls it over.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a paper stamped ONE HUNDRED PERCENT VESTED beside a rollover arrow into a new account, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Two months of patience kept eleven thousand compounding for decades.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growth chart climbing from ELEVEN THOUSAND to a much taller retirement balance, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Check your vesting date before you resign. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard reading CHECK YOUR VESTING DATE, a healthy retirement chart behind her, kids comic book illustration"
+    }
+  ]
+}

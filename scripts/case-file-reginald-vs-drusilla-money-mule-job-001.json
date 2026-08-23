@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-reginald-vs-drusilla-money-mule-job-001",
+  "character": "detective_cash",
+  "topic": "Forwarding payments as a fake payment processor vs refusing to move money (Reginald vs Drusilla)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "An easy work from home job quietly made him a criminal courier. Case file 0107. Time of incident, midday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a job listing beside a frozen bank notice, comic burst banner reads CASE FILE 0107, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Reginald and Drusilla both accept payment assistant roles.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man reginald and woman drusilla reading identical remote job offers, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The task is simple, receive transfers and forward them onward.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a diagram of money arriving in a personal account and being forwarded out, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The pay is ten percent of everything they move.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pay tag reading TEN PERCENT OF EVERY TRANSFER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Reginald forwards nineteen thousand through his personal account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man reginald sending transfers, a running total reading NINETEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "That money was stolen from fraud victims elsewhere.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, victims' emptied accounts feeding into the same transfer chain, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His accounts freeze and investigators open a laundering file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank screen reading ACCOUNT FROZEN beside an investigator's folder, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Drusilla asks why a company needs her personal account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman drusilla typing WHY MY OWN BANK ACCOUNT in a chat, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Real employers never route customer money through your bank.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board reading EMPLOYERS USE THEIR OWN ACCOUNTS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She reports the listing and walks away untouched.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman drusilla reporting a job listing, stamped REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One has a closed bank and a legal file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, a closed bank account letter and a clean bank card, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never move money for an employer through your account. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads YOUR ACCOUNT IS NOT A PIPELINE, kids comic book illustration"
+    }
+  ]
+}

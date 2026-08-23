@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-harold-vs-rosemary-sequence-of-returns-001",
+  "character": "doctor_dollar",
+  "topic": "Retiring into a crash with no cash buffer vs holding two years of spending (Harold vs Rosemary)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Retiring right before a crash can drain your savings decades early. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a retirement chart dropping sharply, comic burst banner reads BAD TIMING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Harold and Rosemary both retire with eight hundred thousand saved.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man harold and woman rosemary holding statements reading EIGHT HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both withdraw forty thousand every year to live.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two withdrawal slips reading FORTY THOUSAND A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The market falls thirty percent in their first year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a market chart dropping thirty percent with storm clouds above, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Harold sells investments at the bottom to pay bills.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man harold selling shares at the lowest point of a chart, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Selling low locks in losses he can never recover.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart recovering while his shares sit sold, stamped LOCKED IN LOSS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His savings run dry after nineteen years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty retirement jar beside a calendar reading YEAR NINETEEN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Rosemary keeps two years of spending in cash first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosemary with a labeled cash bucket reading TWO YEARS OF SPENDING, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She spends from cash while the market recovers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosemary paying bills from a cash bucket while investments stay untouched, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her investments rebound untouched over two years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart recovering fully with her shares still intact, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her portfolio still supports her after thirty years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman rosemary at year thirty beside a healthy balance chart, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hold two years of cash before you retire. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading TWO YEARS OF CASH, a steady retirement chart behind her, kids comic book illustration"
+    }
+  ]
+}

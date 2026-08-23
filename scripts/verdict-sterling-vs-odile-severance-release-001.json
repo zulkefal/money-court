@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-sterling-vs-odile-severance-release-001",
+  "character": "judge_vera",
+  "topic": "Signing a severance release on the spot vs using the review period (Sterling vs Odile)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "That severance check quietly buys away your right to sue. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a severance check and a paper stamped RELEASE OF ALL CLAIMS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Sterling and Odile are laid off the same Friday morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man sterling and woman odile holding layoff letters in an office lobby, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each is handed a severance offer and a pen.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a manager sliding a severance packet and pen across a desk, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Sign today, they are told, or the offer disappears.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a comic speech banner reading SIGN TODAY OR IT IS GONE, a ticking clock, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Sterling signs immediately, relieved to see four weeks of pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man sterling signing quickly, a check tag reading FOUR WEEKS PAY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He waived unpaid commissions worth nine thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a crossed out ledger line reading COMMISSIONS NINE THOUSAND WAIVED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His own offer letter allowed seven days to review it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a highlighted line on the offer letter reading SEVEN DAYS TO REVIEW, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Odile takes the full week and has it reviewed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odile at a desk with a calendar showing seven days and a reviewer reading the packet, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She spots the clause erasing her unpaid commissions.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman odile circling a clause reading ALL CLAIMS INCLUDING COMMISSIONS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She negotiates those commissions back plus two extra weeks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a revised severance page stamped COMMISSIONS PAID PLUS TWO WEEKS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same layoff, same company, thirteen thousand dollars apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two severance checks side by side on the bench, one small and one large, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never sign a release the same day. Use the review period. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading TAKE THE REVIEW PERIOD, kids comic book illustration"
+    }
+  ]
+}

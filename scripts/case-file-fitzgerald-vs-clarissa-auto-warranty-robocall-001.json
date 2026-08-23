@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-fitzgerald-vs-clarissa-auto-warranty-robocall-001",
+  "character": "detective_cash",
+  "topic": "Buying a robocall auto warranty vs checking factory coverage with the dealer (Fitzgerald vs Clarissa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A robocall sold him bumper to bumper coverage that covers almost nothing. Case file 0104. Time of incident, afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a thick warranty contract with red exclusions, comic burst banner reads CASE FILE 0104, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Fitzgerald and Clarissa each get the same warranty robocall.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man fitzgerald and woman clarissa answering identical robocalls, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller knows their exact make, model, and year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a caller screen listing a car make model and year beside a leaked data folder, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "That information is bought from leaked and public records.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy data broker selling folders labeled VEHICLE RECORDS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Fitzgerald pays twenty four hundred for a full coverage plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man fitzgerald signing a plan stamped TWENTY FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The contract excludes nearly every part that actually fails.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a contract page with a long exclusions list highlighted in red, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His transmission claim is denied for missing maintenance records.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a denial letter stamped CLAIM DENIED beside an open transmission, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Clarissa hangs up and calls her dealer to check coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman clarissa on the phone with a dealership service desk, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her factory warranty still has fourteen months remaining.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a coverage chart showing FOURTEEN MONTHS REMAINING, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She learns these callers are resellers, never the manufacturer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board reading RESELLERS NOT MANUFACTURERS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One bought worthless paper. One already had coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, a shredded contract and a valid factory warranty card, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hang up, call your dealer, and read every exclusion. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads CALL THE DEALER READ EXCLUSIONS, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-buck-vs-antonia-preventive-car-maintenance-001",
+  "character": "coach_vault",
+  "topic": "Skipping oil changes to save money vs following the maintenance schedule (Buck vs Antonia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A forty dollar oil change protects a four thousand dollar engine. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding an oil bottle in one hand and a broken engine part in the other, comic burst banner reads FORTY VERSUS FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Buck and Antonia drive identical sedans with ninety thousand miles.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man buck and woman antonia beside identical sedans, odometers reading NINETY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both dashboards show the same maintenance reminder light.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two dashboards glowing with the same maintenance warning light, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Buck skips oil changes to save money this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man buck driving past a quick lube shop, waving it off, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He also ignores tire rotation and low coolant.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, worn uneven tires and a low coolant tank marked with warning arrows, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "At one hundred four thousand miles his engine seizes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man buck stranded with smoke rising from the hood, odometer reading ONE OH FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "A replacement engine costs him forty two hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a repair invoice reading FORTY TWO HUNDRED beside an engine hoist, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Antonia follows the owner's manual schedule exactly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman antonia checking a maintenance schedule page with dates circled, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Oil, filters, and rotations cost her three hundred yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman antonia beside a small tally reading THREE HUNDRED A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her tires last twice as long on rotation.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, four evenly worn tires with rotation arrows around them, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her sedan passes two hundred thousand miles, still running.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman antonia flexing beside an odometer reading TWO HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Follow the manual, not your mood. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading FOLLOW THE MANUAL, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

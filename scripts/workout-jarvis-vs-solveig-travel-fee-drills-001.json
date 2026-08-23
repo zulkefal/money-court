@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-jarvis-vs-solveig-travel-fee-drills-001",
+  "character": "coach_vault",
+  "topic": "Paying every travel add on fee vs packing and booking around them (Jarvis vs Solveig)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Airlines earn billions on fees most travelers never question. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a suitcase covered in fee stickers, comic burst banner reads FEE STACK, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jarvis and Solveig book the same flight for one weekend.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man jarvis and woman solveig booking the same flight on phones, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The base fare is one hundred forty nine dollars each.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical boarding passes tagged ONE FORTY NINE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jarvis adds seat selection, priority, and two checked bags.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a checkout screen stacking SEAT PRIORITY BAG BAG like barbell plates, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "At the hotel a daily resort fee appears too.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hotel folio with a line reading DAILY RESORT FEE circled in red, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His extra fees total two hundred sixteen dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jarvis straining under a barbell stamped TWO HUNDRED SIXTEEN, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Solveig packs one carry on that meets the size rule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman solveig fitting a carry on into an airline sizer perfectly, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She skips seat selection and takes the free assignment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman solveig at a gate screen showing a free assigned seat, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She books a hotel that lists no resort fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman solveig comparing hotel listings, one stamped NO RESORT FEE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Transit to the airport replaces the parking garage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman solveig riding an airport train past a parking garage price sign, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same trip, same weekend, two hundred sixteen dollars apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two travelers side by side with a scoreboard reading TWO SIXTEEN APART, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Carry on, skip the extras, read the resort fees. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading PACK LIGHT READ THE FEES, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

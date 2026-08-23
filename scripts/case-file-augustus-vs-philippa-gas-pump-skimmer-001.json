@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-augustus-vs-philippa-gas-pump-skimmer-001",
+  "character": "detective_cash",
+  "topic": "Swiping debit at a skimmed gas pump vs paying credit inside (Augustus vs Philippa)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A stolen card number often starts at the pump you use weekly. Case file 0098. Time of incident, dawn.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a gas pump card reader with a magnifying glass, comic burst banner reads CASE FILE 0098, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Augustus and Philippa fill up at the same corner station.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man augustus and woman philippa at neighboring gas pumps at sunrise, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A thief has planted a skimmer inside one pump.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure sliding a skimmer device behind a pump panel, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "It copies the card stripe and films the keypad.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hidden device reading a card stripe while a tiny camera watches a keypad, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Augustus swipes his debit card and types his pin.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man augustus swiping a debit card and entering a pin at the pump, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "By night, cloned cards drain nine hundred from checking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cloned cards fanned out beside a bank app reading BALANCE NINE HUNDRED LOWER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Debit fraud takes real cash while disputes take weeks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty checking account jar beside a calendar marked WEEKS TO DISPUTE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Philippa checks the panel seal and tugs the reader first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman philippa tugging a pump card reader and pointing at a broken security seal, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays inside with a credit card instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman philippa handing a credit card to a cashier inside the station, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Credit fraud risks the bank's money, never her rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shield labeled CREDIT CARD PROTECTION standing between a thief and a rent envelope, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Augustus waited eleven days for his rent money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man augustus staring at a calendar with eleven days crossed out and an unpaid rent notice, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Tug the reader, pay inside, use credit not debit. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads TUG IT PAY INSIDE USE CREDIT, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-ellis-vs-wilhelmina-joint-several-lease-001",
+  "character": "judge_vera",
+  "topic": "Signing a joint and several roommate lease vs asking for separate leases (Ellis vs Wilhelmina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One roommate vanishes, and you can owe the entire rent. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a lease stamped JOINTLY AND SEVERALLY LIABLE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ellis and Wilhelmina each sign leases with two roommates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ellis and woman wilhelmina signing leases beside two roommates each, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both leases say tenants are jointly and severally liable.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a lease clause under a magnifying glass reading JOINTLY AND SEVERALLY LIABLE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "That means each tenant owes one hundred percent of rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, three tenants each carrying the same full rent bag labeled ONE HUNDRED PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ellis never reads the clause and splits everything casually.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ellis and roommates splitting rent with a casual handshake, the lease unread on a shelf, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A roommate vanishes owing four months of his share.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty bedroom with a note reading GONE and a rent tally of four months, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The landlord sues Ellis alone for the entire balance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ellis holding a lawsuit naming only him, the landlord pointing, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "He pays fifty two hundred and chases his friend forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ellis handing over a check reading FIFTY TWO HUNDRED while texting a missing roommate, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Wilhelmina asks for separate leases by bedroom instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wilhelmina at a leasing office pointing to three separate lease documents, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The landlord agrees, so her liability ends at her room.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a floor plan with only one bedroom outlined and stamped MY LEASE ONLY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her roommate leaves too, and she owes nothing extra.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman wilhelmina calmly waving at an empty room, her own rent receipt stamped PAID, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Joint and several means all of it. Ask for separate leases. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading ASK FOR A SEPARATE LEASE, kids comic book illustration"
+    }
+  ]
+}

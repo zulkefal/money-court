@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-rafferty-vs-imogen-delivery-app-fees-001",
+  "character": "coach_vault",
+  "topic": "Ordering food delivery four times a week vs picking it up yourself (Rafferty vs Imogen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A twelve dollar burrito quietly becomes twenty six dollars. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two clipboards labeled DELIVERED and PICKED UP, comic burst banner reads TWELVE BECOMES TWENTY SIX, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Rafferty and Imogen both order lunch four times every week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man rafferty and woman imogen holding phones with a food delivery app, a calendar reading FOUR TIMES A WEEK, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Same restaurant, same burrito, same twelve dollar menu price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical burritos on a gym scale with price tags reading TWELVE DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Rafferty taps delivery, stacking service fee, delivery fee, and tip.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone checkout screen stacking SERVICE FEE DELIVERY FEE TIP like heavy barbell plates, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "App menu prices are also marked up about fifteen percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a delivery app menu with a big red arrow reading MARKED UP FIFTEEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His real total is twenty six dollars every single time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rafferty straining under a barbell stamped TWENTY SIX DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "That is fifty six extra dollars weekly, delivered to his door.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gym scoreboard reading FIFTY SIX EXTRA EVERY WEEK beside a delivery bag, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Imogen orders pickup and walks ten minutes to grab it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imogen walking to a restaurant counter for a pickup bag, a glowing step counter on her wrist, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays twelve, skips the fees, and banks the difference.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imogen dropping the saved bills into a gym locker stamped SAVED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "One year later Rafferty spent fifty four hundred on lunch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man rafferty slumped beside a gym scoreboard reading FIFTY FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Imogen spent twenty five hundred, saving twenty nine hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imogen flexing beside a gym scoreboard reading TWENTY NINE HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Order pickup and skip the fee stack. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym holding a clipboard reading PICK IT UP YOURSELF, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

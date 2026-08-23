@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lawrence-vs-ottoline-umbrella-liability-001",
+  "character": "doctor_dollar",
+  "topic": "Carrying only basic liability limits vs adding an umbrella policy (Lawrence vs Ottoline)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One bad accident can cost more than everything you own. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a liability chart, a small umbrella beside a huge storm cloud, comic burst banner reads ABOVE YOUR LIMITS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lawrence and Ottoline both own homes and drive daily.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man lawrence and woman ottoline beside identical houses and cars, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each carries three hundred thousand in liability coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two insurance cards reading LIABILITY THREE HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A serious accident brings a nine hundred thousand dollar judgment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courtroom judgment paper reading NINE HUNDRED THOUSAND beside a wrecked car, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Lawrence has no umbrella policy above his auto limits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lawrence standing in heavy rain with no umbrella, a coverage line far below the storm, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He owes six hundred thousand beyond his coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bar chart showing coverage ending far below a debt bar reading SIX HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Wages can be garnished for years to satisfy it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a paycheck with a large slice removed, stamped GARNISHED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Ottoline added a one million dollar umbrella policy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ottoline holding a policy stamped ONE MILLION UMBRELLA, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "It costs her about twenty dollars per month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a small price tag reading TWENTY A MONTH beside a large umbrella, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her umbrella covers everything above the auto limit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a wide umbrella shielding a house, a car, and a paycheck from a storm, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Twenty dollars monthly protected her house and paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ottoline calm under an umbrella while a storm passes over, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Add an umbrella policy once you own assets. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading ADD AN UMBRELLA, a healthy protection chart behind her, kids comic book illustration"
+    }
+  ]
+}

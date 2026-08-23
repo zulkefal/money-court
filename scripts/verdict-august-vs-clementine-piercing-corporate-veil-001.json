@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-august-vs-clementine-piercing-corporate-veil-001",
+  "character": "judge_vera",
+  "topic": "Mixing personal and business money vs keeping a real corporate shield (August vs Clementine)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Your company shield disappears the moment you mix the money. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a cracked shield labeled LIMITED LIABILITY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "August and Clementine each open small limited liability companies.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man august and woman clementine hanging identical small business signs, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both hire crews and sign contracts under the business name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two contracts signed with company stamps beside small work crews, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "August pays rent and groceries from the business account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man august swiping a business card at a grocery store and an apartment office, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He keeps no minutes, no records, and no separate books.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty filing cabinet labeled RECORDS with dust and cobwebs, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A client sues, and the judge pierces his corporate veil.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gavel cracking a shield labeled LLC in a courtroom, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His house and personal savings are suddenly at risk.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house and a savings jar pulled toward a courtroom scale, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Clementine keeps a separate account, card, and bookkeeper.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman clementine with a clearly separated business account, card, and ledger, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays herself a salary and documents every decision.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payroll stub labeled OWNER SALARY beside a binder stamped MINUTES, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When she is sued, only business assets are exposed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courtroom scale holding only a business toolbox, her house safely aside, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same lawsuit, one lost personal savings, one lost nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, an empty personal savings jar, and a protected home, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Separate accounts, real records, and a salary keep the shield. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel holding an intact shield stamped SEPARATE AND DOCUMENTED, kids comic book illustration"
+    }
+  ]
+}

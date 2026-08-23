@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-lionel-vs-birdie-verification-code-scam-001",
+  "character": "detective_cash",
+  "topic": "Marketplace buyer asking for a six digit verification code vs refusing to share it (Lionel vs Birdie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Six little digits can hand a stranger your entire identity. Case file 0095. Time of incident, afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a phone showing a six digit code, magnifying glass over a marketplace listing, comic burst banner reads CASE FILE 0095, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lionel and Birdie both list a couch online for four hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man lionel and woman birdie photographing couches for an online listing labeled FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A polite buyer texts, asking to verify they are real.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a friendly buyer message reading JUST VERIFYING YOU ARE REAL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "A six digit code arrives, and the buyer wants it repeated.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone showing an incoming six digit verification code and a request to send it back, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "That code was never requested by the buyer at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hooded figure at a laptop triggering a code request, arrows pointing to a victim's phone, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lionel reads it out loud to seem trustworthy and quick.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lionel texting the code back while a shadowy hand catches it midair, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The scammer opens a phone account and a loan in his name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop screen showing NEW PHONE ACCOUNT and LOAN APPROVED under the name lionel, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Birdie refuses, knowing real buyers never need any codes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman birdie typing NO CODES and tapping BLOCK on her phone, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She meets in a police station lot and takes cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman birdie handing over a couch for cash in a police station safe exchange zone, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Lionel spends months disputing accounts he never opened.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lionel buried under dispute letters stamped NOT MY ACCOUNT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Codes are keys. Anyone requesting yours is picking your lock.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash holding a giant key labeled SIX DIGIT CODE beside a broken lock, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never repeat a code you did not request. Meet publicly, take cash. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED, a board behind him reads NEVER SHARE A CODE, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-emory-vs-lucinda-secured-card-thin-file-001",
+  "character": "doctor_dollar",
+  "topic": "Having no credit history at all vs building it with a secured card (Emory vs Lucinda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "No credit score is treated worse than a bad one. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard with a completely blank credit chart, comic burst banner reads NO SCORE NO KEYS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Emory and Lucinda are twenty three with no credit history.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man emory and woman lucinda holding blank credit reports stamped NO FILE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both earn the same salary and pay rent on time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two matching paychecks and two rent receipts stamped PAID ON TIME, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Emory avoids all credit, believing every card is dangerous.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emory pushing a credit card away, a thought bubble reading CREDIT IS DANGEROUS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Landlords, lenders, and insurers see an empty invisible file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a magnifying glass hovering over a blank file folder labeled INVISIBLE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Lucinda opens a secured card with a three hundred deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lucinda handing a bank teller a deposit envelope labeled THREE HUNDRED for a secured card, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She charges one small subscription and autopays the full balance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a small charge and AUTOPAY FULL BALANCE switched on, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Never carrying a balance, she pays zero interest ever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement stamped ZERO INTEREST PAID beside a healthy heartbeat line, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Twelve months later her score reaches seven hundred twenty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, doctor dollar showing a credit chart climbing to SEVEN TWENTY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Emory is denied an apartment and owes double deposit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emory holding a rejection letter and a slip stamped DOUBLE DEPOSIT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "His car loan quote is five points higher than hers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two loan quotes side by side reading ELEVEN PERCENT and SIX PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Open one secured card, autopay in full. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar holding a clipboard reading SECURED CARD AUTOPAY FULL, a healthy climbing credit chart behind her, kids comic book illustration"
+    }
+  ]
+}

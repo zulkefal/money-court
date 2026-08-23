@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-osgood-vs-marlena-unpermitted-addition-001",
+  "character": "judge_vera",
+  "topic": "Buying a home with an unpermitted addition vs pulling permit records first (Osgood vs Marlena)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "That beautiful sunroom was never legal, and now it is yours. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a bright sunroom stamped NO PERMIT, comic burst banner reads NEVER LEGAL, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Osgood and Marlena tour identical homes with added sunrooms.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man osgood and woman marlena touring identical houses with glass sunrooms, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both sellers call the addition brand new and fully permitted.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smiling seller gesturing at a sunroom beside a speech banner reading FULLY PERMITTED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Osgood waives inspection to win a bidding war.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man osgood signing an offer stamped INSPECTION WAIVED under a bidding war sign, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The city later finds no permit was ever issued.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a city inspector holding an empty permit file stamped NONE ON RECORD, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He must tear it out or pay for retroactive approval.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a sunroom with a red notice reading REMOVE OR PERMIT, tools and paperwork beside it, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The final bill reaches nineteen thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an invoice on the courtroom bench reading NINETEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Marlena checks permit records at the city office first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marlena at a city records counter flipping through permit files, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She finds nothing filed and demands correction before closing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marlena handing the seller a demand letter stamped PERMIT BEFORE CLOSING, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The seller permits and repairs it, or drops the price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a seller signing a permit application beside a reduced price tag, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same sunroom, one buyer paid, one buyer was protected.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical sunrooms, one stamped NINETEEN THOUSAND, one stamped PERMITTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pull permit records before closing, and never waive inspection. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel holding a folder stamped PERMIT RECORDS, kids comic book illustration"
+    }
+  ]
+}

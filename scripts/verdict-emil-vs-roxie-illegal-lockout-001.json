@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-emil-vs-roxie-illegal-lockout-001",
+  "character": "judge_vera",
+  "topic": "Being locked out by a landlord without a court order vs knowing eviction law (Emil vs Roxie)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Locking a tenant out overnight is illegal in most states. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a comic banner reading ILLEGAL LOCKOUT, a padlocked apartment door in the spotlight, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Emil and Roxie both fall one month behind on rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man emil and woman roxie holding rent notices stamped ONE MONTH LATE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each landlord changes the locks and stacks belongings on the sidewalk.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two apartment doors with shiny new locks and boxes of belongings piled outside, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Emil panics, sleeps in his car, then books a motel.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emil sleeping in a car outside a motel sign reading NINETY A NIGHT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He never learns that eviction requires a court order first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a court order paper labeled REQUIRED FIRST floating past confused man emil, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Two weeks of motels cost him twelve hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emil holding a fan of motel receipts totaling TWELVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Roxie photographs the lock and calls the police non emergency line.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman roxie photographing a new lock on her door while speaking on the phone, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Officers confirm a self help lockout breaks state law.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a police officer showing a landlord a paper reading SELF HELP LOCKOUT IS ILLEGAL, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She files an emergency motion and is back inside Monday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman roxie unlocking her own door holding a court paper stamped RESTORED POSSESSION, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The judge awards her three months rent in statutory damages.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scale of justice tipping toward woman roxie beside a banner reading THREE MONTHS DAMAGES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Emil paid to be homeless. Roxie was paid instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man emil with empty pockets, woman roxie holding a damages check, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Only a court can evict you. Photograph everything and call immediately. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a comic banner reading ONLY A COURT CAN EVICT, kids comic book illustration"
+    }
+  ]
+}

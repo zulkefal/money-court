@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-montgomery-vs-beatrix-caretaker-account-abuse-001",
+  "character": "detective_cash",
+  "topic": "A caretaker draining a parent's account vs setting up account alerts (Montgomery vs Beatrix)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The helper with the debit card drained a lifetime of savings. Case file 0106. Time of incident, over months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a bank statement with dozens of circled withdrawals, comic burst banner reads CASE FILE 0106, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Montgomery and Beatrix both hire in home help for a parent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man montgomery and woman beatrix greeting caretakers at parents' homes, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each parent hands over a debit card for groceries.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an elderly hand passing a debit card to a caretaker with a grocery list, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Small extra charges begin appearing every single week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement with small unfamiliar charges repeating weekly, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Montgomery never reviews his father's bank statements.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man montgomery leaving envelopes unopened on a kitchen counter, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Cash withdrawals grow until forty thousand is gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an ATM receipt trail leading to a balance reading FORTY THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Isolation and secrecy were the warning signs he missed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a caretaker blocking visitors at a door, a board reads ISOLATION IS A WARNING SIGN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Beatrix sets up view only alerts on her phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beatrix enabling account alerts labeled VIEW ONLY on her phone, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She spots a strange withdrawal within two days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone alert reading UNUSUAL WITHDRAWAL, woman beatrix reacting fast, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She reports it to the bank and protective services.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beatrix at a bank fraud desk with a report stamped FILED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One family lost forty thousand. One lost two hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, an emptied savings book and a nearly full one, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Give limited cards and read statements weekly. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads LIMITED CARDS WEEKLY REVIEW, kids comic book illustration"
+    }
+  ]
+}

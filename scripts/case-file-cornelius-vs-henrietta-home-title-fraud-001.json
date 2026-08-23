@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-cornelius-vs-henrietta-home-title-fraud-001",
+  "character": "detective_cash",
+  "topic": "Home title deed fraud on a vacant property vs county recording alerts (Cornelius vs Henrietta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Someone filed a deed and borrowed against a house they never owned. Case file 0103. Time of incident, midsummer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a forged property deed under a magnifying glass, comic burst banner reads CASE FILE 0103, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Cornelius and Henrietta each own a quiet rental property.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man cornelius and woman henrietta holding keys to small rental houses, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A forger files fake deeds transferring both titles.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure sliding forged deeds across a county recording counter, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Public records now list a stranger as owner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a county record screen showing an unfamiliar name stamped OWNER OF RECORD, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Cornelius never opens mail from the county recorder.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cornelius tossing unopened county envelopes into a growing pile, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The forger takes a large loan against the stolen title.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure signing a loan secured by a stolen house deed, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Two years pass before a foreclosure notice arrives.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man cornelius holding a notice stamped FORECLOSURE, shocked, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Henrietta signed up for free county title alerts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman henrietta enabling a phone alert labeled TITLE RECORDING ALERT, marked FREE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "A recording alert reaches her phone the same week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone notification reading NEW DEED RECORDED ON YOUR PROPERTY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She files a fraud report and freezes the title fast.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman henrietta at a county fraud desk with a form stamped TITLE FRAUD REPORTED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "One fights in court for years. One stopped it instantly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, a courtroom battle and a quickly corrected record, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Turn on county recording alerts and read that mail. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office stamping a file CASE CLOSED, a board reads WATCH YOUR TITLE, kids comic book illustration"
+    }
+  ]
+}

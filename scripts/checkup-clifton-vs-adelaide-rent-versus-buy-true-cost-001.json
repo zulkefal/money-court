@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-clifton-vs-adelaide-rent-versus-buy-true-cost-001",
+  "character": "doctor_dollar",
+  "topic": "Comparing only the mortgage payment to rent vs counting the true cost of ownership (Clifton vs Adelaide)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Owning costs far more than the mortgage payment on the flyer. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard listing hidden ownership costs, comic burst banner reads MORE THAN THE MORTGAGE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Clifton and Adelaide both need housing in the same town.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man clifton and woman adelaide looking at the same neighborhood, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A comparable home costs three hundred thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house with a price tag reading THREE HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Clifton compares the mortgage payment to his current rent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man clifton holding two numbers side by side, mortgage and rent, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He forgets taxes, insurance, maintenance, and closing costs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, hidden cost cards stacking up labeled TAXES INSURANCE MAINTENANCE CLOSING, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Ownership adds about one percent yearly in maintenance alone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house with a repair meter reading ONE PERCENT A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He sells after two years and loses money on fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man clifton at a closing table with fees eating his proceeds, stamped LOSS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Adelaide adds every ownership cost before deciding.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman adelaide with a complete cost worksheet, every line filled, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She plans to stay at least seven years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar spanning seven years with a house marked at the start, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Buying wins once she passes the break even point.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two lines crossing on a chart labeled BREAK EVEN YEAR FIVE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her equity grows while her housing cost stays fixed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an equity bar rising beside a flat payment line, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Buy for the long stay and count every cost. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading COUNT EVERY COST, a healthy housing chart behind her, kids comic book illustration"
+    }
+  ]
+}

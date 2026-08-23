@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-alonzo-vs-marisela-inflation-on-cash-001",
+  "character": "doctor_dollar",
+  "topic": "Parking long term money in checking vs investing it against inflation (Alonzo vs Marisela)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Cash feels safe while inflation quietly eats it every year. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a shrinking dollar bill diagram, comic burst banner reads SAFE BUT SHRINKING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Alonzo and Marisela each hold fifty thousand for the future.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man alonzo and woman marisela holding identical stacks reading FIFTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Neither needs this money for at least fifteen years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar spanning fifteen years with no withdrawals marked, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Alonzo keeps his in a checking account earning nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alonzo placing money in a checking jar labeled ZERO PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Inflation averages three percent every single year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart line labeled INFLATION THREE PERCENT rising steadily, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "In fifteen years it buys thirty two thousand of goods.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shrinking grocery cart beside a tag reading BUYS THIRTY TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The number never dropped, but the power did.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a dollar bill with the same number printed but visibly smaller, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Marisela invests hers in a diversified index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisela with a fund statement labeled DIVERSIFIED INDEX, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She keeps six months of expenses in cash separately.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a separate labeled jar reading SIX MONTHS EMERGENCY CASH, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her long term money averages seven percent yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growth chart labeled SEVEN PERCENT AVERAGE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fifteen years later it is worth one hundred thirty eight thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marisela beside a chart peaking at ONE HUNDRED THIRTY EIGHT THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cash for emergencies, invest the long term money. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading CASH SHORT INVEST LONG, a healthy growth chart behind her, kids comic book illustration"
+    }
+  ]
+}

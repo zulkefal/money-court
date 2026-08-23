@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-orville-vs-marguerite-total-loss-lowball-001",
+  "character": "judge_vera",
+  "topic": "Accepting the first total loss insurance payout vs invoking the appraisal clause (Orville vs Marguerite)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Insurers lowball totaled cars by thousands, and most drivers just accept. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a crumpled sedan and a check stamped NINE THOUSAND, comic burst banner reads LOWBALLED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Orville and Marguerite both total identical sedans in one storm.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man orville and woman marguerite beside identical wrecked sedans under storm clouds, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each insurer offers nine thousand for a twelve thousand car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two insurance letters stamped OFFER NINE THOUSAND beside a car price tag reading TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Orville accepts the first offer because the check arrives fast.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man orville signing an acceptance form while a fast delivery envelope drops in, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He still owes eleven thousand, so he pays the gap himself.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man orville emptying his wallet beside a loan balance board reading ELEVEN THOUSAND OWED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Marguerite pulls three local listings for the same year and mileage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marguerite at a laptop with three car listings pinned beside her, each labeled SAME YEAR SAME MILES, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "She sends comparable sale prices and a dealer valuation report.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman marguerite mailing a folder stamped COMPARABLE SALES to an insurance office, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her policy includes an appraisal clause, so she invokes it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a policy page with a highlighted line reading APPRAISAL CLAUSE, a magnifying glass over it, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "An independent appraiser values her sedan at twelve thousand three hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an independent appraiser holding a report reading TWELVE THOUSAND THREE HUNDRED beside the sedan, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The insurer pays the difference plus her taxes and fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a corrected check stamped PAID IN FULL PLUS TAX AND FEES, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same crash, same policy, thirty three hundred dollars apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two checks side by side on the courtroom bench reading NINE THOUSAND and TWELVE THREE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "The first offer is an opening bid. Send comparables, demand appraisal. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel holding a folder stamped COMPARABLES AND APPRAISAL, kids comic book illustration"
+    }
+  ]
+}

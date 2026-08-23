@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-warren-vs-delia-bitcoin-atm-scam-001",
+  "character": "detective_cash",
+  "topic": "Bitcoin ATM police impersonation scam vs hanging up and calling the bank back (Warren vs Delia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A fake officer sent a retiree to feed cash into a crypto machine. Case file 0094. Time of incident, midday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a photo of a bitcoin ATM and a police badge stamped FAKE, comic burst banner reads CASE FILE 0094, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Warren and Delia each get a call from a stern officer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man warren and woman delia holding phones showing a caller ID reading POLICE DEPARTMENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The caller claims their account is linked to drug money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing a threatening call, a comic banner reads YOUR ACCOUNT IS COMPROMISED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He orders them to protect their savings in a federal wallet.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone call bubble reading MOVE IT TO A SAFE WALLET beside a fake government seal, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Warren withdraws eighteen thousand and drives to a crypto machine.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man warren at a bank counter with a thick envelope of cash, a glowing bitcoin ATM in a corner store, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He scans the stranger's code and feeds every bill in.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man warren scanning a QR code at a bitcoin ATM while inserting a stack of bills, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Crypto sent to a stranger is gone in seconds, forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a machine screen reading SENT AND IRREVERSIBLE beside an empty wallet icon, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Delia hangs up and calls the number on her card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman delia hanging up and dialing the number printed on the back of her bank card, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her bank confirms no investigation and no compromised account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank teller shaking her head beside a screen reading NO INVESTIGATION FOUND, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Real agencies never demand cash, crypto, or gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, detective cash pointing at a board listing NEVER CASH NEVER CRYPTO NEVER GIFT CARDS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Warren lost eighteen thousand. Delia lost four minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man warren staring at an emptied savings book, woman delia calmly checking a clock, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No agency banks in Bitcoin. Hang up and call back yourself. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads HANG UP AND CALL BACK, kids comic book illustration"
+    }
+  ]
+}

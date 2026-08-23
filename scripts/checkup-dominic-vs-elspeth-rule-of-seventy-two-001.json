@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-dominic-vs-elspeth-rule-of-seventy-two-001",
+  "character": "doctor_dollar",
+  "topic": "Leaving savings in a one percent account vs investing and using the rule of seventy two (Dominic vs Elspeth)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One simple number tells you exactly when your money doubles. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a large number seventy two circled, comic burst banner reads DOUBLING RULE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dominic and Elspeth each invest ten thousand dollars today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dominic and woman elspeth holding identical stacks labeled TEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Divide seventy two by your return for the doubling years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chalkboard showing SEVENTY TWO DIVIDED BY RETURN EQUALS YEARS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dominic keeps his money in a one percent account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dominic placing a stack in a savings jar labeled ONE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Seventy two divided by one is seventy two years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chalkboard reading SEVENTY TWO YEARS with a very slow growth line, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His ten thousand doubles only once in a lifetime.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a nearly flat growth chart with a single doubling far in the future, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Elspeth invests in a diversified fund averaging eight percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elspeth holding a fund statement labeled DIVERSIFIED EIGHT PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Seventy two divided by eight is nine years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chalkboard reading NINE YEARS beside a rising staircase of money, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her money doubles roughly every nine years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a staircase chart doubling at years nine, eighteen, twenty seven, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "In thirty six years it doubles four separate times.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, four doubling steps labeled TWENTY THOUSAND FORTY EIGHTY ONE SIXTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten thousand becomes one hundred sixty thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elspeth beside a chart peaking at ONE HUNDRED SIXTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Use the rule of seventy two before every money decision. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading RULE OF SEVENTY TWO, a healthy climbing chart behind her, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-hector-vs-lavinia-unclaimed-property-001",
+  "character": "judge_vera",
+  "topic": "Paying a finder company for unclaimed property vs using the free state site (Hector vs Lavinia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "States are holding billions in forgotten money, and some is yours. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a vault stamped UNCLAIMED PROPERTY overflowing with envelopes, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hector and Lavinia both changed jobs and moved four times.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man hector and woman lavinia surrounded by moving boxes and old address labels, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Old deposits, refunds, and final paychecks were left behind.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, forgotten envelopes labeled DEPOSIT REFUND FINAL PAYCHECK floating away, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "After a few years, holders turn that money over to the state.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank clerk handing a box of unclaimed funds to a state office window, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Hector assumes every free search site must be a scam.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hector closing a laptop, a thought bubble reading PROBABLY A SCAM, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He pays a finder company thirty percent to recover it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a slick finder agent holding a contract stamped THIRTY PERCENT FEE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His nineteen hundred becomes thirteen hundred after their cut.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a money stack sliced, labels reading NINETEEN HUNDRED and THIRTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Lavinia uses her state's official unclaimed property website.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lavinia at a laptop showing an official state seal and a search box, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The search is free and never asks for payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a screen banner reading ALWAYS FREE NO FEES with a padlock icon, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She uploads identification and receives a check by mail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lavinia opening an envelope with a state check inside, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Same forgotten money, and she kept every dollar of it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two checks on the bench, one whole and one clearly reduced, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Search your state's official site yearly, and never pay a finder. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading OFFICIAL SITE ONLY, kids comic book illustration"
+    }
+  ]
+}
