@@ -1318,5 +1318,15 @@
     "date": "2026-09-08",
     "character": "doctor_dollar",
     "topic": "Missing the Medicare enrollment window vs signing up on time (Herschel vs Doris)"
+  },
+  {
+    "date": "2026-09-09",
+    "character": "judge_vera",
+    "topic": "Buying a tax refund advance vs filing free and waiting for direct deposit (Ignatius vs Roberta)"
+  },
+  {
+    "date": "2026-09-09",
+    "character": "detective_cash",
+    "topic": "Buying a hyped stock from a signals group chat vs checking the filings (Horatio vs Serafina)"
   }
 ]
