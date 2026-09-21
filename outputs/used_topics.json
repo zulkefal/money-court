@@ -1428,5 +1428,15 @@
     "date": "2026-09-20",
     "character": "detective_cash",
     "topic": "Forwarding payments as a fake payment processor vs refusing to move money (Reginald vs Drusilla)"
+  },
+  {
+    "date": "2026-09-21",
+    "character": "coach_vault",
+    "topic": "Accepting a property tax assessment vs appealing an inflated one (Wendell vs Constance)"
+  },
+  {
+    "date": "2026-09-21",
+    "character": "doctor_dollar",
+    "topic": "Refinancing federal student loans to private vs keeping federal protections (Trevor vs Amelia)"
   }
 ]
