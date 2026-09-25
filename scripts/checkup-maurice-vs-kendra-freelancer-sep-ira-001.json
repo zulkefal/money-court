@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-maurice-vs-kendra-freelancer-sep-ira-001",
+  "character": "doctor_dollar",
+  "topic": "A freelancer with no retirement plan vs opening a SEP IRA and automating contributions (Maurice vs Kendra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Self employed workers get no automatic 401k, so most save nothing. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with an empty retirement jar labeled FREELANCER, comic burst banner reads NO AUTOPILOT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Maurice and Kendra both freelance and net seventy thousand dollars a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man maurice and woman kendra at home desks with laptops, a tag reads SEVENTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "No employer, no match, no plan unless they build one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty benefits folder reading NO EMPLOYER PLAN, a question mark, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Maurice means to set something up. Every year he means to.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man maurice with a sticky note reading RETIREMENT SOMEDAY, a calendar flipping years, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays full tax on every dollar and saves nothing for later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man maurice handing a big tax check, an empty jar labeled RETIREMENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "At fifty five his retirement account reads zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man maurice older, staring at a screen reading RETIREMENT BALANCE ZERO, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Kendra opens a SEP IRA in one afternoon with no fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman kendra at a laptop on a page reading SEP IRA OPENED, NO FEES, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She automates fifteen percent of every client payment into it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an automatic transfer arrow from a client invoice into a jar labeled SEP IRA FIFTEEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The contribution is deducted, cutting her tax bill by twenty five hundred a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tax form line reading SEP CONTRIBUTION DEDUCTED, a tag reads TWENTY FIVE HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The account grows in a low cost index fund untouched.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growth chart labeled INDEX FUND rising, woman kendra working calmly, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "At fifty five, Maurice has zero. Kendra has over five hundred thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man maurice beside a zero balance, woman kendra beside a chart reading FIVE HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Freelancers, open the SEP and automate it. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading OPEN THE SEP AND AUTOMATE, a healthy retirement chart behind her, kids comic book illustration"
+    }
+  ]
+}

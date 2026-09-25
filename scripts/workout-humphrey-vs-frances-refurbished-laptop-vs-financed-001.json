@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-humphrey-vs-frances-refurbished-laptop-vs-financed-001",
+  "character": "coach_vault",
+  "topic": "Financing the newest laptop vs buying a certified refurbished model outright (Humphrey vs Frances)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Last year's laptop does the same work for half the price. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding two laptops, one with a tag reading NEW FINANCED and one reading REFURBISHED, comic burst banner reads HALF PRICE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Humphrey and Frances both need a laptop for school and work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man humphrey and woman frances each at a desk with an old broken laptop, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Humphrey buys the newest model for eighteen hundred on store financing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man humphrey at a store counter signing a financing form reading EIGHTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The payment is one hundred dollars a month for two years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement showing twenty four payments of ONE HUNDRED, interest lines attached, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Interest adds four hundred dollars. Total, twenty two hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a treadmill display reading TWENTY TWO HUNDRED, man humphrey carrying a shiny laptop and a chain, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He uses it for email, documents, and streaming. Nothing more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man humphrey watching a show on the laptop, a document window open, a chip icon reading OVERKILL, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Frances buys last year's model, certified refurbished, for seven hundred cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frances at a laptop on a store page reading CERTIFIED REFURBISHED SEVEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "It comes with a one year warranty and a fresh battery.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop box with tags reading ONE YEAR WARRANTY and NEW BATTERY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "It handles the same email, documents, and streaming with ease.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frances typing on the refurbished laptop, a green check mark, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The fifteen hundred she kept goes into an index fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frances moving FIFTEEN HUNDRED into an account labeled INDEX FUND, a rising chart, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Two years later, both laptops work. Only one owner is still paying.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man humphrey still paying a statement, woman frances debt free with a growing chart, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Buy last year's model, refurbished, in cash. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading REFURBISHED IN CASH, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

@@ -31,8 +31,17 @@ from pipeline.logger import get_logger
 
 logger = get_logger("daily")
 
-# Daily mascot rotation. Cycles in this order so each character gets equal screen time.
+# The four mascots (used for validation + CLI choices).
 ROTATION = ("judge_vera", "detective_cash", "coach_vault", "doctor_dollar")
+# Weighted posting schedule. Detective Cash gets every other slot because his
+# videos average ~2x the views and ~3x the likes of the other three (stats
+# review 2026-09-23). The other three rotate through the remaining slots, so
+# each of them appears once every six uploads.
+SCHEDULE = (
+    "detective_cash", "judge_vera",
+    "detective_cash", "coach_vault",
+    "detective_cash", "doctor_dollar",
+)
 PKT = timezone(timedelta(hours=5))
 # All published-at slot times are anchored to US Eastern (America/New_York).
 # zoneinfo handles the EDT↔EST transitions automatically — no cron juggling.
@@ -47,7 +56,7 @@ TARGET_QUEUE_DEPTH = 5
 # Fixed publishAt times per slot, anchored to US Eastern (DST-aware via zoneinfo).
 # Same time every day so the audience learns when to expect new videos.
 SLOT_TIMES = {
-    1: [(12, 0)],                                       # 1/day: noon ET
+    1: [(17, 0)],                                       # 1/day: 5pm ET (same as first slot of 2/day)
     2: [(17, 0), (21, 0)],                              # 2/day: 5pm + 9pm ET
     3: [(17, 0), (19, 0), (21, 0)],                     # 3/day: 5pm + 7pm + 9pm ET
     4: [(17, 0), (19, 0), (21, 0), (23, 0)],            # 4/day: 5pm + 7pm + 9pm + 11pm ET
@@ -55,15 +64,29 @@ SLOT_TIMES = {
 
 
 def _next_character(history_path: Path) -> str:
-    """Pick whichever mascot was last used the longest ago (rotate)."""
+    """Next mascot in SCHEDULE, resuming from wherever the history left off.
+
+    SCHEDULE repeats detective_cash, so we locate our position by matching the
+    last two published characters against consecutive SCHEDULE entries; if that
+    fails (e.g. history predates the weighted schedule) we fall back to the
+    first entry matching the last character, then to the start of the cycle.
+    """
     if not history_path.exists():
-        return ROTATION[0]
+        return SCHEDULE[0]
     history = json.loads(history_path.read_text())
     if not history:
-        return ROTATION[0]
-    last_char = history[-1]["character"]
-    idx = ROTATION.index(last_char) if last_char in ROTATION else -1
-    return ROTATION[(idx + 1) % len(ROTATION)]
+        return SCHEDULE[0]
+    n = len(SCHEDULE)
+    last = history[-1]["character"]
+    prev = history[-2]["character"] if len(history) >= 2 else None
+    idx = None
+    for i in range(n):
+        if SCHEDULE[i] == last and SCHEDULE[(i - 1) % n] == prev:
+            idx = i
+            break
+    if idx is None:
+        idx = SCHEDULE.index(last) if last in SCHEDULE else -1
+    return SCHEDULE[(idx + 1) % n]
 
 
 def _publish_at(target_date: date, slot_idx: int, slots_per_day: int) -> str:
@@ -125,10 +148,10 @@ def _backfill_queue() -> None:
         return
 
     logger.info(f"  backfill: queue has {len(queued)}, generating {needed} more")
-    char_iter = iter([ROTATION[i % len(ROTATION)] for i in range(needed * 2)])
+    char_iter = iter([SCHEDULE[i % len(SCHEDULE)] for i in range(needed * 2)])
     for _ in range(needed):
-        for _attempt in range(len(ROTATION) * 2):
-            character = next(char_iter, ROTATION[0])
+        for _attempt in range(len(SCHEDULE) * 2):
+            character = next(char_iter, SCHEDULE[0])
             try:
                 topic = pick_topic(character)
             except RuntimeError:

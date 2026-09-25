@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-forrest-vs-edwina-advance-fee-loan-001",
+  "character": "detective_cash",
+  "topic": "Paying an upfront fee for a guaranteed personal loan vs knowing real lenders never charge before funding (Forrest vs Edwina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The guaranteed loan needed a fee first. The loan never existed. Case file 0123. Time of incident, afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a loan approval letter stamped FAKE beside a receipt reading PROCESSING FEE, comic burst banner reads CASE FILE 0123, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Forrest and Edwina both need five thousand dollars for car repairs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man forrest and woman edwina beside a car on a lift, a bill reads FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both have bruised credit. An online lender says approved, no credit check.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a website banner reading GUARANTEED APPROVAL NO CREDIT CHECK, confetti, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Forrest is told to pay a four hundred dollar insurance fee first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat message reading SEND FOUR HUNDRED INSURANCE FEE TO RELEASE FUNDS, man forrest nodding, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He sends it by gift card. Then they ask for a tax fee too.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man forrest reading gift card codes into a phone, a second message reads TAX FEE TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Six hundred dollars later, the lender goes dark.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man forrest staring at a chat reading MESSAGE NOT DELIVERED, empty pockets, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The car is still broken. The debt is bigger.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man forrest beside a dead car, a receipt tally reading SIX HUNDRED LOST, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Edwina knows real lenders deduct fees from the loan, never upfront.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edwina holding a note reading FEES COME OUT OF THE LOAN, NEVER BEFORE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She checks the lender license with her state regulator. Nothing found.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edwina at a laptop on a regulator site reading NO RECORD FOUND, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She visits a credit union and gets a small loan at twelve percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman edwina at a credit union desk signing a loan reading FIVE THOUSAND AT TWELVE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Forrest lost six hundred with no loan. Edwina drives a fixed car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man forrest beside a broken car, woman edwina driving off in a repaired car, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Fees before funding equals fraud. Real lenders never ask upfront. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NO FEE BEFORE FUNDING, kids comic book illustration"
+    }
+  ]
+}

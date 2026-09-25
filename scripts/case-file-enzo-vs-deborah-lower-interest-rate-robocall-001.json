@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-enzo-vs-deborah-lower-interest-rate-robocall-001",
+  "character": "detective_cash",
+  "topic": "Paying a robocall service an upfront fee to lower your card interest vs calling the card issuer yourself (Enzo vs Deborah)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The robocall promised zero percent interest for a small fee. Case file 0118. Time of incident, lunch break.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office listening to a phone playing a robot voice, a slip reads NINE HUNDRED DOLLAR FEE, comic burst banner reads CASE FILE 0118, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Enzo and Deborah both carry seven thousand dollars at twenty four percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man enzo and woman deborah holding statements reading SEVEN THOUSAND AT TWENTY FOUR PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A robocall says press one to lower your rate to zero percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen with a robot voice bubble reading PRESS ONE FOR ZERO PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Enzo presses one and pays a nine hundred dollar enrollment fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man enzo reading a card number into the phone, a slip reads ENROLLMENT NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "They say a negotiator will call. Nobody ever calls.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man enzo staring at a silent phone, a calendar with weeks crossed out, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His rate is still twenty four percent, and he is nine hundred poorer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement reading STILL TWENTY FOUR PERCENT, a receipt reading NINE HUNDRED GONE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Deborah hangs up and calls the number on the back of her card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman deborah flipping her card over and dialing the printed number, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She asks for a hardship rate and mentions a competing offer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman deborah on the phone, speech banner reads I HAVE A LOWER OFFER, CAN YOU MATCH IT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The issuer drops her to fifteen percent for twelve months. Free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a card issuer screen reading RATE REDUCED TO FIFTEEN PERCENT, a tag reads NO FEE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She also moves half the balance to a zero percent transfer card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman deborah sliding half a balance onto a card labeled ZERO PERCENT FOR EIGHTEEN MONTHS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Enzo paid nine hundred for nothing. Deborah saved twelve hundred in interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man enzo beside a bill reading NINE HUNDRED WASTED, woman deborah beside a note reading TWELVE HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody can lower your rate but the issuer. Call the back of the card. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CALL THE BACK OF YOUR CARD, kids comic book illustration"
+    }
+  ]
+}

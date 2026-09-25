@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-geoffrey-vs-elvira-flood-car-washed-title-001",
+  "character": "detective_cash",
+  "topic": "Buying a cheap used car with a washed title vs running a VIN history report (Geoffrey vs Elvira)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The shiny sedan had spent a week underwater in another state. Case file 0126. Time of incident, weekend sale.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office shining a flashlight on a car with a water line under the paint and a title stamped CLEAN, comic burst banner reads CASE FILE 0126, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Geoffrey and Elvira both find a two year old sedan for half price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man geoffrey and woman elvira looking at a shiny gray sedan with a tag reading HALF PRICE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The seller sells from a parking lot and has a clean out of state title.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a seller in a parking lot holding a title reading CLEAN, several other cars behind him, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Geoffrey loves the price and pays eleven thousand cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man geoffrey handing a thick envelope reading ELEVEN THOUSAND to the seller, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Within a month the electronics fail and the carpet smells like mold.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man geoffrey in the car with a dead dashboard and a wavy stink line rising from the carpet, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A mechanic finds silt in the seat rails. Flood car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mechanic pointing at mud under a seat, a speech banner reads FLOOD CAR, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The title was washed through a state that ignores flood brands.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a title moving through three states on a map, a stamp reading FLOOD fading to CLEAN, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Elvira runs the VIN through a history report before meeting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elvira at a laptop typing a VIN, a screen reads HISTORY REPORT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The report shows a flood total loss claim eight months ago.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a report page reading TOTAL LOSS FLOOD DAMAGE, a red warning icon, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She walks away and buys a certified car from a dealer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman elvira at a dealership beside a car with a badge reading CERTIFIED PRE OWNED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Geoffrey owns eleven thousand dollars of scrap. Elvira owns a car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man geoffrey beside a dead sedan, woman elvira driving a clean car, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "A cheap car with a perfect title? Run the VIN. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads RUN THE VIN, kids comic book illustration"
+    }
+  ]
+}

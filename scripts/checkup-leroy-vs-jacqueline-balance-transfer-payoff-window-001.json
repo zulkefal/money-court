@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-leroy-vs-jacqueline-balance-transfer-payoff-window-001",
+  "character": "doctor_dollar",
+  "topic": "Carrying a balance at twenty two percent vs a zero percent transfer paid off inside the window (Leroy vs Jacqueline)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A zero percent transfer only works if you beat the clock. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a credit card with a timer reading EIGHTEEN MONTHS and a zero percent tag, comic burst banner reads BEAT THE CLOCK, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Leroy and Jacqueline both owe eight thousand dollars at twenty two percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man leroy and woman jacqueline each holding a statement reading EIGHT THOUSAND AT TWENTY TWO PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both get an offer. Zero percent for eighteen months, three percent fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mailer reading ZERO PERCENT FOR EIGHTEEN MONTHS, THREE PERCENT FEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Leroy ignores it. Fees feel like a trick.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leroy tossing the mailer, a thought bubble reads FEES ARE A TRICK, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays two hundred fifty a month and watches interest eat most of it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payment bar with a big red slice labeled INTEREST and a tiny slice labeled PRINCIPAL, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Four years and thirty nine hundred dollars of interest later, he is done.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard reading INTEREST PAID THIRTY NINE HUNDRED, a calendar showing four years, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Jacqueline transfers the balance and pays the two hundred forty dollar fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jacqueline completing a transfer, a receipt reads FEE TWO HUNDRED FORTY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She divides eight thousand two forty by eighteen and autopays four sixty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calculation reading EIGHT THOUSAND TWO FORTY DIVIDED BY EIGHTEEN EQUALS FOUR SIXTY, an autopay screen, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She does not use the card for a single new purchase.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jacqueline placing the card in a drawer with a lock, a tag reads PAYOFF ONLY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Month seventeen, the balance hits zero. Interest paid, zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jacqueline celebrating beside a statement reading BALANCE ZERO, a calendar reads MONTH SEVENTEEN, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Leroy paid thirty nine hundred in interest. Jacqueline paid a two forty fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man leroy beside a tall interest bar, woman jacqueline beside a tiny fee bar, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Transfer, divide by the months, autopay, and finish early. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading FINISH BEFORE THE CLOCK, a healthy zero balance chart behind her, kids comic book illustration"
+    }
+  ]
+}

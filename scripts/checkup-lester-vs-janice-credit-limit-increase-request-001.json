@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lester-vs-janice-credit-limit-increase-request-001",
+  "character": "doctor_dollar",
+  "topic": "Never asking for a credit limit increase vs requesting one to cut utilization (Lester vs Janice)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A five minute request can raise your credit score by forty points. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a score meter jumping forty points, comic burst banner reads FIVE MINUTES, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lester and Janice both carry twelve hundred dollars on a three thousand limit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lester and woman janice each holding a card statement reading TWELVE HUNDRED OF THREE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "That is forty percent utilization. Both scores sit near six eighty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a utilization gauge at FORTY PERCENT, a score meter reading SIX EIGHTY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lester never asks the bank for anything. He does not want a hard pull.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lester avoiding a phone, a thought bubble reads DO NOT TOUCH IT, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His limit stays at three thousand for five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a card with a limit line reading THREE THOUSAND under a calendar flipping five years, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His score hovers, and his car loan rate lands a full point higher.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lester at an auto dealer, a rate sheet showing ONE POINT HIGHER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Janice logs in after a year of on time payments and requests an increase.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman janice at a laptop clicking REQUEST CREDIT LIMIT INCREASE, a history of green check marks, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "It is a soft pull. Approved for nine thousand in sixty seconds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a screen reading SOFT INQUIRY, NEW LIMIT NINE THOUSAND, a timer reads SIXTY SECONDS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Same twelve hundred balance, now thirteen percent utilization.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a utilization gauge dropping to THIRTEEN PERCENT, a green zone, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her score climbs to seven twenty five within two statements.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a score meter reading SEVEN TWENTY FIVE, woman janice smiling, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her car loan is a point cheaper, twelve hundred dollars saved over five years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman janice at a dealer with a rate sheet showing the best tier, a tag reads TWELVE HUNDRED SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Ask for the higher limit. Keep the spending the same. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading ASK FOR THE LIMIT, a healthy utilization chart behind her, kids comic book illustration"
+    }
+  ]
+}

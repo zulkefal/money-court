@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-jules-vs-josephine-raiding-401k-for-tuition-001",
+  "character": "doctor_dollar",
+  "topic": "Pulling retirement savings to pay a child's tuition vs keeping retirement intact and using aid and loans (Jules vs Josephine)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "You can borrow for college, but nobody lends for retirement. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard comparing TUITION and RETIREMENT, comic burst banner reads NO LOANS FOR RETIREMENT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Jules and Josephine are both fifty with college bound kids.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man jules and woman josephine each standing beside a teenager holding a college acceptance letter, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each has two hundred thousand dollars saved for retirement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two matching retirement account statements on an exam table each reading TWO HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Jules withdraws sixty thousand from his 401k to cover tuition.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man jules pulling a bundle labeled SIXTY THOUSAND out of a jar labeled 401K, tuition bill in the other hand, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Taxes and the ten percent penalty eat twenty thousand of it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart with a big bite taken out of a dollar pile, tags read TAXES and TEN PERCENT PENALTY, TWENTY THOUSAND GONE, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The missing sixty grows to zero instead of two hundred thousand by retirement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a growth chart with a dotted line reaching TWO HUNDRED THOUSAND and a flat line stuck at ZERO, sad face, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Josephine keeps every dollar invested and fills out the federal aid form.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman josephine at a laptop filling a form labeled FEDERAL STUDENT AID, a locked jar labeled RETIREMENT beside her, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her daughter gets grants, work study, and a modest federal loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a teenage daughter holding an award letter listing GRANTS, WORK STUDY, FEDERAL LOAN with check marks, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Josephine helps with two hundred dollars a month from cash flow.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman josephine handing a small envelope labeled TWO HUNDRED to her daughter, a calendar marked monthly, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "At sixty seven, her nest egg is four hundred thousand larger than Jules.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two nest eggs on a clinic scale, a huge one labeled JOSEPHINE and a small one labeled JULES, tag reads FOUR HUNDRED THOUSAND MORE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "The loan was twenty thousand. The retirement hole was two hundred thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard chart comparing a small bar reading TWENTY THOUSAND LOAN and a giant bar reading TWO HUNDRED THOUSAND HOLE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Retirement first, kids can borrow. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading RETIREMENT FIRST, a healthy growth chart behind her, kids comic book illustration"
+    }
+  ]
+}

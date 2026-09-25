@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-leland-vs-irene-fsa-use-it-or-lose-it-001",
+  "character": "doctor_dollar",
+  "topic": "Letting FSA money expire in December vs planning eligible spending all year (Leland vs Irene)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Workers forfeit hundreds of dollars of their own money every December. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a calendar with DECEMBER THIRTY ONE circled and cash disappearing, comic burst banner reads USE IT OR LOSE IT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Leland and Irene both put two thousand dollars into a flexible spending account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man leland and woman irene each holding an FSA card reading TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The money is pre tax, but it expires at year end.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an FSA card with a tag reading PRE TAX and a countdown clock reading EXPIRES DECEMBER, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Leland forgets about it until a reminder email in late December.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leland opening an email on December twenty eighth reading BALANCE ONE THOUSAND TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He panics and buys sunglasses and bandages he does not need.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man leland in a pharmacy with a cart of sunglasses and bandage boxes, a clock ticking, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Six hundred dollars still expires at midnight. Gone forever.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a balance screen reading SIX HUNDRED FORFEITED, man leland holding his head, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Irene lists her known costs in January. Glasses, dental, prescriptions, copays.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman irene writing a list reading GLASSES, DENTAL, PRESCRIPTIONS, COPAYS in January, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She sets a mid year check in and books her dental cleaning in October.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman irene at a dentist office, a calendar reads OCTOBER, an FSA card in hand, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "By November she has spent nineteen hundred on things she needed anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a receipt list totaling NINETEEN HUNDRED, each item marked NEEDED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The last hundred buys a first aid kit and sunscreen for next summer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman irene holding a first aid kit and sunscreen, a balance reading ZERO, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Leland threw away six hundred dollars. Irene kept every pre tax dollar.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man leland watching cash burn, woman irene with a receipt reading ZERO FORFEITED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Plan the FSA in January, not December. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading PLAN THE FSA IN JANUARY, a healthy spending chart behind her, kids comic book illustration"
+    }
+  ]
+}

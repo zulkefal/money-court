@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-basil-vs-blythe-debt-validation-letter-001",
+  "character": "judge_vera",
+  "topic": "Paying a collector on the first call vs demanding written debt validation within thirty days (Basil vs Blythe)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Collectors must prove a debt is real, but only if you ask. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding up a letter stamped VALIDATION REQUEST, a ringing phone on the bench, comic burst banner reads PROVE IT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Basil and Blythe each get a call about a two thousand dollar debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man basil and woman blythe each holding a phone, caller ID reads COLLECTIONS, a tag reads TWO THOUSAND DOLLARS, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Neither remembers it, and the caller pushes for payment today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy collector figure on a phone screen with a speech banner reading PAY TODAY, a confused question mark above two callers, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Basil panics and pays five hundred dollars over the phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man basil sweating, reading his debit card number into the phone, a tag reads FIVE HUNDRED PAID, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His payment restarts the clock on a debt that was six years old.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a big comic clock being wound backwards by a collector hand, a calendar tag reads SIX YEARS OLD, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Worse, the balance was inflated with fees nobody could explain.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a debt statement with mystery fee lines stacked high, question marks over each fee, man basil scratching his head, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Blythe says one sentence. Send me written validation of this debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman blythe calm and firm on the phone, a comic speech banner reads SEND ME WRITTEN VALIDATION, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Under federal law, the collector has to mail proof and pause collection.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a law book open to a page reading FAIR DEBT COLLECTION PRACTICES ACT, a collector with a paused sign over his mouth, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The letter arrives showing a debt already paid in full years ago.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman blythe holding a validation letter with a highlighted line reading PAID IN FULL, a date years earlier, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She disputes it in writing and the collector closes the file.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman blythe mailing a dispute letter, a collector folder stamped CLOSED, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Basil is out five hundred and still getting calls. Blythe paid nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man basil with a ringing phone and an empty wallet, woman blythe relaxed with a coffee and a check mark, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never pay on a first call. Demand written validation. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading DEMAND WRITTEN VALIDATION, a phone with a hang up icon, kids comic book illustration"
+    }
+  ]
+}

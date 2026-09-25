@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-kendrick-vs-hilda-consolidation-loan-then-recharging-001",
+  "character": "doctor_dollar",
+  "topic": "Taking a consolidation loan and running the cards back up vs freezing the cards after consolidating (Kendrick vs Hilda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Consolidating card debt often ends with double the debt. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a chart of debt dropping then doubling, comic burst banner reads DOUBLE THE DEBT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kendrick and Hilda both owe fifteen thousand across four cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man kendrick and woman hilda each holding four cards with a tag reading FIFTEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both take a consolidation loan at eleven percent to pay them off.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a loan document reading FIFTEEN THOUSAND AT ELEVEN PERCENT, four cards showing zero balance, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kendrick keeps the cards open in his wallet. Just in case.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kendrick sliding four cards back into his wallet, a thought bubble reads JUST IN CASE, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Vacations, dinners, and a new TV land on the empty cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kendrick swiping cards for a beach trip, a restaurant, and a TV, balances climbing, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Two years later he owes the loan plus twelve thousand in new card debt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart with two stacked bars reading LOAN and NEW CARD DEBT TWELVE THOUSAND, man kendrick sweating, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Twenty seven thousand total. Worse than where he started.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard reading TOTAL DEBT TWENTY SEVEN THOUSAND, a red down arrow, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Hilda freezes three cards in her app and cuts up two.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hilda tapping FREEZE in a banking app, scissors cutting two cards, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She keeps one card for gas only and pays it in full monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hilda at a gas pump with one card, a statement reads PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Every dollar that used to feed the cards now feeds the loan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an arrow of cash flowing from crossed out cards into a loan balance shrinking, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Two years later, her loan is gone. Debt, zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hilda holding a statement reading LOAN PAID, a tag reads DEBT ZERO, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Consolidate, then freeze the cards. No refills. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading FREEZE THE CARDS, a healthy debt free chart behind her, kids comic book illustration"
+    }
+  ]
+}

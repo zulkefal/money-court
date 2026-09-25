@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-magnus-vs-juliet-inheritance-windfall-plan-001",
+  "character": "doctor_dollar",
+  "topic": "Spending an inheritance in six months vs parking it for ninety days and building a plan (Magnus vs Juliet)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Most windfalls are gone within a few years. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a chart of a windfall dropping to zero, comic burst banner reads GONE IN YEARS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Magnus and Juliet each inherit sixty thousand dollars from an aunt.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man magnus and woman juliet each holding a check reading SIXTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Neither has ever held that much money at once.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two people staring wide eyed at a check, sparkles and question marks, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Magnus buys a truck, a big TV, and takes everyone to Mexico.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man magnus beside a new truck, a giant TV, and a beach photo with friends, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He lends ten thousand to a cousin who never pays it back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man magnus handing cash to a cousin, a note reads I OU TEN THOUSAND fading away, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Six months later the account reads four hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank screen reading BALANCE FOUR HUNDRED, man magnus shocked, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The truck payment is still there. The aunt's gift is not.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man magnus paying a truck note, an empty frame where the inheritance used to be, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Juliet parks the money in a high yield account and waits ninety days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juliet moving the check into an account labeled HIGH YIELD, a calendar reads NINETY DAYS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays off nine thousand in card debt and fills a six month emergency fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juliet with a statement reading CARD DEBT ZERO and a jar labeled SIX MONTH FUND, full, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Thirty thousand goes into index funds. Five thousand goes to a trip she planned.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman juliet viewing a portfolio chart reading THIRTY THOUSAND, a small suitcase with a tag reading FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten years later, Magnus has a used truck. Juliet has ninety thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man magnus beside an aging truck, woman juliet beside a chart reading NINETY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Windfall? Park it ninety days. Then debt, cushion, invest. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading PARK IT NINETY DAYS, a healthy net worth chart behind her, kids comic book illustration"
+    }
+  ]
+}

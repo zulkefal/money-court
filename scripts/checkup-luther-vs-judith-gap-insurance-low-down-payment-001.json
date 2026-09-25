@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-luther-vs-judith-gap-insurance-low-down-payment-001",
+  "character": "doctor_dollar",
+  "topic": "Skipping gap insurance on a car bought with little down vs adding it for a few dollars a month (Luther vs Judith)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A totaled car can leave you paying for scrap metal. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a crushed car with a loan balance floating above it, comic burst banner reads PAYING FOR NOTHING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Luther and Judith both finance a thirty thousand dollar car with nothing down.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man luther and woman judith each signing at a dealer, a tag reads ZERO DOWN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Cars lose twenty percent of their value in the first year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a car rolling off a lot with a price tag dropping from THIRTY THOUSAND to TWENTY FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Luther declines gap coverage. Another upsell, he figures.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man luther waving off a dealer form reading GAP COVERAGE, a thought bubble reads UPSELL, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Ten months later a truck runs a red light and totals the car.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a crushed sedan at an intersection, a truck with a red light behind it, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Insurance pays twenty three thousand. The loan balance is twenty eight thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a check reading TWENTY THREE THOUSAND beside a loan statement reading TWENTY EIGHT THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Luther owes five thousand dollars on a car in a scrapyard.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man luther writing a check while looking at a crushed car in a scrapyard, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Judith adds gap insurance through her insurer for six dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman judith checking a box on her insurance app reading GAP COVERAGE SIX DOLLARS MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her car is totaled in the same kind of crash the same year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a second crushed sedan, woman judith unharmed on the curb, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Insurance pays twenty three thousand. Gap pays the remaining five.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two checks reading TWENTY THREE THOUSAND and FIVE THOUSAND GAP, a loan stamped PAID, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "She walks away owing nothing and buys her next car with a clean slate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman judith holding keys to a new car, a tag reads ZERO OWED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Little down? Add gap coverage until you are above water. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading ADD GAP UNTIL YOU ARE ABOVE WATER, a healthy loan chart behind her, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-fabian-vs-dominique-health-discount-card-fake-insurance-001",
+  "character": "detective_cash",
+  "topic": "Buying a health discount card sold as insurance vs verifying the plan with the state insurance department (Fabian vs Dominique)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The cheap health plan was a discount card that covered nothing. Case file 0121. Time of incident, open enrollment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a plastic card reading HEALTH PLAN beside a hospital bill stamped NOT COVERED, comic burst banner reads CASE FILE 0121, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Fabian and Dominique both shop for health coverage after leaving their jobs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man fabian and woman dominique at laptops with a page reading FIND COVERAGE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A caller offers full coverage for ninety nine dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone caller with a speech banner reading FULL COVERAGE NINETY NINE A MONTH, a too shiny smile, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Fabian signs up and gets a plastic card in the mail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man fabian holding a glossy plastic card with a generic medical logo, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six months later he breaks his wrist. The hospital bills twelve thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man fabian with a cast holding a hospital bill reading TWELVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The card is a discount club, not insurance. Coverage, zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the card under a magnifying glass revealing tiny print reading DISCOUNT PROGRAM NOT INSURANCE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Fabian owes twelve thousand and six hundred in worthless monthly fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man fabian beside a hospital bill and a stack of receipts reading NINETY NINE MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Dominique asks the caller for the insurer name and plan number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dominique on the phone with a notepad, speech banner reads INSURER NAME AND PLAN NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She checks it with the state insurance department. Not licensed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dominique at a laptop on a state site reading NO LICENSED INSURER BY THAT NAME, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She enrolls in a real marketplace plan with a subsidy instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dominique on the official marketplace site, a plan card reads LICENSED, a subsidy tag, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fabian owes twelve thousand. Dominique paid a two hundred dollar deductible.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man fabian beside a giant bill, woman dominique beside a small receipt reading TWO HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Real insurance is licensed by your state. Verify before you pay. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VERIFY WITH THE STATE, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-edmund-vs-charlotte-vacation-rental-off-platform-001",
+  "character": "detective_cash",
+  "topic": "Paying a vacation rental host by wire outside the app vs keeping every payment on the platform (Edmund vs Charlotte)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The beach house was real. The host who asked for a wire was not. Case file 0114. Time of incident, evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a photo of a beach house and a wire receipt stamped NO SUCH HOST, comic burst banner reads CASE FILE 0114, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Edmund and Charlotte both book the same beach house for a family week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man edmund and woman charlotte scrolling a listing of a sunny beach house on their phones, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The host messages. Pay by bank transfer and I will take fifteen percent off.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat bubble reading PAY BY BANK TRANSFER, FIFTEEN PERCENT OFF, a sneaky avatar, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Edmund likes the discount and wires twenty six hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man edmund at a bank sending a wire, a slip reads TWENTY SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The listing disappears the next morning. So does the host.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen reading LISTING NO LONGER AVAILABLE, man edmund staring, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The platform cannot help. The payment never touched their system.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a support agent shrugging behind a screen reading NO PAYMENT ON RECORD, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Vacation week arrives. The family sleeps in a motel by the highway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man edmund and family in a cramped motel room, a highway sign outside, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Charlotte replies, I only pay through the app, thanks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman charlotte typing a message reading I ONLY PAY THROUGH THE APP, a shield icon, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The host pushes harder, then goes silent. She reports the account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman charlotte tapping a REPORT button, the host avatar fading out, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She books a verified listing with in app payment and reviews.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman charlotte booking a listing with a verified badge and five stars, a lock icon on the payment, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Edmund lost twenty six hundred. Charlotte is on the beach.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man edmund in a motel, woman charlotte in a beach chair with a drink, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "A discount for paying off platform is the scam itself. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads KEEP IT ON THE PLATFORM, kids comic book illustration"
+    }
+  ]
+}

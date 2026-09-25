@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-gareth-vs-eileen-discounted-gift-cards-stranger-001",
+  "character": "detective_cash",
+  "topic": "Buying discounted gift cards from a stranger online vs a licensed resale site with a guarantee (Gareth vs Eileen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The half price gift cards were drained before the buyer got home. Case file 0124. Time of incident, evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a gift card with a balance reading ZERO next to a receipt reading HALF PRICE, comic burst banner reads CASE FILE 0124, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Gareth and Eileen both want to save on holiday gift cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man gareth and woman eileen making holiday shopping lists with gift card icons, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A stranger online offers five hundred dollar cards for two hundred fifty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a marketplace post reading FIVE HUNDRED CARDS FOR TWO FIFTY, a faceless seller avatar, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Gareth meets the seller and pays cash for four cards.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gareth handing cash to a hooded seller in a parking lot, four gift cards in hand, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The seller checks each balance on his phone. Looks fine.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the seller showing a phone screen reading BALANCE FIVE HUNDRED, a sneaky grin, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "By the time Gareth gets home, every card reads zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gareth at home scanning a card, the screen reads BALANCE ZERO, jaw dropped, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The seller kept the numbers and drained them online first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the seller at a laptop typing card numbers, a screen reads REDEEMED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Eileen uses a licensed resale site with a money back guarantee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eileen on a resale website with a badge reading BALANCE GUARANTEED, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The discount is smaller, twelve percent, but every card is verified.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a checkout screen reading TWELVE PERCENT OFF, VERIFIED BALANCE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "One card shows a problem, and the site refunds it in a day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eileen receiving a refund email, a check mark over a gift card, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gareth lost one thousand cash. Eileen saved sixty and kept every dollar.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man gareth beside four dead cards, woman eileen wrapping gifts with a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Half price gift cards from strangers are empty cards. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads LICENSED RESALE ONLY, kids comic book illustration"
+    }
+  ]
+}

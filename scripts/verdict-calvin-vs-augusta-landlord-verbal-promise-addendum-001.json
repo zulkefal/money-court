@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-calvin-vs-augusta-landlord-verbal-promise-addendum-001",
+  "character": "judge_vera",
+  "topic": "Trusting a landlord's verbal promises vs putting every promise in a signed lease addendum (Calvin vs Augusta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "If it is not in the lease, it was never promised. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a lease with a blank line, a speech bubble fading away, comic burst banner reads NOT IN WRITING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Calvin and Augusta both tour the same apartment building in May.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man calvin and woman augusta each touring an apartment with a leasing agent, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The agent promises free parking and new carpet before move in.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a leasing agent smiling with a speech banner reading FREE PARKING AND NEW CARPET, fingers crossed behind his back, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Calvin signs the standard lease that afternoon and shakes hands.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man calvin shaking hands and signing a standard lease, no extra pages, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Move in day, the old carpet is still there and parking is ninety dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man calvin standing on a stained carpet holding a notice reading PARKING NINETY DOLLARS MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He complains. Management says nothing like that is in your lease.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a manager pointing at a lease page, speech banner reads SHOW ME WHERE IT SAYS THAT, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Over the year he pays one thousand eighty dollars for parking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a stack of parking receipts adding up to a total reading ONE THOUSAND EIGHTY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Augusta asks for every promise in a signed addendum before she signs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman augusta holding a pen back, speech banner reads WRITE IT INTO THE LEASE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The addendum lists free parking and carpet replaced by June first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a lease addendum reading FREE PARKING SPACE FOURTEEN and NEW CARPET BY JUNE FIRST, two signatures, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When the carpet is late, she cites the addendum and gets a rent credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman augusta showing the addendum to a manager, a rent statement shows a credit line, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Calvin paid one thousand eighty for a promise. Augusta paid nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man calvin feeding a parking meter, woman augusta parking free in space fourteen, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Verbal promises are worth nothing. Get an addendum signed. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a signed page reading LEASE ADDENDUM with a gold seal, kids comic book illustration"
+    }
+  ]
+}

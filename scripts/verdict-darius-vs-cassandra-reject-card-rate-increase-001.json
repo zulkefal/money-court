@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-darius-vs-cassandra-reject-card-rate-increase-001",
+  "character": "judge_vera",
+  "topic": "Ignoring a credit card rate increase notice vs rejecting the new terms in writing (Darius vs Cassandra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "You can legally refuse a credit card rate hike. Almost nobody does. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a letter reading NOTICE OF RATE INCREASE with a big red NO stamp, comic burst banner reads YOU CAN REFUSE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Darius and Cassandra both carry six thousand dollars on the same card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man darius and woman cassandra each holding a card statement reading SIX THOUSAND BALANCE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A notice arrives. The rate rises from nineteen to twenty nine percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a letter with bold lines reading NINETEEN PERCENT crossed out and TWENTY NINE PERCENT in red, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Darius tosses it. Just another piece of bank mail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man darius dropping the letter into a trash can without reading it, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His minimum payment jumps and the balance barely moves.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement showing a bigger minimum payment, a balance bar that stays nearly full, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Over three years he pays twenty six hundred dollars in extra interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pile of coins labeled EXTRA INTEREST TWENTY SIX HUNDRED, man darius sighing, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Cassandra reads the notice and finds the forty five day opt out right.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cassandra reading the letter with a magnifying glass over a line reading YOU MAY REJECT THESE TERMS WITHIN FORTY FIVE DAYS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She rejects the change in writing before the deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cassandra mailing a letter reading I REJECT THE NEW TERMS, a calendar with day forty circled, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The card closes to new charges, but her balance stays at nineteen percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a card with a padlock icon, a statement reading RATE NINETEEN PERCENT UNTIL PAID, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She pays it down under the old rate in three years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cassandra watching a balance bar shrink to zero, a calendar flipping three years, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Darius paid twenty six hundred extra. Cassandra paid nothing extra.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man darius beside a tower of interest coins, woman cassandra beside a receipt reading ZERO EXTRA, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read every rate notice. Reject it in writing within forty five days. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a letter stamped REJECTED WITHIN FORTY FIVE DAYS, kids comic book illustration"
+    }
+  ]
+}

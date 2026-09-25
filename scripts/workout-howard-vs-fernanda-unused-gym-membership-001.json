@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-howard-vs-fernanda-unused-gym-membership-001",
+  "character": "coach_vault",
+  "topic": "Paying for a fancy gym you never visit vs a cheap gym and free outdoor workouts (Howard vs Fernanda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Most gym memberships are used less than twice a month. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a dusty gym key card and a running shoe, comic burst banner reads TWICE A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Howard and Fernanda both join gyms in January to get fit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man howard and woman fernanda signing up at a front desk, a banner reads NEW YEAR, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Howard picks the luxury club at ninety dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man howard holding a key card at a fancy club with a pool and a smoothie bar, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "He goes four times in January and twice in February.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a calendar with four visits in January and two in February, then blanks, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "By April he has not visited once, but the fee keeps coming.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man howard on a couch, a bank statement line reading LUXURY CLUB NINETY DOLLARS repeating, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Twelve months, one thousand eighty dollars, and no gains.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a treadmill display reading ONE THOUSAND EIGHTY, an empty weight rack, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Fernanda joins the ten dollar gym down the street.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fernanda signing up at a basic gym with a sign reading TEN DOLLARS A MONTH, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She runs outside twice a week and lifts at the gym twice.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman fernanda running in a park and then lifting at a simple gym, a schedule reads FOUR DAYS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her year costs one hundred twenty dollars and she is stronger.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scoreboard reading ONE HUNDRED TWENTY, woman fernanda flexing, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The nine hundred sixty dollar difference goes into her savings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a jar labeled SAVINGS filling with a tag reading NINE SIXTY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Howard paid for a pool he never swam in. Fernanda paid for results.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man howard beside an empty pool, woman fernanda crossing a finish line, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pay for the gym you actually use. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading USE IT OR LOSE IT, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-ansel-vs-agatha-wedding-venue-cancellation-clause-001",
+  "character": "judge_vera",
+  "topic": "Signing a wedding venue contract with no cancellation terms vs negotiating a refund schedule (Ansel vs Agatha)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A venue contract with no cancellation clause can keep every dollar. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a venue contract stamped NON REFUNDABLE, a wedding cake tipping over, comic burst banner reads EVERY DOLLAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ansel and Agatha both book the same ballroom for spring weddings.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ansel and woman agatha each shaking hands with a venue manager in a grand ballroom, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each puts down a ten thousand dollar deposit at signing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two deposit receipts on a table each reading TEN THOUSAND DEPOSIT, a ballroom in the background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ansel signs the venue contract without reading the fine print.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ansel signing a thick contract quickly, tiny fine print glowing red at the bottom, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight months out, his fiancee takes a job across the country.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ansel holding a phone showing a map with a plane arrow across the country, a job offer letter, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The contract says all payments are forfeited on cancellation. Ten thousand gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a contract line reading ALL PAYMENTS FORFEITED, a pile of cash disappearing in a puff of smoke, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Agatha asks for a cancellation schedule before she signs anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agatha holding a pen back and pointing at the contract, speech banner reads CANCELLATION TERMS FIRST, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "They agree, full refund minus five hundred if she cancels six months out.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a contract addendum reading FULL REFUND MINUS FIVE HUNDRED UP TO SIX MONTHS PRIOR, both parties initialing, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She also adds a clause moving the date if the venue closes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agatha writing a clause reading DATE TRANSFER IF VENUE CLOSES, a padlock icon on the venue door, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When plans change, she cancels seven months out by certified mail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman agatha at a post office counter sending a certified letter, a receipt stamped CERTIFIED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ansel lost ten thousand dollars. Agatha got ninety five hundred back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man ansel with empty pockets, woman agatha holding a refund check reading NINETY FIVE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never sign a deposit contract without a cancellation schedule. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a contract with a highlighted line CANCELLATION SCHEDULE, banner reads GET IT IN WRITING, kids comic book illustration"
+    }
+  ]
+}

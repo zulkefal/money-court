@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lars-vs-imelda-skipping-espp-discount-001",
+  "character": "doctor_dollar",
+  "topic": "Ignoring the employee stock purchase plan vs enrolling and selling the discounted shares right away (Lars vs Imelda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Some workers skip a guaranteed fifteen percent raise every year. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a stock certificate stamped FIFTEEN PERCENT OFF, comic burst banner reads FREE RAISE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lars and Imelda both work at a company with a stock purchase plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lars and woman imelda at office desks, a benefits poster reads ESPP, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The plan sells company shares at a fifteen percent discount from paycheck money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a benefits page reading BUY SHARES AT FIFTEEN PERCENT DISCOUNT, a paycheck arrow, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lars skips it. Stocks feel risky and the form looks long.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lars closing a benefits form with a shrug, a thought bubble reads TOO RISKY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He leaves about fifteen hundred dollars a year on the table.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a table with a pile of cash reading FIFTEEN HUNDRED, man lars walking away, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Ten years, fifteen thousand dollars of free money never collected.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard chart with ten empty bars, a tag reads FIFTEEN THOUSAND MISSED, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Imelda enrolls at ten percent of her pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imelda checking a box reading CONTRIBUTE TEN PERCENT on the enrollment form, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Every six months, the shares land and she sells them the same day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imelda tapping SELL on a phone the day shares arrive, a calendar reads EVERY SIX MONTHS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "No company stock risk, just the discount locked in as cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cash pile labeled DISCOUNT PROFIT, a company stock icon crossed out, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She moves the profit into her index fund every time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman imelda transferring cash into an account labeled INDEX FUND, a rising chart, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten years later that habit is worth over twenty thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clinic growth chart climbing to TWENTY THOUSAND, woman imelda flexing, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Enroll, sell the same day, invest the gain. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading ENROLL AND SELL SAME DAY, a healthy growth chart behind her, kids comic book illustration"
+    }
+  ]
+}

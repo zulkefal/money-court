@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-byron-vs-audra-quarterly-estimated-taxes-gig-001",
+  "character": "judge_vera",
+  "topic": "Skipping quarterly estimated taxes on gig income vs paying them every quarter (Byron vs Audra)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Gig workers get fined just for paying taxes once a year. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a tax form stamped PENALTY, a delivery bag and a laptop beside it, comic burst banner reads FOUR TIMES A YEAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Byron and Audra both earn forty thousand dollars driving and freelancing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man byron in a delivery car and woman audra at a freelance laptop, a tag reads FORTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Nobody withholds taxes from their pay. It is on them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pay app screen showing a deposit with no tax line, a tax form floating with a question mark, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Byron spends as he earns and plans to settle up in April.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man byron spending cash at a restaurant and a store, a calendar page reads APRIL far away, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "April arrives with a nine thousand dollar bill he cannot pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man byron staring at a tax bill reading NINE THOUSAND DUE, empty wallet, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Add underpayment penalties and interest. He sets up a plan at eight percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tax notice with lines reading PENALTY and INTEREST EIGHT PERCENT, a payment plan form, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Audra moves twenty five percent of every payment into a tax account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman audra sliding a slice of each deposit into a jar labeled TAXES TWENTY FIVE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Every quarter she pays the estimate online in ten minutes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman audra at a laptop on a page reading ESTIMATED PAYMENT, a calendar shows four marked dates, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She tracks mileage and expenses, cutting her taxable income.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman audra logging miles on a phone app, receipts sorted in a folder, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "April is boring. A small refund and no penalties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman audra holding a small refund check, a calm April calendar, a coffee mug, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Byron owes over ten thousand with penalties. Audra owes nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man byron beside a bill reading TEN THOUSAND PLUS, woman audra beside a stamp reading PAID IN FULL, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Set aside a quarter of every payment. Pay quarterly. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a jar labeled TAXES and a calendar with four dates circled, kids comic book illustration"
+    }
+  ]
+}

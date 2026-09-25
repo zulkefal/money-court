@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-baxter-vs-arabella-car-sale-release-of-liability-001",
+  "character": "judge_vera",
+  "topic": "Selling a car privately with just a handshake vs filing a release of liability the same day (Baxter vs Arabella)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "You can get tickets for a car you sold months ago. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a stack of parking tickets, a sedan driving away in the background, comic burst banner reads STILL YOUR CAR, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Baxter and Arabella both sell their old sedans to strangers for cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man baxter and woman arabella each handing keys to a buyer beside a used sedan, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each gets three thousand dollars and hands over the keys.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two stacks of cash each labeled THREE THOUSAND on a car hood, keys beside them, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Baxter signs the title, pockets the cash, and forgets about it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man baxter stuffing cash in his pocket and waving goodbye as the sedan drives off, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The buyer never registers the car in his own name.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a buyer tossing the title into a glovebox, a DMV form left blank, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Three months later toll bills and parking tickets arrive addressed to Baxter.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man baxter opening a mailbox stuffed with envelopes reading TOLL VIOLATION and PARKING TICKET, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Then a tow yard bills him nine hundred dollars in storage fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tow yard invoice reading STORAGE NINE HUNDRED DOLLARS, man baxter sweating, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Arabella files a release of liability with the DMV before dinner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman arabella at a laptop submitting a form labeled RELEASE OF LIABILITY, a clock reads five pm, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She keeps a signed bill of sale with the buyer name and date.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bill of sale with signatures and the words DATE SOLD, tucked in a folder, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She calls her insurer and removes the car the same day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman arabella on the phone, an insurance card with the sedan crossed off, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Baxter spent months fighting tickets. Arabella spent ten minutes online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man baxter buried in tickets at a courthouse window, woman arabella sipping tea with a laptop, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Sell the car, then file the release the same day. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a form reading RELEASE OF LIABILITY with a big check mark, kids comic book illustration"
+    }
+  ]
+}

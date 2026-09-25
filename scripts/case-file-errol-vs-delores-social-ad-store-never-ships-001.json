@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-errol-vs-delores-social-ad-store-never-ships-001",
+  "character": "detective_cash",
+  "topic": "Buying from a flashy social media ad store that never ships vs checking domain age and paying by credit card (Errol vs Delores)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The eighty percent off store had no address and never shipped a thing. Case file 0119. Time of incident, midnight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a phone ad reading EIGHTY PERCENT OFF and an empty shipping box, comic burst banner reads CASE FILE 0119, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Errol and Delores both see an ad for designer boots, eighty percent off.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man errol and woman delores looking at a phone ad for shiny boots with a huge discount, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The site has a countdown, glowing reviews, and no phone number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a website with a countdown timer, five star reviews, and a blank contact page, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Errol pays one hundred sixty dollars with his debit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man errol entering a debit card on a checkout page, the total reads ONE SIXTY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Weeks pass. A tracking number shows a package delivered in another state.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tracking page reading DELIVERED with a map pin far away, man errol confused, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The email bounces. The site is gone. The bank says debit disputes are limited.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bounced email icon, a dead website, a bank clerk shrugging, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Errol is out one hundred sixty with no boots and no recourse.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man errol in old boots looking at an empty doorstep, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Delores checks the domain age. Registered eleven days ago.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman delores at a laptop on a lookup page reading DOMAIN AGE ELEVEN DAYS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She searches the store name plus scam and finds a warning thread.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a search result page with a forum thread reading DO NOT BUY, NEVER SHIPPED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She buys from the real brand site using a credit card instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman delores on an official brand site paying with a credit card, a lock icon, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Errol lost one sixty. Delores got real boots and chargeback protection.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man errol with an empty box, woman delores wearing new boots with a card icon, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Check the domain age. Pay with credit. Ads are not stores. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CHECK DOMAIN AGE PAY BY CREDIT, kids comic book illustration"
+    }
+  ]
+}

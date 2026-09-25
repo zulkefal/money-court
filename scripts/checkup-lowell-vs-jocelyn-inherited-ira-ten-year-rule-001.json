@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lowell-vs-jocelyn-inherited-ira-ten-year-rule-001",
+  "character": "doctor_dollar",
+  "topic": "Cashing out an inherited IRA at once vs spreading withdrawals across the ten year window (Lowell vs Jocelyn)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Cashing out an inherited IRA at once hands a third to taxes. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a pie chart showing a big slice labeled TAXES, comic burst banner reads ONE THIRD GONE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lowell and Jocelyn each inherit a three hundred thousand dollar IRA from a parent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lowell and woman jocelyn each holding an account statement reading THREE HUNDRED THOUSAND INHERITED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The rule says empty it within ten years. How is up to them.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a rule card reading EMPTY WITHIN TEN YEARS, a calendar with ten pages, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lowell takes all three hundred thousand in year one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lowell pressing WITHDRAW ALL, a giant check reading THREE HUNDRED THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "It lands on top of his salary and pushes him into a top bracket.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tax bracket ladder with man lowell shoved to the top rung, a tag reads THIRTY SEVEN PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Taxes take about one hundred thousand dollars. Gone in April.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tax bill reading ONE HUNDRED THOUSAND, man lowell stunned, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Jocelyn withdraws thirty thousand a year for ten years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jocelyn setting a plan reading THIRTY THOUSAND PER YEAR, ten calendar pages, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Each slice stays in a lower bracket, taxed around twenty two percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tax bracket ladder with woman jocelyn standing on a middle rung, a tag reads TWENTY TWO PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The rest keeps growing tax deferred for up to a decade.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an account chart still growing while small slices are withdrawn each year, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her total tax is closer to sixty six thousand, and the balance grew meanwhile.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard reading TOTAL TAX SIXTY SIX THOUSAND, a growth arrow on the account, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Lowell kept two hundred thousand. Jocelyn kept over two hundred seventy thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man lowell beside a pile reading TWO HUNDRED THOUSAND, woman jocelyn beside a bigger pile reading TWO SEVENTY PLUS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Inherited IRA? Spread withdrawals across the ten years. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading SPREAD IT OVER TEN YEARS, a healthy tax chart behind her, kids comic book illustration"
+    }
+  ]
+}

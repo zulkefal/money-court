@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-kenneth-vs-hortense-work-only-life-insurance-001",
+  "character": "doctor_dollar",
+  "topic": "Relying only on employer life insurance vs owning a term policy that follows you (Kenneth vs Hortense)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Employer life insurance vanishes the day you leave the job. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a policy fading away beside an exit door, comic burst banner reads GONE WHEN YOU LEAVE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kenneth and Hortense are both thirty five with two kids and a mortgage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man kenneth and woman hortense each with two kids in front of a house, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both have one year of salary in life insurance through work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two benefits cards reading LIFE INSURANCE ONE TIMES SALARY, a company logo, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kenneth figures that is plenty and never buys more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kenneth shrugging beside a benefits booklet, a thought bubble reads GOOD ENOUGH, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "At forty two he is laid off. The coverage ends with his badge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kenneth handing in a badge, a policy document dissolving into smoke, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A new diagnosis makes buying a policy now four times the price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kenneth at a doctor office with a medical file, an insurance quote reading FOUR TIMES HIGHER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His family is left with a mortgage and no policy at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house with a question mark, a policy stamped TERMINATED, a worried family, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Hortense buys a twenty year term policy at thirty five for thirty dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hortense signing a policy reading TWENTY YEAR TERM, a premium tag reads THIRTY MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "It pays ten times her salary and belongs to her, not her employer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a policy document with a tag reading TEN TIMES SALARY and a stamp reading OWNED BY YOU, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When she changes jobs twice, the policy never blinks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hortense walking between two office buildings holding the same policy folder, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "At fifty five the house is paid and the term ends on schedule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman hortense at a paid off house with grown kids, a calendar reads TERM COMPLETE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Own a term policy that follows you anywhere. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading OWN YOUR TERM POLICY, a healthy family chart behind her, kids comic book illustration"
+    }
+  ]
+}

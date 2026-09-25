@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lyle-vs-lucia-pension-lump-sum-vs-annuity-001",
+  "character": "doctor_dollar",
+  "topic": "Grabbing a pension lump sum and spending it vs comparing it to the lifetime monthly annuity (Lyle vs Lucia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A lump sum looks huge until you divide by thirty years. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a big pile of cash on one side and a calendar of thirty years on the other, comic burst banner reads DIVIDE BY THIRTY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lyle and Lucia both retire at sixty five with the same pension.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lyle and woman lucia each holding a pension letter, a cake reads SIXTY FIVE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Option one, three thousand dollars monthly for life. Option two, four hundred thousand now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pension form with two boxes, THREE THOUSAND MONTHLY FOR LIFE and FOUR HUNDRED THOUSAND NOW, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lyle grabs the lump sum. It feels like winning the lottery.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lyle hugging a giant check reading FOUR HUNDRED THOUSAND, confetti and sparkles, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays off the house, buys a boat, and helps his son.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lyle beside a house, a shiny boat, and his son with a cash envelope, the check shrinking, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "By seventy three the account is empty. Social Security is all that remains.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lyle staring at a bank balance reading ZERO, a small check labeled SOCIAL SECURITY, a calendar reads SEVENTY THREE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Lucia runs the math. The monthly check equals a nine percent payout rate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lucia at a desk with a calculator, a note reads THIRTY SIX THOUSAND A YEAR EQUALS NINE PERCENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "No safe investment pays nine percent guaranteed for life.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank sign reading FOUR PERCENT next to a pension badge reading NINE PERCENT GUARANTEED FOR LIFE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She keeps the annuity and chooses the survivor option for her husband.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman lucia checking a box labeled LIFETIME ANNUITY WITH SURVIVOR BENEFIT, her husband smiling beside her, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "At ninety she is still cashing three thousand dollars every month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, elderly woman lucia opening a mailbox with a check reading THREE THOUSAND, a birthday banner reads NINETY, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Lyle got four hundred thousand. Lucia collected nine hundred thousand and counting.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clipboard chart with a short bar reading FOUR HUNDRED THOUSAND and a tall bar reading NINE HUNDRED THOUSAND AND COUNTING, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Math first, lump sum second. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading MATH FIRST, a steady monthly check chart behind her, kids comic book illustration"
+    }
+  ]
+}

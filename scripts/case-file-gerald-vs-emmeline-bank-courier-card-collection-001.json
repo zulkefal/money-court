@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-gerald-vs-emmeline-bank-courier-card-collection-001",
+  "character": "detective_cash",
+  "topic": "Handing your bank card to a courier sent by the bank vs knowing no bank ever collects cards (Gerald vs Emmeline)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The bank courier at the door was the thief himself. Case file 0127. Time of incident, early evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office sketching a courier at a front door with a fake badge and a hand reaching for a bank card, comic burst banner reads CASE FILE 0127, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Gerald and Emmeline both get a call from the bank fraud department.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man gerald and woman emmeline holding phones reading BANK FRAUD DEPT, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Your card was compromised. A courier will collect it for safe replacement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone bubble reading A COURIER WILL COLLECT YOUR CARD, a serious sounding caller, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Gerald is told to cut the card and confirm his PIN for security.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gerald cutting a card with scissors while reading his PIN into the phone, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "A courier arrives in a vest and takes the card pieces away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courier in a hi vis vest taking an envelope from man gerald at the door, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The chip still works. The thief drains four thousand dollars by midnight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the courier at an ATM using the taped together card, a screen reads WITHDRAW FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The bank fraud department never called. Real banks never send couriers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank employee on the phone shaking her head, a sign reads WE NEVER COLLECT CARDS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Emmeline hangs up and calls the number on her bank card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman emmeline hanging up and dialing the number printed on the back of her card, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The bank confirms no fraud and no courier. She freezes the card anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman emmeline tapping FREEZE CARD in her banking app, a green check mark, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When the fake courier knocks, she calls the police instead.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a courier at the door while woman emmeline holds a phone reading POLICE, the courier fleeing, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gerald lost four thousand and his PIN. Emmeline lost nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man gerald with an empty account screen, woman emmeline with a frozen card and a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No bank collects cards or asks for a PIN. Hang up and call back. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads BANKS NEVER SEND COURIERS, kids comic book illustration"
+    }
+  ]
+}

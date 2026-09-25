@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-merritt-vs-matilda-tax-withholding-big-refund-001",
+  "character": "doctor_dollar",
+  "topic": "Overwithholding for a big tax refund vs adjusting withholding and putting the difference to work monthly (Merritt vs Matilda)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A big refund means you overpaid all year. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard with a giant refund check stamped OVERPAID, comic burst banner reads YOUR OWN MONEY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Merritt and Matilda earn the same sixty thousand dollar salary.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man merritt and woman matilda each holding a pay stub reading SIXTY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both get a thirty six hundred dollar refund every April.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical refund checks reading THIRTY SIX HUNDRED, a calendar page reads APRIL, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Merritt loves it. He calls it his forced savings plan.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man merritt grinning and kissing a refund check, a thought bubble reads FORCED SAVINGS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Meanwhile he carries a card balance at twenty two percent all year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man merritt with a credit card statement reading TWENTY TWO PERCENT INTEREST, a heavy weight on his shoulder, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The refund arrives and he spends it in three weekends.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man merritt with shopping bags, a new TV, and a restaurant bill, the refund check torn into pieces, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Matilda updates her W4 and adds three hundred dollars to each paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman matilda filling out a form labeled W4, a pay stub shows an extra line reading PLUS THREE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "That extra pays off her card by June and kills the interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit card statement reading ZERO BALANCE with a calendar page reading JUNE, a bandage on the interest line, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "After that, the three hundred goes straight into her Roth IRA.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an automatic transfer arrow from a paycheck into a jar labeled ROTH IRA, THREE HUNDRED MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her refund next April is near zero, exactly as planned.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman matilda holding a tiny refund check reading TWELVE DOLLARS with a satisfied smile, a note reads AS PLANNED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Twenty years later, those monthly deposits grow to one hundred seventy thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clinic growth chart climbing to ONE HUNDRED SEVENTY THOUSAND, woman matilda flexing beside it, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Fix your withholding and pay yourself monthly. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading FIX YOUR WITHHOLDING, a healthy savings chart behind her, kids comic book illustration"
+    }
+  ]
+}

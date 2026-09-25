@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-irving-vs-frida-out-of-network-atm-fees-001",
+  "character": "coach_vault",
+  "topic": "Hitting any ATM and paying double fees vs planning cash withdrawals at your own bank (Irving vs Frida)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Every out of network ATM visit costs two fees, not one. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding an ATM receipt with two fee lines circled in red, comic burst banner reads TWO FEES, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Irving and Frida both pull out cash about twice a week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man irving and woman frida each at an ATM, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Irving uses whatever machine is closest. Gas station, bar, corner store.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man irving at a dingy corner store ATM with a sign reading FEE THREE FIFTY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "The machine charges three fifty. His own bank charges two fifty more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a receipt with lines reading ATM FEE THREE FIFTY and BANK FEE TWO FIFTY, total six dollars, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Six dollars twice a week. He never notices.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, coins slipping out of a hole in man irving pocket as he walks away, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Year end, six hundred twenty four dollars vanished into fees.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a treadmill display reading SIX HUNDRED TWENTY FOUR, man irving jaw dropped, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Frida finds her bank ATM map and pulls a week of cash on Mondays.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frida looking at a phone map with bank ATM pins, a calendar reads MONDAY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She also gets cash back at the grocery register for free.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frida at a checkout, the screen reads CASH BACK FORTY DOLLARS NO FEE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her ATM fees for the entire year add up to zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scoreboard reading ATM FEES ZERO, woman frida flexing, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She switches to a bank that refunds any ATM fee, just in case.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman frida holding a new debit card with a badge reading ALL ATM FEES REFUNDED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Irving paid six hundred twenty four dollars to touch his own money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man irving feeding bills into an ATM slot labeled FEES, woman frida keeping hers, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Plan your cash once a week. Never pay to withdraw. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading NEVER PAY TO WITHDRAW, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

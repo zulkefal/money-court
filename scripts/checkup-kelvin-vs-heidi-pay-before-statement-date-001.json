@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-kelvin-vs-heidi-pay-before-statement-date-001",
+  "character": "doctor_dollar",
+  "topic": "Paying the card after the due date vs paying before the statement closes to lower reported utilization (Kelvin vs Heidi)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Your credit score reads your balance on statement day, not payday. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic pointing at a calendar with STATEMENT DAY circled beside a credit score meter, comic burst banner reads STATEMENT DAY, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Kelvin and Heidi both spend two thousand a month on a five thousand limit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man kelvin and woman heidi each holding a card statement reading LIMIT FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both pay in full every month. Neither ever pays interest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two statements stamped PAID IN FULL, a tag reads INTEREST ZERO, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Kelvin pays on the due date, three weeks after the statement closes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kelvin paying on a calendar date labeled DUE DATE, the statement date three weeks earlier, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The bureau sees a two thousand dollar balance, forty percent utilization.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit report line reading BALANCE TWO THOUSAND, UTILIZATION FORTY PERCENT, a yellow warning, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His score sits at six hundred ninety. Fine, but not great.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a score meter needle at SIX NINETY in the yellow zone, man kelvin shrugging, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He applies for a mortgage and gets a higher rate tier.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man kelvin at a lender desk, a rate sheet shows his tier one step below the best, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Heidi pays most of her balance two days before the statement closes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman heidi paying on a calendar date two days before STATEMENT DAY, a check mark, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The bureau sees a two hundred dollar balance, four percent utilization.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit report line reading BALANCE TWO HUNDRED, UTILIZATION FOUR PERCENT, a green check, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her score reads seven hundred sixty with the exact same spending.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a score meter needle at SEVEN SIXTY in the green zone, woman heidi smiling, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Her mortgage rate is a quarter point lower. That is eighteen thousand over thirty years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mortgage chart comparing two rates, a tag reads EIGHTEEN THOUSAND SAVED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Pay before the statement closes, not by the due date. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading PAY BEFORE STATEMENT DAY, a healthy score chart behind her, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-emerson-vs-daphne-hacked-friend-investment-tip-001",
+  "character": "detective_cash",
+  "topic": "Sending money to an investment tip from a hacked friend account vs calling the friend directly (Emerson vs Daphne)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The friend bragging about crypto profits was a hacker wearing her face. Case file 0117. Time of incident, weekend.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a phone with a friend profile photo peeled back to reveal a masked hacker, comic burst banner reads CASE FILE 0117, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Emerson and Daphne both get a message from an old friend online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man emerson and woman daphne reading a message from a smiling friend profile, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "I turned five hundred into eight thousand in a week. Want in?",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat bubble reading FIVE HUNDRED TO EIGHT THOUSAND IN A WEEK, a screenshot of fake gains, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Emerson trusts the face and sends five hundred to the link.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man emerson tapping a link and sending five hundred dollars, hearts and dollar signs, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The account shows fake profits. He adds two thousand more.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fake dashboard showing a rising green chart, man emerson sending TWO THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "To withdraw, they demand a tax fee. The account then vanishes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pop up reading PAY TAX FEE TO WITHDRAW, then a blank screen, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The real friend was hacked weeks ago and never sent a thing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the real friend on a phone saying I WAS HACKED, a broken padlock icon, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Daphne finds it odd and calls her friend by phone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman daphne holding a phone to her ear, a thought bubble reads THAT DOES NOT SOUND LIKE HER, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The friend confirms the account was stolen and thanks her.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the friend on the other line with a relieved face, speech banner reads NOT ME, THANK YOU, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She reports the hacked profile and warns the group chat.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman daphne tapping REPORT and posting a warning in a group chat with alert icons, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Emerson lost twenty five hundred. Daphne lost a two minute phone call.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man emerson beside a bill reading TWENTY FIVE HUNDRED LOST, woman daphne smiling with a phone, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "A friend with a hot tip? Call the real number first. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CALL THE REAL FRIEND, kids comic book illustration"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-edgar-vs-eloise-payroll-direct-deposit-phishing-001",
+  "character": "detective_cash",
+  "topic": "Payroll direct deposit diversion phishing email vs verifying with HR in person (Edgar vs Eloise)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One fake email rerouted an entire paycheck to a thief. Case file 0111. Time of incident, payday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office studying a printed email with a hook on it and a paycheck flying out a window, comic burst banner reads CASE FILE 0111, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Edgar and Eloise both get an email that looks like HR.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man edgar and woman eloise at office desks looking at the same email, subject line reads FROM HR, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Please update your direct deposit before Friday. Click here to confirm.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen email with a big button reading CLICK HERE TO CONFIRM, a calendar shows FRIDAY circled, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Edgar clicks, logs into a lookalike portal, and types his password.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man edgar typing a password into a lookalike company login page, a tiny wrong letter in the web address, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The thief changes his bank details to a prepaid card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hooded thief at a laptop swapping a bank account line for a prepaid card, noir shadows, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Friday arrives. Three thousand dollars of pay lands with a stranger.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a paycheck labeled THREE THOUSAND flying into a stranger's prepaid card, man edgar checking an empty bank app, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The company cannot recall it. Recovery takes months and often fails.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a payroll clerk shrugging beside a calendar flipping months, a form stamped UNRECOVERABLE, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Eloise hovers over the link and sees a strange web address.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eloise hovering a cursor over a link, a tooltip shows a strange web address with a red squiggle, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She walks to HR and asks if they sent anything.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eloise standing at an HR office door talking to a staff member, a sign reads HUMAN RESOURCES, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "They did not. IT flags the email and warns the whole staff.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an IT worker at a screen pressing a big red REPORT PHISHING button, an alert banner goes out to office desks, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Edgar is missing a full paycheck. Eloise is missing nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man edgar with an empty wallet and a sad face, woman eloise holding a normal paycheck with a check mark, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "HR never updates banking by email link. Verify in person. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads VERIFY IN PERSON, kids comic book illustration"
+    }
+  ]
+}

@@ -34,7 +34,7 @@ from typing import Iterable
 
 from googleapiclient.discovery import build
 
-from config.settings import STATS_DIR
+from config.settings import PROJECT_ROOT, STATS_DIR
 from pipeline.logger import get_logger
 from pipeline.uploader import _credentials
 
@@ -202,8 +202,56 @@ def _snapshot_n_days_ago(today_path: Path, days: int) -> dict | None:
     return json.loads(best.read_text())
 
 
+_TITLE_SUFFIX = " | Money Court #shorts"
+_NAME_PAIR_RE = re.compile(r"([A-Za-z]+) vs ([A-Za-z]+)")
+_pair_to_character: dict[tuple[str, str], str] | None = None
+
+
+def _load_name_pairs() -> dict[tuple[str, str], str]:
+    """Map (name1, name2) -> mascot slug from every script in scripts/ + scripts/archive/.
+
+    Video titles never mention the mascot, only the two litigants, so this is
+    the only reliable way to attribute a video to a character.
+    """
+    global _pair_to_character
+    if _pair_to_character is not None:
+        return _pair_to_character
+    pairs: dict[tuple[str, str], str] = {}
+    scripts_dir = PROJECT_ROOT / "scripts"
+    for path in list(scripts_dir.glob("*.json")) + list(scripts_dir.glob("archive/*.json")):
+        try:
+            d = json.loads(path.read_text())
+        except (OSError, ValueError):
+            continue
+        char = d.get("character")
+        if not char:
+            continue
+        m = re.search(r"\(([^)]+) vs ([^)]+)\)", d.get("topic", ""))
+        if m:
+            pairs[(m.group(1).strip().lower(), m.group(2).strip().lower())] = char
+        parts = d.get("video_id", "").split("-")
+        if "vs" in parts:
+            i = parts.index("vs")
+            if 0 < i < len(parts) - 1:
+                pairs[(parts[i - 1], parts[i + 1])] = char
+    _pair_to_character = pairs
+    return pairs
+
+
+def _clean_title(title: str) -> str:
+    """Title for markdown tables: drop the channel suffix and escape pipes."""
+    if title.endswith(_TITLE_SUFFIX):
+        title = title[: -len(_TITLE_SUFFIX)]
+    return title.replace("|", "\\|")
+
+
 def _detect_character(title: str) -> str:
-    """Best-effort: pull the mascot name from a video title we generated."""
+    """Attribute a video to a mascot via the 'Name1 vs Name2' pair in its title."""
+    m = _NAME_PAIR_RE.search(title)
+    if m:
+        char = _load_name_pairs().get((m.group(1).lower(), m.group(2).lower()))
+        if char:
+            return char
     t = title.lower()
     for needle, slug in (
         ("judge vera",     "judge_vera"),
@@ -217,8 +265,6 @@ def _detect_character(title: str) -> str:
     ):
         if needle in t:
             return slug
-    if "money court" in t:
-        return "judge_vera"  # generic Money Court fallback
     return "unknown"
 
 
@@ -263,23 +309,47 @@ def weekly_digest(today_path: Path | None = None, lookback_days: int = 7) -> str
         })
 
     total_views_now = sum(r["views"] for r in rows)
-    total_views_prior = sum(prior_views.values()) if prior else 0
-    weekly_view_gain = total_views_now - total_views_prior
+    # Snapshots only hold the newest N videos (see fetch_recent_video_ids), so
+    # older videos roll off as new ones are published. Comparing raw totals
+    # therefore goes negative. The real weekly gain is the sum of per-video
+    # deltas for videos present in both snapshots plus the views of videos
+    # that are new since the prior snapshot.
+    weekly_view_gain = sum(r["delta_views"] for r in rows)
+    weekly_like_gain = sum(r["delta_likes"] for r in rows)
+    today_ids = {r["video_id"] for r in rows}
+    new_ids = today_ids - set(prior_views) if prior else set()
+    dropped = len(set(prior_views) - today_ids) if prior else 0
     total_likes_now = sum(r["likes"] for r in rows)
     total_comments = sum(r["comments"] for r in rows)
 
-    # Top + bottom performers, ranked by view gain over the week
+    # Top performers, ranked by view gain over the week
     sorted_by_gain = sorted(rows, key=lambda r: r["delta_views"], reverse=True)
     top = sorted_by_gain[:5]
-    public_rows = [r for r in rows if r["delta_views"] is not None]
-    bottom_pool = [r for r in public_rows if r["delta_views"] < 50][:3]
+    # Underperformers: videos old enough to have had their shot (published
+    # between lookback and 4x lookback days ago) with the fewest lifetime views.
+    today_dt = datetime.fromisoformat(today["date"]).replace(tzinfo=timezone.utc)
+    settled: list[dict] = []
+    for r in rows:
+        try:
+            pub = datetime.fromisoformat(r["published_at"].replace("Z", "+00:00"))
+        except (ValueError, AttributeError):
+            continue
+        age = (today_dt - pub).days
+        if lookback_days <= age <= lookback_days * 4:
+            settled.append(r)
+    bottom_pool = sorted(settled, key=lambda r: (r["views"], r["likes"]))[:3]
 
-    # Per-mascot aggregates (this week's view gain)
+    # Per-mascot aggregates: this week's view gain + lifetime average per video
     mascot_gain: dict[str, int] = {}
     mascot_count: dict[str, int] = {}
+    mascot_views: dict[str, int] = {}
+    mascot_likes: dict[str, int] = {}
     for r in rows:
-        mascot_gain[r["character"]] = mascot_gain.get(r["character"], 0) + r["delta_views"]
-        mascot_count[r["character"]] = mascot_count.get(r["character"], 0) + 1
+        c = r["character"]
+        mascot_gain[c] = mascot_gain.get(c, 0) + r["delta_views"]
+        mascot_count[c] = mascot_count.get(c, 0) + 1
+        mascot_views[c] = mascot_views.get(c, 0) + r["views"]
+        mascot_likes[c] = mascot_likes.get(c, 0) + r["likes"]
     mascot_ranking = sorted(mascot_gain.items(), key=lambda kv: kv[1], reverse=True)
 
     prior_label = prior["date"] if prior else f"<no snapshot ~{lookback_days}d ago>"
@@ -290,10 +360,14 @@ def weekly_digest(today_path: Path | None = None, lookback_days: int = 7) -> str
     lines.append("")
     lines.append("## Headline")
     lines.append("")
-    lines.append(f"- **Total views:** {total_views_now:,} (+{weekly_view_gain:,} this week)")
-    lines.append(f"- **Total likes:** {total_likes_now:,}")
-    lines.append(f"- **Total comments:** {total_comments:,}")
-    lines.append(f"- **Videos on channel:** {len(rows)}")
+    lines.append(f"- **Views gained this week:** +{weekly_view_gain:,} "
+                 f"({len(new_ids)} new videos)")
+    lines.append(f"- **Likes gained this week:** +{weekly_like_gain:,}")
+    lines.append(f"- **Views across newest {len(rows)} videos:** {total_views_now:,} "
+                 f"(likes {total_likes_now:,}, comments {total_comments:,})")
+    if dropped:
+        lines.append(f"- _{dropped} older video(s) rolled out of the snapshot window since "
+                     f"{prior_label}; their views are excluded from the comparison._")
     lines.append("")
 
     lines.append("## Top performers (this week's view gain)")
@@ -301,36 +375,44 @@ def weekly_digest(today_path: Path | None = None, lookback_days: int = 7) -> str
     if not top or all(r["delta_views"] == 0 for r in top):
         lines.append("_No view gains this week — too early or stats not yet propagated._")
     else:
-        lines.append("| Title | Mascot | +Views (7d) | Likes | Views/day |")
-        lines.append("|---|---|---:|---:|---:|")
+        lines.append("| Title | Mascot | +Views (7d) | Total | Likes | Published |")
+        lines.append("|---|---|---:|---:|---:|---|")
         for r in top:
             lines.append(
-                f"| {r['title'][:60]} | {r['character']} | +{r['delta_views']:,} | "
-                f"{r['likes']:,} | {r['views_per_day']:.1f} |"
+                f"| {_clean_title(r['title'])[:60]} | {r['character']} | +{r['delta_views']:,} | "
+                f"{r['views']:,} | {r['likes']:,} | {(r['published_at'] or '')[:10]} |"
             )
     lines.append("")
 
     lines.append("## Underperformers (worth reviewing the hook + thumbnail)")
     lines.append("")
+    lines.append(f"_Lowest lifetime views among videos published {lookback_days}–"
+                 f"{lookback_days * 4} days ago._")
+    lines.append("")
     if not bottom_pool:
-        lines.append("_No clear underperformers — every video gained ≥50 views this week._")
+        lines.append("_No videos in that age window yet._")
     else:
-        lines.append("| Title | Mascot | +Views (7d) | Total views | Published |")
+        lines.append("| Title | Mascot | Total views | +Views (7d) | Published |")
         lines.append("|---|---|---:|---:|---|")
         for r in bottom_pool:
             pub = (r["published_at"] or "")[:10]
             lines.append(
-                f"| {r['title'][:60]} | {r['character']} | +{r['delta_views']:,} | "
-                f"{r['views']:,} | {pub} |"
+                f"| {_clean_title(r['title'])[:60]} | {r['character']} | {r['views']:,} | "
+                f"+{r['delta_views']:,} | {pub} |"
             )
     lines.append("")
 
-    lines.append("## By mascot (this week's view gain)")
+    lines.append("## By mascot")
     lines.append("")
-    lines.append("| Mascot | Videos | +Views (7d) |")
-    lines.append("|---|---:|---:|")
+    lines.append("| Mascot | Videos | +Views (7d) | Lifetime views | Avg views/video | Likes |")
+    lines.append("|---|---:|---:|---:|---:|---:|")
     for char, gain in mascot_ranking:
-        lines.append(f"| {char} | {mascot_count.get(char, 0)} | +{gain:,} |")
+        n = mascot_count.get(char, 0)
+        avg = mascot_views.get(char, 0) / n if n else 0.0
+        lines.append(
+            f"| {char} | {n} | +{gain:,} | {mascot_views.get(char, 0):,} | "
+            f"{avg:.1f} | {mascot_likes.get(char, 0):,} |"
+        )
     lines.append("")
 
     lines.append("## Full table")
@@ -339,7 +421,7 @@ def weekly_digest(today_path: Path | None = None, lookback_days: int = 7) -> str
     lines.append("|---|---|---:|---:|---:|---:|")
     for r in sorted(rows, key=lambda r: r["views"], reverse=True):
         lines.append(
-            f"| {r['title'][:60]} | {r['character']} | {r['views']:,} | "
+            f"| {_clean_title(r['title'])[:60]} | {r['character']} | {r['views']:,} | "
             f"+{r['delta_views']:,} | {r['likes']:,} | {r['comments']:,} |"
         )
     lines.append("")

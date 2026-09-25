@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-digby-vs-dorothea-card-cracking-scam-001",
+  "character": "detective_cash",
+  "topic": "Card cracking scam letting a stranger deposit checks into your account vs refusing to share your card (Digby vs Dorothea)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Students sold their debit cards for fast cash. Case file 0110. Time of incident, campus.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a debit card and a stack of bounced checks stamped FRAUD, comic burst banner reads CASE FILE 0110, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Digby and Dorothea both see a post promising two thousand dollars fast.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man digby and woman dorothea looking at a phone post reading TWO THOUSAND FAST, campus background, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Just share your card, PIN, and account. We handle the rest.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shadowy figure in a hoodie on a phone screen, a speech banner reads SHARE YOUR CARD AND PIN, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Digby hands over his card outside the campus coffee shop.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man digby handing a debit card to a hooded stranger outside a coffee shop, noir shadows, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Fake checks are deposited, and cash is withdrawn within hours.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an ATM at night spitting out cash into a stranger's hand, a check labeled FAKE going into a deposit slot, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The checks bounce, and the bank charges every dollar back to Digby.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank statement with a bouncing check drawn with motion lines, a red line reads CHARGEBACK TO ACCOUNT HOLDER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He owes four thousand and is flagged as a fraud accomplice.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man digby holding a letter reading YOU OWE FOUR THOUSAND, a red stamp reads FRAUD FLAG, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Dorothea asks why a real job would need her PIN.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dorothea with one eyebrow raised, a thought bubble shows a question mark over a PIN pad, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She reports the post to the bank fraud line and campus police.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dorothea on the phone with a bank fraud hotline, a campus police badge icon beside her, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her account stays clean, and her name stays off any fraud list.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dorothea holding a clean bank statement with a green check mark, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Digby owes four thousand and lost his account. Dorothea lost nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man digby with a closed account notice and empty pockets, woman dorothea smiling with a zero dollar tag, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Nobody legit needs your PIN. Never rent out your bank account. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads NEVER SHARE YOUR PIN, kids comic book illustration"
+    }
+  ]
+}

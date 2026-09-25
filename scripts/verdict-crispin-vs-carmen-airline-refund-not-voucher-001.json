@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-crispin-vs-carmen-airline-refund-not-voucher-001",
+  "character": "judge_vera",
+  "topic": "Accepting a voucher for a cancelled flight vs demanding the cash refund the law requires (Crispin vs Carmen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Airlines owe you cash for a cancelled flight, not a voucher. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a boarding pass stamped CANCELLED and a pile of cash, comic burst banner reads CASH NOT VOUCHERS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Crispin and Carmen both book the same six hundred dollar flight to a wedding.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man crispin and woman carmen holding tickets reading SIX HUNDRED, a wedding invitation, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The airline cancels the flight the night before departure.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone alert reading FLIGHT CANCELLED, a suitcase packed by the door, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Crispin clicks accept on a travel credit that expires in one year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man crispin tapping a button reading ACCEPT CREDIT, tiny text reads EXPIRES IN TWELVE MONTHS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays another four hundred to rebook on a different airline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man crispin buying a new ticket reading FOUR HUNDRED, a wallet getting thinner, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The credit sits unused. Blackout dates and fees eat most of it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a voucher covered in stamps reading BLACKOUT, FEE, EXPIRED, man crispin frustrated, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Carmen knows the federal rule. Cancelled flight equals cash refund on request.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman carmen holding a printed rule reading CANCELLED FLIGHT EQUALS REFUND TO ORIGINAL PAYMENT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She declines the voucher and requests a refund in writing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman carmen typing a message reading I DECLINE THE VOUCHER, REFUND MY CARD, a send arrow, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "When they stall, she files a complaint with the transportation department.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman carmen submitting an online complaint, a seal reads DEPARTMENT OF TRANSPORTATION, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Six hundred dollars returns to her card within seven business days.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a card statement showing a credit of SIX HUNDRED, a calendar with seven days checked, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Crispin is out four hundred plus a dying voucher. Carmen is whole.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man crispin holding a crumpled voucher, woman carmen holding a refunded card with a check mark, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cancelled flight? Refuse the voucher. Demand the refund. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading REFUND NOT VOUCHER, a plane icon, kids comic book illustration"
+    }
+  ]
+}

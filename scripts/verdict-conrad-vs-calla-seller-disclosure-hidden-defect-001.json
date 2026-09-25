@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-conrad-vs-calla-seller-disclosure-hidden-defect-001",
+  "character": "judge_vera",
+  "topic": "Hiding a known basement leak when selling a house vs disclosing it upfront (Conrad vs Calla)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Hiding a leak when you sell can cost more than fixing it. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a small house with water dripping in the basement, comic burst banner reads DISCLOSE IT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Conrad and Calla both sell homes with a basement that leaks in heavy rain.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man conrad and woman calla each standing in a basement with a puddle and a water stain, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both know about it. Both have mopped it up more than once.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mop and bucket beside a stained basement wall, a calendar with rainy days marked, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Conrad paints over the stain and checks no on the disclosure form.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man conrad painting over a water stain, a form with NO checked beside BASEMENT WATER, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The house sells fast. The first spring storm floods the basement.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a sold sign in front of the house while rain pours and water fills the basement window, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The buyer finds the fresh paint and the old repair receipts.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a buyer peeling back paint to reveal a stain, a receipt reads WATERPROOFING ESTIMATE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Conrad is sued for fraud and settles for thirty eight thousand dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man conrad at a courtroom table signing a settlement reading THIRTY EIGHT THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Calla writes the leak on her disclosure and gets a repair quote.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman calla filling a form with YES checked beside BASEMENT WATER, a quote reads NINE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She prices the house four thousand lower and offers a credit.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a listing sheet reading PRICE REDUCED FOUR THOUSAND, REPAIR CREDIT OFFERED, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The buyer accepts with eyes open, and the deal closes clean.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman calla and a buyer shaking hands at a closing table, a stamp reads CLOSED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Conrad lost thirty eight thousand and his reputation. Calla lost four thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man conrad beside a giant settlement bill, woman calla beside a small credit tag reading FOUR THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Disclose every known defect. It is cheaper than a lawsuit. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a disclosure form with every box honestly checked, kids comic book illustration"
+    }
+  ]
+}

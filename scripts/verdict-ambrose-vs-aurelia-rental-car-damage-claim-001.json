@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-ambrose-vs-aurelia-rental-car-damage-claim-001",
+  "character": "judge_vera",
+  "topic": "Skipping the rental car walkaround vs photographing every panel at pickup and return (Ambrose vs Aurelia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Rental companies bill old dents to whoever skips the photos. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a compact rental car with a circled dent and an invoice stamped DAMAGE CLAIM, comic burst banner reads WHO PAYS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Ambrose and Aurelia rent the same compact car model one week apart.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man ambrose and woman aurelia at a rental counter each holding car keys, a sign reads RENTALS, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both cars leave the lot with a small scrape on the bumper.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, close up of a blue compact car bumper with a small scrape circled by a magnifying glass, parking lot background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Ambrose grabs the keys and drives off without looking.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ambrose speeding out of a rental lot with motion lines, never glancing at the car, keys dangling, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He returns after dark and drops the keys in a box.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ambrose at night dropping keys into a metal drop box, the car parked in shadow behind him, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Two weeks later a bill arrives, eleven hundred dollars for bumper damage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ambrose holding a letter with big bold lettering ELEVEN HUNDRED DOLLARS BUMPER DAMAGE, shocked face, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "No photos, no witness, so he pays every cent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man ambrose slumped at a kitchen table signing a check, an empty phone gallery icon floating above him, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Aurelia walks around the car filming every panel before leaving.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman aurelia walking around a compact car holding up her phone, dotted path around every panel, motion lines, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She points out the scrape and gets it noted on the contract.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman aurelia pointing at a bumper scrape while a rental agent writes on a clipboard, contract tag reads PRE EXISTING, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "At return she films again with a timestamp and a staff signature.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman aurelia filming the returned car, a phone screen shows a timestamp, a staff member signing a return slip, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "The same damage claim reaches her mailbox. She replies with the video.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman aurelia calmly holding a damage claim letter in one hand and a phone playing a car video in the other, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "The claim is dropped. Film every rental before and after. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a phone showing a timestamped car video, comic burst banner reads FILM IT TWICE, kids comic book illustration"
+    }
+  ]
+}

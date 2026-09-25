@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-godfrey-vs-ernestine-grocery-pickup-with-list-001",
+  "character": "coach_vault",
+  "topic": "Wandering the grocery aisles hungry vs ordering pickup from a fixed list (Godfrey vs Ernestine)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Shoppers spend forty percent more when they walk the aisles. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a shopping cart overflowing with snacks beside a neat pickup bag, comic burst banner reads FORTY PERCENT MORE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Godfrey and Ernestine both feed a family of four on the same budget.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man godfrey and woman ernestine each holding a grocery budget card reading ONE HUNDRED FIFTY WEEKLY, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Godfrey shops after work, hungry, with no list at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man godfrey pushing a cart at six pm with a rumbling stomach and an empty hand where a list should be, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Chips, a candle, two frozen pizzas, and a magazine jump in.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a cart filling itself with chips, a candle, pizzas, and a magazine, motion lines, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His weekly total lands at two hundred ten dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a register screen reading TWO HUNDRED TEN, man godfrey wincing, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Half the produce goes bad because nothing was planned around it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fridge with wilted lettuce and a moldy tomato, a trash can nearby, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Ernestine builds one list from seven planned dinners on Sunday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ernestine at a table writing a list beside a meal plan reading SEVEN DINNERS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She orders curbside pickup and never sees the candy aisle.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ernestine tapping a pickup order on her phone, a candy aisle fading out behind a barrier, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her total lands at one hundred forty dollars, every week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone order screen reading ONE HUNDRED FORTY, a repeat icon, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Seventy dollars saved weekly is thirty six hundred a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gym whiteboard reading SEVENTY TIMES FIFTY TWO EQUALS THIRTY SIX HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Godfrey spent thirty six hundred more and threw a third of it away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man godfrey beside a full trash can, woman ernestine beside a full pantry, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "List first, pickup second, aisles never. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading LIST THEN PICKUP, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

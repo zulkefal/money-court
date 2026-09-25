@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-clyde-vs-cecily-auto-repair-written-estimate-001",
+  "character": "judge_vera",
+  "topic": "Approving car repairs by phone vs requiring a written estimate before any work (Clyde vs Cecily)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A mechanic cannot legally hold your car for work you never approved. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a sedan on a lift and a giant invoice, comic burst banner reads NEVER APPROVED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Clyde and Cecily both tow a stalled sedan to the same shop.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man clyde and woman cecily each watching a tow truck deliver a gray sedan to a repair shop, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The mechanic says the diagnosis alone will run one hundred fifty dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mechanic in coveralls holding a wrench, a speech banner reads DIAGNOSIS ONE FIFTY, garage background, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Clyde says sure, just fix whatever it needs, and hangs up.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man clyde shrugging on the phone, a speech banner reads FIX WHATEVER, motion lines of a hang up, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The bill comes back at twenty four hundred dollars with no breakdown.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man clyde staring at a long receipt with one giant line reading TWENTY FOUR HUNDRED DOLLARS, no item list, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The shop refuses to release his car until he pays in full.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a locked garage gate with the gray sedan behind it, a sign reads NO RELEASE UNTIL PAID, man clyde outside, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Cecily asks for a written estimate and says nothing over that number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman cecily holding a clipboard estimate, pointing at the total, speech banner reads NOTHING OVER THIS, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Most states require shops to get approval before exceeding the estimate.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a law scroll reading REPAIR SHOP ACT with a highlighted line APPROVAL REQUIRED BEFORE EXCEEDING ESTIMATE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The estimate lists a nine hundred dollar fuel pump. She approves it in writing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a written estimate with FUEL PUMP NINE HUNDRED and a signature line, woman cecily signing with a pen, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When they suggest extras, she asks for the old parts back.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mechanic offering a list of extras, woman cecily holding out her hand, a box labeled OLD PARTS, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Clyde paid twenty four hundred. Cecily paid nine hundred for the same fix.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two receipts side by side on the judge bench, one tall reading TWENTY FOUR HUNDRED, one short reading NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Get a written estimate first. Approve extras in writing only. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a clipboard reading WRITTEN ESTIMATE FIRST, a wrench and a pen crossed, kids comic book illustration"
+    }
+  ]
+}

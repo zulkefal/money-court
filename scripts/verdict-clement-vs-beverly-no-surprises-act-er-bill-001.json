@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-clement-vs-beverly-no-surprises-act-er-bill-001",
+  "character": "judge_vera",
+  "topic": "Paying a surprise out of network emergency bill vs disputing it under the No Surprises Act (Clement vs Beverly)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Federal law bans most surprise ER bills, if you push back. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a hospital bill stamped OUT OF NETWORK, a shield reads NO SURPRISES ACT, comic burst banner reads BANNED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Clement and Beverly both land in the same emergency room after a bike crash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man clement and woman beverly on hospital beds with bandaged arms, an ER sign glowing, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The hospital is in network. The ER doctor is not.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hospital building with a green check and a doctor with a red X, a contract torn between them, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Both get a bill for four thousand two hundred dollars from the doctor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two identical bills reading FOUR THOUSAND TWO HUNDRED, a doctor group logo, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Clement assumes it is legit and puts it on a credit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man clement typing a card number into a payment site, the bill total glowing, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Twenty two percent interest turns it into five thousand over two years.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a credit card statement climbing to FIVE THOUSAND, a calendar flipping two years, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Beverly looks up the No Surprises Act and calls the billing office.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beverly on the phone with a laptop open to a page reading NO SURPRISES ACT, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "She says emergency care must be billed at in network rates. Period.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beverly firm on the phone, a speech banner reads IN NETWORK RATES ONLY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She files a complaint with the federal help desk when they stall.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman beverly submitting a complaint form online, a badge reads FEDERAL HELP DESK, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The bill is reissued at her in network share, three hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a corrected bill reading YOUR SHARE THREE HUNDRED, the old total crossed out, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Clement paid five thousand. Beverly paid three hundred for the same doctor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man clement beside a card statement reading FIVE THOUSAND, woman beverly holding a receipt reading THREE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Emergency bill from an out of network doctor? Dispute it. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a shield reading NO SURPRISES ACT, a torn up bill, kids comic book illustration"
+    }
+  ]
+}

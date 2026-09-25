@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-alaric-vs-adelina-lease-auto-renewal-notice-001",
+  "character": "judge_vera",
+  "topic": "Missing the lease non renewal notice deadline vs giving written notice sixty days early (Alaric vs Adelina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Miss one notice deadline and your lease renews itself for a year. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a lease with a highlighted line reading SIXTY DAYS NOTICE, comic burst banner reads AUTO RENEWED, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Alaric and Adelina both plan to move when their leases end in June.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man alaric and woman adelina each holding a moving box, a calendar reads JUNE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both leases say give sixty days written notice or the lease renews.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a lease page with bold text reading SIXTY DAYS WRITTEN NOTICE OR AUTOMATIC RENEWAL, a magnifying glass over it, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Alaric mentions moving to the landlord in the hallway in May.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alaric chatting casually with a landlord in an apartment hallway, a speech bubble shows a moving truck, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The landlord nods, but nothing is written down anywhere.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a landlord shrugging with empty hands, a blank notepad, question marks floating, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "In June a letter arrives. Your lease has renewed for twelve months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man alaric reading a letter with bold text YOUR LEASE HAS RENEWED TWELVE MONTHS, shocked face, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Breaking it costs two months rent, thirty two hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bill on a table reading LEASE BREAK FEE THIRTY TWO HUNDRED, man alaric holding his head, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Adelina reads her lease in March and circles the deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman adelina at a kitchen table circling a date on a calendar, the lease open beside her, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She emails written notice in April and asks for a reply.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman adelina at a laptop sending an email titled NOTICE OF NON RENEWAL, a reply arrow bouncing back, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The landlord confirms in writing, and she keeps the email.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a phone screen showing an email reading CONFIRMED MOVE OUT JUNE THIRTY, a folder icon labeled SAVED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Alaric pays thirty two hundred to leave. Adelina pays nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man alaric handing over a fat check, woman adelina loading a moving truck with a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read the notice clause the day you sign. Put it in writing. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a calendar with SIXTY DAYS circled, banner reads WRITTEN NOTICE, kids comic book illustration"
+    }
+  ]
+}

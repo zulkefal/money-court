@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-linus-vs-jemima-negative-equity-rollover-001",
+  "character": "doctor_dollar",
+  "topic": "Rolling negative equity into a new car loan vs driving the old car until it is paid off (Linus vs Jemima)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Trading in a car you still owe on buries the old loan. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a small car stuffed inside a bigger car with a tag reading NEGATIVE EQUITY, comic burst banner reads BURIED LOAN, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Linus and Jemima both owe eighteen thousand on cars worth thirteen thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man linus and woman jemima each beside a sedan, a tag reads OWE EIGHTEEN, WORTH THIRTEEN, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "That is five thousand dollars of negative equity each.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scale tipping with a weight labeled NEGATIVE EQUITY FIVE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Linus trades up to an SUV. The dealer rolls the five thousand in.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man linus at a dealer desk, a contract line reads PRIOR BALANCE ADDED FIVE THOUSAND, a shiny SUV, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "His new loan is forty one thousand on a thirty six thousand dollar SUV.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a loan document reading FORTY ONE THOUSAND beside a sticker reading THIRTY SIX THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Seven years at nine percent. He is underwater from day one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man linus in an SUV sinking under a wave labeled UNDERWATER, a calendar reads SEVEN YEARS, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Three years later he wants out and owes eight thousand more than it is worth.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chart showing loan balance far above car value, a gap labeled EIGHT THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Jemima keeps the sedan and adds one hundred dollars a month to the payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jemima paying extra on a loan screen, a line reads PLUS ONE HUNDRED EXTRA, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Twenty months later the loan is gone and she owns it outright.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jemima holding a car title stamped PAID IN FULL, a calendar reads TWENTY MONTHS, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She drives it three more years and saves the old payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jemima driving the sedan, a jar labeled NEXT CAR filling with the old payment amount, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "When she buys next, she pays cash and owes nobody.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman jemima handing a check for a newer car, a tag reads NO LOAN, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Never roll negative equity forward. Pay off your car. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading PAY OFF THE CAR YOU HAVE, a healthy debt chart behind her, kids comic book illustration"
+    }
+  ]
+}

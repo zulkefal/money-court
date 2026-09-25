@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lennox-vs-isolde-rental-property-no-reserves-001",
+  "character": "doctor_dollar",
+  "topic": "Buying a rental property with no cash reserves vs holding six months of expenses first (Lennox vs Isolde)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One vacant month can bankrupt a landlord with no reserves. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a small house with a sign reading VACANT and an empty jar, comic burst banner reads ONE VACANT MONTH, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lennox and Isolde both buy a duplex as their first rental.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lennox and woman isolde each holding keys to a duplex, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Each mortgage payment is nineteen hundred dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mortgage statement reading NINETEEN HUNDRED MONTHLY, a duplex drawing, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lennox spends every dollar on the down payment. Reserves, zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lennox emptying his savings jar into a down payment, a label reads RESERVES ZERO, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Month three, a tenant leaves and the water heater dies the same week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an empty apartment with a moving truck, a water heater leaking, man lennox panicking, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He puts twenty two hundred on a credit card and misses a mortgage payment.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lennox swiping a card for a water heater, a mortgage notice stamped LATE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Six months in, he sells at a loss just to escape.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a FOR SALE sign on the duplex, a chart showing a loss, man lennox exhausted, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Isolde waits one more year and saves six months of expenses first.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman isolde filling a jar labeled SIX MONTHS RESERVES, a calendar flipping a year, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Eleven thousand four hundred sits untouched in a separate account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a bank account screen reading ELEVEN THOUSAND FOUR HUNDRED, RESERVES ONLY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "When her tenant leaves and the roof leaks, the reserve pays. No stress.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman isolde calmly paying a roofer from the reserve account, a stamp reads PAID, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Five years later, Lennox has a loss. Isolde has equity and a refilled reserve.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man lennox with a loss statement, woman isolde beside an equity chart and a full jar, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Six months of reserves before any rental. No exceptions. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading SIX MONTHS RESERVES FIRST, a healthy cash flow chart behind her, kids comic book illustration"
+    }
+  ]
+}

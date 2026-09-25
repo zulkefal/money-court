@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-douglas-vs-catalina-deferred-interest-promo-trap-001",
+  "character": "judge_vera",
+  "topic": "Missing the deferred interest deadline on a no interest furniture deal vs paying it off early (Douglas vs Catalina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "No interest for two years can mean all the interest at once. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a sofa with a tag reading NO INTEREST TWENTY FOUR MONTHS and tiny red fine print, comic burst banner reads ALL AT ONCE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Douglas and Catalina both buy a three thousand dollar sofa on store financing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man douglas and woman catalina each sitting on a new gray sofa with a tag reading THREE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The deal says no interest if paid in full within twenty four months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a financing sign reading NO INTEREST IF PAID IN FULL IN TWENTY FOUR MONTHS, a magnifying glass on IF, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Douglas pays the minimum, one hundred dollars a month, and relaxes.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man douglas lounging on the sofa paying one hundred dollars on a phone app, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Month twenty four ends with six hundred dollars still owed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement reading BALANCE SIX HUNDRED, a calendar reads MONTH TWENTY FOUR, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The bank charges interest on the full three thousand from day one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a statement line reading DEFERRED INTEREST CHARGED ONE THOUSAND FOUR HUNDRED, man douglas falling off the sofa, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His three thousand dollar sofa now costs four thousand four hundred.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the sofa with a new price tag reading FOUR THOUSAND FOUR HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Catalina divides three thousand by twenty two and sets autopay for one forty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman catalina writing a calculation reading THREE THOUSAND DIVIDED BY TWENTY TWO, an autopay screen reads ONE FORTY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays it off two months before the deadline.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman catalina celebrating beside a statement reading PAID IN FULL, a calendar reads MONTH TWENTY TWO, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Interest charged, zero. Sofa cost, exactly three thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a receipt reading INTEREST ZERO, TOTAL THREE THOUSAND, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Douglas paid fourteen hundred extra. Catalina paid the sticker price.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man douglas beside a bill reading FOURTEEN HUNDRED INTEREST, woman catalina beside a bill reading ZERO, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Deferred interest is a trap. Pay it off before the deadline. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a calendar with the deadline circled and a stamp reading PAID EARLY, kids comic book illustration"
+    }
+  ]
+}

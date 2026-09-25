@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-hayden-vs-evelyn-premium-gas-not-needed-001",
+  "character": "coach_vault",
+  "topic": "Paying for premium gas a car does not need vs using the regular fuel the manual lists (Hayden vs Evelyn)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Premium gas in a regular car buys nothing but a bigger receipt. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym holding a gas pump nozzle beside a car manual reading REGULAR FUEL, comic burst banner reads NOTHING BUT A RECEIPT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hayden and Evelyn drive the same sedan fifteen thousand miles a year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man hayden and woman evelyn beside identical blue sedans, an odometer reading FIFTEEN THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The manual says regular eighty seven octane is all it needs.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an owner manual page open to a line reading REGULAR UNLEADED EIGHTY SEVEN OCTANE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hayden always picks premium. He figures the engine deserves the best.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hayden pressing a pump button reading PREMIUM, a thought bubble shows a shiny engine, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Premium costs sixty cents more per gallon at his station.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a gas station price sign with REGULAR and PREMIUM sixty cents apart, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Five hundred gallons a year means three hundred dollars for nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a treadmill display reading THREE HUNDRED DOLLARS FOR NOTHING, man hayden running in place, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Evelyn reads the manual once and fills with regular every time.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman evelyn pressing a pump button reading REGULAR with a confident smile, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Her engine runs exactly the same. The computer adjusts for octane.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a car engine with a green check mark, a small computer chip icon reading ADJUSTS, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She uses a gas price app and a grocery fuel rewards card too.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman evelyn holding a phone with a fuel price map and a rewards card, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She saves four hundred dollars a year on the same miles.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a scoreboard reading FOUR HUNDRED SAVED, woman evelyn flexing beside her sedan, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten years later, Hayden burned three thousand dollars on premium for no reason.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hayden watching dollar bills fly out of his tailpipe, a tally reads THREE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read the manual. Buy the fuel it lists. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading READ THE MANUAL, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

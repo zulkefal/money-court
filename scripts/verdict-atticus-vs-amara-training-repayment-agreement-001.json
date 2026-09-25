@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-atticus-vs-amara-training-repayment-agreement-001",
+  "character": "judge_vera",
+  "topic": "Signing a job offer with a training repayment clause vs negotiating it out (Atticus vs Amara)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Some jobs bill you thousands of dollars just for quitting. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding an offer letter with a red clause reading TRAINING REPAYMENT, comic burst banner reads YOU OWE US, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Atticus and Amara both accept jobs at the same trucking company.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man atticus and woman amara each holding an offer letter in front of a row of trucks, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both offers include a clause about repaying training costs if they leave.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an offer letter with a paragraph highlighted reading TRAINING REPAYMENT SEVEN THOUSAND IF YOU LEAVE WITHIN TWO YEARS, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Atticus signs on the spot, excited about the paycheck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man atticus signing fast with a big grin, dollar signs in his eyes, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Eight months in, the schedule is brutal and he quits.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man atticus exhausted beside a truck at night, a resignation letter in hand, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A bill arrives. Seven thousand dollars for training he barely used.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man atticus reading a letter with bold text SEVEN THOUSAND DUE IN THIRTY DAYS, jaw dropped, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "A collector calls, and the debt lands on his credit report.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a collector on the phone, a credit report with a red mark reading TRAINING DEBT COLLECTION, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Amara asks what the training actually costs and how it prorates.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman amara at a desk asking an HR manager, a speech banner reads SHOW ME THE REAL COST, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She negotiates it down to prorated repayment that ends at twelve months.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a revised clause reading PRORATED ENDS AT TWELVE MONTHS, woman amara and HR both initialing, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She also gets the company to waive it if they lay her off.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a clause reading WAIVED IF LAID OFF, a check mark beside it, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "When she leaves at month fourteen, she owes nothing at all.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman amara walking out with a box of belongings, a bill reading ZERO DUE, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Read for repayment clauses. Negotiate them before you sign. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a banner reading NEGOTIATE BEFORE YOU SIGN, an offer letter with a struck out clause, kids comic book illustration"
+    }
+  ]
+}

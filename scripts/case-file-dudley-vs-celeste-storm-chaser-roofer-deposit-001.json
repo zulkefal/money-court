@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-dudley-vs-celeste-storm-chaser-roofer-deposit-001",
+  "character": "detective_cash",
+  "topic": "Paying a door knocking storm chaser roofer a cash deposit vs verifying license and insurance (Dudley vs Celeste)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The roofer who showed up after the hailstorm vanished with the deposits. Case file 0113. Time of incident, morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office pinning a photo of a hail damaged roof and a business card stamped VANISHED, comic burst banner reads CASE FILE 0113, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Dudley and Celeste both have hail damage after the same spring storm.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man dudley and woman celeste looking up at dented roofs, hailstones on the lawn, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A friendly roofer knocks. Sign today and we start Monday.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a smiling roofer at a front door with a clipboard, speech banner reads SIGN TODAY WE START MONDAY, a truck with no company name, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Dudley pays a five thousand dollar cash deposit on the porch.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dudley handing an envelope reading FIVE THOUSAND to the roofer on his porch, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Monday comes. No crew, no truck, no answer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dudley on his porch looking at an empty street, a phone showing NO ANSWER, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The company name leads to a mailbox store two states away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a mailbox store front with the roofer company name on a tiny box, a map showing two states, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Five thousand gone, and the roof still leaks.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man dudley placing a bucket under a drip in his living room, rain outside, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Celeste asks for a license number and a certificate of insurance.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celeste at her door holding up two fingers, speech banner reads LICENSE AND INSURANCE FIRST, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The roofer stalls. She checks the state licensing site anyway.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celeste at a laptop on a page reading NO LICENSE FOUND, the roofer sweating, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She calls her insurer, gets three local bids, and pays by milestone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman celeste comparing three written bids on a table, a plan reads PAY BY MILESTONE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Dudley lost five thousand. Celeste has a new roof and a warranty.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man dudley under a tarp, woman celeste beside a new roof and a paper reading WARRANTY, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No license, no insurance, no deposit. Storm chasers chase your cash. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads LICENSE AND INSURANCE OR NO DEAL, kids comic book illustration"
+    }
+  ]
+}

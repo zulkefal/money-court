@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-bertram-vs-astrid-used-car-lien-title-check-001",
+  "character": "judge_vera",
+  "topic": "Buying a used car from a private seller without checking the title vs running a lien check first (Bertram vs Astrid)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "A used car can come with a bank loan you did not sign. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a used SUV with a chain and a padlock labeled BANK LIEN, comic burst banner reads NOT YOURS YET, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Bertram and Astrid each find a used SUV for nine thousand dollars online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man bertram and woman astrid looking at a phone listing of a silver SUV priced NINE THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both sellers say the title is at home and will mail it.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a seller on a driveway shrugging with a speech banner reading TITLE IS AT HOME, WILL MAIL IT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Bertram pays cash and drives the SUV away that afternoon.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bertram handing over an envelope of cash and driving off in the silver SUV, motion lines, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The title never arrives. The seller stops answering.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bertram staring at an empty mailbox, a phone screen showing unanswered calls, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "A bank still holds a loan on it. The SUV is repossessed at dawn.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a tow truck hauling the silver SUV at sunrise, a notice reads BANK LIEN REPOSSESSION, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Bertram is out nine thousand dollars with no car and no seller.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man bertram standing in an empty driveway holding a useless receipt, rain clouds, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Astrid asks to see the title in person before paying a cent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman astrid holding up her hand, speech banner reads TITLE FIRST, THEN MONEY, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She runs the VIN through a title history and lien lookup.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman astrid at a laptop typing a VIN, a screen reads LIEN FOUND, FIRST STATE BANK, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "They meet at the bank, the loan is paid off, and the title transfers clean.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman astrid and the seller at a bank counter, a title stamped LIEN RELEASED handed over, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Bertram lost nine thousand. Astrid drives a clean titled SUV.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man bertram on foot at a bus stop, woman astrid driving the silver SUV with a clean title on the dash, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "See the title. Check the VIN for liens. Then pay. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a checklist reading SEE TITLE, CHECK VIN, THEN PAY, kids comic book illustration"
+    }
+  ]
+}

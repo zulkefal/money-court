@@ -1,0 +1,67 @@
+{
+  "video_id": "workout-hamish-vs-honora-pay-insurance-annually-001",
+  "character": "coach_vault",
+  "topic": "Paying insurance in monthly installments with fees vs saving monthly and paying the full premium once a year (Hamish vs Honora)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Monthly installment fees quietly add a fourteenth payment every year. Today's training session begins now!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault in a gym pointing at a whiteboard showing twelve payment stubs plus two extra stubs labeled FEES, comic burst banner reads FOURTEEN PAYMENTS, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Hamish and Honora pay the same fourteen hundred dollar car insurance premium.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split gym panel of man hamish and woman honora each holding an insurance bill reading FOURTEEN HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The insurer offers monthly payments with a small installment fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an insurance letter with a checkbox reading PAY MONTHLY and tiny fine print reading INSTALLMENT FEE, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Hamish picks monthly. Eight dollars extra every single month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hamish checking the monthly box, a small coin stack labeled EIGHT DOLLARS repeating twelve times, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Renters insurance, same deal. Phone plan, same deal. Software, same deal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a wall of bills for RENTERS, PHONE, SOFTWARE each with a little red fee sticker, man hamish shrugging, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His fees across every bill total two hundred forty dollars yearly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a treadmill display reading TWO HUNDRED FORTY DOLLARS IN FEES, man hamish running and going nowhere, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Honora sets up a sinking fund, one hundred twenty dollars monthly.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman honora dropping cash into a jar labeled INSURANCE FUND, a tag reads ONE TWENTY MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "At renewal she pays the full premium once and skips every fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman honora handing over one big check labeled FULL PREMIUM, a fee sticker crossed out, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Paying annually also unlocks a five percent paid in full discount.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, an insurance bill with a gold badge reading PAID IN FULL DISCOUNT FIVE PERCENT, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She saves three hundred ten dollars a year with the same coverage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman honora flexing beside a scoreboard reading THREE HUNDRED TEN SAVED, same policy card in hand, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten years later, Hamish paid twenty four hundred in fees for nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man hamish looking at a pile of fee receipts stacked into a tower labeled TWENTY FOUR HUNDRED FOR NOTHING, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Save monthly, pay yearly, skip the fees. Drop and give me twenty bucks!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named coach vault, athletic build, buzzcut brown hair, red track jacket with gold dollar sign logo, silver whistle, clipboard covered in dollar sign stickers, fingerless training gloves, sweatband, coach vault blowing his whistle in a gym, holding a clipboard reading SAVE MONTHLY PAY YEARLY, comic burst banner reads TWENTY BUCKS, kids comic book illustration"
+    }
+  ]
+}

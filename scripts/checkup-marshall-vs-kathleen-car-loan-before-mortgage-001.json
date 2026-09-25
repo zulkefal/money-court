@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-marshall-vs-kathleen-car-loan-before-mortgage-001",
+  "character": "doctor_dollar",
+  "topic": "Financing a new car weeks before a mortgage application vs waiting until after closing (Marshall vs Kathleen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One new car loan can kill a mortgage approval. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard showing a car crashing into a house with a stamp reading DENIED, comic burst banner reads WAIT UNTIL CLOSING, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Marshall and Kathleen both plan to buy a home this spring.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man marshall and woman kathleen each holding a house listing, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both are preapproved with a debt to income ratio of thirty six percent.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two preapproval letters reading DTI THIRTY SIX PERCENT, a green check, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Marshall celebrates early with a new SUV, six hundred dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man marshall driving a new SUV off a lot, a payment tag reads SIX HUNDRED MONTHLY, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The lender reruns his credit before closing. New loan, new inquiry.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a lender at a screen showing a red alert reading NEW AUTO LOAN DETECTED, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "His ratio jumps to forty five percent. The mortgage is denied.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a letter reading DTI FORTY FIVE PERCENT, MORTGAGE DENIED, man marshall beside his SUV, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He loses the house, the rate lock, and his earnest money.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a house with a SOLD TO SOMEONE ELSE sign, a receipt reading EARNEST MONEY FORFEITED, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Kathleen drives her old car and changes nothing until closing day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman kathleen in an old hatchback with a sticky note reading NO NEW CREDIT UNTIL CLOSING, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "No new cards, no new loans, no big deposits without a paper trail.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a checklist reading NO NEW CARDS, NO NEW LOANS, DOCUMENT DEPOSITS, all checked, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her ratio stays at thirty six percent. She closes on schedule.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman kathleen at a closing table receiving keys, a stamp reads CLOSED, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "A month after closing she buys a modest used car in cash.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman kathleen beside a used sedan with a tag reading PAID CASH, her new house behind her, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No new credit between preapproval and closing. None. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading NO NEW CREDIT UNTIL CLOSING, a healthy DTI chart behind her, kids comic book illustration"
+    }
+  ]
+}

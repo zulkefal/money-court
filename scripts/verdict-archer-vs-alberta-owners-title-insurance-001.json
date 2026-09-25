@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-archer-vs-alberta-owners-title-insurance-001",
+  "character": "judge_vera",
+  "topic": "Skipping the owner's title insurance policy at closing vs buying it (Archer vs Alberta)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "One skipped closing line item can cost you your whole house. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench beside a house with a giant question mark over the deed, comic burst banner reads WHOSE HOUSE, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Archer and Alberta both buy homes the same month with the same lender.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man archer and woman alberta each holding house keys in front of a similar suburban home, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "At closing, both see an optional line, owners title insurance, nine hundred dollars.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a closing statement with a line reading OWNERS TITLE POLICY NINE HUNDRED and a checkbox, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Archer crosses it out. The lender already has a policy, he says.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man archer crossing out the line with a pen, speech banner reads THE LENDER IS COVERED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The lender policy protects the bank. It protects nothing of his.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a shield labeled LENDER POLICY covering a bank building while man archer stands outside uncovered in the rain, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "Two years later a contractor lien from the old owner surfaces.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a court notice reading LIEN FOURTEEN THOUSAND DOLLARS taped to a front door, man archer stunned, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Archer pays fourteen thousand and lawyer fees to clear his own title.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man archer handing a check to a lawyer, a receipt reads FOURTEEN THOUSAND PLUS FEES, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Alberta pays the nine hundred once and files the policy away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman alberta placing a document labeled OWNERS TITLE POLICY into a home file folder, sparkles, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her title has the same hidden lien from the previous owner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a hidden lien document being pulled from behind a house drawing, a magnifying glass reveals it, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "The title company pays the claim and the legal fees. She pays nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a title company agent handing a check to the lien holder, woman alberta watching with a relaxed smile, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Archer lost eighteen thousand. Alberta spent nine hundred once and slept fine.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man archer beside a bill reading EIGHTEEN THOUSAND, woman alberta asleep peacefully under a roof labeled PROTECTED, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Buy the owners policy. It is the cheapest insurance you will ever own. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a house wrapped in a gold shield reading OWNERS TITLE POLICY, kids comic book illustration"
+    }
+  ]
+}

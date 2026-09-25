@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-eugene-vs-dinah-gold-coin-retirement-fear-ad-001",
+  "character": "detective_cash",
+  "topic": "Moving a retirement account into overpriced gold coins after a fear ad vs checking the spot price and fees (Eugene vs Dinah)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The fear ad sold gold coins at double the real price. Case file 0120. Time of incident, evening news.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office weighing a gold coin on a scale beside a price tag reading DOUBLE, comic burst banner reads CASE FILE 0120, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Eugene and Dinah both see a scary ad about the dollar collapsing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man eugene and woman dinah watching a TV ad with a crumbling dollar sign and flames, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Protect your retirement with gold, the ad says. Call now.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a TV screen with a golden banner reading PROTECT YOUR RETIREMENT CALL NOW, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Eugene calls and moves ninety thousand from his retirement account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man eugene on the phone signing a transfer form reading NINETY THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The salesman sells him special coins at a huge markup.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a salesman holding shiny coins with a tag reading SPECIAL COLLECTOR PRICE, a hidden markup label, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The coins are worth forty five thousand at melt value the next day.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man eugene holding coins over a scale reading FORTY FIVE THOUSAND MELT VALUE, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Storage fees and a surrender charge eat another six thousand.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, invoices reading STORAGE FEE and SURRENDER CHARGE stacking up, man eugene shocked, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Dinah looks up the spot price of gold before calling anyone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dinah at a laptop on a page reading GOLD SPOT PRICE PER OUNCE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She asks the salesman for the price per ounce over spot. He dodges.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dinah on the phone asking, speech banner reads HOW MUCH OVER SPOT, the salesman sweating, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She keeps her retirement diversified with a small low fee gold fund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman dinah viewing a portfolio chart with a small slice labeled GOLD FUND LOW FEE, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Eugene lost fifty one thousand overnight. Dinah lost nothing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man eugene beside a chart falling to FORTY FIVE THOUSAND, woman dinah beside a steady chart, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Fear ads sell markups, not safety. Check the spot price. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CHECK THE SPOT PRICE, kids comic book illustration"
+    }
+  ]
+}

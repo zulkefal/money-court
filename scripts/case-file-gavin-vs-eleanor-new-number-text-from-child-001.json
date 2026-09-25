@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-gavin-vs-eleanor-new-number-text-from-child-001",
+  "character": "detective_cash",
+  "topic": "Paying a bill for a child texting from a new number vs calling the old number first (Gavin vs Eleanor)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Hi mom, new phone, can you pay this bill. The child never sent it. Case file 0125. Time of incident, dinner.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office reading a phone text that says HI MOM NEW NUMBER beside a family photo, comic burst banner reads CASE FILE 0125, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Gavin and Eleanor both get a text. Hi, this is my new number.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man gavin and woman eleanor looking at texts reading THIS IS MY NEW NUMBER, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The text says my phone broke, and I need help paying a bill today.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat screen reading PHONE BROKE, CAN YOU PAY THIS BILL TODAY, a link, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Gavin sends twelve hundred dollars through a payment app right away.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gavin tapping a payment app, a total reads TWELVE HUNDRED, a worried father face, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Then another text. The bank needs a second payment to confirm.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a new message reading BANK NEEDS ONE MORE PAYMENT TO CONFIRM, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "He sends eight hundred more before his real daughter calls that night.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man gavin sending EIGHT HUNDRED, then his phone rings with a caller ID reading DAUGHTER, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "Her phone was never broken. Two thousand dollars are gone.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the daughter holding her normal phone, man gavin with his head in his hands, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Eleanor calls the old number instead of replying to the new one.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eleanor dialing a contact labeled SON OLD NUMBER, ignoring the new text, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "Her son picks up. He has no new phone and no bill.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, the son answering with a confused face, speech banner reads WHAT NEW PHONE, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She blocks the number and reports it as a scam text.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman eleanor tapping BLOCK AND REPORT on the scam number, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Gavin lost two thousand. Eleanor lost thirty seconds.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man gavin with an empty payment app, woman eleanor hanging up with a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "New number, urgent bill? Call the old number first. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads CALL THE OLD NUMBER, kids comic book illustration"
+    }
+  ]
+}

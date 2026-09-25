@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-edwin-vs-claudia-ghost-tax-preparer-001",
+  "character": "detective_cash",
+  "topic": "Using a cash only tax preparer who will not sign the return vs a preparer with a PTIN (Edwin vs Claudia)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The preparer promised a huge refund and refused to sign the return. Case file 0115. Time of incident, tax season.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office examining a tax return with a blank preparer signature line and a fake refund, comic burst banner reads CASE FILE 0115, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Edwin and Claudia both need help filing taxes this year.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man edwin and woman claudia holding folders of tax documents, a calendar reads APRIL, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "A pop up preparer promises the biggest refund in town, cash only.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a folding table preparer with a sign reading BIGGEST REFUND IN TOWN CASH ONLY, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Edwin pays three hundred cash and gets a six thousand dollar refund.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man edwin handing cash across a folding table, a return shows a refund reading SIX THOUSAND, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "The preparer invented a business loss and fake dependents.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a return with red lines reading FAKE BUSINESS LOSS and FAKE DEPENDENT, a ghost figure signing nothing, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The signature line says self prepared. The preparer is a ghost.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a close up of a return line reading SELF PREPARED, a ghost shape fading out the door, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "A year later, the tax agency audits Edwin. He owes eight thousand plus penalties.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man edwin opening an audit letter reading YOU OWE EIGHT THOUSAND PLUS PENALTIES, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Claudia asks the preparer for a PTIN and a signed copy.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman claudia at a desk asking, speech banner reads YOUR PTIN AND YOUR SIGNATURE PLEASE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The pop up guy has neither. She walks to a licensed preparer.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman claudia walking away from the folding table toward an office with a sign reading ENROLLED AGENT, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her refund is smaller, eighteen hundred, and every line is true.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a signed return with a refund reading EIGHTEEN HUNDRED and a preparer signature and PTIN, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Edwin owes eight thousand and faces an audit. Claudia sleeps fine.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man edwin sweating over an audit letter, woman claudia relaxed with a signed return, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No signature, no PTIN, no deal. Ghosts leave you holding the bill. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads PREPARER MUST SIGN, kids comic book illustration"
+    }
+  ]
+}

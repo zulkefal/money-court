@@ -1,0 +1,67 @@
+{
+  "video_id": "checkup-lambert-vs-ida-max-preapproval-vs-25-percent-001",
+  "character": "doctor_dollar",
+  "topic": "Borrowing the full mortgage preapproval vs capping the payment at twenty five percent of take home pay (Lambert vs Ida)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The bank approves what you can survive, not what you can afford. Today's patient checkup starts here.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a preapproval letter with a giant number and a small house with a tag reading HEALTHY, comic burst banner reads SURVIVE VS AFFORD, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Lambert and Ida both take home six thousand dollars a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split clinic panel of man lambert and woman ida each holding a pay stub reading SIX THOUSAND TAKE HOME, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both get preapproved for a four hundred fifty thousand dollar mortgage.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two preapproval letters reading FOUR HUNDRED FIFTY THOUSAND APPROVED, a bank seal, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Lambert buys at the top. His payment is twenty nine hundred a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lambert in front of a large house, a payment stub reads TWENTY NINE HUNDRED, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Taxes, insurance, and repairs push housing to fifty five percent of take home.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a pie chart with a huge slice labeled HOUSING FIFTY FIVE PERCENT, tiny slices for everything else, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "No savings, no vacations, one furnace repair from a credit card.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lambert staring at a broken furnace and a credit card, an empty savings jar, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He is house poor. The nice kitchen does not fix that.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man lambert eating instant noodles in a beautiful kitchen, a bill pile beside him, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Ida caps her payment at twenty five percent, fifteen hundred a month.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ida writing FIFTEEN HUNDRED MAX on a notepad, a smaller cozy house, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She buys a two hundred sixty thousand dollar home in a plain neighborhood.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ida with keys to a modest house, a price tag reads TWO SIXTY, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She still saves fifteen percent and funds a repair account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman ida beside two jars labeled RETIREMENT FIFTEEN PERCENT and HOME REPAIRS, both filling, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Ten years later, Lambert is stressed and stuck. Ida has options and a nest egg.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man lambert tied to a big house, woman ida beside a growth chart with a suitcase labeled OPTIONS, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Cap housing at a quarter of take home pay. See you next visit. Stay financially healthy!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named doctor dollar, dark curly hair, round gold-rim glasses, kind smile, white doctor coat over teal scrubs, golden stethoscope shaped like a dollar sign, holding a clipboard with a credit-score chart, doctor dollar in a bright clinic holding a clipboard reading TWENTY FIVE PERCENT CAP, a healthy budget pie chart behind her, kids comic book illustration"
+    }
+  ]
+}

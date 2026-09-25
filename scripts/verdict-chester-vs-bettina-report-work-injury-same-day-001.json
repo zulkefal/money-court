@@ -1,0 +1,67 @@
+{
+  "video_id": "verdict-chester-vs-bettina-report-work-injury-same-day-001",
+  "character": "judge_vera",
+  "topic": "Toughing out a workplace injury vs reporting it in writing the same day (Chester vs Bettina)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "An unreported workplace injury can become your bill, not theirs. Court is in session!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera at the bench holding a medical bill and a blank incident report, comic burst banner reads REPORT IT, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Chester and Bettina both hurt their backs lifting at the same warehouse.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man chester and woman bettina each wincing while lifting a heavy box in a warehouse, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both feel fine enough to finish the shift.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, two workers rubbing their lower backs beside a time clock reading END OF SHIFT, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Chester says nothing. He does not want to look weak.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chester shrugging off the pain, a thought bubble reads DO NOT MAKE A FUSS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Two weeks later he cannot stand up straight and sees a doctor.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man chester bent over in a doctor office, an x ray on the wall, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The insurer denies his claim. No report, no proof it happened at work.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a letter reading CLAIM DENIED, NO INCIDENT REPORT ON FILE, man chester holding his back, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "He pays eight thousand dollars in treatment and loses six weeks of pay.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a medical bill reading EIGHT THOUSAND and a pay stub reading ZERO, man chester on a couch, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Bettina tells her supervisor right away and fills out an incident report.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bettina at a supervisor desk filling out a form labeled INCIDENT REPORT, the clock still shows the shift, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She keeps a copy and sees the company doctor that week.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman bettina holding a copy of the report, a clinic door reads OCCUPATIONAL HEALTH, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Workers compensation covers her treatment and two thirds of her lost wages.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a check labeled WORKERS COMPENSATION beside a paid medical bill, woman bettina in physical therapy, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Chester paid eight thousand out of pocket. Bettina paid zero.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man chester with a bill and an ice pack, woman bettina recovering with a paid stamp, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Hurt at work? Report it in writing the same day. Court dismissed!",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon woman named judge vera, silver hair in a neat bun, sharp dark eyes, black judge robes with a gold gavel badge, holding wooden gavel, judge vera banging her gavel beside a form reading INCIDENT REPORT with a big check mark, kids comic book illustration"
+    }
+  ]
+}

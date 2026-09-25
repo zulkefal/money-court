@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-floyd-vs-doreen-third-party-dmv-renewal-site-001",
+  "character": "detective_cash",
+  "topic": "Paying a lookalike site to renew a license or passport vs using the official government site (Floyd vs Doreen)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The first search result charged ninety dollars for a free government form. Case file 0122. Time of incident, morning.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office comparing two websites on a screen, one with a fake seal and a price tag, comic burst banner reads CASE FILE 0122, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Floyd and Doreen both need to renew their vehicle registration online.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man floyd and woman doreen holding renewal notices, a car in each driveway, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "Both search the words renew registration and see an ad on top.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a search results page with a sponsored result labeled AD above the official link, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Floyd clicks the ad and lands on a site with a shiny seal.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man floyd on a website with a big fake gold seal and a button reading RENEW NOW, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "He pays ninety dollars in service fees on top of the state fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a checkout page reading STATE FEE PLUS SERVICE FEE NINETY DOLLARS, man floyd clicking pay, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The site also sells his address and phone to marketers.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man floyd drowning in spam calls and junk mail, a data arrow labeled SOLD, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "His sticker arrives late, and he is ticketed for expired tags.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a police officer writing a ticket for an expired tag, man floyd groaning, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Doreen scrolls past the ad to the address ending in dot gov.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman doreen pointing at a web address ending in DOT GOV with a green check mark, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "She pays the state fee only, no service charge.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a state site checkout reading STATE FEE ONLY, a receipt with no extra lines, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "Her sticker arrives in a week, and nobody sells her data.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman doreen placing a new sticker on her plate, a padlock icon on her mailbox, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Floyd paid ninety extra plus a ticket. Doreen paid the real fee.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man floyd beside a ticket and a receipt, woman doreen beside a clean receipt, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "Skip the ads. Government sites end in dot gov. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads DOT GOV ONLY, kids comic book illustration"
+    }
+  ]
+}

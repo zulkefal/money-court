@@ -1,0 +1,67 @@
+{
+  "video_id": "case-file-fergus-vs-flora-fake-vehicle-shipping-scam-001",
+  "character": "detective_cash",
+  "topic": "Wiring for a too cheap online truck through a fake buyer protection shipping program vs seeing the truck and title in person (Fergus vs Flora)",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "The deployed soldier selling a cheap truck did not exist. Case file 0112. Time of incident, evening.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash in a noir office holding a photo of a pickup truck stamped DOES NOT EXIST, comic burst banner reads CASE FILE 0112, kids comic book illustration"
+    },
+    {
+      "id": 2,
+      "narration": "Fergus and Flora both find a truck listed at half its value.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel of man fergus and woman flora scrolling a phone listing of a red pickup truck with a price tag reading HALF PRICE, kids comic book illustration"
+    },
+    {
+      "id": 3,
+      "narration": "The seller is overseas and says a shipping company holds the truck.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat bubble from a seller with a military avatar, a map with a plane icon, a warehouse labeled SHIPPING, kids comic book illustration"
+    },
+    {
+      "id": 4,
+      "narration": "Pay through their vehicle protection program and get five days to inspect.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a fake website banner reading VEHICLE PROTECTION PROGRAM with a shiny fake badge, a countdown reading FIVE DAYS, kids comic book illustration"
+    },
+    {
+      "id": 5,
+      "narration": "Fergus wires eight thousand dollars to the shipping company account.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, man fergus at a bank counter sending a wire, a slip reads EIGHT THOUSAND, motion lines, kids comic book illustration"
+    },
+    {
+      "id": 6,
+      "narration": "The tracking page goes dark. The website vanishes a week later.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a laptop screen showing a dark error page reading SITE NOT FOUND, man fergus frozen in shock, kids comic book illustration"
+    },
+    {
+      "id": 7,
+      "narration": "The protection program was fake. Wires cannot be reversed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a badge labeled PROTECTION cracking in half, an arrow labeled WIRE with a big NO RETURN sign, kids comic book illustration"
+    },
+    {
+      "id": 8,
+      "narration": "Flora asks for a video call with the truck and the title.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman flora on a video call holding up a note reading SHOW ME THE TRUCK AND TITLE, kids comic book illustration"
+    },
+    {
+      "id": 9,
+      "narration": "The seller stalls, then pushes harder for payment tonight.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, a chat screen with the seller avatar and a banner reading PAY TONIGHT OR LOSE IT, a sweating clock, kids comic book illustration"
+    },
+    {
+      "id": 10,
+      "narration": "She searches the photos online and finds them on another listing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, woman flora doing a reverse image search, two identical truck photos side by side with different prices, kids comic book illustration"
+    },
+    {
+      "id": 11,
+      "narration": "Fergus lost eight thousand dollars. Flora lost one evening of browsing.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, split panel, man fergus staring at an empty bank balance, woman flora closing her laptop with a shrug and a smile, kids comic book illustration"
+    },
+    {
+      "id": 12,
+      "narration": "No car exists until you see it and the title. Case closed.",
+      "image_prompt": "kids graphic novel page panel, illustrated comic book art, bold flat colors clean black ink lines, cartoon man named detective cash, sharp blue eyes, gray fedora hat, beige trench coat, five o'clock shadow, holding magnifying glass and a manila file folder labeled with dollar signs, detective cash stamping a file CASE CLOSED in his noir office, a board reads SEE IT AND THE TITLE FIRST, kids comic book illustration"
+    }
+  ]
+}
