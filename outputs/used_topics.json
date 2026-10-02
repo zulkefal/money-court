@@ -1488,5 +1488,10 @@
     "date": "2026-10-01",
     "character": "detective_cash",
     "topic": "Payroll direct deposit diversion phishing email vs verifying with HR in person (Edgar vs Eloise)"
+  },
+  {
+    "date": "2026-10-02",
+    "character": "doctor_dollar",
+    "topic": "Paying the card after the due date vs paying before the statement closes to lower reported utilization (Kelvin vs Heidi)"
   }
 ]
