@@ -1,43 +1,44 @@
-Stats snapshot for 2026-10-02
-Compared to: 2026-10-01
+Stats snapshot for 2026-10-03
+Compared to: 2026-10-02
 
 TITLE                                                              V   +24h    /day    L   C     STATUS
 ----------------------------------------------------------------------------------------------------
-$600 Hugh vs Della | Money Court #shorts                         649      —     7.5   11   0     public
+$600 Hugh vs Della | Money Court #shorts                         649      —     7.4   11   0     public
 Otis vs Lena | Money Court #shorts                               209      —     4.2    2   0     public
-$800 Flint vs Vesper | Money Court #shorts                       161      —     3.2    0   0     public
-Ross vs Adele | Money Court #shorts                              101      —     9.1    0   0     public
-$400 Ledger vs Thora | Money Court #shorts                       101      —     2.1    2   0     public
-$12,000 Gilbert vs Gretchen | Money Court #shorts                 92      —    43.4    0   0     public
+$800 Flint vs Vesper | Money Court #shorts                       161      —     3.1    0   0     public
+Ross vs Adele | Money Court #shorts                              101      —     8.4    0   0     public
+$400 Ledger vs Thora | Money Court #shorts                       101      —     2.0    2   0     public
+$12,000 Gilbert vs Gretchen | Money Court #shorts                 92      —    29.8    0   0     public
 $400 Dorian vs Linnea | Money Court #shorts                       83      —     1.5    1   0     public
 $1,600 Elias vs Maribel | Money Court #shorts                     82      —     2.6    3   0     public
+$3,000 Edgar vs Eloise | Money Court #shorts                      72    +12    66.5    0   0     public
 $8,000 Trent vs Odette | Money Court #shorts                      72      —     1.1    2   0     public
-Tobias vs Rosalie | Money Court #shorts                           70      —     5.0    1   0     public
-$3,000 Edgar vs Eloise | Money Court #shorts                      60    +60    60.0    0   0     public
+Tobias vs Rosalie | Money Court #shorts                           70      —     4.7    1   0     public
 $90 Franklin vs Bess | Money Court #shorts                        56      —     2.1    1   0     public
-$310 Ozzie vs Delilah | Money Court #shorts                       53      —     2.5    0   0     public
-$6,000 Horatio vs Serafina | Money Court #shorts                  53      —     2.3    0   0     public
-Lionel vs Birdie | Money Court #shorts                            49      —     2.6    1   0     public
+$310 Ozzie vs Delilah | Money Court #shorts                       53      —     2.4    0   0     public
+$6,000 Horatio vs Serafina | Money Court #shorts                  53      —     2.2    0   0     public
+Lionel vs Birdie | Money Court #shorts                            49      —     2.5    1   0     public
 $10,000 Rhys vs Della | Money Court #shorts                       48      —     0.6    1   0     public
 Garrick vs Annika | Money Court #shorts                           46      —     1.6    0   0     public
-$4,000 Grant vs Wanda | Money Court #shorts                       45      —     0.9    0   0     public
-$2,900 Rafferty vs Imogen | Money Court #shorts                   44      —     2.3    0   0     public
+$4,000 Grant vs Wanda | Money Court #shorts                       45      —     0.8    0   0     public
+$2,900 Rafferty vs Imogen | Money Court #shorts                   44      —     2.2    0   0     public
 Colin vs Greta | Money Court #shorts                              38      —     0.6    0   0     public
-$20,000 Percival vs Fiona | Money Court #shorts                   35      —     2.5    0   0     public
-Reginald vs Drusilla | Money Court #shorts                        34      —     2.8    0   0     public
+$9,000 Emmett vs Sonia | Money Court #shorts                      37      —     0.5    0   0     public
+$20,000 Percival vs Fiona | Money Court #shorts                   35      —     2.3    0   0     public
+Reginald vs Drusilla | Money Court #shorts                        34      —     2.6    0   0     public
 Curtis vs Bridget | Money Court #shorts                           28      —     0.4    1   0     public
 pay a fee to "recover" money you already lost) (Orson vs Pea      28      —     0.3    0   0     public
-$3,200 Alaric vs Adelina | Money Court #shorts                    27      —     6.5    0   0     public
+$3,200 Alaric vs Adelina | Money Court #shorts                    27      —     5.3    0   0     public
 Harold vs Rosemary | Money Court #shorts                          27      —     1.0    1   0     public
-Leopold vs Annabelle | Money Court #shorts                        25      —     1.2    0   0     public
+Leopold vs Annabelle | Money Court #shorts                        25      —     1.1    0   0     public
 Ellis vs Wilhelmina | Money Court #shorts                         25      —     0.8    0   0     public
+Thaddeus vs Cordelia | Money Court #shorts                        22     +1     2.0    0   0     public
 $5,700 Duke vs Verity | Money Court #shorts                       22      —     0.7    0   0     public
 $200 Ronan vs Corinne | Money Court #shorts                       22      —     0.5    0   0     public
-$3,000 Callum vs Orla | Money Court #shorts                       22      —     0.4    0   0     public
-Thaddeus vs Cordelia | Money Court #shorts                        21      —     2.1    0   0     public
+$3,000 Callum vs Orla | Money Court #shorts                       22      —     0.3    0   0     public
 $40 Archibald vs Perpetua | Money Court #shorts                   20      —     0.6    0   0     public
 $50,000 Abner vs Rosalind | Money Court #shorts                   20      —     0.5    1   0     public
-$50 Trevor vs Amelia | Money Court #shorts                        19      —     1.7    0   0     public
+$50 Trevor vs Amelia | Money Court #shorts                        19      —     1.6    0   0     public
 $1,000,000 Lawrence vs Ottoline | Money Court #shorts             19      —     0.9    0   0     public
 $900 Gus vs Winifred | Money Court #shorts                        19      —     0.7    0   0     public
 $600 Alistair vs Genevieve | Money Court #shorts                  19      —     0.5    0   0     public
@@ -51,9 +52,9 @@ Reggie vs Thalia | Money Court #shorts                            17      —   
 $600 Boyd vs Agnes | Money Court #shorts                          17      —     0.2    0   0     public
 $1,800 Chet vs Lorelei | Money Court #shorts                      16      —     0.4    0   0     public
 Rex vs Nell | Money Court #shorts                                 16      —     0.3    1   0     public
-Montgomery vs Beatrix | Money Court #shorts                       15      —     0.9    1   0     public
+Montgomery vs Beatrix | Money Court #shorts                       15      —     0.8    1   0     public
 Glen vs Fern | Money Court #shorts                                15      —     0.2    0   0     public
-Fitzgerald vs Clarissa | Money Court #shorts                      14      —     0.6    0   0     public
+Fitzgerald vs Clarissa | Money Court #shorts                      14      —     0.5    0   0     public
 Wyatt vs Rhea | Money Court #shorts                               13      —     0.3    1   0     public
 Marcus vs Willa | Money Court #shorts                             13      —     0.2    0   0     public
 $1,200 Garrett vs Yvonne | Money Court #shorts                    13      —     0.2    0   0     public
@@ -61,9 +62,9 @@ Duncan vs Priya | Money Court #shorts                             13      —   
 $1,200 Emil vs Roxie | Money Court #shorts                        12      —     0.4    0   0     public
 Otis vs Delphine | Money Court #shorts                            12      —     0.2    0   0     public
 Alvin vs Elsie | Money Court #shorts                              12      —     0.2    0   0     public
-$40,000 Wendell vs Constance | Money Court #shorts                11      —     1.1    0   0     public
+$40,000 Wendell vs Constance | Money Court #shorts                11      —     1.0    0   0     public
 $216 Jarvis vs Solveig | Money Court #shorts                      11      —     0.4    0   0     public
-$15 Sawyer vs Fenna | Money Court #shorts                         11      —     0.3    0   0     public
+$15 Sawyer vs Fenna | Money Court #shorts                         11      —     0.2    0   0     public
 Chad vs Renee | Money Court #shorts                               11      —     0.2    0   0     public
 Neil vs Opal | Money Court #shorts                                10      —     0.2    1   0     public
 Wade vs Nora | Money Court #shorts                                 9      —     0.2    0   0     public
@@ -85,7 +86,7 @@ $8,000 Dashiell vs Winnie | Money Court #shorts                    7      —   
 Bruno vs Hazel | Money Court #shorts                               7      —     0.1    0   0     public
 $50 Miles vs Tessa | Money Court #shorts                           7      —     0.1    0   0     public
 $600 Shane vs Lorna | Money Court #shorts                          7      —     0.1    0   0     public
-$1,200 Jules vs Josephine | Money Court #shorts                    6      —     1.0    0   0     public
+$1,200 Jules vs Josephine | Money Court #shorts                    6      —     0.8    0   0     public
 Nathaniel vs Ottilie | Money Court #shorts                         6      —     0.4    0   0     public
 $3,300 Orville vs Marguerite | Money Court #shorts                 6      —     0.3    0   0     public
 Harlan vs Greer | Money Court #shorts                              6      —     0.1    0   0     public
@@ -100,7 +101,8 @@ $40 Dallas vs Peony | Money Court #shorts                          5      —   
 $5,600 Bennett vs Priscilla | Money Court #shorts                  5      —     0.1    0   0     public
 Devon vs Cleo | Money Court #shorts                                5      —     0.1    0   0     public
 Herbert vs Lorna | Money Court #shorts                             5      —     0.1    0   0     public
-$5,000 Dudley vs Celeste | Money Court #shorts                     4     +1     1.3    0   0     public
+$5,000 Dudley vs Celeste | Money Court #shorts                     4      —     1.0    0   0     public
+Emory vs Lucinda | Money Court #shorts                             4      —     0.1    0   0     public
 Abel vs Noor | Money Court #shorts                                 4      —     0.1    0   0     public
 Troy vs Lena | Money Court #shorts                                 4      —     0.1    0   0     public
 Soren vs Marlee | Money Court #shorts                              4      —     0.1    0   0     public
@@ -128,7 +130,7 @@ $13,000 Sterling vs Odile | Money Court #shorts                    1      —   
 $200 Rufus vs Esperanza | Money Court #shorts                      1      —     0.1    0   0     public
 $2,800 Vic vs Georgina | Money Court #shorts                       1      —     0.1    0   0     public
 $900 Sully vs Bernadette | Money Court #shorts                     1      —     0.1    0   0     public
-Julian vs Beatrice | Money Court #shorts                           1      —     0.1    0   0     public
+Julian vs Beatrice | Money Court #shorts                           1      —     0.0    0   0     public
 Herschel vs Doris | Money Court #shorts                            1      —     0.0    0   0     public
 Hector vs Lavinia | Money Court #shorts                            1      —     0.0    0   0     public
 $35,000 Dwayne vs Estelle | Money Court #shorts                    1      —     0.0    0   0     public
@@ -152,13 +154,13 @@ $3,000 Barrett vs Juno | Money Court #shorts                       1      —   
 $6,000 Angus vs Simone | Money Court #shorts                       1      —     0.0    0   0     public
 $4,000 highest interest first) vs random payments (Marcus vs       1      —     0.0    0   0     public
 $800 Ramon vs Gail | Money Court #shorts                           1      —     0.0    0   0     public
-$2,000 Kelvin vs Heidi | Money Court #shorts                       0      —     0.0    0   0    private
+$2,600 Edmund vs Charlotte | Money Court #shorts                   0      —     0.0    0   0    private
+$2,000 Kelvin vs Heidi | Money Court #shorts                       0      —     0.0    0   0     public
 $3,960 Xander vs Bianca | Money Court #shorts                      0      —     0.0    0   0     public
 $1,000 Wally vs Theodora | Money Court #shorts                     0      —     0.0    0   0     public
 Scan to Pay Demo for Shopify Stores                                0      —     0.0    0   0   unlisted
 $29 Mack vs Georgia | Money Court #shorts                          0      —     0.0    0   0     public
 Cornelius vs Henrietta | Money Court #shorts                       0      —     0.0    0   0     public
-$280 Gordon vs Lucille | Money Court #shorts                       0      —     0.0    0   0     public
 $280 Gordon vs Lucille | Money Court #shorts                       0      —     0.0    0   0     public
 Bartholomew vs Evangeline | Money Court #shorts                    0      —     0.0    0   0     public
 $60,100 Dominic vs Elspeth | Money Court #shorts                   0      —     0.0    0   0     public
@@ -184,7 +186,6 @@ $8,000 Hugo vs Camille | Money Court #shorts                       0      —   
 $80,100 Gideon vs Ingrid | Money Court #shorts                     0      —     0.0    0   0     public
 $1,800 Griffin vs Nadia | Money Court #shorts                      0      —     0.0    0   0     public
 $1,800 Desmond vs Priya | Money Court #shorts                      0      —     0.0    0   0     public
-$1,800 Desmond vs Priya | Money Court #shorts                      0      —     0.0    0   0     public
 Cyrus vs Bianca | Money Court #shorts                              0      —     0.0    0   0     public
 $600 Colton vs Imani | Money Court #shorts                         0      —     0.0    0   0     public
 $50 Pierce vs Dahlia | Money Court #shorts                         0      —     0.0    0   0     public
@@ -202,4 +203,3 @@ $200 Ed vs Tilly | Money Court #shorts                             0      —   
 Dane vs Maud | Money Court #shorts                                 0      —     0.0    0   0     public
 $80,000 Cyril vs Leona | Money Court #shorts                       0      —     0.0    0   0     public
 $2,000 Boone vs Ingrid | Money Court #shorts                       0      —     0.0    0   0     public
-$2,000 Asa vs Tamsin | Money Court #shorts                         0      —     0.0    0   0     public

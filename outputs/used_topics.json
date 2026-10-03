@@ -1493,5 +1493,10 @@
     "date": "2026-10-02",
     "character": "doctor_dollar",
     "topic": "Paying the card after the due date vs paying before the statement closes to lower reported utilization (Kelvin vs Heidi)"
+  },
+  {
+    "date": "2026-10-03",
+    "character": "detective_cash",
+    "topic": "Paying a vacation rental host by wire outside the app vs keeping every payment on the platform (Edmund vs Charlotte)"
   }
 ]
