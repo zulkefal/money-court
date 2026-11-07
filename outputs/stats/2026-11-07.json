@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "snapshot_at": "2026-11-07T00:42:31.841370+00:00",
+  "snapshot_at": "2026-11-07T23:45:54.111921+00:00",
   "videos": [
     {
       "video_id": "fnBg4GkCdCk",
@@ -11,7 +11,7 @@
       "views": 209,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 2.48
+      "views_per_day": 2.46
     },
     {
       "video_id": "gqGLayPqqLs",
@@ -22,7 +22,7 @@
       "views": 162,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.9
+      "views_per_day": 1.88
     },
     {
       "video_id": "up_OkajZAtQ",
@@ -33,7 +33,7 @@
       "views": 102,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.21
+      "views_per_day": 2.16
     },
     {
       "video_id": "J58ke_j9ea0",
@@ -44,7 +44,7 @@
       "views": 101,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 1.2
+      "views_per_day": 1.19
     },
     {
       "video_id": "5T2UMvbyYao",
@@ -55,7 +55,7 @@
       "views": 92,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.48
+      "views_per_day": 2.41
     },
     {
       "video_id": "sVEWN_mzvjk",
@@ -66,7 +66,7 @@
       "views": 83,
       "likes": 3,
       "comments": 0,
-      "views_per_day": 1.25
+      "views_per_day": 1.24
     },
     {
       "video_id": "630qb0k7Enc",
@@ -77,7 +77,7 @@
       "views": 83,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.92
+      "views_per_day": 0.91
     },
     {
       "video_id": "wxpZGbCEx_Q",
@@ -88,7 +88,7 @@
       "views": 78,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.1
+      "views_per_day": 2.99
     },
     {
       "video_id": "HmVX8gjK__Q",
@@ -99,7 +99,7 @@
       "views": 74,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 2.11
+      "views_per_day": 2.05
     },
     {
       "video_id": "NAznBiB5dMc",
@@ -110,7 +110,7 @@
       "views": 73,
       "likes": 2,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.72
     },
     {
       "video_id": "pzy_Z7x1GQo",
@@ -121,7 +121,7 @@
       "views": 70,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.43
+      "views_per_day": 1.4
     },
     {
       "video_id": "649B0GulFeM",
@@ -132,7 +132,7 @@
       "views": 56,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.92
+      "views_per_day": 0.9
     },
     {
       "video_id": "C9HAMvYOKws",
@@ -143,7 +143,7 @@
       "views": 55,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.98
+      "views_per_day": 0.96
     },
     {
       "video_id": "SHXs1jIr2rY",
@@ -154,7 +154,7 @@
       "views": 53,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.9
     },
     {
       "video_id": "fEWbbIOW-O0",
@@ -165,7 +165,7 @@
       "views": 52,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.67
+      "views_per_day": 1.62
     },
     {
       "video_id": "h8XqS_eLXNs",
@@ -176,7 +176,7 @@
       "views": 49,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.91
+      "views_per_day": 0.89
     },
     {
       "video_id": "u1TgauW4jLI",
@@ -187,7 +187,7 @@
       "views": 47,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.75
+      "views_per_day": 0.73
     },
     {
       "video_id": "61KMH_CfkGk",
@@ -198,7 +198,7 @@
       "views": 45,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.83
+      "views_per_day": 0.82
     },
     {
       "video_id": "h_ZmUTGdHK0",
@@ -209,7 +209,7 @@
       "views": 45,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.52
+      "views_per_day": 0.51
     },
     {
       "video_id": "zokGTKOQadM",
@@ -220,7 +220,7 @@
       "views": 42,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.31
+      "views_per_day": 1.27
     },
     {
       "video_id": "v0X3x-Ob9-c",
@@ -231,7 +231,7 @@
       "views": 38,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.35
+      "views_per_day": 1.31
     },
     {
       "video_id": "ie7qKQzIgrc",
@@ -264,7 +264,18 @@
       "views": 36,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.73
+      "views_per_day": 0.72
+    },
+    {
+      "video_id": "iTG6BjNRTBU",
+      "title": "$20,000 Percival vs Fiona | Money Court #shorts",
+      "published_at": "2026-09-18T21:00:39Z",
+      "privacy_status": "public",
+      "duration_sec": 49,
+      "views": 36,
+      "likes": 0,
+      "comments": 0,
+      "views_per_day": 0.72
     },
     {
       "video_id": "blEeBA-awNI",
@@ -275,7 +286,7 @@
       "views": 34,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.72
+      "views_per_day": 0.71
     },
     {
       "video_id": "34iVHJexOY0",
@@ -286,7 +297,7 @@
       "views": 30,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 1.03
+      "views_per_day": 1.0
     },
     {
       "video_id": "BpTDlDU8okY",
@@ -297,7 +308,7 @@
       "views": 30,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.77
+      "views_per_day": 0.75
     },
     {
       "video_id": "M9mD6ebEho4",
@@ -319,7 +330,7 @@
       "views": 27,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.99
+      "views_per_day": 0.96
     },
     {
       "video_id": "mdVuhgl2_xw",
@@ -341,7 +352,7 @@
       "views": 25,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.07
+      "views_per_day": 2.74
     },
     {
       "video_id": "pZyRXQ2Imak",
@@ -352,7 +363,7 @@
       "views": 25,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.45
+      "views_per_day": 0.44
     },
     {
       "video_id": "UC5x_3TkbGI",
@@ -374,7 +385,7 @@
       "views": 22,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.49
+      "views_per_day": 0.48
     },
     {
       "video_id": "d7iJORhzT4g",
@@ -473,7 +484,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.41
+      "views_per_day": 0.4
     },
     {
       "video_id": "CmlHBsfWCzY",
@@ -495,7 +506,7 @@
       "views": 19,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.25
+      "views_per_day": 0.24
     },
     {
       "video_id": "m3c-Gn_JMEg",
@@ -509,15 +520,15 @@
       "views_per_day": 0.17
     },
     {
-      "video_id": "nZgc5PbIfRg",
-      "title": "$11,000 Geoffrey vs Elvira | Money Court #shorts",
-      "published_at": "2026-11-04T22:00:34Z",
+      "video_id": "XEhFjmuHO7I",
+      "title": "$4,000 Gerald vs Emmeline | Money Court #shorts",
+      "published_at": "2026-11-06T22:00:05Z",
       "privacy_status": "public",
-      "duration_sec": 59,
+      "duration_sec": 62,
       "views": 18,
       "likes": 2,
-      "comments": 0,
-      "views_per_day": 8.52
+      "comments": 4,
+      "views_per_day": 16.77
     },
     {
       "video_id": "wSR3sMz_Wd0",
@@ -575,6 +586,17 @@
       "views_per_day": 0.17
     },
     {
+      "video_id": "nZgc5PbIfRg",
+      "title": "$11,000 Geoffrey vs Elvira | Money Court #shorts",
+      "published_at": "2026-11-04T22:00:34Z",
+      "privacy_status": "public",
+      "duration_sec": 59,
+      "views": 17,
+      "likes": 2,
+      "comments": 0,
+      "views_per_day": 5.53
+    },
+    {
       "video_id": "HuESHAFUc_E",
       "title": "$1,800 Chet vs Lorelei | Money Court #shorts",
       "published_at": "2026-08-25T21:00:34Z",
@@ -605,7 +627,7 @@
       "views": 15,
       "likes": 1,
       "comments": 0,
-      "views_per_day": 0.29
+      "views_per_day": 0.28
     },
     {
       "video_id": "eZIwESD7uWg",
@@ -616,7 +638,7 @@
       "views": 14,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 1.15
+      "views_per_day": 1.07
     },
     {
       "video_id": "JhzfyFMztY8",
@@ -792,7 +814,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 3.21
+      "views_per_day": 2.45
     },
     {
       "video_id": "NBUaiRiLn9Q",
@@ -803,7 +825,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.58
+      "views_per_day": 0.55
     },
     {
       "video_id": "UQBzN2Fy4cw",
@@ -814,7 +836,7 @@
       "views": 10,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.38
+      "views_per_day": 0.37
     },
     {
       "video_id": "rg9W0wsmEs4",
@@ -858,7 +880,7 @@
       "views": 9,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.18
+      "views_per_day": 0.17
     },
     {
       "video_id": "-MHJMjsuVN4",
@@ -891,7 +913,7 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.61
+      "views_per_day": 0.57
     },
     {
       "video_id": "0WxEndbZYKI",
@@ -903,17 +925,6 @@
       "likes": 0,
       "comments": 0,
       "views_per_day": 0.19
-    },
-    {
-      "video_id": "V029YvPsUxc",
-      "title": "Nathaniel vs Ottilie | Money Court #shorts",
-      "published_at": "2026-09-18T01:00:32Z",
-      "privacy_status": "public",
-      "duration_sec": 59,
-      "views": 8,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 0.16
     },
     {
       "video_id": "EFyclr-bhkA",
@@ -935,7 +946,7 @@
       "views": 8,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.13
+      "views_per_day": 0.12
     },
     {
       "video_id": "E2GynX4JsGg",
@@ -982,17 +993,6 @@
       "views_per_day": 0.07
     },
     {
-      "video_id": "XEhFjmuHO7I",
-      "title": "$4,000 Gerald vs Emmeline | Money Court #shorts",
-      "published_at": "2026-11-06T22:00:05Z",
-      "privacy_status": "public",
-      "duration_sec": 62,
-      "views": 7,
-      "likes": 0,
-      "comments": 0,
-      "views_per_day": 7.0
-    },
-    {
       "video_id": "ndFFgcgQNYc",
       "title": "$4,200 Harvey vs Eunice | Money Court #shorts",
       "published_at": "2026-11-05T22:00:25Z",
@@ -1001,7 +1001,7 @@
       "views": 7,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 6.29
+      "views_per_day": 3.38
     },
     {
       "video_id": "7PBEhgeRDnU",
@@ -1023,7 +1023,7 @@
       "views": 6,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.54
+      "views_per_day": 0.5
     },
     {
       "video_id": "LkavNaHfy4A",
@@ -1100,7 +1100,7 @@
       "views": 5,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.23
+      "views_per_day": 0.22
     },
     {
       "video_id": "yO4GWPfttvo",
@@ -1331,7 +1331,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.13
+      "views_per_day": 0.12
     },
     {
       "video_id": "7D9ijVNS-GA",
@@ -1353,7 +1353,7 @@
       "views": 2,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.05
+      "views_per_day": 0.04
     },
     {
       "video_id": "U3LMp6xmR5I",
@@ -1474,7 +1474,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.16
+      "views_per_day": 0.14
     },
     {
       "video_id": "61_Ow5oO8AU",
@@ -1606,7 +1606,7 @@
       "views": 1,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.02
+      "views_per_day": 0.01
     },
     {
       "video_id": "vEz9r7KlymI",
@@ -1818,21 +1818,21 @@
       "views_per_day": 0.01
     },
     {
-      "video_id": "zf3T6cXVn4k",
-      "title": "$800 Ramon vs Gail | Money Court #shorts",
-      "published_at": "2026-07-12T23:00:21Z",
-      "privacy_status": "public",
-      "duration_sec": 58,
-      "views": 1,
+      "video_id": "ImbB-ItZ5TQ",
+      "title": "$1,900 Lennox vs Isolde | Money Court #shorts",
+      "published_at": "2026-11-07T23:45:09Z",
+      "privacy_status": "private",
+      "duration_sec": 51,
+      "views": 0,
       "likes": 0,
       "comments": 0,
-      "views_per_day": 0.01
+      "views_per_day": 0.0
     },
     {
       "video_id": "O4o5QMImyVU",
       "title": "$2,000 Leland vs Irene | Money Court #shorts",
-      "published_at": "2026-11-07T00:36:38Z",
-      "privacy_status": "private",
+      "published_at": "2026-11-07T22:00:09Z",
+      "privacy_status": "public",
       "duration_sec": 51,
       "views": 0,
       "likes": 0,
@@ -2038,11 +2038,11 @@
       "views_per_day": 0.0
     },
     {
-      "video_id": "Xj3qNoQW5GA",
-      "title": "Vince vs Della | Money Court #shorts",
-      "published_at": "2026-07-29T21:00:15Z",
+      "video_id": "KYmMwncaezU",
+      "title": "$600 Silas vs Odette | Money Court #shorts",
+      "published_at": "2026-07-29T01:00:19Z",
       "privacy_status": "public",
-      "duration_sec": 52,
+      "duration_sec": 51,
       "views": 0,
       "likes": 0,
       "comments": 0,
